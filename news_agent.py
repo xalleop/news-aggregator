@@ -178,16 +178,17 @@ class NewsAggregator:
         
         print(f"\nGoogle News: {len(articles)} статей\n")
         return articles
-    
+
     def filter_by_keywords(self, articles: List[dict]) -> List[dict]:
         """Фильтрация по ключевым словам"""
+        import re
+        
         filters = self.feeds_config.get('filters', {})
         keywords = filters.get('keywords', [])
         exclude_keywords = filters.get('exclude_keywords', [])
         
         if not keywords:
             print("Фильтрация отключена (нет ключевых слов)\n")
-            # Даже без фильтрации добавляем пустые matched_keywords
             for article in articles:
                 article['matched_keywords'] = []
             return articles
@@ -197,16 +198,26 @@ class NewsAggregator:
         for article in articles:
             text = f"{article['title']} {article['description']}".lower()
             
-            # Проверяем исключения
-            if exclude_keywords and any(kw.lower() in text for kw in exclude_keywords):
-                continue
+            # Проверяем исключения (целые слова)
+            if exclude_keywords:
+                excluded = False
+                for kw in exclude_keywords:
+                    # Ищем целое слово с границами \b
+                    if re.search(r'\b' + re.escape(kw.lower()) + r'\b', text):
+                        excluded = True
+                        break
+                if excluded:
+                    continue
             
-            # Проверяем включения
-            if any(kw.lower() in text for kw in keywords):
-                # Сохраняем, какие ключевые слова найдены
-                article['matched_keywords'] = [
-                    kw for kw in keywords if kw.lower() in text
-                ]
+            # Проверяем включения (целые слова)
+            matched = []
+            for kw in keywords:
+                # Ищем целое слово с границами \b
+                if re.search(r'\b' + re.escape(kw.lower()) + r'\b', text):
+                    matched.append(kw)
+            
+            if matched:
+                article['matched_keywords'] = matched
                 filtered.append(article)
         
         print(f"Фильтрация: {len(filtered)} из {len(articles)} статей соответствуют критериям\n")
