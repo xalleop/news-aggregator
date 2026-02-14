@@ -204,11 +204,48 @@
             line-height: 1.4;
         }
         
+        <!-- edited -->
+        
         .article-description {
             color: #555;
             margin-bottom: 12px;
             line-height: 1.6;
+            overflow-wrap: break-word;
+            word-wrap: break-word;
         }
+        
+        /* Адаптивные изображения и медиа */
+        .article-description img,
+        .article-card img {
+            max-width: 100%;
+            height: auto !important;
+            width: auto !important;
+            border-radius: 8px;
+            margin: 10px 0;
+            display: block;
+        }
+        
+        .article-description iframe,
+        .article-description video,
+        .article-description embed {
+            max-width: 100%;
+            height: auto;
+        }
+        
+        /* Убираем встроенные размеры */
+        .article-description img[width],
+        .article-description img[height] {
+            width: auto !important;
+            height: auto !important;
+            max-width: 100% !important;
+        }
+        
+        /* Если вы хотите убрать изображения из описаний (оставить только текст), можно добавить:
+         .article-description img {
+            display: none;
+        }
+*/
+        <!-- конец -->
         
         .article-meta {
             display: flex;
