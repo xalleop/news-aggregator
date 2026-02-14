@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Все статьи по темам - AI Governance Monitor</title>
+    <style>
+        * { 
+            margin: 0; 
+            padding: 0; 
+            box-sizing: border-box; 
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+            padding: 40px;
+        }
+        
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+        
+        h1 {
+            color: #2c3e50;
+            font-size: 28px;
+        }
+        
+        .nav-links {
+            display: flex;
+            gap: 15px;
+        }
+        
+        .nav-link {
+            padding: 10px 20px;
+            background: #ecf0f1;
+            color: #2c3e50;
+            text-decoration: none;
+            border-radius: 6px;
+            font-size: 14px;
+            transition: all 0.2s;
+        }
+        
+        .nav-link:hover {
+            background: #667eea;
+            color: white;
+        }
+        
+        .timestamp {
+            color: #7f8c8d;
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+        
+        .stats-bar {
+            display: flex;
+            gap: 30px;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+        
+        .stat-item {
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .stat-number {
+            font-size: 32px;
+            font-weight: bold;
+        }
+        
+        .stat-label {
+            font-size: 13px;
+            opacity: 0.9;
+        }
+        
+        .filters {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 25px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+        
+        .filter-label {
+            font-weight: 500;
+            color: #2c3e50;
+        }
+        
+        select, input {
+            padding: 8px 15px;
+            border: 2px solid #ecf0f1;
+            border-radius: 6px;
+            font-size: 14px;
+            background: white;
+        }
+        
+        select:focus, input:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        
+        .topic-section {
+            margin-bottom: 30px;
+            border: 2px solid #e1e8ed;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+        
+        .topic-header {
+            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+            padding: 20px;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: all 0.2s;
+        }
+        
+        .topic-header:hover {
+            background: linear-gradient(135deg, #e9ecef 0%, #dee2e6 100%);
+        }
+        
+        .topic-title {
+            font-size: 20px;
+            font-weight: 600;
+            color: #2c3e50;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .topic-count {
+            background: #667eea;
+            color: white;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-size: 14px;
+            font-weight: 500;
+        }
+        
+        .topic-toggle {
+            font-size: 24px;
+            transition: transform 0.3s;
+        }
+        
+        .topic-toggle.expanded {
+            transform: rotate(180deg);
+        }
+        
+        .topic-content {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.3s ease;
+        }
+        
+        .topic-content.expanded {
+            max-height: 10000px;
+        }
+        
+        .articles-list {
+            padding: 20px;
+        }
+        
+        .article-card {
+            border-left: 4px solid #667eea;
+            padding: 20px;
+            margin-bottom: 15px;
+            background: #f8f9fa;
+            border-radius: 8px;
+            transition: all 0.2s;
+        }
+        
+        .article-card:hover {
+            background: white;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            transform: translateX(5px);
+        }
+        
+        .article-title {
+            font-size: 18px;
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 10px;
+            line-height: 1.4;
+        }
+        
+        .article-description {
+            color: #555;
+            margin-bottom: 12px;
+            line-height: 1.6;
+        }
+        
+        .article-meta {
+            display: flex;
+            gap: 20px;
+            font-size: 14px;
+            color: #7f8c8d;
+            margin-bottom: 10px;
+            flex-wrap: wrap;
+        }
+        
+        .article-tags {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 10px;
+            flex-wrap: wrap;
+        }
+        
+        .tag {
+            background: #e3f2fd;
+            color: #1976d2;
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-size: 12px;
+        }
+        
+        .article-link {
+            display: inline-block;
+            color: #667eea;
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.2s;
+        }
+        
+        .article-link:hover {
+            color: #764ba2;
+            text-decoration: underline;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 60px 20px;
+            color: #7f8c8d;
+            font-size: 18px;
+        }
+        
+        .loading::before {
+            content: "⏳";
+            display: block;
+            font-size: 48px;
+            margin-bottom: 20px;
+            animation: spin 2s linear infinite;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .error {
+            background: linear-gradient(135deg, #e74c3c 0%, #c0392b 100%);
+            color: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+        
+        .no-articles {
+            text-align: center;
+            padding: 40px;
+            color: #7f8c8d;
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                padding: 20px;
+            }
+            
+            h1 {
+                font-size: 22px;
+            }
+            
+            .header {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            
+            .stats-bar {
+                gap: 15px;
+            }
+            
+            .stat-number {
+                font-size: 24px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📚 Все статьи по темам</h1>
+            <div class="nav-links">
+                <a href="index.html" class="nav-link">← Дашборд</a>
+            </div>
+        </div>
+        
+        <div id="loading" class="loading">Загрузка статей...</div>
+        <div id="error" class="error" style="display: none;"></div>
+        
+        <div id="content" style="display: none;">
+            <div class="timestamp" id="timestamp"></div>
+            
+            <div class="stats-bar">
+                <div class="stat-item">
+                    <div class="stat-number" id="totalArticles">0</div>
+                    <div class="stat-label">Статей</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number" id="totalTopics">0</div>
+                    <div class="stat-label">Тем</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number" id="totalSources">0</div>
+                    <div class="stat-label">Источников</div>
+                </div>
+            </div>
+            
+            <div class="filters">
+                <span class="filter-label">Фильтры:</span>
+                <select id="sourceFilter">
+                    <option value="">Все источники</option>
+                </select>
+                <input type="text" id="searchInput" placeholder="Поиск по заголовку...">
+            </div>
+            
+            <div id="topics"></div>
+        </div>
+    </div>
+    
+    <script>
+        let allData = null;
+        let filteredArticles = null;
+        
+        async function loadArticles() {
+            const loadingDiv = document.getElementById('loading');
+            const errorDiv = document.getElementById('error');
+            
+            try {
+                loadingDiv.textContent = 'Загрузка статей...';
+                
+                const response = await fetch('reports/raw_articles_latest.json');
+                
+                if (!response.ok) {
+                    throw new Error(`Файл не найден (HTTP ${response.status})`);
+                }
+                
+                const data = await response.json();
+                allData = data;
+                filteredArticles = data.articles;
+                
+                console.log('Loaded articles:', data);
+                
+                displayArticles(data);
+                setupFilters(data);
+                
+                loadingDiv.style.display = 'none';
+                document.getElementById('content').style.display = 'block';
+                
+            } catch (error) {
+                console.error('Error loading articles:', error);
+                loadingDiv.style.display = 'none';
+                errorDiv.textContent = `Ошибка загрузки: ${error.message}. Запустите workflow в GitHub Actions.`;
+                errorDiv.style.display = 'block';
+            }
+        }
+        
+        function setupFilters(data) {
+            // Заполняем фильтр источников
+            const sourceFilter = document.getElementById('sourceFilter');
+            const sources = new Set();
+            
+            data.articles.forEach(article => {
+                sources.add(article.source);
+            });
+            
+            Array.from(sources).sort().forEach(source => {
+                const option = document.createElement('option');
+                option.value = source;
+                option.textContent = source;
+                sourceFilter.appendChild(option);
+            });
+            
+            // Обработчики фильтров
+            sourceFilter.addEventListener('change', applyFilters);
+            document.getElementById('searchInput').addEventListener('input', applyFilters);
+        }
+        
+        function applyFilters() {
+            const sourceFilter = document.getElementById('sourceFilter').value;
+            const searchQuery = document.getElementById('searchInput').value.toLowerCase();
+            
+            filteredArticles = allData.articles.filter(article => {
+                const matchesSource = !sourceFilter || article.source === sourceFilter;
+                const matchesSearch = !searchQuery || 
+                    article.title.toLowerCase().includes(searchQuery) ||
+                    article.description.toLowerCase().includes(searchQuery);
+                
+                return matchesSource && matchesSearch;
+            });
+            
+            displayArticles(allData);
+        }
+        
+        function displayArticles(data) {
+            // Timestamp
+            try {
+                const parts = data.timestamp.split('_');
+                const datePart = parts[0];
+                const timePart = parts[1].replace('-', ':');
+                const dateStr = `${datePart}T${timePart}:00`;
+                const date = new Date(dateStr);
+                
+                if (!isNaN(date.getTime())) {
+                    document.getElementById('timestamp').textContent = 
+                        `Отчет от: ${date.toLocaleString('ru-RU', {
+                            year: 'numeric',
+                            month: 'long',
+                            day: 'numeric',
+                            hour: '2-digit',
+                            minute: '2-digit'
+                        })}`;
+                }
+            } catch (e) {
+                document.getElementById('timestamp').textContent = `Отчет от: ${data.timestamp}`;
+            }
+            
+            // Stats
+            document.getElementById('totalArticles').textContent = filteredArticles.length;
+            
+            // Группируем по темам
+            const byKeyword = {};
+            const allSources = new Set();
+            
+            filteredArticles.forEach(article => {
+                allSources.add(article.source);
+                
+                const keywords = article.matched_keywords || [];
+                
+                if (keywords.length === 0) {
+                    // Статьи без ключевых слов
+                    if (!byKeyword['Без категории']) {
+                        byKeyword['Без категории'] = [];
+                    }
+                    byKeyword['Без категории'].push(article);
+                } else {
+                    // Добавляем в каждую тему
+                    keywords.forEach(kw => {
+                        if (!byKeyword[kw]) {
+                            byKeyword[kw] = [];
+                        }
+                        byKeyword[kw].push(article);
+                    });
+                }
+            });
+            
+            document.getElementById('totalTopics').textContent = Object.keys(byKeyword).length;
+            document.getElementById('totalSources').textContent = allSources.size;
+            
+            // Сортируем темы по количеству статей
+            const sortedTopics = Object.entries(byKeyword).sort((a, b) => b[1].length - a[1].length);
+            
+            // Отображаем темы
+            const topicsDiv = document.getElementById('topics');
+            topicsDiv.innerHTML = '';
+            
+            if (sortedTopics.length === 0) {
+                topicsDiv.innerHTML = '<div class="no-articles">Нет статей, соответствующих фильтрам</div>';
+                return;
+            }
+            
+            sortedTopics.forEach(([keyword, articles]) => {
+                const section = createTopicSection(keyword, articles);
+                topicsDiv.appendChild(section);
+            });
+        }
+        
+        function createTopicSection(keyword, articles) {
+            const section = document.createElement('div');
+            section.className = 'topic-section';
+            
+            const header = document.createElement('div');
+            header.className = 'topic-header';
+            header.innerHTML = `
+                <div class="topic-title">
+                    <span>📌</span>
+                    <span>${keyword}</span>
+                </div>
+                <div style="display: flex; align-items: center; gap: 15px;">
+                    <div class="topic-count">${articles.length} ${articles.length === 1 ? 'статья' : articles.length < 5 ? 'статьи' : 'статей'}</div>
+                    <div class="topic-toggle">▼</div>
+                </div>
+            `;
+            
+            const content = document.createElement('div');
+            content.className = 'topic-content';
+            
+            const articlesList = document.createElement('div');
+            articlesList.className = 'articles-list';
+            
+            // Сортируем статьи по дате (новые первыми)
+            const sortedArticles = articles.sort((a, b) => 
+                new Date(b.published) - new Date(a.published)
+            );
+            
+            sortedArticles.forEach(article => {
+                const card = createArticleCard(article);
+                articlesList.appendChild(card);
+            });
+            
+            content.appendChild(articlesList);
+            section.appendChild(header);
+            section.appendChild(content);
+            
+            // Toggle на клик
+            header.addEventListener('click', () => {
+                const isExpanded = content.classList.contains('expanded');
+                content.classList.toggle('expanded');
+                header.querySelector('.topic-toggle').classList.toggle('expanded');
+            });
+            
+            // Первая тема раскрыта по умолчанию
+            if (keyword === sortedTopics[0]?.[0]) {
+                content.classList.add('expanded');
+                header.querySelector('.topic-toggle').classList.add('expanded');
+            }
+            
+            return section;
+        }
+        
+        function createArticleCard(article) {
+            const card = document.createElement('div');
+            card.className = 'article-card';
+            
+            let dateStr = '';
+            try {
+                const articleDate = new Date(article.published);
+                if (!isNaN(articleDate.getTime())) {
+                    dateStr = articleDate.toLocaleString('ru-RU', {
+                        day: '2-digit',
+                        month: '2-digit',
+                        year: 'numeric',
+                        hour: '2-digit',
+                        minute: '2-digit'
+                    });
+                }
+            } catch (e) {
+                console.error('Date parsing error:', e);
+            }
+            
+            // Теги
+            let tagsHtml = '';
+            if (article.tags && article.tags.length > 0) {
+                tagsHtml = '<div class="article-tags">' + 
+                    article.tags.map(tag => `<span class="tag">#${tag}</span>`).join('') +
+                    '</div>';
+            }
+            
+            card.innerHTML = `
+                <div class="article-title">${article.title}</div>
+                ${article.description ? `<div class="article-description">${article.description}</div>` : ''}
+                ${tagsHtml}
+                <div class="article-meta">
+                    <span>📍 ${article.source}</span>
+                    ${dateStr ? `<span>📅 ${dateStr}</span>` : ''}
+                    ${article.category ? `<span>📂 ${article.category}</span>` : ''}
+                </div>
+                <a href="${article.url}" class="article-link" target="_blank" rel="noopener noreferrer">Читать статью →</a>
+            `;
+            
+            return card;
+        }
+        
+        // Загружаем при открытии
+        loadArticles();
+    </script>
+</body>
+</html>
