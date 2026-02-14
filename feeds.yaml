@@ -58,7 +58,7 @@ tech_news:
   iXBT:
     url: "https://www.ixbt.com/export/articles.rss"
     enabled: true
-    tags: [Теги: "tech", "hardware"]
+    tags: ["tech", "hardware"]
   
   CNews:
     url: "https://www.cnews.ru/inc/rss/news.xml"
@@ -85,8 +85,6 @@ ai_and_regulation:
 filters:
   # Ключевые слова для отбора статей (если пусто - берутся все)
   keywords:
-    - "Минцифры" 
-    - "ИИ"
     - "искусственный интеллект"
     - "AI"
     - "машинное обучение"
@@ -96,8 +94,10 @@ filters:
     - "RSPP"
     - "AI governance"
     - "этика AI"
-    - "регулирование"
+    - "регулирование AI"
     - "ESG"
+    - "Минцифры" 
+    - "ИИ"
   
   # Слова-исключения (статьи с этими словами будут отброшены)
   exclude_keywords:
