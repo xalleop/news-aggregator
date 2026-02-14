@@ -12,7 +12,7 @@ from datetime import datetime, timedelta
 from pathlib import Path
 from typing import List, Dict
 from collections import defaultdict
-
+import pytz
 
 class NewsAggregator:
     """Агрегатор новостей из RSS с фильтрацией и группировкой"""
@@ -232,7 +232,8 @@ class NewsAggregator:
     
     def generate_text_report(self, articles: List[dict], groups: dict) -> str:
         """Генерация человеко-читаемого текстового отчета"""
-        timestamp = datetime.now()
+        moscow_tz = pytz.timezone('Europe/Moscow')
+        timestamp = datetime.now(moscow_tz)
         
         report = f"""
 {'='*70}
@@ -316,7 +317,9 @@ class NewsAggregator:
     
     def save_reports(self, articles: List[dict], groups: dict):
         """Сохранение всех отчетов"""
-        timestamp = datetime.now().strftime('%Y-%m-%d_%H-%M')
+        # Используем московское время для имен файлов
+        moscow_tz = pytz.timezone('Europe/Moscow')
+        timestamp = datetime.now(moscow_tz).strftime('%Y-%m-%d_%H-%M')
         
         # 1. Сохраняем сырые данные в JSON
         json_path = f"reports/raw_articles_{timestamp}.json"
@@ -401,11 +404,12 @@ class NewsAggregator:
     
     def run(self):
         """Главный метод агрегатора"""
+        moscow_tz = pytz.timezone('Europe/Moscow')
         print(f"\n{'='*70}")
         print(f"ЗАПУСК НОВОСТНОГО АГРЕГАТОРА")
         print(f"{'='*70}")
-        print(f"Время: {datetime.now().strftime('%d.%m.%Y %H:%M:%S')}\n")
-        
+        print(f"Время (МСК): {datetime.now(moscow_tz).strftime('%d.%m.%Y %H:%M:%S')}\n")
+    
         # Собираем из RSS
         hours_back = self.feeds_config.get('filters', {}).get('hours_back', 24)
         rss_articles = self.fetch_all_news(hours_back)
