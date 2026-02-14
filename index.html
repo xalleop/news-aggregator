@@ -282,71 +282,92 @@
             }
         }
         
-        function displayReport(data, filename) {
-            // Timestamp  - ИСПРАВЛЕННАЯ ВЕРСИЯ
-            document.getElementById('timestamp').textContent = 
-            const timestampStr = data.timestamp.replace('_', ' ').replace('-', ':');
-            const date = new Date(timestampStr);
-            
-            document.getElementById('timestamp').textContent = 
-                `Последнее обновление: ${date.toLocaleString('ru-RU', {
-                    year: 'numeric',
-                    month: 'long',
-                    day: 'numeric',
-                    hour: '2-digit',
-                    minute: '2-digit'
-                })}`;
-            
-            // Stats
-            document.getElementById('totalArticles').textContent = data.total_articles;
-            document.getElementById('totalSources').textContent = Object.keys(data.sources).length;
-            document.getElementById('totalTopics').textContent = data.top_keywords.length;
-            
-            // Topics
-            const topicsDiv = document.getElementById('topics');
-            const maxCount = data.top_keywords[0]?.[1] || 1;
-            
-            data.top_keywords.slice(0, 10).forEach(([keyword, count]) => {
-                const percent = (count / maxCount) * 100;
-                const item = document.createElement('div');
-                item.className = 'topic-item';
-                item.innerHTML = `
-                    <div class="topic-name">${keyword}</div>
-                    <div class="topic-bar">
-                        <div class="topic-bar-fill" style="width: ${percent}%"></div>
-                    </div>
-                    <div class="topic-count">${count} статей</div>
-                `;
-                topicsDiv.appendChild(item);
+function displayReport(data, filename) {
+    // Timestamp - ИСПРАВЛЕННАЯ ВЕРСИЯ
+    try {
+        // Формат: "2024-02-14_09-00" → "2024-02-14 09:00"
+        const parts = data.timestamp.split('_');
+        const datePart = parts[0]; // "2024-02-14"
+        const timePart = parts[1].replace('-', ':'); // "09:00"
+        const dateStr = `${datePart}T${timePart}:00`;
+        const date = new Date(dateStr);
+        
+        document.getElementById('timestamp').textContent = 
+            `Последнее обновление: ${date.toLocaleString('ru-RU', {
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric',
+                hour: '2-digit',
+                minute: '2-digit'
+            })}`;
+    } catch (e) {
+        document.getElementById('timestamp').textContent = 
+            `Последнее обновление: ${data.timestamp}`;
+    }
+    
+    // Stats
+    document.getElementById('totalArticles').textContent = data.total_articles;
+    document.getElementById('totalSources').textContent = Object.keys(data.sources).length;
+    document.getElementById('totalTopics').textContent = data.top_keywords.length;
+    
+    // Topics
+    const topicsDiv = document.getElementById('topics');
+    const maxCount = data.top_keywords[0]?.[1] || 1;
+    
+    data.top_keywords.slice(0, 10).forEach(([keyword, count]) => {
+        const percent = (count / maxCount) * 100;
+        const item = document.createElement('div');
+        item.className = 'topic-item';
+        item.innerHTML = `
+            <div class="topic-name">${keyword}</div>
+            <div class="topic-bar">
+                <div class="topic-bar-fill" style="width: ${percent}%"></div>
+            </div>
+            <div class="topic-count">${count} статей</div>
+        `;
+        topicsDiv.appendChild(item);
+    });
+    
+    // Recent articles
+    const articlesDiv = document.getElementById('articles');
+    data.recent_headlines.forEach(article => {
+        const card = document.createElement('div');
+        card.className = 'article-card';
+        
+        try {
+            const articleDate = new Date(article.published);
+            const dateStr = articleDate.toLocaleString('ru-RU', {
+                day: '2-digit',
+                month: '2-digit',
+                hour: '2-digit',
+                minute: '2-digit'
             });
             
-            // Recent articles
-            const articlesDiv = document.getElementById('articles');
-            data.recent_headlines.forEach(article => {
-                const card = document.createElement('div');
-                card.className = 'article-card';
-                const date = new Date(article.published).toLocaleString('ru-RU', {
-                    day: '2-digit',
-                    month: '2-digit',
-                    hour: '2-digit',
-                    minute: '2-digit'
-                });
-                card.innerHTML = `
-                    <div class="article-title">${article.title}</div>
-                    <div class="article-meta">
-                        <span>📍 ${article.source}</span>
-                        <span>📅 ${date}</span>
-                    </div>
-                    <a href="${article.url}" class="article-link" target="_blank">Читать →</a>
-                `;
-                articlesDiv.appendChild(card);
-            });
-            
-            // JSON download link
-            const jsonFilename = filename.replace('summary_', 'raw_articles_');
-            document.getElementById('jsonLink').href = `reports/${jsonFilename}`;
+            card.innerHTML = `
+                <div class="article-title">${article.title}</div>
+                <div class="article-meta">
+                    <span>📍 ${article.source}</span>
+                    <span>📅 ${dateStr}</span>
+                </div>
+                <a href="${article.url}" class="article-link" target="_blank">Читать →</a>
+            `;
+        } catch (e) {
+            card.innerHTML = `
+                <div class="article-title">${article.title}</div>
+                <div class="article-meta">
+                    <span>📍 ${article.source}</span>
+                </div>
+                <a href="${article.url}" class="article-link" target="_blank">Читать →</a>
+            `;
         }
         
+        articlesDiv.appendChild(card);
+    });
+    
+    // JSON download link
+    const jsonFilename = filename.replace('summary_', 'raw_articles_');
+    document.getElementById('jsonLink').href = `reports/${jsonFilename}`;
+}        
         // Загружаем при открытии страницы
         loadLatestReport();
     </script>
