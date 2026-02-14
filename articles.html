@@ -488,13 +488,13 @@
                 return;
             }
             
-            sortedTopics.forEach(([keyword, articles]) => {
-                const section = createTopicSection(keyword, articles);
+            sortedTopics.forEach(([keyword, articles], index) => {
+                const section = createTopicSection(keyword, articles, index === 0);
                 topicsDiv.appendChild(section);
             });
         }
         
-        function createTopicSection(keyword, articles) {
+        function createTopicSection(keyword, articles, isFirst = false) {
             const section = document.createElement('div');
             section.className = 'topic-section';
             
@@ -539,7 +539,7 @@
             });
             
             // Первая тема раскрыта по умолчанию
-            if (keyword === sortedTopics[0]?.[0]) {
+            if (isFirst) {
                 content.classList.add('expanded');
                 header.querySelector('.topic-toggle').classList.add('expanded');
             }
