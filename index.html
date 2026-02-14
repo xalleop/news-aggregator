@@ -116,3 +116,415 @@
             flex: 0 0 280px;
             font-weight: 500;
             color: #2c3e50;
+        }
+        
+        .topic-count {
+            margin-left: 15px;
+            color: #7f8c8d;
+            font-size: 14px;
+            min-width: 80px;
+        }
+        
+        .topic-bar {
+            flex: 1;
+            height: 28px;
+            background: #ecf0f1;
+            border-radius: 14px;
+            overflow: hidden;
+            margin: 0 15px;
+        }
+        
+        .topic-bar-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #3498db, #2ecc71);
+            transition: width 0.8s ease;
+            border-radius: 14px;
+        }
+        
+        .article-card {
+            border: 2px solid #e1e8ed;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 15px;
+            transition: all 0.3s;
+            background: white;
+        }
+        
+        .article-card:hover {
+            box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+            transform: translateY(-3px);
+            border-color: #667eea;
+        }
+        
+        .article-title {
+            font-size: 18px;
+            color: #2c3e50;
+            margin-bottom: 10px;
+            font-weight: 600;
+            line-height: 1.4;
+        }
+        
+        .article-meta {
+            display: flex;
+            gap: 20px;
+            font-size: 14px;
+            color: #7f8c8d;
+            margin-bottom: 12px;
+            flex-wrap: wrap;
+        }
+        
+        .article-meta span {
+            display: flex;
+            align-items: center;
+        }
+        
+        .article-link {
+            display: inline-block;
+            color: #667eea;
+            text-decoration: none;
+            font-size: 14px;
+            font-weight: 500;
+            transition: all 0.2s;
+        }
+        
+        .article-link:hover {
+            color: #764ba2;
+            text-decoration: underline;
+        }
+        
+        .downloads {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+        
+        .download-btn {
+            padding: 15px 30px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 600;
+            transition: all 0.3s;
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+        }
+        
+        .download-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 60px 20px;
+            color: #7f8c8d;
+            font-size: 18px;
+        }
+        
+        .loading::before {
+            content: "⏳";
+            display: block;
+            font-size: 48px;
+            margin-bottom: 20px;
+            animation: spin 2s linear infinite;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .error {
+            background: linear-gradient(135deg, #e74c3c 0%, #c0392b 100%);
+            color: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 15px rgba(231, 76, 60, 0.3);
+        }
+        
+        .error::before {
+            content: "⚠️ ";
+            font-size: 20px;
+        }
+        
+        .info {
+            background: #3498db;
+            color: white;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                padding: 20px;
+            }
+            
+            h1 {
+                font-size: 24px;
+            }
+            
+            .topic-name {
+                flex: 0 0 150px;
+                font-size: 14px;
+            }
+            
+            .stat-card {
+                padding: 15px;
+            }
+            
+            .stat-number {
+                font-size: 32px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🤖 AI Governance News Monitor</h1>
+        
+        <div id="loading" class="loading">Загрузка последнего отчета...</div>
+        <div id="error" class="error" style="display: none;"></div>
+        <div id="info" class="info" style="display: none;"></div>
+        
+        <div id="content" style="display: none;">
+            <div class="timestamp" id="timestamp"></div>
+            
+            <div class="stats">
+                <div class="stat-card">
+                    <div class="stat-number" id="totalArticles">0</div>
+                    <div class="stat-label">Всего статей</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="totalSources">0</div>
+                    <div class="stat-label">Источников</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="totalTopics">0</div>
+                    <div class="stat-label">Тем</div>
+                </div>
+            </div>
+            
+            <div class="section">
+                <h2 class="section-title">Топ темы</h2>
+                <div id="topics"></div>
+            </div>
+            
+            <div class="section">
+                <h2 class="section-title articles">Свежие новости</h2>
+                <div id="articles"></div>
+            </div>
+            
+            <div class="section">
+                <h2 class="section-title downloads">Скачать отчеты</h2>
+                <div class="downloads">
+                    <a href="reports/latest.txt" class="download-btn" download>
+                        📄 Текстовый отчет
+                    </a>
+                    <a href="#" id="jsonLink" class="download-btn" download>
+                        📊 Данные (JSON)
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // НОВЫЙ ПОДХОД: Прямые ссылки вместо GitHub API
+        
+        // Генерируем имена файлов на основе текущей даты
+        function generateRecentFilenames() {
+            const now = new Date();
+            const filenames = [];
+            
+            // Пробуем последние 3 дня, по 3 времени в день
+            for (let daysAgo = 0; daysAgo < 3; daysAgo++) {
+                const date = new Date(now);
+                date.setDate(date.getDate() - daysAgo);
+                
+                const year = date.getFullYear();
+                const month = String(date.getMonth() + 1).padStart(2, '0');
+                const day = String(date.getDate()).padStart(2, '0');
+                const dateStr = `${year}-${month}-${day}`;
+                
+                // Времена запуска: 06:00, 12:00, 18:00 (UTC)
+                ['18-00', '12-00', '06-00'].forEach(time => {
+                    filenames.push(`summary_${dateStr}_${time}.json`);
+                });
+            }
+            
+            return filenames;
+        }
+        
+        async function tryLoadFile(filename) {
+            const url = `reports/${filename}`;
+            
+            try {
+                const response = await fetch(url);
+                
+                if (response.ok) {
+                    const data = await response.json();
+                    return { success: true, data, filename };
+                }
+                
+                return { success: false, status: response.status };
+                
+            } catch (error) {
+                return { success: false, error: error.message };
+            }
+        }
+        
+        async function loadLatestReport() {
+            const loadingDiv = document.getElementById('loading');
+            const errorDiv = document.getElementById('error');
+            const infoDiv = document.getElementById('info');
+            
+            try {
+                loadingDiv.textContent = 'Поиск последнего отчета...';
+                
+                const filenames = generateRecentFilenames();
+                console.log('Trying files:', filenames);
+                
+                // Пробуем загрузить файлы по порядку
+                for (const filename of filenames) {
+                    console.log(`Trying: ${filename}`);
+                    const result = await tryLoadFile(filename);
+                    
+                    if (result.success) {
+                        console.log(`✓ Loaded: ${filename}`);
+                        displayReport(result.data, result.filename);
+                        loadingDiv.style.display = 'none';
+                        document.getElementById('content').style.display = 'block';
+                        return; // Успех!
+                    }
+                }
+                
+                // Если ничего не нашли
+                throw new Error('Отчеты не найдены. Запустите workflow в GitHub Actions (вкладка Actions → Run workflow).');
+                
+            } catch (error) {
+                console.error('Error loading report:', error);
+                loadingDiv.style.display = 'none';
+                errorDiv.textContent = error.message;
+                errorDiv.style.display = 'block';
+                
+                // Показываем подсказку
+                infoDiv.innerHTML = `
+                    <strong>Как исправить:</strong><br>
+                    1. Откройте <a href="https://github.com/xalleop/news-aggregator/actions" target="_blank" style="color:white;text-decoration:underline">Actions</a><br>
+                    2. Нажмите "Run workflow" → "Run workflow"<br>
+                    3. Подождите 2-3 минуты<br>
+                    4. Обновите эту страницу
+                `;
+                infoDiv.style.display = 'block';
+            }
+        }
+        
+        function displayReport(data, filename) {
+            // Timestamp
+            try {
+                const parts = data.timestamp.split('_');
+                const datePart = parts[0];
+                const timePart = parts[1].replace('-', ':');
+                const dateStr = `${datePart}T${timePart}:00`;
+                const date = new Date(dateStr);
+                
+                if (isNaN(date.getTime())) {
+                    throw new Error('Invalid date');
+                }
+                
+                document.getElementById('timestamp').textContent = 
+                    `Последнее обновление: ${date.toLocaleString('ru-RU', {
+                        year: 'numeric',
+                        month: 'long',
+                        day: 'numeric',
+                        hour: '2-digit',
+                        minute: '2-digit'
+                    })}`;
+            } catch (e) {
+                console.error('Date parsing error:', e);
+                document.getElementById('timestamp').textContent = 
+                    `Последнее обновление: ${data.timestamp.replace('_', ' ').replace('-', ':')}`;
+            }
+            
+            // Stats
+            document.getElementById('totalArticles').textContent = data.total_articles || 0;
+            document.getElementById('totalSources').textContent = Object.keys(data.sources || {}).length;
+            document.getElementById('totalTopics').textContent = (data.top_keywords || []).length;
+            
+            // Topics
+            const topicsDiv = document.getElementById('topics');
+            topicsDiv.innerHTML = '';
+            
+            if (data.top_keywords && data.top_keywords.length > 0) {
+                const maxCount = data.top_keywords[0][1] || 1;
+                
+                data.top_keywords.slice(0, 10).forEach(([keyword, count]) => {
+                    const percent = (count / maxCount) * 100;
+                    const item = document.createElement('div');
+                    item.className = 'topic-item';
+                    item.innerHTML = `
+                        <div class="topic-name">${keyword}</div>
+                        <div class="topic-bar">
+                            <div class="topic-bar-fill" style="width: ${percent}%"></div>
+                        </div>
+                        <div class="topic-count">${count} ${count === 1 ? 'статья' : count < 5 ? 'статьи' : 'статей'}</div>
+                    `;
+                    topicsDiv.appendChild(item);
+                });
+            } else {
+                topicsDiv.innerHTML = '<p style="color: #7f8c8d; padding: 20px; background: #f8f9fa; border-radius: 8px;">📊 Нет данных о темах. Возможно в feeds.yaml не заданы ключевые слова для фильтрации.</p>';
+            }
+            
+            // Recent articles
+            const articlesDiv = document.getElementById('articles');
+            articlesDiv.innerHTML = '';
+            
+            if (data.recent_headlines && data.recent_headlines.length > 0) {
+                data.recent_headlines.forEach(article => {
+                    const card = document.createElement('div');
+                    card.className = 'article-card';
+                    
+                    let dateStr = '';
+                    try {
+                        const articleDate = new Date(article.published);
+                        if (!isNaN(articleDate.getTime())) {
+                            dateStr = articleDate.toLocaleString('ru-RU', {
+                                day: '2-digit',
+                                month: '2-digit',
+                                hour: '2-digit',
+                                minute: '2-digit'
+                            });
+                        }
+                    } catch (e) {
+                        console.error('Article date parsing error:', e);
+                    }
+                    
+                    card.innerHTML = `
+                        <div class="article-title">${article.title || 'Без заголовка'}</div>
+                        <div class="article-meta">
+                            <span>📍 ${article.source || 'Неизвестный источник'}</span>
+                            ${dateStr ? `<span>📅 ${dateStr}</span>` : ''}
+                        </div>
+                        <a href="${article.url}" class="article-link" target="_blank" rel="noopener noreferrer">Читать →</a>
+                    `;
+                    articlesDiv.appendChild(card);
+                });
+            } else {
+                articlesDiv.innerHTML = '<p style="color: #7f8c8d;">Нет свежих новостей</p>';
+            }
+            
+            // JSON download link
+            const jsonFilename = filename.replace('summary_', 'raw_articles_');
+            document.getElementById('jsonLink').href = `reports/${jsonFilename}`;
+        }
+        
+        // Загружаем при открытии страницы
+        loadLatestReport();
+        
+        // Автообновление каждые 5 минут
+        setInterval(loadLatestReport, 5 * 60 * 1000);
+    </script>
+</body>
+</html>
