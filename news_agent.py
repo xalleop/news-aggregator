@@ -7,6 +7,7 @@
 import feedparser
 import yaml
 import json
+import shutil
 from datetime import datetime, timedelta
 from pathlib import Path
 from typing import List, Dict
@@ -186,6 +187,9 @@ class NewsAggregator:
         
         if not keywords:
             print("Фильтрация отключена (нет ключевых слов)\n")
+            # Даже без фильтрации добавляем пустые matched_keywords
+            for article in articles:
+                article['matched_keywords'] = []
             return articles
         
         filtered = []
@@ -300,7 +304,7 @@ class NewsAggregator:
         report += "СЛЕДУЮЩИЙ ШАГ: АНАЛИЗ\n"
         report += f"{'='*70}\n\n"
         report += "Для кластеризации и оценки значимости:\n\n"
-        report += "1. Загрузите файл raw_articles_[дата].json в чат с Claude\n"
+        report += "1. Загрузите файл raw_articles_latest.json в чат с Claude\n"
         report += "2. Загрузите файл criteria.yaml для контекста\n"
         report += "3. Попросите Claude:\n"
         report += '   "Проанализируй эти новости используя критерии из criteria.yaml.\n'
@@ -340,30 +344,48 @@ class NewsAggregator:
         
         # 4. Создаем краткий JSON для быстрого просмотра
         summary_path = f"reports/summary_{timestamp}.json"
-        with open(summary_path, 'w', encoding='utf-8') as f:
-            json.dump({
-                'timestamp': timestamp,
-                'total_articles': len(articles),
-                'sources': {k: len(v) for k, v in groups['by_source'].items()},
-                'top_keywords': sorted(
-                    [(k, len(v)) for k, v in groups['by_keyword'].items()],
-                    key=lambda x: x[1],
+        
+        # Готовим данные для summary
+        if groups['by_keyword']:
+            top_items = sorted(
+                [(k, len(v)) for k, v in groups['by_keyword'].items()],
+                key=lambda x: x[1],
+                reverse=True
+            )[:20]
+        else:
+            # Если нет ключевых слов, показываем топ источников
+            top_items = sorted(
+                [(k, len(v)) for k, v in groups['by_source'].items()],
+                key=lambda x: x[1],
+                reverse=True
+            )[:10]
+        
+        summary_data = {
+            'timestamp': timestamp,
+            'total_articles': len(articles),
+            'sources': {k: len(v) for k, v in groups['by_source'].items()},
+            'top_keywords': top_items,
+            'recent_headlines': [
+                {
+                    'title': a['title'],
+                    'source': a['source'],
+                    'url': a['url'],
+                    'published': a['published']
+                }
+                for a in sorted(
+                    articles,
+                    key=lambda x: x['published'],
                     reverse=True
-                )[:20],
-                'recent_headlines': [
-                    {
-                        'title': a['title'],
-                        'source': a['source'],
-                        'url': a['url'],
-                        'published': a['published']
-                    }
-                    for a in sorted(
-                        articles,
-                        key=lambda x: x['published'],
-                        reverse=True
-                    )[:10]
-                ]
-            }, f, ensure_ascii=False, indent=2)
+                )[:10]
+            ]
+        }
+        
+        with open(summary_path, 'w', encoding='utf-8') as f:
+            json.dump(summary_data, f, ensure_ascii=False, indent=2)
+        
+        # 5. ВАЖНО: Создаем копии с фиксированными именами для веб-страницы
+        shutil.copy(summary_path, "reports/summary_latest.json")
+        shutil.copy(json_path, "reports/raw_articles_latest.json")
         
         print(f"{'='*70}")
         print(f"✓ Отчеты сохранены:")
@@ -371,6 +393,8 @@ class NewsAggregator:
         print(f"  • Отчет (текст):    {txt_path}")
         print(f"  • Сводка (JSON):    {summary_path}")
         print(f"  • Последний отчет:  reports/latest.txt")
+        print(f"  • Для веб:          reports/summary_latest.json")
+        print(f"  • Для веб:          reports/raw_articles_latest.json")
         print(f"{'='*70}\n")
         
         return json_path, txt_path
@@ -405,7 +429,7 @@ class NewsAggregator:
         
         print("\nГотово! Следующие шаги:")
         print("1. Просмотрите reports/latest.txt для быстрого ознакомления")
-        print(f"2. Загрузите {json_path} в Claude для анализа")
+        print(f"2. Загрузите reports/raw_articles_latest.json в Claude для анализа")
         print("3. Используйте criteria.yaml как reference для оценки\n")
 
 
