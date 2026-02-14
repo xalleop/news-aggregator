@@ -1,0 +1,64 @@
+name: News Aggregator
+
+on:
+  schedule:
+    # Запуск 3 раза в день по московскому времени (UTC+3)
+    # 09:00 МСК = 06:00 UTC
+    # 15:00 МСК = 12:00 UTC  
+    # 21:00 МСК = 18:00 UTC
+    - cron: '0 6 * * *'
+    - cron: '0 12 * * *'
+    - cron: '0 18 * * *'
+  
+  # Возможность ручного запуска через веб-интерфейс GitHub
+  workflow_dispatch:
+
+jobs:
+  collect_news:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Cache pip dependencies
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+    
+    - name: Run news aggregator
+      run: |
+        python news_agent.py
+    
+    - name: Upload reports as artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: news-reports-${{ github.run_number }}
+        path: |
+          reports/raw_articles_*.json
+          reports/raw_digest_*.txt
+          reports/summary_*.json
+          reports/latest.txt
+        retention-days: 30
+    
+    - name: Commit and push reports to repository
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add reports/
+        # Коммит только если есть изменения
+        git diff --quiet && git diff --staged --quiet || git commit -m "Auto: News digest $(date +'%Y-%m-%d %H:%M')"
+        git push
+      continue-on-error: true

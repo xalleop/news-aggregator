@@ -1,0 +1,120 @@
+# Конфигурация RSS-фидов для новостного агрегатора
+# Вы можете добавлять новые источники, отключать существующие через enabled: false
+# Теги — это метаданные, которые мой скрипт добавляет к статьям ПОСЛЕ их получения из RSS, для внутренней группировки и классификации.
+# Если вы хотите получать новости только по определенной теме, нужно использовать специализированные RSS-фиды этого сайта: 
+# Например, url: "https://habr.com/ru/rss/hub/law/all/"
+
+general_news:
+  ТАСС:
+    url: "https://tass.ru/rss/v2.xml"
+    enabled: true
+  
+  Интерфакс:
+    url: "https://www.interfax.ru/rss.asp"
+    enabled: true
+  
+  РБК:
+    url: "https://www.rbc.ru/v10/ajax/get-news-feed/project/rbcnews.rss"
+    enabled: true
+  
+  Коммерсантъ:
+    url: "https://www.kommersant.ru/RSS/main.xml"
+    enabled: true
+  
+  Ведомости:
+    url: "https://www.vedomosti.ru/rss/news"
+    enabled: true
+  
+  Медуза:
+    url: "https://meduza.io/rss/all"
+    enabled: false  # можно отключить
+
+tech_news:
+  Habr_Топ_День:
+    url: "https://habr.com/ru/rss/best/daily/"
+    enabled: true
+    tags: ["tech", "dev"]
+  
+  Habr_AI:
+    url: "https://habr.com/ru/rss/hub/artificial_intelligence/all/"
+    enabled: true
+    tags: ["ai", "ml"]
+  
+  Habr_Data_Science:
+    url: "https://habr.com/ru/rss/hub/data_science/all/"
+    enabled: true
+    tags: ["ai", "data"]
+  
+  Habr_Управление:
+    url: "https://habr.com/ru/rss/hub/management/all/"
+    enabled: true
+    tags: ["management"]
+  
+  Habr_Законодательство:
+    url: "https://habr.com/ru/rss/hub/law/all/"
+    enabled: true
+    tags: ["law", "regulation"]
+  
+  iXBT:
+    url: "https://www.ixbt.com/export/articles.rss"
+    enabled: true
+    tags: [Теги: "tech", "hardware"]
+  
+  CNews:
+    url: "https://www.cnews.ru/inc/rss/news.xml"
+    enabled: true
+    tags: ["tech", "business"]
+  
+  3DNews:
+    url: "https://3dnews.ru/news/rss/"
+    enabled: true
+    tags: ["tech", "hardware"]
+
+ai_and_regulation:
+  Habr_Искусственный_Интеллект:
+    url: "https://habr.com/ru/rss/flows/artificial_intelligence/all/"
+    enabled: true
+    tags: ["ai"]
+  
+  VC_ru_Технологии:
+    url: "https://vc.ru/rss/all"
+    enabled: true
+    tags: ["tech", "business"]
+
+# Параметры фильтрации
+filters:
+  # Ключевые слова для отбора статей (если пусто - берутся все)
+  keywords:
+  ги: 
+    - "Минцифры" 
+    - "ИИ"
+    - "искусственный интеллект"
+    - "AI"
+    - "машинное обучение"
+    - "цифровое регулирование"
+    - "цифровая трансформация"
+    - "ответственный бизнес"
+    - "RSPP"
+    - "AI governance"
+    - "этика AI"
+    - "регулирование"
+    - "ESG"
+  
+  # Слова-исключения (статьи с этими словами будут отброшены)
+  exclude_keywords:
+    - "криптовалюта"
+    - "блокчейн"
+    - "игры"
+  
+  # Период сбора новостей (часов назад)
+  hours_back: 24
+
+# Google News темы (дополнительный поиск через Google News RSS)
+google_news:
+  enabled: true
+  topics:
+    - "AI governance"
+    - "Russia AI"
+    - "цифровое регулирование РФ"
+    - "ответственный бизнес ESG"
+    - "этика искусственного интеллекта"
