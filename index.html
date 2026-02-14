@@ -283,9 +283,19 @@
         }
         
         function displayReport(data, filename) {
-            // Timestamp
+            // Timestamp  - ИСПРАВЛЕННАЯ ВЕРСИЯ
             document.getElementById('timestamp').textContent = 
-                `Последнее обновление: ${new Date(data.timestamp.replace('_', ' ')).toLocaleString('ru-RU')}`;
+            const timestampStr = data.timestamp.replace('_', ' ').replace('-', ':');
+            const date = new Date(timestampStr);
+            
+            document.getElementById('timestamp').textContent = 
+                `Последнее обновление: ${date.toLocaleString('ru-RU', {
+                    year: 'numeric',
+                    month: 'long',
+                    day: 'numeric',
+                    hour: '2-digit',
+                    minute: '2-digit'
+                })}`;
             
             // Stats
             document.getElementById('totalArticles').textContent = data.total_articles;
