@@ -42,7 +42,7 @@ class NewsAggregator:
         """Получение всех активных RSS-фидов"""
         feeds = {}
         
-        for category in ['general_news', 'tech_news', 'ai_and_regulation']:
+        for category in ['general_news', 'tech_news', 'ai_and_regulation', 'telegram_channels']:
             if category in self.feeds_config:
                 for name, data in self.feeds_config[category].items():
                     if data.get('enabled', True):
