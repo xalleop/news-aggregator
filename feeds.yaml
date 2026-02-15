@@ -39,7 +39,7 @@ tech_news:
     url: "https://habr.com/ru/rss/hub/artificial_intelligence/all/"
     enabled: true
     tags: ["ai", "ml"]
-  
+
   Habr_Data_Science:
     url: "https://habr.com/ru/rss/hub/data_science/all/"
     enabled: true
@@ -81,6 +81,42 @@ ai_and_regulation:
     enabled: true
     tags: ["tech", "business"]
 
+  Montreal AI Ethics Institute:
+    url: "https://brief.montrealethics.ai/feed/"
+    enabled: true
+    tags: ["tech", "ai"]
+    
+  AI Policy Perspectives:
+    url: "https://www.aipolicyperspectives.com/feed"
+    enabled: true
+    tags: ["governance", "ai", "society"]
+    
+  The Centre for the Governance of AI Blog:  
+    url: "https://www.governance.ai/post/rss.xml"
+    enabled: true
+    tags: ["ai", "effective-altruism", "tech"]
+    
+  Epoch AI:
+    url: "https://epochai.substack.com/feed"
+    enabled: true
+    tags: ["tech", "ai", "rationality", "research"]
+    
+  Don't Worry About the Vase:
+    url: "https://thezvi.substack.com/feed/"
+    enabled: true
+    tags: ["ai", "policy", "rationality", "education"]
+  
+  AI Futures Project:
+    url: "https://blog.ai-futures.org/feed"
+    enabled: true
+    tags: ["ai", "forecast", "rationality", "education"]    
+
+  TechCrunch Artificial Intelligence:
+    url: "https://techcrunch.com/tag/artificial-intelligence/feed/
+    enabled: true
+    tags: ["ai", "tech", "startup"]
+
+
 # Параметры фильтрации
 filters:
   # Ключевые слова для отбора статей (если пусто - берутся все)
@@ -91,10 +127,12 @@ filters:
     - "цифровое регулирование"
     - "цифровая трансформация"
     - "ответственный бизнес"
-    - "RSPP"
-    - "AI governance"
+    - "РСПП"
+    - "governance"
     - "этика AI"
-    - "регулирование AI"
+    - "ethics"
+    - "policy"
+    - "регулирование"
     - "ESG"
     - "Минцифры" 
     - "ИИ"
