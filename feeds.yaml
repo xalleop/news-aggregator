@@ -112,10 +112,9 @@ ai_and_regulation:
     tags: ["ai", "forecast", "rationality", "education"]    
 
   TechCrunch Artificial Intelligence:
-    url: "https://techcrunch.com/tag/artificial-intelligence/feed/
+    url: "https://techcrunch.com/tag/artificial-intelligence/feed/"
     enabled: true
     tags: ["ai", "tech", "startup"]
-
 
 # Параметры фильтрации
 filters:
