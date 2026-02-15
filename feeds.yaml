@@ -74,6 +74,11 @@ tech_news:
     url: "https://3dnews.ru/news/rss/"
     enabled: true
     tags: ["tech", "hardware"]
+    
+  TechCrunch Artificial Intelligence:
+    url: "https://techcrunch.com/tag/artificial-intelligence/feed/"
+    enabled: true
+    tags: ["ai", "tech", "startup"]
 
 ai_and_regulation:
   Habr_Искусственный_Интеллект:
@@ -115,11 +120,6 @@ ai_and_regulation:
     url: "https://blog.ai-futures.org/feed"
     enabled: true
     tags: ["ai", "forecast", "rationality", "education"]    
-
-  TechCrunch Artificial Intelligence:
-    url: "https://techcrunch.com/tag/artificial-intelligence/feed/"
-    enabled: true
-    tags: ["ai", "tech", "startup"]
     
 telegram_channels:
 # альтернативный сервис: tg.i-c-a.su
