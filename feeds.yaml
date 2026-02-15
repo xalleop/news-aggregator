@@ -119,7 +119,12 @@ ai_and_regulation:
   AI Futures Project:
     url: "https://blog.ai-futures.org/feed"
     enabled: true
-    tags: ["ai", "forecast", "rationality", "education"]    
+    tags: ["ai", "forecast", "rationality", "education"]
+    
+  IAPP:  
+    url: "https://feedproxy.feedly.com/231346a5-bd4e-4b90-aacf-31cd29294afb"
+    enabled: true
+    tags: ["ai", "governance", "education"]
     
 telegram_channels:
 # альтернативный сервис: tg.i-c-a.su
