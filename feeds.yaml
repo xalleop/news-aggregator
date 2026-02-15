@@ -30,6 +30,11 @@ general_news:
     enabled: false  # можно отключить
 
 tech_news:
+  Digital_Russia:
+    url: "http://d-russia.ru/feed"
+    enabled: true
+    tags: ["tech", "governance"]
+  
   Habr_Топ_День:
     url: "https://habr.com/ru/rss/best/daily/"
     enabled: true
@@ -115,7 +120,34 @@ ai_and_regulation:
     url: "https://techcrunch.com/tag/artificial-intelligence/feed/"
     enabled: true
     tags: ["ai", "tech", "startup"]
+    
+telegram_channels:
+# альтернативный сервис: tg.i-c-a.su
+  The Bell Tech:
+    url: "https://rsshub.app/telegram/channel/bell_tech"
+    enabled: true
+    tags: ["business", "tech"]
+    
+  ИИ комплаенс и этика:
+    url: "https://rsshub.app/telegram/channel/ai_and_law_rus"
+    enabled: true
+    tags: ["ai", "ethic", "law", "regulation", "governance"]
+    
+  Humancentric AI Регулирование: 
+    url: "https://rsshub.app/telegram/channel/ai_regulation"
+    enabled: true
+    tags: ["ai", "ethic", "law", "regulation", "governance"]
+    
+  Цифровое право:  
+    url: "https://rsshub.app/telegram/channel/digital_law_trends"
+    enabled: true
+    tags: ["ai", "law", "regulation"]
 
+  Тест Тьюринга:  
+    url: "https://rsshub.app/telegram/channel/testuring"
+    enabled: true
+    tags: ["ai", "news"]
+    
 # Параметры фильтрации
 filters:
   # Ключевые слова для отбора статей (если пусто - берутся все)
@@ -126,9 +158,11 @@ filters:
     - "цифровое регулирование"
     - "цифровая трансформация"
     - "ответственный бизнес"
-    - "РСПП"
+  #    - "РСПП"
     - "governance"
+    - "aigovernance"
     - "этика AI"
+    - IAPP
     - "ethics"
     - "policy"
     - "регулирование"
@@ -151,6 +185,10 @@ google_news:
   topics:
     - "AI governance"
     - "Russia AI"
-    - "цифровое регулирование РФ"
-    - "ответственный бизнес ESG"
+    - "регулирование"
+    - "ответственный бизнес" 
+    - "ESG"
     - "этика искусственного интеллекта"
+    - "ai ethics"
+    - "ai policy"
+    - "ИИ"
