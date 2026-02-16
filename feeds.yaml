@@ -128,6 +128,12 @@ ai_and_regulation:
     
 telegram_channels:
 # альтернативный сервис: tg.i-c-a.su
+
+  Вокруг ИИ:
+    url: "https://rsshub.app/telegram/channel/vokrug_ai_ru"
+    enabled: true
+    tags: ["ai", "ethic", "law", "regulation", "governance"]
+
   The Bell Tech:
     url: "https://rsshub.app/telegram/channel/bell_tech"
     enabled: true
