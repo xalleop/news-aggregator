@@ -6,9 +6,12 @@ on:
     # 09:00 МСК = 06:00 UTC
     # 15:00 МСК = 12:00 UTC  
     # 21:00 МСК = 18:00 UTC
-    - cron: '0 6 * * *'
-    - cron: '0 12 * * *'
-    - cron: '0 18 * * *'
+    - cron: '52 5 * * *'  # = 08:52 MSK
+    - cron: '13 12 * * *' # = 15:13 MSK 
+    - cron: '37 18 * * *' # = 21:37 MSK
+    # Why random minutes? GitHub has millions of workflows. 
+    # When everyone schedules for :00, it creates massive queues. 
+    # Random minutes = less competition.
   
   # Возможность ручного запуска через веб-интерфейс GitHub
   workflow_dispatch:
