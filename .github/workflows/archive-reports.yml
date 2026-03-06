@@ -42,28 +42,26 @@ jobs:
           
           echo "Найдено файлов для архивирования: $FILE_COUNT"
           
-          # Создаем архив
-          tar -czf "../${ARCHIVE_NAME}" \
+          # Создаем архив В ТЕКУЩЕЙ ПАПКЕ (reports/)
+          tar -czf "${ARCHIVE_NAME}" \
             raw_articles_2* \
             raw_digest_2* \
             summary_2* \
             2>/dev/null || true
           
           # Проверяем создание архива
-          if [ -f "../${ARCHIVE_NAME}" ]; then
-            echo "✓ Архив создан: ${ARCHIVE_NAME}"
-            ARCHIVE_SIZE=$(du -h "../${ARCHIVE_NAME}" | cut -f1)
+          if [ -f "${ARCHIVE_NAME}" ]; then
+            echo "✓ Архив создан: reports/${ARCHIVE_NAME}"
+            ARCHIVE_SIZE=$(du -h "${ARCHIVE_NAME}" | cut -f1)
             echo "  Размер: ${ARCHIVE_SIZE}"
             
             # Удаляем архивированные файлы
             rm -f raw_articles_2* raw_digest_2* summary_2*
             echo "✓ Архивированные файлы удалены"
             
-            # Возвращаемся в корень
+            # Коммитим изменения (остаемся в reports/)
             cd ..
-            
-            # Коммитим изменения
-            git add .
+            git add reports/
             git commit -m "Archive reports ${ARCHIVE_DATE} (${ARCHIVE_SIZE})" || exit 0
             git push
             
@@ -78,5 +76,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: reports-archive-${{ github.run_id }}
-          path: reports_*.tar.gz
+          path: reports/reports_*.tar.gz
           retention-days: 90
