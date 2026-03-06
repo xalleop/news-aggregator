@@ -1,0 +1,82 @@
+name: Archive Monthly Reports
+
+on:
+  schedule:
+    # Выполняется 1-го числа каждого месяца в 03:00 UTC (06:00 MSK)
+    - cron: '0 3 1 * *'
+  workflow_dispatch:  # Возможность ручного запуска
+
+permissions:
+  contents: write
+
+jobs:
+  archive-reports:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Configure Git
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+      
+      - name: Create monthly archive
+        run: |
+          # Генерируем имя архива с датой и временем (МСК)
+          ARCHIVE_DATE=$(TZ='Europe/Moscow' date +%Y-%m-%d_%H-%M)
+          ARCHIVE_NAME="reports_${ARCHIVE_DATE}.tar.gz"
+          
+          cd reports
+          
+          # Проверяем наличие файлов для архивирования
+          FILE_COUNT=$(ls -1 raw_articles_2* raw_digest_2* summary_2* 2>/dev/null | wc -l)
+          
+          if [ "$FILE_COUNT" -eq 0 ]; then
+            echo "Нет файлов для архивирования"
+            exit 0
+          fi
+          
+          echo "Найдено файлов для архивирования: $FILE_COUNT"
+          
+          # Создаем архив
+          tar -czf "../${ARCHIVE_NAME}" \
+            raw_articles_2* \
+            raw_digest_2* \
+            summary_2* \
+            2>/dev/null || true
+          
+          # Проверяем создание архива
+          if [ -f "../${ARCHIVE_NAME}" ]; then
+            echo "✓ Архив создан: ${ARCHIVE_NAME}"
+            ARCHIVE_SIZE=$(du -h "../${ARCHIVE_NAME}" | cut -f1)
+            echo "  Размер: ${ARCHIVE_SIZE}"
+            
+            # Удаляем архивированные файлы
+            rm -f raw_articles_2* raw_digest_2* summary_2*
+            echo "✓ Архивированные файлы удалены"
+            
+            # Возвращаемся в корень
+            cd ..
+            
+            # Коммитим изменения
+            git add .
+            git commit -m "Archive reports ${ARCHIVE_DATE} (${ARCHIVE_SIZE})" || exit 0
+            git push
+            
+            echo "✓ Архивация завершена успешно"
+          else
+            echo "✗ Ошибка создания архива"
+            exit 1
+          fi
+      
+      - name: Upload archive as artifact
+        if: success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: reports-archive-${{ github.run_id }}
+          path: reports_*.tar.gz
+          retention-days: 90
