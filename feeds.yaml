@@ -127,10 +127,10 @@ ai_and_regulation:
     tags: ["ai", "governance", "education"]
     
 telegram_channels:
-# альтернативный сервис: tg.i-c-a.su
+# альтернативные сервисы: tg.i-c-a.su или rsshub.app
 
   Вокруг ИИ:
-    url: "https://rsshub.app/telegram/channel/vokrug_ai_ru"
+    url: "https://tg.i-c-a.su/rss/vokrug_ai_ru"
     enabled: true
     tags: ["ai", "ethic", "law", "regulation", "governance"]
 
@@ -140,7 +140,7 @@ telegram_channels:
     tags: ["business", "tech"]
     
   ИИ комплаенс и этика:
-    url: "https://rsshub.app/telegram/channel/ai_and_law_rus"
+    url: "https://tg.i-c-a.su/rss/ai_and_law_rus"
     enabled: true
     tags: ["ai", "ethic", "law", "regulation", "governance"]
     
