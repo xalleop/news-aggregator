@@ -1,96 +1,92 @@
 {
-  "timestamp": "2026-10-11_00-58",
-  "total_articles": 32,
+  "timestamp": "2026-10-11_14-40",
+  "total_articles": 26,
   "sources": {
-    "ТАСС": 1,
+    "ТАСС": 2,
     "Коммерсантъ": 1,
-    "Ведомости": 1,
-    "Habr_AI": 7,
-    "3DNews": 8,
+    "Habr_AI": 1,
+    "3DNews": 7,
+    "Вокруг ИИ": 1,
     "Google News": 14
   },
   "top_keywords": [
     [
       "ИИ",
-      29
+      23
     ],
     [
       "AI",
-      3
+      2
     ],
     [
-      "искусственный интеллект",
-      2
+      "регулирование",
+      1
     ],
     [
       "ESG",
-      2
-    ],
-    [
-      "машинное обучение",
       1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Гендиректор Р7 заявил, что будущее офисного ПО за ИИ-агентами",
+      "title": "Мэр управляет городом из тюрьмы с помощью ИИ-аватара. Дайджест новостей, удививших редакцию - 66.RU",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY0VmaUNySm50UldjSDRqb1Z1TUJpT0N3VDUtQnRoaEQzUTl4YzQ1YU52bjFrbDQ2SEJ4eWlFb014Q3ZsazdHZTJCYnR3UHlVQTlTc0FwZUNNU1daTDgtOEMtODI3UDgzdURUWUc1QkNZYWljaEp3VjJoQldvc09IZTF1YnlFM2VLVGQwOEQxRm1jeGpRekNqdERXb2NBenZkZ1B5VjRJUG15ajJTNEFGQ0NHSV83TU91NjQ3cjFUNFhHSk5i?oc=5",
+      "published": "2026-10-11T11:37:56"
+    },
+    {
+      "title": "В Москве завершился Кубок Федерации спортивного программирования",
       "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28202355",
-      "published": "2026-10-10T21:11:46"
+      "url": "https://tass.ru/sport/28203301",
+      "published": "2026-10-11T11:30:51"
     },
     {
-      "title": "Надёжное программирование: от кода к технологии",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1091798/?utm_campaign=1091798&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-10T21:10:15"
-    },
-    {
-      "title": "Хуже наркотиков: как ИИ превратил мошенничество в глобальную индустрию - RTVI",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcU5ZRWxpMHZIX2VkQUhsUDA4MVdvdzhJeVRZWEhibkZLcTIyODRwNTJoOTVoYWhtQ05OVGRNRnQzd3p5X053S21JaDNtRGhIVHVRcWQtZ1VjTUJWSEJfS1F1eWtsT0JRUXFnWEFYY05UM1M2TGRNRE9Xbl9kZjhKUg?oc=5",
-      "published": "2026-10-10T18:00:00"
-    },
-    {
-      "title": "Курс ИИ введут для школьников с 5-го по 11-й класс : Псковская Лента Новостей / ПЛН - ПЛН",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zMGJIdzNoR2JINXl3b1NVR3BNLTRCRTUtS1BwTlNMZ0E2aGItbGVtRHZ0dmY1TTc0ZjZmc2RSTjZlX1hQRko1SG9RWWQ3aUtuaWc?oc=5",
-      "published": "2026-10-10T17:27:00"
-    },
-    {
-      "title": "Bloomberg: жители 42 стран потеряли $442 млрд из-за использующих ИИ мошенников",
-      "source": "Ведомости",
-      "url": "https://www.vedomosti.ru/society/news/2026/10/10/1236030-poteryali-442-mlrd",
-      "published": "2026-10-10T15:56:33"
-    },
-    {
-      "title": "8 ИИ‑сервисов для Reels и Shorts: что работает в 2026 году",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/polzaai/articles/1092706/?utm_campaign=1092706&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-10T15:39:38"
-    },
-    {
-      "title": "Microsoft выпустила ИИ, который выбирает варианты и не разговаривает — в тестах он оказался в 35 раз быстрее GPT-6 Sol",
+      "title": "Глава Microsoft призвал встроить в ИИ ручной тормоз — модели нужно контролировать с первой секунды",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1149752",
-      "published": "2026-10-10T15:00:00"
+      "url": "https://3dnews.ru/1149767",
+      "published": "2026-10-11T11:03:00"
     },
     {
-      "title": "Saba Capital продала акции траста BlackRock ESG на $355 376 - Investing.com",
+      "title": "Глава Microsoft призвал встроить в ИИ ручной тормоз — модели нужно контролировать с первой секунды - 3DNews",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tZmVtNHNnNlNaaDhVZDl0QnJvMXdtcWV0WnQ2aV9OSjZOM2l6NGNNMkFYWUZDOWs0THkyek4zX3UwOTlyeHBSbkxoZGZhZVpnYm9udWJCd0hEYTZsUktrSTl6V1lya3d3Snc0OEJoWWNDemFkTlVUeWZmYw?oc=5",
-      "published": "2026-10-10T14:32:00"
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE4tc3ZsemRJM09qZUIwckZYcVJHaHlzbmk1UVgzRDVOVkJBTlJQTnVjQ1IzWlFNUTRTR3MtamNR0gHDAUFVX3lxTE1tRzB0RDQ3YXZDemdZV01rZWJlQk9WQjBrUWpFc0VVd0dfUTQ2VlJ3dUYtcDhrdnRCaGN6bzRxYjNnS0kxaXdkeS1UZ3U2dm9NTEV3bjdBX09SNkF5R18yVHBIemR4VjNOUTJMUVFIMHp0ZWxyN1E2YWR5YlJfd3FNSDBoeWYtVURaRjlpN05BdFJaRUozRnhZWko5SWZQS0NMT3hheWZNTkJrMUdWTHNhYUdURVpFZlFnTE4yczJ4alVDWQ?oc=5",
+      "published": "2026-10-11T11:03:00"
     },
     {
-      "title": "Anthropic признала, что не может контролировать своих ИИ-агентов — поэтому им отключили интернет",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1149750",
-      "published": "2026-10-10T14:21:00"
-    },
-    {
-      "title": "Anthropic признала, что не может контролировать своих ИИ-агентов — поэтому им отключили интернет - 3DNews",
+      "title": "Что, если ИИ выйдет из-под контроля? Вот 15 фильмов о том, к чему это может привести - PravilaMag",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV25vMHZFd3VVVWpFTHRZcDdMUkd0bFk0VUdNS2dVLVlmZUJONkRXdGZiY0NzRDVBaXFhOVA1YTZUWENwRzRtcHJNWnE3RmdzaHFyV3M2MDNBdmJ1RGI1WWlXR2p3SmVCX2F4N1dMbVM1TVBTcXpzWXpuYll5MlphcEZPb1RXUmZKclJ0NGVZb09DUjVtdlRxZlZEWEhCM1gzM2FPY0ZzeFg3VENoZTZ3REVSR2I1TG9ETkhtTdIBwgFBVV95cUxORmZCRVU1Mm4xRWFxbDYxWXhwcERLalFlT0tENVVONGVCeFYwcm9LR1pPTlN0SDFHSlB0bVJlVnZOWTROODRrWm0xVU5YaTY3N1J3Vk1TYmZub1lJUVhoRTJfLUYxRDJJdVRmMVBxSUhlNVM4eFFTTk9EWWd1WlBEc2xsd0hiVGs1MkNudHd1ZHlzcy1xc2FCbmVGT05fSUtqNEtfd2dmSUJwdFZzeXRqTUZsQlN1eXEyV2k2Wmp2UkI0UQ?oc=5",
-      "published": "2026-10-10T14:21:00"
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbTRGcUl2bWVfekpEd0tSeE9vYnI0WFZUYW9Rd0dQYVcydWFBRG15UkdLSnp4ajRXaHVkQ0gwZUJNUkJlZWFGOUwzWEw4YVBQcWVQQTlablFUMW0xblhuRFhtX2pOUHFlNUQ5cWF5MUZsd2xobU01a0kzTnQzLUY2MTBBZVg4VjFPRXdBb01oby1LNktqSl9yLWdLSnZOejY1alJxZmd3aTVSWGdiTUtqSU54aWFicTRMRjhBQ0FNSVVFWWJLY1hseXFCTQ?oc=5",
+      "published": "2026-10-11T11:01:00"
+    },
+    {
+      "title": "Новогодние посылки вовремя: Почта России в Тюменской области использует ИИ для быстрой доставки - Вслух.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQS3VTOFNNLW0xd1VFVnpsUjI5enlSaHhYOVowcXhWZmxIT1d5Qk1uRjgwWkVlLUdZYVJNQ0x4QzRqSTFfamZVX0NjVmRGZEp3SFp3eEFVbnpPazFyODFEODVXd3RYVGI2Q1Bwci1xT21ZcGJIR2N4Nk9rdktwZ09rRFhLdnJKNEpvZXRScW5pa3pVVHJWWkJ2RERHVEdzc3VhRGdObEpVN3VWY3BwYkluRlBxYXQ0UmRpT1ljcnFURGtlS21YczBiNmxxZGdBU0xmaWtuaXZjaWhaUQ?oc=5",
+      "published": "2026-10-11T10:51:18"
+    },
+    {
+      "title": "Полиция США раскритиковала Anthropic за ложное сообщение ИИ Claude о нераскрытом убийстве - Euronews.com",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcjR5Yy1ua3d2MUVjNmRZNDhIR2Vpek1MS3loMzRMNDhLRFZoLXo4a1FwMTQ3MHAxWUg0REI2aDVLenRUazBqUVJhYmFfNTJmMkJKQ0I2T0dNN1N1NkZReVRrbmprM2ZYVnNvLVNRa1VBN3NuOXBPdWFvQWx5ZUJEUk1Zb3BmMFlwOWhDVnczTFNOM3d0S28zZkVnVHROYmFHTXRiODB6VFdjMnFkV2I0TnlZMHhadm40NnpqQ0VQN0FEUQ?oc=5",
+      "published": "2026-10-11T10:46:47"
+    },
+    {
+      "title": "Кибермошенничество с использованием ИИ распространяется по миру: новые схемы, ущерб и методы борьбы - Финансы Mail",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc0NERkFqUS1fZ216bGxkVk84R19Uby1IdFZvb3lUUzRCdmQ4YnU0TmQwbUllbktmelpKS0VmTnNlRjJYRDRUcjBFSFpKT0RNWGRicnNwX2FGUU9ZZEE2cW5keTNrUldvU21lRXgzVmlnbEVzbndTeGZWdXZvRHczMDV2c3RlR3FFRVQ1TnF5MUwzNWw3S09WTElLaHVyaTBaZnNV?oc=5",
+      "published": "2026-10-11T10:45:10"
+    },
+    {
+      "title": "USITC проверяет вертикальные системы питания для ИИ-серверов на нарушение патентов - Правда.Ру",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU2ZsZ2wzOXNhOFF6WWs2SkpaTUpmQTdkdlZZZS1Md2ZLbmhnUGlLZkZMdzg5NHNQOE41RTBqWDJRRWJldE5qX0JBcHNkY0YyemJkQm1HYWRLbldHeUN1dnNYakpCdk4tRnlPTmh2bE1WUVl0MHlCSW5uNm9UXzVPOFZYWnhGZWlsZUNHOXNZLWlfc1h1NmFRN0lMdDdMUQ?oc=5",
+      "published": "2026-10-11T09:25:00"
+    },
+    {
+      "title": "Стало известно об ИИ для дальнего космоса - Наука Mail",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMFBjZ0FWRzNHc1FXMUItYlpoLWJZak1HUGNvdERRdjNBZGRCVnhwM0ZxUjcwRUZuZjBFejcwTkloME9HamdwbUVPNHljVXhFTVY1X1Z0RUJUSjhoRm92R0ZrTy1OV25VM0ZNdkdhbUxnSEtyNFF0T0N0X1BlMDZXcFZobw?oc=5",
+      "published": "2026-10-11T09:17:10"
     }
   ]
 }
