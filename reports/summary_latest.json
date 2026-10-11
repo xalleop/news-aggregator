@@ -1,17 +1,22 @@
 {
-  "timestamp": "2026-10-11_20-42",
-  "total_articles": 25,
+  "timestamp": "2026-10-12_01-25",
+  "total_articles": 26,
   "sources": {
+    "ТАСС": 2,
     "Коммерсантъ": 2,
-    "Habr_AI": 4,
-    "3DNews": 3,
+    "Habr_AI": 5,
+    "3DNews": 4,
     "Вокруг ИИ": 1,
-    "Google News": 15
+    "Google News": 12
   },
   "top_keywords": [
     [
       "ИИ",
       23
+    ],
+    [
+      "Минцифры",
+      1
     ],
     [
       "AI",
@@ -28,7 +33,37 @@
   ],
   "recent_headlines": [
     {
-      "title": "От HFT к ИБ — гонка, которую ускоряет ИИ",
+      "title": "Как массово скачать фотографии и документы с Яндекс Диска себе на компьютер",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1093024/?utm_campaign=1093024&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-11T21:55:47"
+    },
+    {
+      "title": "Р7 и эксперты Минцифры обсудят критерии для российского офисного ПО",
+      "source": "ТАСС",
+      "url": "https://tass.ru/ekonomika/28203971",
+      "published": "2026-10-11T21:04:23"
+    },
+    {
+      "title": "Гейтс прогнозирует \"множество неприятных сюрпризов\" в киберсфере из-за ИИ",
+      "source": "ТАСС",
+      "url": "https://tass.ru/obschestvo/28203909",
+      "published": "2026-10-11T19:30:18"
+    },
+    {
+      "title": "«Машины, которые делают машины»: NVIDIA и Foxconn повысили эффективность сборки платформ NVIDIA GB300 с помощью роботов",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1149764",
+      "published": "2026-10-11T18:55:00"
+    },
+    {
+      "title": "Сможет ли ИИ помочь парфюмерам и спасти редкие растения - Наука Mail",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83OFgyVTZobmo4ZEhhbVdBbVljVTBtckZYcGhLSjd4N1NEMnZFMGsyNmcxclh0YXo3UThPU2tpbUF6VHJhQmFYSk9teW84NVVmdXZxZV9FSzRXR2JQRXN5bnJ2dzNBaWxvMGNhV0JKYw?oc=5",
+      "published": "2026-10-11T18:34:48"
+    },
+    {
+      "title": "От HFT к ИБ — гонка, которую ускоряет ИИ",
       "source": "Habr_AI",
       "url": "https://habr.com/ru/articles/1092994/?utm_campaign=1092994&utm_source=habrahabr&utm_medium=rss",
       "published": "2026-10-11T16:49:42"
@@ -40,7 +75,7 @@
       "published": "2026-10-11T16:24:22"
     },
     {
-      "title": "Дешёвый прогноз, дорогая проверка: кто платит за страх перед ИИ",
+      "title": "Дешёвый прогноз, дорогая проверка: кто платит за страх перед ИИ",
       "source": "Habr_AI",
       "url": "https://habr.com/ru/articles/1092608/?utm_campaign=1092608&utm_source=habrahabr&utm_medium=rss",
       "published": "2026-10-11T16:00:29"
@@ -56,36 +91,6 @@
       "source": "Habr_AI",
       "url": "https://habr.com/ru/articles/1092980/?utm_campaign=1092980&utm_source=habrahabr&utm_medium=rss",
       "published": "2026-10-11T15:45:33"
-    },
-    {
-      "title": "С помощью ИИ были созданы клоны всех программ Adobe, Microsoft Office и AutoCAD - Хабр",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9iemhmeF9QVXh3UDF2QktLd1hPRF9yam95RkhGdU5kM1o0RGZfNHhxSXQxQ0JwSjU4aGJYTjVHN09iZldJUTZ0N9IBWEFVX3lxTE9oN0hmNHAyeEpwcTFWaVBlZnh3UlB1ZjBLeDc1bWFzaHRjNXZmb2hzYktrT1ZCblp5UV85Znd6U2Nfc2IyWUJPNUp6ZFZIbk42N1N1SG5uM1I?oc=5",
-      "published": "2026-10-11T14:27:13"
-    },
-    {
-      "title": "Global Gate Ha Long ESG++ Marathon 2026: Возрождение ритма жизни у залива, являющегося объектом культурного наследия. - Vietnam.vn",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMW8xU0x3dTdhUV82MEdlc2xENkZvUXNsc3FBOUtlNkZPSlNWNzVnN01yWWtkX3llLVZkdjNyMF9CSjRyN3pueUxSLTdSVUxhT0xPSzFsVWpGa1dxamVwZ0N5Y3VKa24yMlFkZUNmbnNnRXFOSURZTHNjY3lqRXpqZkU2aXhHY3g1dXppMFZXTFVRdW84SXhfbEZLSUFiRG5k?oc=5",
-      "published": "2026-10-11T14:02:54"
-    },
-    {
-      "title": "Заменит ли ИИ учителя? Минпросвещения вводит новый курс по нейросетям для 5–11 классов - Районные вести",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOFZPVGJwTWxURzJzbktLT21UejB3TVFSM2ZQWE5VbzFnUGNfc09vMW1weFRDSVpxZHozU3pUd2V2TFJZdUxDRVFHVzV6ZFgzN3Q3aVN6N3RnenYwRURHS2VKRUk3cjhjUzdJUThoMzVkczJNT2xKSlFFa1lCTGRIdFdpRHgtQ0ttZG1udlMyVEt1RnNuQVV5dFQxOGFiVy1PbHU4TUxBMi11Y2pBNzc1LXZzSDIwcXJfeDYxOHFLM1NqTjhk?oc=5",
-      "published": "2026-10-11T14:00:00"
-    },
-    {
-      "title": "[Перевод] Восемь допущений о безопасности, которые ИИ-агенты тихо ломают",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1092350/?utm_campaign=1092350&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-11T13:50:21"
-    },
-    {
-      "title": "Глава Microsoft Сатья Наделла призвал создать «аварийный тормоз» для ИИ - БИЗНЕС Online — Новости Казани",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81NGMxTWkza2d5MW5fRUduYkFEUXpSUWtpMXlBcDU3b0gwdGpLM3ZKZC01Z3ZJWk1nT1RHZ0ZHVGJCaTNEY3E0cy1qLUN0S0QxRElVMdIBU0FVX3lxTE9QajRQbU5rVVhHZUhtZEJFS2xtd3YzNmxSUm94WHhFaC15ZnNRYkZOQVdCeGMtNTFXelY0VjhEMmVRbEwzeHV3TjdUaHVScDdyZW1z?oc=5",
-      "published": "2026-10-11T13:02:00"
     }
   ]
 }
