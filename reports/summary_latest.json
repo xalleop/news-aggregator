@@ -1,39 +1,34 @@
 {
-  "timestamp": "2026-10-12_16-34",
-  "total_articles": 67,
+  "timestamp": "2026-10-13_00-17",
+  "total_articles": 80,
   "sources": {
-    "ТАСС": 2,
-    "Коммерсантъ": 1,
+    "Интерфакс": 1,
+    "Коммерсантъ": 3,
     "Ведомости": 6,
     "Digital_Russia": 2,
     "Habr_AI": 19,
-    "CNews": 9,
-    "3DNews": 3,
+    "CNews": 10,
+    "3DNews": 9,
     "VC_ru_Технологии": 3,
     "The Centre for the Governance of AI Blog": 2,
-    "ИИ комплаенс и этика": 1,
-    "Google News": 19
+    "Google News": 25
   },
   "top_keywords": [
     [
       "ИИ",
-      52
-    ],
-    [
-      "Минцифры",
-      8
+      60
     ],
     [
       "AI",
-      8
+      12
+    ],
+    [
+      "Минцифры",
+      9
     ],
     [
       "регулирование",
       6
-    ],
-    [
-      "искусственный интеллект",
-      3
     ],
     [
       "governance",
@@ -44,70 +39,78 @@
       2
     ],
     [
-      "aigovernance",
+      "ESG",
+      2
+    ],
+    [
+      "искусственный интеллект",
+      1
+    ],
+    [
+      "цифровое регулирование",
       1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Как ИИ может менять собственный процесс развития через рекурсивное самоулучшение",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/ru_mts/articles/1092700/?utm_campaign=1092700&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-12T13:29:52"
-    },
-    {
-      "title": "Гонка ИИ: и первые станут последними - Октагон.Медиа",
+      "title": "Цифровое регулирование в Беларуси: к чему готовиться бизнесу - neg.by",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrS0NBZnhKTktxNGRZRV9ia05hQzBhLXBid1g1V0dYZUl2RjQzVHFib3hmclJndDlSOFRsRzVyWVhQRThUa0tESFBtNHd0SmdaSl90NEd0ZXJzaFpQaXZjXzEwTURWV3NLUGdMT0ItbVJ6LUgweFhwYldR?oc=5",
-      "published": "2026-10-12T13:21:15"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVzQxLXpucU9KcFo3Z3RGOVlFTENqdFlXendFbkpySU54Q2RuUW8wQU10bjBXaklIckU4MkJ0bm1vQjc5a3daQWIwM3ZrV2twbnJoX3dzcFhTa2ZkdEZYaDdQMXcycUhndE9CTTdlRC0wSzF6b0JTdWNkdTd6cTRXbndOMXdNbWdEZGlYdTRLV09vdG9tRFpZXw?oc=5",
+      "published": "2026-10-12T21:00:00"
     },
     {
-      "title": "ВС Республики Корея создали полигон для тренировки ИИ",
-      "source": "ТАСС",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28206325",
-      "published": "2026-10-12T13:21:02"
+      "title": "Intel вырезала из GPU блоки 3D-графики и трассировки лучей ради ИИ — представлен D270 с поддержкой до 480 Гбайт LPDDR5X",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1149823",
+      "published": "2026-10-12T20:56:00"
     },
     {
-      "title": "Лукьяненко: развитие ИИ может изменить природу человека за одно поколение",
-      "source": "ТАСС",
-      "url": "https://tass.ru/nauka/28206471",
-      "published": "2026-10-12T13:15:58"
+      "title": "Обучать школьников работе с ИИ сможет любой педагог - spbdnevnik.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb0lfX01XVHNOXzNySDNTWEdsb0JxNlE2MUZqcjJERmh1TFpPSjlZd3k2Vkk4bXozOG5OR2txaEVNOUI0cHhEMUZ1R0JDeEU5N2U4WURydVQ1SDlwOVB4bHg3ejhfWXBQZ0J4d0JHQmViZjFZZlhlenpULVlrX3dQX3dqeG4yRGpwSVNTRVFQOVluOHdFZHc?oc=5",
+      "published": "2026-10-12T20:37:30"
     },
     {
-      "title": "«Я не думаю, что ИИ способен уничтожить человечество сам по себе» // Замгенсека ООН рассказал, как государствам обезопасить общество от потери контроля над ИИ",
+      "title": "Вложившиеся в ИИ крупные биткоин-майнеры столкнулись с дефицитом денег - Bits Media",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ18yUGx4Y1BkNTNoX2gtM1ZLZUtfTl9mOTc4c2NFQmJJZ3o5bXh1N180c1lIb2JVOUNNdEU0aTVxZGpXcVg4Z1RkLUo5RDJtSF9ta3NuVnh6OEluOEM5ME1TXzkxRTl1STBRS0NBLXR0SHhMMkpCSEJYMm55VTlYVzRPRS00c2R4bm5Mb2pMTWtlaFhUN0s1OQ?oc=5",
+      "published": "2026-10-12T20:30:30"
+    },
+    {
+      "title": "Samsung разделит zNAND-память на три типа — для локального ИИ, дата-центров и инференса",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1149819",
+      "published": "2026-10-12T20:28:00"
+    },
+    {
+      "title": "$7300 за литр ИИ-мощностей: стартовали продажи мини-ПК AMD Ryzen AI Halo на чипе Ryzen AI Max+ Pro 495",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1149813",
+      "published": "2026-10-12T19:43:00"
+    },
+    {
+      "title": "Глава МВФ: «цунами» ИИ может обрушить рынки труда - BFM.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9Bd0w2WHlQM1o1Y0lrR2FlVzRoTi05al81TkM4WlBkX3BqQWtRWDRndGxLOUFGd2tXaUZPSnhXX3RHRzNX0gFKQVVfeXFMTnZrdFdMamdyNTlWZ3RKNU1CdXQ5XzVlYXFiU0xDQVdmbkxIbzVVMFVqMkk0MTVkZEtObk4taEtzN2lZUXJIcXhsWlE?oc=5",
+      "published": "2026-10-12T19:22:42"
+    },
+    {
+      "title": "M**a выпустила конкурентов GPT-6 Astra и Claude Fable — мощнейшие ИИ-модели Muse Wonder и Wonder Full",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1149812",
+      "published": "2026-10-12T19:16:00"
+    },
+    {
+      "title": "Ударные дроны поделятся опытом // Минобороны допустило разработчиков к видеоархиву для обучения военных нейросетей",
       "source": "Коммерсантъ",
-      "url": "https://www.kommersant.ru/doc/9024683",
-      "published": "2026-10-12T13:00:05"
+      "url": "https://www.kommersant.ru/doc/9025019",
+      "published": "2026-10-12T18:38:07"
     },
     {
-      "title": "Когда картинка лучше товара, или почему красивого визуала в e-commerce больше недостаточно",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/rwb/articles/1092120/?utm_campaign=1092120&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-12T13:00:05"
-    },
-    {
-      "title": "Вся правда о цифровизации строительной отрасли, диалог с правительством, рабочий софт и прикладной ИИ в руках инженера - Хабр",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81YlIzblpjaXVoTE9ENWFSY21ERGJ4Y3BQTTJPd0dKdDFCNU16dUQ1djBSajFYbXZSNUhzTGdnckVHd25MdElmdWRwTWw4TUgxUDBiNHpQX1F3ZU5xeE4yNG1iV2Q4cDTSAVhBVV95cUxNU0xmektTbzBsZUd6VzVrMFdfemluRTlnRzNpRFpzUmw5cUlzMlAwY1haWTZLaUFoV0NnSWtGUloxVm9ndjU3bFp1X24wTnJIeUJGUlh4NW5I?oc=5",
-      "published": "2026-10-12T12:54:36"
-    },
-    {
-      "title": "Татарстан обучил 6,5 тыс. чиновников работе с ИИ и готов передать методику другим регионам - Интерфакс Россия",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORVZ4eXNCbmtkdFZCQXNkWjlGVTlWb09IWThuU3c5MmdWeEJobkpIVVlQLTJRWVk0YWU3Qm5SN3JoSXc4TlY3UGl2Ynl5Ym5vMmotbjg4V0pQQ1l6ZExZQ2hNOThrMWpEbzhQckwxS2twU0s4WlQ1MFV0d1NwTllMNGFobVpPYUprSHY3ek05TE4tdGFIdWNlNG5JWnlFc2RvclZxWkJuMlprSHhhbGVtd21FVnJ3MDZPaUJKM2hBbXNhTmo5by1zN0pvS04?oc=5",
-      "published": "2026-10-12T12:52:53"
-    },
-    {
-      "title": "Президент Microsoft призвал ужесточить регулирование ИИ",
-      "source": "Ведомости",
-      "url": "https://www.vedomosti.ru/technology/news/2026/10/12/1236355-microsoft-prizval-uzhestochit",
-      "published": "2026-10-12T12:52:34"
-    },
-    {
-      "title": "Президент Microsoft призвал ужесточить регулирование ИИ - Ведомости",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSFp5YlBoYUc2cmRacm9SeHdhVzA1ZWZBS2QyUnh0ekhjZlNac0NEUlJ1MFRNNU8wVVFsUWp3dFh0N3NhYVZlNDBCeXpadkZvYlhYaW1ZMHl4MTQ3V2w1aWlCd0FMb29KN1lRQXNfS3QzcDg3aTFBRk51ajdHVzlaZEVOeGNBdHRaREpHWWpYLVdyOHM?oc=5",
-      "published": "2026-10-12T12:52:34"
+      "title": "Ремонт отделений \"Почты России\" планируется профинансировать из допдоходов бюджета",
+      "source": "Интерфакс",
+      "url": "https://www.interfax.ru/russia/1121931",
+      "published": "2026-10-12T17:29:00"
     }
   ]
 }
