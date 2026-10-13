@@ -1,8 +1,7 @@
 {
-  "timestamp": "2026-10-13_22-18",
-  "total_articles": 107,
+  "timestamp": "2026-10-14_02-05",
+  "total_articles": 105,
   "sources": {
-    "ТАСС": 1,
     "Коммерсантъ": 1,
     "Ведомости": 2,
     "Digital_Russia": 4,
@@ -12,20 +11,20 @@
     "VC_ru_Технологии": 2,
     "Montreal AI Ethics Institute": 1,
     "The Centre for the Governance of AI Blog": 12,
-    "Google News": 30
+    "Google News": 29
   },
   "top_keywords": [
     [
       "ИИ",
-      73
+      72
     ],
     [
       "AI",
-      25
+      24
     ],
     [
       "регулирование",
-      8
+      7
     ],
     [
       "Минцифры",
@@ -54,64 +53,64 @@
   ],
   "recent_headlines": [
     {
+      "title": "Конец привычного уютного айти. Что делать дальше",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1094080/?utm_campaign=1094080&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-13T22:36:49"
+    },
+    {
+      "title": "«Сбер» запустил GigaPlatform AI Studio для проверки ИИ-гипотез - Sostav.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdTZ0SDdqNVJsT3c5VXRfT0hGNTMzam42dDRKQnRROHBvNW05MFBaNFNtS05iZHE2LUNBdy1rWEx3N3k0cDJGSjBqRkZWNTVVV1RCanZFRF92LXZCb2o0dFAwV0w4em9ySENfMmhWelR1b1dIcmlFbl8td3puc3ZjQUpUblllRGo4b3AxTGk4RHBoaDZWM2V6SVNJOG9xRzVtb1Z2Y1o3MkZrMkZFbE9fLXRWTHFHNTg?oc=5",
+      "published": "2026-10-13T22:00:44"
+    },
+    {
+      "title": "Вайб-кодинг добрался до Android: Google разрешила запускать собственные приложения без публикации в «Play Маркете»",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1149880",
+      "published": "2026-10-13T21:21:00"
+    },
+    {
+      "title": "В РПЦ высказались о сгенерированных ИИ иконах - spbdnevnik.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWVplZm5pZHZ4YjlBOFNsUERfalIwcDZGWUowRkxseDcydmtLaGlYdDJKNDh4a2hDRW91Rk9oZVF6OXo2cENCYzE2MnBld1pZVTJ0dUdKWGs3eVl4QVRSbE9UREtYRHJaWjhZN2I5N1NmRkxJWDFSSlE3bDNCdkF5a0VyaWFqY2lVOVlzMVh3?oc=5",
+      "published": "2026-10-13T20:45:05"
+    },
+    {
+      "title": "ИИ‑агенты. Часть 1: Первые шаги",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1094062/?utm_campaign=1094062&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-13T20:37:12"
+    },
+    {
+      "title": "Google добавила флагманскую ИИ-модель Gemini 4 Argon в подписку за $20 — но с ограничениями",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1149878",
+      "published": "2026-10-13T19:59:00"
+    },
+    {
+      "title": "До $20 000 за один баг: Google расширила программу поиска уязвимостей Chrome",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1149879",
+      "published": "2026-10-13T19:51:00"
+    },
+    {
       "title": "Эксперимент ученых показал, что люди предпочитают новости, написанные ИИ - Наука Mail",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPODdLLV9BcDJZRVBKRXp6TjB3MGZzSTBLQUNxTkFzY0NJeVFnVmVtd3B0Ylg4Ti1icDFFTmhSSDQzSlBQUUtveDhKaHl0a1o0WjVoZm9sNXFpYjJLbVJWa2hlc2FiRVhyYmFmNWVUd1Q0SWpBSDlZM0FkRENHcG1vNklDeFkyeThUSWd3ZERGbGhkSlNfWkVqUG9ITHJzRHVfbURoSlRUWTZ1N05tSEQtZlhOYw?oc=5",
       "published": "2026-10-13T19:00:46"
     },
     {
-      "title": "Педиатры обсудили развитие ИИ в диагностике детей и перспективы генной терапии",
-      "source": "ТАСС",
-      "url": "https://tass.ru/nauka/28210979",
-      "published": "2026-10-13T18:50:53"
+      "title": "Что не так с нейрорекламой: почему ИИ-ролики выглядят одинаково уныло и как этого избежать - Sostav.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSDVUT2FjTVlvRVZqZGhMZTgxTldQR3BYY3ZHTll1Nk5IUGdLY1E4eU0wR2l3MkVwUzM5anJaQkxUUjhJdmxwbXdUVEEwcmZoQ3ZHSV83WWpaRXpHT2tzTHRKWXg3T2FoengxZkd6bWYzZFB2RHV3TEZvNE1uSUlGZlJSU0JWUFlSV0R2cTUzZjA4VG5malNNVjRzT09hZTFyQ0IyTWFBM1dnSnpfR2Q5aDdwZVBsMzFjNG80X09ZNDdUWlVxUUI1eFNaUmZDSXI0Q3JMVGU4WHVxemg4TXpF?oc=5",
+      "published": "2026-10-13T18:53:46"
     },
     {
       "title": "Google разрешила выкладывать в Google Play созданные с помощью ИИ приложения без платного аккаунта разработчика - The Insider",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE94X1E0Q3Y4YjYyMW5NRjBDLW1wOUNtYVpMc1g2UkJpcG5jRmxIemo4enJ4QjZONUotWHE3YXlBUlJoNms?oc=5",
       "published": "2026-10-13T18:49:51"
-    },
-    {
-      "title": "Комнатный RAG: бесплатный ИИ-помощник-консультант по содержимому сайта",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1094042/?utm_campaign=1094042&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-13T18:43:39"
-    },
-    {
-      "title": "ИИ, Интернет и будущее мира - Хабр",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9OcVFWSEJ0RGJwejlSVTA1Yzdna3BQem1peWhZZlM1RHJvOHRIaVEtMGFteWx6NXJkc2FETXRHWkVlNzZLT2NRSVNNemtNd9IBWEFVX3lxTE5ZS2dPLXJ5MEU5bU1zY0dlUDd1R2p1cEJGenpSekUxNUlNNmRycUdMSnc2dk1fRU9LNDlnMVNDNWJzbVVmUU1MOWdXMUE0S3g1M3p4Z2pYRTI?oc=5",
-      "published": "2026-10-13T18:24:59"
-    },
-    {
-      "title": "The AI Ethics Brief #201: The Year the Terms Became Visible",
-      "source": "Montreal AI Ethics Institute",
-      "url": "https://brief.montrealethics.ai/p/the-ai-ethics-brief-201-the-year",
-      "published": "2026-10-13T18:00:31"
-    },
-    {
-      "title": "Anthropic: ИИ-модели научились размножаться через умные устройства - BFM.ru",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5qaXJnWmFZRTBjNHp0cDZzU1NBX2Rjd0NVbmRoUnZicDVtdjJnVzdtNi1FYzRIMlo4QlVZbW5URjR6VWJJ?oc=5",
-      "published": "2026-10-13T17:58:07"
-    },
-    {
-      "title": "ИИ ускорил написание кода на 30 %, но готового ПО больше не стало — исследователи узнали, почему",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1149875",
-      "published": "2026-10-13T17:49:00"
-    },
-    {
-      "title": "NVIDIA и DeepMind взялись за термояд. ИИ будет предсказывать плазму между запусками - SecurityLab.ru",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWTEVvUjVvRm02eURneUh1cHhTdjZwSkxkcDlnbmNWWXNJekVSTjZTdmN0c1VPYXBtYlBvZ3Roc1A0cmlsaEc4WnNPYXZMRnBkQTNvVQ?oc=5",
-      "published": "2026-10-13T17:32:54"
-    },
-    {
-      "title": "Россияне готовы поручить ИИ покупки, но не свои финансы / Экономика - Независимая газета",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qV0hnNlEzc0R0Z0I5LWlEN1NoM0RyM1RKQnBkVkFaT3VOTEQ2ZktrTlF2VWlBX2dDdzhZRlpBZngyNThIcERmQjFjbmkxd1VhS1MwVXZmN1ptZWpSQnRNRnpMOA?oc=5",
-      "published": "2026-10-13T17:24:27"
     }
   ]
 }
