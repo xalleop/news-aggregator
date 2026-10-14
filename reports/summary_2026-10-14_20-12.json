@@ -1,0 +1,113 @@
+{
+  "timestamp": "2026-10-14_20-12",
+  "total_articles": 93,
+  "sources": {
+    "ТАСС": 1,
+    "Коммерсантъ": 1,
+    "Ведомости": 3,
+    "Digital_Russia": 3,
+    "Habr_AI": 23,
+    "CNews": 17,
+    "3DNews": 14,
+    "VC_ru_Технологии": 1,
+    "Montreal AI Ethics Institute": 1,
+    "The Centre for the Governance of AI Blog": 1,
+    "Google News": 28
+  },
+  "top_keywords": [
+    [
+      "ИИ",
+      66
+    ],
+    [
+      "AI",
+      12
+    ],
+    [
+      "Минцифры",
+      9
+    ],
+    [
+      "ESG",
+      7
+    ],
+    [
+      "искусственный интеллект",
+      4
+    ],
+    [
+      "регулирование",
+      4
+    ],
+    [
+      "ethics",
+      1
+    ],
+    [
+      "policy",
+      1
+    ]
+  ],
+  "recent_headlines": [
+    {
+      "title": "Будущее на стыке земли и данных: АПК как новый High-Tech",
+      "source": "ТАСС",
+      "url": "https://tass.ru/nauka/28214821",
+      "published": "2026-10-14T17:05:25"
+    },
+    {
+      "title": "ИИ-агенты OpenAI генерируют больше текста и кода, чем обычный ChatGPT - Хабр",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ldngtZTJuSmExbEQ4SUpFQkdIX0xsdVpicWlXSmNwdHRqYVdTazM4ZHd3eG1ZMU82b1F5M0dHVmkzZE96VVdLOdIBWEFVX3lxTE1ZalNXejhjeUxyQUJKVlVtNFUyUlpxYnlva1ZzenVyTnFDQnNPTFgzZHREZGxvaGdGeldoLXRvOWM1b3JrN0dHdlNDRm5DMjU5c2tmRjZNZUc?oc=5",
+      "published": "2026-10-14T17:01:41"
+    },
+    {
+      "title": "Первые атаки ИИ-агентов — лишь «предупредительные выстрелы», предупредил бывший глава Google DeepMind",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1149933",
+      "published": "2026-10-14T16:40:00"
+    },
+    {
+      "title": "Благодаря вайб-кодингу Epic Games Store наконец заработал быстрее Steam",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1149932",
+      "published": "2026-10-14T16:29:00"
+    },
+    {
+      "title": "«Яндекс»: большая часть функций умных устройств и чата с «Алисой AI» снова доступна - Хабр",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBfanE0M0NIZEhUWDg2aUs1Y043LTlUbS1zem1yTXIxZ2ptX01GcUVoWndKUFJJWHU0QTItUjFSRkh6N2IyVDJ3RdIBWEFVX3lxTFBiQlZESFdwcGZQemFwdWVnM0FCT3Nta3U4V2x3MVdNV0RIUGtNTmdfcVI1T2dObzN1TlVmSWVsVi05TUxvTVA4U0t2VEVTNUFaRDdQY1BnMnM?oc=5",
+      "published": "2026-10-14T16:19:13"
+    },
+    {
+      "title": "В китайских iPhone проявится ИИ — но не такой, как в США и других странах",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1149930",
+      "published": "2026-10-14T16:08:00"
+    },
+    {
+      "title": "Атаки российских дронов на Украину спрогнозируют с помощью ИИ",
+      "source": "Коммерсантъ",
+      "url": "https://www.kommersant.ru/doc/9026641",
+      "published": "2026-10-14T16:02:16"
+    },
+    {
+      "title": "«Яндекс» восстановил большую часть функций «Алисы AI» и умных устройств",
+      "source": "Ведомости",
+      "url": "https://www.vedomosti.ru/technology/news/2026/10/14/1237117-funktsii-alisi-i-ustroistv",
+      "published": "2026-10-14T15:40:56"
+    },
+    {
+      "title": "«Яндекс» восстановил работу большинства ИИ-сервисов после повреждения ЦОД - Финам",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZXNkU2dnWklDN18tSjVzNC04SHlHSjdMNGdHTlIyZjBqODBGMXZOUTl3U3hZOG9HMHN0VnZibjUwX1dWRTIzaVo5d3VkaFZEd2xxUFduWVRydXNGYU5DbnZCQXRtX2F4ZndXRG9mY2x6S3lkbVJfdmJaUl9ibktEQ2V0R2lmanBPVEV4ZEFXU2p4NE9Iekx0bmZhM2Z4YlpsNkFmTHRhanRzb2d5ZldQQU5STnNaTWFnM1NGY1JpNTlpQ1I4OFJoXw?oc=5",
+      "published": "2026-10-14T15:33:24"
+    },
+    {
+      "title": "AI уже делает инженеров хуже? Как агентная разработка выращивает технологический зоопарк",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1094430/?utm_campaign=1094430&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-14T15:02:37"
+    }
+  ]
+}

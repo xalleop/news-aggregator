@@ -1,42 +1,43 @@
 {
-  "timestamp": "2026-10-14_13-39",
-  "total_articles": 85,
+  "timestamp": "2026-10-14_20-12",
+  "total_articles": 93,
   "sources": {
-    "ТАСС": 3,
-    "Ведомости": 2,
-    "Digital_Russia": 2,
+    "ТАСС": 1,
+    "Коммерсантъ": 1,
+    "Ведомости": 3,
+    "Digital_Russia": 3,
     "Habr_AI": 23,
-    "CNews": 16,
-    "3DNews": 15,
+    "CNews": 17,
+    "3DNews": 14,
+    "VC_ru_Технологии": 1,
     "Montreal AI Ethics Institute": 1,
     "The Centre for the Governance of AI Blog": 1,
-    "ИИ комплаенс и этика": 2,
-    "Google News": 20
+    "Google News": 28
   },
   "top_keywords": [
     [
       "ИИ",
-      65
+      66
     ],
     [
       "AI",
-      15
+      12
     ],
     [
       "Минцифры",
+      9
+    ],
+    [
+      "ESG",
       7
     ],
     [
       "искусственный интеллект",
-      3
+      4
     ],
     [
       "регулирование",
-      3
-    ],
-    [
-      "ESG",
-      2
+      4
     ],
     [
       "ethics",
@@ -45,72 +46,68 @@
     [
       "policy",
       1
-    ],
-    [
-      "aigovernance",
-      1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Экспериментальное внедрение кадрового ЭДО в ФОИВ существенно расширяется – проект постановления",
-      "source": "Digital_Russia",
-      "url": "https://d-russia.ru/eksperimentalnoe-vnedrenie-kadrovogo-edo-v-foiv-sushhestvenno-rasshiryaetsya-proekt-postanovleniya.html",
-      "published": "2026-10-14T10:34:05"
-    },
-    {
-      "title": "ИИ-поисковик TorrentClaw проверяет содержимое раздач на подделки и малварь - Xakep",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DanN0YjVYbVk2VFR4MDRTSWJ0SEpEc1k0MXpNSGVUeHc0U2RuT0w3V2FaQTJzY0VySkdiYVliVWd2VldLbFoyTE9lSkF0NndRNlE?oc=5",
-      "published": "2026-10-14T10:32:43"
-    },
-    {
-      "title": "НЦК ИСУ: ИИ поможет снизить себестоимость разработки в 10 раз к 2030 году",
-      "source": "CNews",
-      "url": "https://www.cnews.ru/news/line/2026-10-14_ntsk_isu_ii_pomozhet_snizit",
-      "published": "2026-10-14T10:25:00"
-    },
-    {
-      "title": "Регулирование платного приема в университетах — это защита граждан от некачественного высшего образования - Министерство науки и высшего образования РФ",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FMEZMNW5FSVhzazByV1JQQURWWVR3dUJQSS1TUzhBRDN1UTk1UGUta3Nld1NOVTZUaE9qUUlyaGVBd3JCRlV6TFczbmFfTlVjeU5sMHZic2JEWEFEOE92Z1VjSHBBZnZTbmk5VzVwbk1ZVmxQcEVyY2tFczgxUQ?oc=5",
-      "published": "2026-10-14T10:24:57"
-    },
-    {
-      "title": "«СпрутМонитор» внедряет собственный ИИ-движок: семантический DLP без внешних сервисов",
-      "source": "CNews",
-      "url": "https://www.cnews.ru/news/line/2026-10-14_sprutmonitor_vnedryaet",
-      "published": "2026-10-14T10:24:00"
-    },
-    {
-      "title": "Вступление в силу «правила двух ОС» для реестрового ПО переносится — проект постановления",
-      "source": "Digital_Russia",
-      "url": "https://d-russia.ru/vstuplenie-v-silu-pravila-dvuh-os-dlya-reestrovogo-po-perenositsya-proekt-postanovleniya.html",
-      "published": "2026-10-14T10:18:27"
-    },
-    {
-      "title": "Модули по ИИ намерены внедрить во все программы вузов с 2027 года",
+      "title": "Будущее на стыке земли и данных: АПК как новый High-Tech",
       "source": "ТАСС",
-      "url": "https://tass.ru/obschestvo/28213237",
-      "published": "2026-10-14T10:16:17"
+      "url": "https://tass.ru/nauka/28214821",
+      "published": "2026-10-14T17:05:25"
     },
     {
-      "title": "Определение основных принципов ESG: основа для долгосрочного развития и устойчивого развития. - Vietnam.vn",
+      "title": "ИИ-агенты OpenAI генерируют больше текста и кода, чем обычный ChatGPT - Хабр",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeWlsWVROOGpxd0hkcGNzVVdhd3UzSW8wNEdzN1ZLZnJNdVpTOTBwd244OFA3WUk2Sk1la2sybUZVZmlyY3UxRjJyZjlzOWkwZ3JNLTMzVmlQVi12OFBrX3hCem1LOGo4ZzN1U0RSZkZLZWF6ZFEwNWxpd2xlbGdRWVM0ZGFUUFN0SktINEFIMUc2cWlYc1J0YVZpbjlIQQ?oc=5",
-      "published": "2026-10-14T10:15:38"
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ldngtZTJuSmExbEQ4SUpFQkdIX0xsdVpicWlXSmNwdHRqYVdTazM4ZHd3eG1ZMU82b1F5M0dHVmkzZE96VVdLOdIBWEFVX3lxTE1ZalNXejhjeUxyQUJKVlVtNFUyUlpxYnlva1ZzenVyTnFDQnNPTFgzZHREZGxvaGdGeldoLXRvOWM1b3JrN0dHdlNDRm5DMjU5c2tmRjZNZUc?oc=5",
+      "published": "2026-10-14T17:01:41"
     },
     {
-      "title": "GigaCowork включен в Единый реестр российского ПО",
-      "source": "CNews",
-      "url": "https://www.cnews.ru/news/line/2026-10-14_gigacowork_vklyuchen_v_edinyj_reestr",
-      "published": "2026-10-14T10:15:00"
+      "title": "Первые атаки ИИ-агентов — лишь «предупредительные выстрелы», предупредил бывший глава Google DeepMind",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1149933",
+      "published": "2026-10-14T16:40:00"
     },
     {
-      "title": "ИИ будет предсказывать поломки промышленного оборудования до аварии - Высшая школа экономики",
+      "title": "Благодаря вайб-кодингу Epic Games Store наконец заработал быстрее Steam",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1149932",
+      "published": "2026-10-14T16:29:00"
+    },
+    {
+      "title": "«Яндекс»: большая часть функций умных устройств и чата с «Алисой AI» снова доступна - Хабр",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFRFRzR1poNVRMN19vVDZZVHB3NHljMzBMalNsU1d3SHVCNnFDcGozdzhVOTNuaWxiLXZ6LW9xZ3pmVUdveS1sc1hzTzFGallGNXlleHRPc2VkOE1H?oc=5",
-      "published": "2026-10-14T10:14:06"
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBfanE0M0NIZEhUWDg2aUs1Y043LTlUbS1zem1yTXIxZ2ptX01GcUVoWndKUFJJWHU0QTItUjFSRkh6N2IyVDJ3RdIBWEFVX3lxTFBiQlZESFdwcGZQemFwdWVnM0FCT3Nta3U4V2x3MVdNV0RIUGtNTmdfcVI1T2dObzN1TlVmSWVsVi05TUxvTVA4U0t2VEVTNUFaRDdQY1BnMnM?oc=5",
+      "published": "2026-10-14T16:19:13"
+    },
+    {
+      "title": "В китайских iPhone проявится ИИ — но не такой, как в США и других странах",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1149930",
+      "published": "2026-10-14T16:08:00"
+    },
+    {
+      "title": "Атаки российских дронов на Украину спрогнозируют с помощью ИИ",
+      "source": "Коммерсантъ",
+      "url": "https://www.kommersant.ru/doc/9026641",
+      "published": "2026-10-14T16:02:16"
+    },
+    {
+      "title": "«Яндекс» восстановил большую часть функций «Алисы AI» и умных устройств",
+      "source": "Ведомости",
+      "url": "https://www.vedomosti.ru/technology/news/2026/10/14/1237117-funktsii-alisi-i-ustroistv",
+      "published": "2026-10-14T15:40:56"
+    },
+    {
+      "title": "«Яндекс» восстановил работу большинства ИИ-сервисов после повреждения ЦОД - Финам",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZXNkU2dnWklDN18tSjVzNC04SHlHSjdMNGdHTlIyZjBqODBGMXZOUTl3U3hZOG9HMHN0VnZibjUwX1dWRTIzaVo5d3VkaFZEd2xxUFduWVRydXNGYU5DbnZCQXRtX2F4ZndXRG9mY2x6S3lkbVJfdmJaUl9ibktEQ2V0R2lmanBPVEV4ZEFXU2p4NE9Iekx0bmZhM2Z4YlpsNkFmTHRhanRzb2d5ZldQQU5STnNaTWFnM1NGY1JpNTlpQ1I4OFJoXw?oc=5",
+      "published": "2026-10-14T15:33:24"
+    },
+    {
+      "title": "AI уже делает инженеров хуже? Как агентная разработка выращивает технологический зоопарк",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1094430/?utm_campaign=1094430&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-14T15:02:37"
     }
   ]
 }
