@@ -1,113 +1,115 @@
 {
-  "timestamp": "2026-10-14_20-12",
-  "total_articles": 93,
+  "timestamp": "2026-10-15_00-55",
+  "total_articles": 94,
   "sources": {
-    "ТАСС": 1,
-    "Коммерсантъ": 1,
+    "ТАСС": 3,
+    "Интерфакс": 1,
+    "Коммерсантъ": 2,
     "Ведомости": 3,
     "Digital_Russia": 3,
-    "Habr_AI": 23,
+    "Habr_Топ_День": 1,
+    "Habr_AI": 22,
     "CNews": 17,
-    "3DNews": 14,
+    "3DNews": 8,
     "VC_ru_Технологии": 1,
-    "Montreal AI Ethics Institute": 1,
     "The Centre for the Governance of AI Blog": 1,
-    "Google News": 28
+    "ИИ комплаенс и этика": 1,
+    "Google News": 31
   },
   "top_keywords": [
     [
       "ИИ",
-      66
+      68
     ],
     [
       "AI",
-      12
+      11
     ],
     [
       "Минцифры",
-      9
+      10
     ],
     [
       "ESG",
       7
     ],
     [
-      "искусственный интеллект",
-      4
-    ],
-    [
       "регулирование",
-      4
+      3
     ],
     [
-      "ethics",
-      1
+      "искусственный интеллект",
+      2
     ],
     [
       "policy",
+      1
+    ],
+    [
+      "aigovernance",
       1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Будущее на стыке земли и данных: АПК как новый High-Tech",
+      "title": "YouTube вводит маркировку для созданных ИИ треков",
       "source": "ТАСС",
-      "url": "https://tass.ru/nauka/28214821",
-      "published": "2026-10-14T17:05:25"
+      "url": "https://tass.ru/obschestvo/28215459",
+      "published": "2026-10-14T21:44:33"
     },
     {
-      "title": "ИИ-агенты OpenAI генерируют больше текста и кода, чем обычный ChatGPT - Хабр",
+      "title": "В Петербурге эксперты обсудили влияние вейпов на здоровье и регулирование их продажи - Вечерний Санкт-Петербург",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ldngtZTJuSmExbEQ4SUpFQkdIX0xsdVpicWlXSmNwdHRqYVdTazM4ZHd3eG1ZMU82b1F5M0dHVmkzZE96VVdLOdIBWEFVX3lxTE1ZalNXejhjeUxyQUJKVlVtNFUyUlpxYnlva1ZzenVyTnFDQnNPTFgzZHREZGxvaGdGeldoLXRvOWM1b3JrN0dHdlNDRm5DMjU5c2tmRjZNZUc?oc=5",
-      "published": "2026-10-14T17:01:41"
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUlXVmhUZ1NNZklobWFkQk9CSzJxYzFXc1hsMWFZcXZMLW56MnI2ckRJQWNicU1rdW9uaE9vUHB6ZHpwbTQxSkhmbHVDTUpWa2VrdWFMYndlcTVscnZzY19LVE1RdDJlN21abDdZZjJORkVETDlxS3ViU1AwNV9mMXdOZGxSRnlJQmdRV0NIYTNJclFRdVZPMmJhOTU1Q3JsbVg5YVdVUlFDaWZhN3lfT0JVRGZ1NC1pSUtHNmln?oc=5",
+      "published": "2026-10-14T21:43:06"
     },
     {
-      "title": "Первые атаки ИИ-агентов — лишь «предупредительные выстрелы», предупредил бывший глава Google DeepMind",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1149933",
-      "published": "2026-10-14T16:40:00"
-    },
-    {
-      "title": "Благодаря вайб-кодингу Epic Games Store наконец заработал быстрее Steam",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1149932",
-      "published": "2026-10-14T16:29:00"
-    },
-    {
-      "title": "«Яндекс»: большая часть функций умных устройств и чата с «Алисой AI» снова доступна - Хабр",
+      "title": "Сколько будет стоить отечественный чип для ИИ - Ведомости",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBfanE0M0NIZEhUWDg2aUs1Y043LTlUbS1zem1yTXIxZ2ptX01GcUVoWndKUFJJWHU0QTItUjFSRkh6N2IyVDJ3RdIBWEFVX3lxTFBiQlZESFdwcGZQemFwdWVnM0FCT3Nta3U4V2x3MVdNV0RIUGtNTmdfcVI1T2dObzN1TlVmSWVsVi05TUxvTVA4U0t2VEVTNUFaRDdQY1BnMnM?oc=5",
-      "published": "2026-10-14T16:19:13"
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0JUWmI2dTBCbWx4SC1hZUhDeWZTU2k4SHY5ZzRNLWZucHRhV25weGVIeG9mTkVsN0l5d3UxNTVvWGpVSy0tZ1hkbkV6VVh6ZFFQMlpVMWc5bFYybngwR2E3UFg2czlJdXduOEZhai1pYjh3cFJqdEMyNVdGSXcxa0xuU3RHa3BpWjYxbHpzZ2xkV1VuVVpqc0d0OA?oc=5",
+      "published": "2026-10-14T21:19:28"
     },
     {
-      "title": "В китайских iPhone проявится ИИ — но не такой, как в США и других странах",
+      "title": "ИИ-модель помогла выявить почти вдвое больше случаев рака при диспансеризации",
+      "source": "ТАСС",
+      "url": "https://tass.ru/obschestvo/28215383",
+      "published": "2026-10-14T21:01:11"
+    },
+    {
+      "title": "В BlackRock видят угрозу рецессии в США при отказе от строительства дата-центров",
+      "source": "ТАСС",
+      "url": "https://tass.ru/ekonomika/28215307",
+      "published": "2026-10-14T20:18:53"
+    },
+    {
+      "title": "Хуанг пригрозил перекрыть поставки чипов Nvidia создателям опасного ИИ — и призвал не бояться технологии",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1149930",
-      "published": "2026-10-14T16:08:00"
+      "url": "https://3dnews.ru/1149942",
+      "published": "2026-10-14T20:01:00"
     },
     {
-      "title": "Атаки российских дронов на Украину спрогнозируют с помощью ИИ",
-      "source": "Коммерсантъ",
-      "url": "https://www.kommersant.ru/doc/9026641",
-      "published": "2026-10-14T16:02:16"
+      "title": "Politico пишет, что Европа отказывается от создания передовых моделей ИИ",
+      "source": "Интерфакс",
+      "url": "https://www.interfax.ru/world/1122498",
+      "published": "2026-10-14T19:52:00"
     },
     {
-      "title": "«Яндекс» восстановил большую часть функций «Алисы AI» и умных устройств",
-      "source": "Ведомости",
-      "url": "https://www.vedomosti.ru/technology/news/2026/10/14/1237117-funktsii-alisi-i-ustroistv",
-      "published": "2026-10-14T15:40:56"
-    },
-    {
-      "title": "«Яндекс» восстановил работу большинства ИИ-сервисов после повреждения ЦОД - Финам",
+      "title": "Politico пишет, что Европа отказывается от создания передовых моделей ИИ - Интерфакс",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZXNkU2dnWklDN18tSjVzNC04SHlHSjdMNGdHTlIyZjBqODBGMXZOUTl3U3hZOG9HMHN0VnZibjUwX1dWRTIzaVo5d3VkaFZEd2xxUFduWVRydXNGYU5DbnZCQXRtX2F4ZndXRG9mY2x6S3lkbVJfdmJaUl9ibktEQ2V0R2lmanBPVEV4ZEFXU2p4NE9Iekx0bmZhM2Z4YlpsNkFmTHRhanRzb2d5ZldQQU5STnNaTWFnM1NGY1JpNTlpQ1I4OFJoXw?oc=5",
-      "published": "2026-10-14T15:33:24"
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9OQTNMTzNzU092elNaeEZibE5qa0prMVlocGx4cDFjcFVhYzhQUHZ1UGRYM2I4ak5JREVFSjF2a1B0WENvT0dkX3lVNE9xQdIBS0FVX3lxTE1OTTRRbDl4bnJkOHNyY0R0a05jVUNxSlBCWW1TOVk0TkVzMll3bXF4VWFtWjFWcVFkSW9ReVdJSlNuQm1hQnhzejYzVQ?oc=5",
+      "published": "2026-10-14T19:52:00"
     },
     {
-      "title": "AI уже делает инженеров хуже? Как агентная разработка выращивает технологический зоопарк",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1094430/?utm_campaign=1094430&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-14T15:02:37"
+      "title": "Politico пишет, что Европа отказывается от создания передовых моделей ИИ - Интерфакс",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OTTRRbDl4bnJkOHNyY0R0a05jVUNxSlBCWW1TOVk0TkVzMll3bXF4VWFtWjFWcVFkSW9ReVdJSlNuQm1hQnhzejYzVdIBS0FVX3lxTE1OTTRRbDl4bnJkOHNyY0R0a05jVUNxSlBCWW1TOVk0TkVzMll3bXF4VWFtWjFWcVFkSW9ReVdJSlNuQm1hQnhzejYzVQ?oc=5",
+      "published": "2026-10-14T19:52:00"
+    },
+    {
+      "title": "Сделал CEO AI: помощника для обсуждения задач и работы с ИИ-агентами - Хабр",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBrT1VINlZ2UGllcXh6S212bFBPNk9SNzJzVm4tUmp3QnRXM1poTVk0S3R4RE5lV3hxQV85LUI5RnRvQWRBUjFaWNIBWEFVX3lxTE5pQzNWTlJIbTlzN1ZXaUFqZ3JNekFKbEtVenBiXzlwcTJKcFJFQkdDa0lRaW5zb2RNV0RLa2hfT1VMMDVhei1PeHRXdWJnYkdSOTRrT251WkU?oc=5",
+      "published": "2026-10-14T19:48:28"
     }
   ]
 }
