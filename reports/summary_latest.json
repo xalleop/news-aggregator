@@ -1,104 +1,102 @@
 {
-  "timestamp": "2026-10-15_20-02",
-  "total_articles": 70,
+  "timestamp": "2026-10-16_00-43",
+  "total_articles": 66,
   "sources": {
-    "ТАСС": 3,
     "Ведомости": 1,
     "Digital_Russia": 2,
-    "Habr_AI": 8,
+    "Habr_AI": 9,
     "CNews": 20,
-    "3DNews": 9,
+    "3DNews": 11,
     "VC_ru_Технологии": 2,
     "AI Policy Perspectives": 1,
-    "ИИ комплаенс и этика": 2,
-    "Google News": 22
+    "Google News": 20
   },
   "top_keywords": [
     [
       "ИИ",
-      52
+      48
     ],
     [
       "AI",
-      12
+      9
     ],
     [
       "Минцифры",
       5
     ],
     [
+      "искусственный интеллект",
+      3
+    ],
+    [
       "регулирование",
-      4
+      3
     ],
     [
       "ESG",
       3
-    ],
-    [
-      "aigovernance",
-      1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Агенты выходят на работу, а BPMN уже знает, как ими управлять",
+      "title": "Переводчик с тимлидского: что слышит команда, когда вы говорите «внедряем ИИ-агентов»",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1094934/?utm_campaign=1094934&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-15T16:56:13"
+      "url": "https://habr.com/ru/articles/1095024/?utm_campaign=1095024&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-15T21:33:48"
     },
     {
-      "title": "Минпромторг проработает регулирование онлайн-мониторинга промпредприятий",
-      "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28219211",
-      "published": "2026-10-15T16:38:12"
-    },
-    {
-      "title": "МЭИ и \"Сколково\" будут обучать управлению проектами ИИ в энергетике",
-      "source": "ТАСС",
-      "url": "https://tass.ru/nauka/28219183",
-      "published": "2026-10-15T16:25:52"
-    },
-    {
-      "title": "Умный холодильник как источник киберугроз: как ИИ-черви могут заражать подключенные устройства - DW.com",
+      "title": "Эксперт: неэффективные методы использования ИИ встречаются более чем в 80 процентах случаев - Вечерний Санкт-Петербург",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTkhEX01Bak5oZ1VpdkJJazBYOFpUT2t2M2dGekNLN2Z5ajRFWlM4QkloVW8yaGtxRFo3dEF3X05iQV9sUUVIcENQWU81OTZZS3lPWWpVcW5uaVc3bmVZLTlIb0xHbnBMUGZyVjFvQ0pQZVFFeW1kbzdPdHpXTmxFNlQ2TkdaSElSR0Rsbmx2dVJMVXZRLVlHdzlEcXNsVHUxczlIZWdkNVJ5VkhrUXFUNHdDVE9jdWZFN1JHc1NoYlpBNUtTMWtyazgwV3U1UExSTzcxbW1oOWNrSjDSAdsBQVVfeXFMTUctYUxxTDM4dFdJUnBJMUtFUGZLNzhpdmVxVVFtTWJBVGkyNmdHMlhqOGtoOXJmVWVmZTR0TWxnZkd5U3VaWlYtTVZVTVZTTWFfVUlKTlJGbTdqM0NNM1lFSWZTTV9WV09iOUcteWZTMjZQWElVaGxLVERoOVktelhwOTJVc0tGZ1lCTGJOSkRkSjh1aGZXcWxyVG1fVVM5dWNHcmNDd252WDZVQjRCQ05JakVGVTc0akFoeWJXdTNrck93b2Q0am5yZ0xEOVdhNm9PaTFFTEk5MmZ3?oc=5",
-      "published": "2026-10-15T16:04:54"
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcmdzNVFPRHF0UkpUSDhMMFZCUE5FV2I0Q1d5MnQzYldKSGZxeDUzWV8yXzRESmxKS0tlMFlRM0ZLRS1mX0c3UjZrMnhxSFhLRXY1UENtdWNLSmp1MUs4ZE1MOVJrMkcxT2xjX1FSRnRvbmtVWVBzQ1dCekh6TUhNY2gzSDJUSnVxUGp6dUZIcmQtMWZ6UFdzX3U2LVJhLUR5SHBlUmM4ZGk3Rl85RjAxeTdSV3M5RUZJQ2lMck1hejZfd01RZ2szZndlWGU?oc=5",
+      "published": "2026-10-15T20:57:03"
     },
     {
-      "title": "Министр торговли Индии ожидает роста числа рабочих мест в стране благодаря ИИ - TV BRICS",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzc4cmJQeUpCWkxBamkxVnRBUnR1WnRzSDJ5LXZKeHBWNlR3Z1hrOGd4YzN5TERycFJNLWFrMnJMcHBTWDBRTGZJNTI5LUdIaWVYeHlPZTlDQWJLQlNibjdLM2xvdUtoQkY4dUE5aDI0bGZZeVpNaUZSbFpnalM5OUloNG90MVdvYXRJeGNEZ3Y5Y1FoWEtydlFjREYxVkJQWlhFN3BlbnBXenlf?oc=5",
-      "published": "2026-10-15T16:02:58"
-    },
-    {
-      "title": "Каждая пятая статья в российских СМИ содержит признаки ИИ - RB.RU",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbU9pOGN4TnE3a19jdnFDZ0FVd1ZuVVh0dGN4OWo1aVhMckJNRUFTNTlCNWhLRFVIeGRyTmtzamFMMnNQUFg4SjNLVWhtaVA5UFgtQlRwQ0pNdjZGYzFZNnJkdlM2RGVUUnc3dUlSd1ljRkpXWExpTTdYUGN0YjRXbEFNTnM1NUUtYmlvTWRTYjhQdWJUTzZhY1oyX1loRGhBXzJKNFdFYnRnWk5yOG1RMTFabDI2WWhpcmFvUmpFTlNjcjdOLTdnS1lLRXVFbXB6Q2t3?oc=5",
-      "published": "2026-10-15T16:00:00"
-    },
-    {
-      "title": "Путин: с помощью ИИ можно отследить \"каждую пачку гречки\" на маркетплейсах",
-      "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28219057",
-      "published": "2026-10-15T15:49:19"
-    },
-    {
-      "title": "Fincantieri направит почти $112 млн на роботизацию и физический ИИ - Портньюс",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5vcVM1N1hFNVMwMDEtVkhhdU1FV0lWQmlxVjZaTElQTFZhVnhfLTRkMFZ5ODVXQ05JNGgtTURMQTFXTGRzLWdV?oc=5",
-      "published": "2026-10-15T15:23:00"
-    },
-    {
-      "title": "МВФ: ИИ-пузырь может лопнуть, попутно нанеся огромный ущерб всей мировой экономике",
+      "title": "Вышла FLUX 3 Image Klein с открытыми весами для генерации и редактирования изображений — она быстро работает даже на RTX 4070",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1149973",
-      "published": "2026-10-15T15:20:00"
+      "url": "https://3dnews.ru/1150008",
+      "published": "2026-10-15T20:57:00"
     },
     {
-      "title": "МВФ: ИИ-пузырь может лопнуть, попутно нанеся огромный ущерб всей мировой экономике - ServerNews",
+      "title": "Google заявила об «умственном» превосходстве роботов с ИИ-моделью Gemini 4 Argon над остальными",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150007",
+      "published": "2026-10-15T20:02:00"
+    },
+    {
+      "title": "Как ИИ-агенты повторяют задачу: промпт, скилл, граф или код",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1094996/?utm_campaign=1094996&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-15T19:50:22"
+    },
+    {
+      "title": "ИИ-агенты взламывали сайты и обманывали — теперь OpenAI и Anthropic будут объясниться с FTC",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150002",
+      "published": "2026-10-15T19:43:00"
+    },
+    {
+      "title": "Meta* выпустила самую мощную открытую модель США. Китайские все равно сильнее",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1094982/?utm_campaign=1094982&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-15T19:29:02"
+    },
+    {
+      "title": "Apple превратила простаивающие Mac в «миньонов» — и заставила их работать на ИИ",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1149994",
+      "published": "2026-10-15T18:32:00"
+    },
+    {
+      "title": "YouTube начал маркировать ИИ-треки — сервис будет отмечать сгенерированную музыку и вокал - RB.RU",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1fTl9jeG1mN1BQcXN5RWxHOXlYNmk4b0N0czBvekdnODA5TjRyMGl6RHBtdWVnOGw2RnpiUk9Ibl9CWm8?oc=5",
-      "published": "2026-10-15T15:20:00"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTmRRYXlieXZKZDVJcWNtMFlkWS1kWExQaXJCc1ZyWWoySkV3YzlkcnA3a2lDR2lHeFRWZndJcFMtOHB0WldJOGluUGQtaVNyVjlJY1EySUFzOGUyN09iRXJzcS1ZUTZOSTVNWlVUOEtFUHRpSEE5U3F4NGpJNzRfQlZ1bFpqQXFBSllTUGRFMFFORDlSYkV1Q3REcnZBcUdpbUFaZC1IOGlkS0VU?oc=5",
+      "published": "2026-10-15T17:40:00"
+    },
+    {
+      "title": "Пассажир с помощью ИИ изменил посадочный талон и попытался улететь бизнес-классом - TourDom.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYnFaRm1xSHZoMnNnVV9LVmhfcFNvUUowNDN5UUZ0S1Z3TkV0U2pQODN5TkZkai1UTUFNSm9fc2xsMC0tTmt5RVo3a0wwaVMycmlFTUdIQVpKRzNEcWJrZFdKVm45SWZVbFY2MXlTNUMxbWhHVURtY2JTdklLUDM2N3lPMERVUmF4Y1phTVF4MzZrWV9Ubk4wWG82QjdKTlR5dWEyQ09Ca0gzUFZieTFuYUtWb045WldsbkE?oc=5",
+      "published": "2026-10-15T17:09:31"
     }
   ]
 }
