@@ -1,102 +1,104 @@
 {
-  "timestamp": "2026-10-15_13-22",
-  "total_articles": 84,
+  "timestamp": "2026-10-15_20-02",
+  "total_articles": 70,
   "sources": {
-    "Ведомости": 3,
-    "Digital_Russia": 3,
-    "Habr_Топ_День": 1,
-    "Habr_AI": 19,
-    "CNews": 21,
-    "3DNews": 7,
+    "ТАСС": 3,
+    "Ведомости": 1,
+    "Digital_Russia": 2,
+    "Habr_AI": 8,
+    "CNews": 20,
+    "3DNews": 9,
     "VC_ru_Технологии": 2,
-    "Google News": 28
+    "AI Policy Perspectives": 1,
+    "ИИ комплаенс и этика": 2,
+    "Google News": 22
   },
   "top_keywords": [
     [
       "ИИ",
-      55
+      52
     ],
     [
       "AI",
-      11
+      12
     ],
     [
       "Минцифры",
-      8
-    ],
-    [
-      "ESG",
-      6
-    ],
-    [
-      "регулирование",
       5
     ],
     [
-      "искусственный интеллект",
+      "регулирование",
+      4
+    ],
+    [
+      "ESG",
       3
+    ],
+    [
+      "aigovernance",
+      1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "ИИ-модель Сбера помогла выявить почти вдвое больше злокачественных образований при диспансеризации - Независимая газета",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE03Mk5qbUFNUWZqWTdhdlFhMDd2UnpONDN6MnFUSm1HbDVEUDFWUnFZRnNOR0FiUGxsdkNqbzN5M3YyMkZVNVhOZlV3?oc=5",
-      "published": "2026-10-15T10:19:43"
-    },
-    {
-      "title": "«Яндекс» восстановил значительную часть функций «Алисы AI», умных устройств и облачных сервисов",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1149965",
-      "published": "2026-10-15T10:15:00"
-    },
-    {
-      "title": "Кто в России разрабатывает ИИ-чипы – СМИ",
-      "source": "Digital_Russia",
-      "url": "https://d-russia.ru/kto-v-rossii-razrabatyvaet-ii-chipy-smi.html",
-      "published": "2026-10-15T10:02:36"
-    },
-    {
-      "title": "Сloud.ru представил сервис RepoWiki для автоматизации создания документации к коду с помощью ИИ",
-      "source": "CNews",
-      "url": "https://www.cnews.ru/news/line/2026-10-15_sloudru_predstavil_servis_repowiki",
-      "published": "2026-10-15T10:02:00"
-    },
-    {
-      "title": "[Перевод] Где искать возможности в B2C сегменте в AI",
+      "title": "Агенты выходят на работу, а BPMN уже знает, как ими управлять",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1094680/?utm_campaign=1094680&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-15T09:46:25"
+      "url": "https://habr.com/ru/articles/1094934/?utm_campaign=1094934&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-15T16:56:13"
     },
     {
-      "title": "Solar SIEM 2026.3 упрощает работу SOC-команд при расследовании инцидентов",
-      "source": "CNews",
-      "url": "https://www.cnews.ru/news/line/2026-10-15_solar_siem_20263_uproshchaet_rabotu",
-      "published": "2026-10-15T09:38:00"
+      "title": "Минпромторг проработает регулирование онлайн-мониторинга промпредприятий",
+      "source": "ТАСС",
+      "url": "https://tass.ru/ekonomika/28219211",
+      "published": "2026-10-15T16:38:12"
     },
     {
-      "title": "Во ФСИН предложили использовать ИИ для анализа разговоров заключённых - Радио Свобода",
+      "title": "МЭИ и \"Сколково\" будут обучать управлению проектами ИИ в энергетике",
+      "source": "ТАСС",
+      "url": "https://tass.ru/nauka/28219183",
+      "published": "2026-10-15T16:25:52"
+    },
+    {
+      "title": "Умный холодильник как источник киберугроз: как ИИ-черви могут заражать подключенные устройства - DW.com",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3RTYVNqOXl0ckp0OXphakJocjhIZm9Ed2RJQUFZOVJ0eXlyaVJWTmJCZk8tOXFjdmt5TktGR3hSS3VjZTlOSlp0N1Z5ZFRIUllXVnF2UVVQYWctLVVpTHl1S2JsWDJmUFR4aGljOTRKbTAzY2MyTDJ3MDhwUE9Ma1lPel9qSWh1MXZRZFpnRWxhVVRzcUJHRUYxTUpuWi1yd2JtdEwtSGpGR1FrbFlZQ2ZwOHrSAbcBQVVfeXFMUGZiODFMRXRuUGNuMXJKN3FWMFNyOWxZUUJpa091WDZSU1h4eWdPRzZuZHVEYWZEME1QYnlrT0J5cWFSWVlaZDRQclc1Tl9vM2pELXpoSjdFaHJkQVg5YTdtbFpTa1FOS1FrQWRUS2tfZmJsNGwxT1JjZnF1dU1XTm92XzJsdkdrUXp3dUo2Q2NLMG9kLXZ2Wm0ySG5jYk5rZzVwYWlENkVZZEVhX1VRMlVSTG8zZlpR?oc=5",
-      "published": "2026-10-15T09:37:03"
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTkhEX01Bak5oZ1VpdkJJazBYOFpUT2t2M2dGekNLN2Z5ajRFWlM4QkloVW8yaGtxRFo3dEF3X05iQV9sUUVIcENQWU81OTZZS3lPWWpVcW5uaVc3bmVZLTlIb0xHbnBMUGZyVjFvQ0pQZVFFeW1kbzdPdHpXTmxFNlQ2TkdaSElSR0Rsbmx2dVJMVXZRLVlHdzlEcXNsVHUxczlIZWdkNVJ5VkhrUXFUNHdDVE9jdWZFN1JHc1NoYlpBNUtTMWtyazgwV3U1UExSTzcxbW1oOWNrSjDSAdsBQVVfeXFMTUctYUxxTDM4dFdJUnBJMUtFUGZLNzhpdmVxVVFtTWJBVGkyNmdHMlhqOGtoOXJmVWVmZTR0TWxnZkd5U3VaWlYtTVZVTVZTTWFfVUlKTlJGbTdqM0NNM1lFSWZTTV9WV09iOUcteWZTMjZQWElVaGxLVERoOVktelhwOTJVc0tGZ1lCTGJOSkRkSjh1aGZXcWxyVG1fVVM5dWNHcmNDd252WDZVQjRCQ05JakVGVTc0akFoeWJXdTNrck93b2Q0am5yZ0xEOVdhNm9PaTFFTEk5MmZ3?oc=5",
+      "published": "2026-10-15T16:04:54"
     },
     {
-      "title": "Как власти потратят триллион на ИТ, медиа и связь",
-      "source": "CNews",
-      "url": "https://www.cnews.ru/news/top/2026-10-15_kak_vlasti_potratyat_trillion",
-      "published": "2026-10-15T09:04:00"
-    },
-    {
-      "title": "ИИ в химической промышленности: обновление профессиональных компетенций - Институт статистических исследований и экономики знаний",
+      "title": "Министр торговли Индии ожидает роста числа рабочих мест в стране благодаря ИИ - TV BRICS",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MdzZTOWZOLVR2djZhdms0R3dZRVhEWkVicVVtMEpDbGtITVRIQ3RzSVA5OEQxQ3ZCVFdXMjVNMG5sdFdvQl9oMjhkOWRpdlp3Y2Vn?oc=5",
-      "published": "2026-10-15T09:02:04"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzc4cmJQeUpCWkxBamkxVnRBUnR1WnRzSDJ5LXZKeHBWNlR3Z1hrOGd4YzN5TERycFJNLWFrMnJMcHBTWDBRTGZJNTI5LUdIaWVYeHlPZTlDQWJLQlNibjdLM2xvdUtoQkY4dUE5aDI0bGZZeVpNaUZSbFpnalM5OUloNG90MVdvYXRJeGNEZ3Y5Y1FoWEtydlFjREYxVkJQWlhFN3BlbnBXenlf?oc=5",
+      "published": "2026-10-15T16:02:58"
     },
     {
-      "title": "YouTube ввёл пометки для ИИ-песен - Сноб",
+      "title": "Каждая пятая статья в российских СМИ содержит признаки ИИ - RB.RU",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50a2dGLTJSRW0zUVV1bnRsZmF6ZmIxUUZ2MDNfQ1RpUDN5QWdUNEM3eklhQm5zbEpwSkt2RmZ1QjVGQmRWak9GMHllTlYzS3ZqaDJGTDV6UlM3RUdTdWN4dmUtRzlpXzJh?oc=5",
-      "published": "2026-10-15T09:00:42"
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbU9pOGN4TnE3a19jdnFDZ0FVd1ZuVVh0dGN4OWo1aVhMckJNRUFTNTlCNWhLRFVIeGRyTmtzamFMMnNQUFg4SjNLVWhtaVA5UFgtQlRwQ0pNdjZGYzFZNnJkdlM2RGVUUnc3dUlSd1ljRkpXWExpTTdYUGN0YjRXbEFNTnM1NUUtYmlvTWRTYjhQdWJUTzZhY1oyX1loRGhBXzJKNFdFYnRnWk5yOG1RMTFabDI2WWhpcmFvUmpFTlNjcjdOLTdnS1lLRXVFbXB6Q2t3?oc=5",
+      "published": "2026-10-15T16:00:00"
+    },
+    {
+      "title": "Путин: с помощью ИИ можно отследить \"каждую пачку гречки\" на маркетплейсах",
+      "source": "ТАСС",
+      "url": "https://tass.ru/ekonomika/28219057",
+      "published": "2026-10-15T15:49:19"
+    },
+    {
+      "title": "Fincantieri направит почти $112 млн на роботизацию и физический ИИ - Портньюс",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5vcVM1N1hFNVMwMDEtVkhhdU1FV0lWQmlxVjZaTElQTFZhVnhfLTRkMFZ5ODVXQ05JNGgtTURMQTFXTGRzLWdV?oc=5",
+      "published": "2026-10-15T15:23:00"
+    },
+    {
+      "title": "МВФ: ИИ-пузырь может лопнуть, попутно нанеся огромный ущерб всей мировой экономике",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1149973",
+      "published": "2026-10-15T15:20:00"
+    },
+    {
+      "title": "МВФ: ИИ-пузырь может лопнуть, попутно нанеся огромный ущерб всей мировой экономике - ServerNews",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1fTl9jeG1mN1BQcXN5RWxHOXlYNmk4b0N0czBvekdnODA5TjRyMGl6RHBtdWVnOGw2RnpiUk9Ibl9CWm8?oc=5",
+      "published": "2026-10-15T15:20:00"
     }
   ]
 }
