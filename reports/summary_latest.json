@@ -1,25 +1,20 @@
 {
-  "timestamp": "2026-10-15_00-55",
-  "total_articles": 94,
+  "timestamp": "2026-10-15_13-22",
+  "total_articles": 84,
   "sources": {
-    "ТАСС": 3,
-    "Интерфакс": 1,
-    "Коммерсантъ": 2,
     "Ведомости": 3,
     "Digital_Russia": 3,
     "Habr_Топ_День": 1,
-    "Habr_AI": 22,
-    "CNews": 17,
-    "3DNews": 8,
-    "VC_ru_Технологии": 1,
-    "The Centre for the Governance of AI Blog": 1,
-    "ИИ комплаенс и этика": 1,
-    "Google News": 31
+    "Habr_AI": 19,
+    "CNews": 21,
+    "3DNews": 7,
+    "VC_ru_Технологии": 2,
+    "Google News": 28
   },
   "top_keywords": [
     [
       "ИИ",
-      68
+      55
     ],
     [
       "AI",
@@ -27,89 +22,81 @@
     ],
     [
       "Минцифры",
-      10
+      8
     ],
     [
       "ESG",
-      7
+      6
     ],
     [
       "регулирование",
-      3
+      5
     ],
     [
       "искусственный интеллект",
-      2
-    ],
-    [
-      "policy",
-      1
-    ],
-    [
-      "aigovernance",
-      1
+      3
     ]
   ],
   "recent_headlines": [
     {
-      "title": "YouTube вводит маркировку для созданных ИИ треков",
-      "source": "ТАСС",
-      "url": "https://tass.ru/obschestvo/28215459",
-      "published": "2026-10-14T21:44:33"
-    },
-    {
-      "title": "В Петербурге эксперты обсудили влияние вейпов на здоровье и регулирование их продажи - Вечерний Санкт-Петербург",
+      "title": "ИИ-модель Сбера помогла выявить почти вдвое больше злокачественных образований при диспансеризации - Независимая газета",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUlXVmhUZ1NNZklobWFkQk9CSzJxYzFXc1hsMWFZcXZMLW56MnI2ckRJQWNicU1rdW9uaE9vUHB6ZHpwbTQxSkhmbHVDTUpWa2VrdWFMYndlcTVscnZzY19LVE1RdDJlN21abDdZZjJORkVETDlxS3ViU1AwNV9mMXdOZGxSRnlJQmdRV0NIYTNJclFRdVZPMmJhOTU1Q3JsbVg5YVdVUlFDaWZhN3lfT0JVRGZ1NC1pSUtHNmln?oc=5",
-      "published": "2026-10-14T21:43:06"
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE03Mk5qbUFNUWZqWTdhdlFhMDd2UnpONDN6MnFUSm1HbDVEUDFWUnFZRnNOR0FiUGxsdkNqbzN5M3YyMkZVNVhOZlV3?oc=5",
+      "published": "2026-10-15T10:19:43"
     },
     {
-      "title": "Сколько будет стоить отечественный чип для ИИ - Ведомости",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0JUWmI2dTBCbWx4SC1hZUhDeWZTU2k4SHY5ZzRNLWZucHRhV25weGVIeG9mTkVsN0l5d3UxNTVvWGpVSy0tZ1hkbkV6VVh6ZFFQMlpVMWc5bFYybngwR2E3UFg2czlJdXduOEZhai1pYjh3cFJqdEMyNVdGSXcxa0xuU3RHa3BpWjYxbHpzZ2xkV1VuVVpqc0d0OA?oc=5",
-      "published": "2026-10-14T21:19:28"
-    },
-    {
-      "title": "ИИ-модель помогла выявить почти вдвое больше случаев рака при диспансеризации",
-      "source": "ТАСС",
-      "url": "https://tass.ru/obschestvo/28215383",
-      "published": "2026-10-14T21:01:11"
-    },
-    {
-      "title": "В BlackRock видят угрозу рецессии в США при отказе от строительства дата-центров",
-      "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28215307",
-      "published": "2026-10-14T20:18:53"
-    },
-    {
-      "title": "Хуанг пригрозил перекрыть поставки чипов Nvidia создателям опасного ИИ — и призвал не бояться технологии",
+      "title": "«Яндекс» восстановил значительную часть функций «Алисы AI», умных устройств и облачных сервисов",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1149942",
-      "published": "2026-10-14T20:01:00"
+      "url": "https://3dnews.ru/1149965",
+      "published": "2026-10-15T10:15:00"
     },
     {
-      "title": "Politico пишет, что Европа отказывается от создания передовых моделей ИИ",
-      "source": "Интерфакс",
-      "url": "https://www.interfax.ru/world/1122498",
-      "published": "2026-10-14T19:52:00"
+      "title": "Кто в России разрабатывает ИИ-чипы – СМИ",
+      "source": "Digital_Russia",
+      "url": "https://d-russia.ru/kto-v-rossii-razrabatyvaet-ii-chipy-smi.html",
+      "published": "2026-10-15T10:02:36"
     },
     {
-      "title": "Politico пишет, что Европа отказывается от создания передовых моделей ИИ - Интерфакс",
+      "title": "Сloud.ru представил сервис RepoWiki для автоматизации создания документации к коду с помощью ИИ",
+      "source": "CNews",
+      "url": "https://www.cnews.ru/news/line/2026-10-15_sloudru_predstavil_servis_repowiki",
+      "published": "2026-10-15T10:02:00"
+    },
+    {
+      "title": "[Перевод] Где искать возможности в B2C сегменте в AI",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1094680/?utm_campaign=1094680&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-15T09:46:25"
+    },
+    {
+      "title": "Solar SIEM 2026.3 упрощает работу SOC-команд при расследовании инцидентов",
+      "source": "CNews",
+      "url": "https://www.cnews.ru/news/line/2026-10-15_solar_siem_20263_uproshchaet_rabotu",
+      "published": "2026-10-15T09:38:00"
+    },
+    {
+      "title": "Во ФСИН предложили использовать ИИ для анализа разговоров заключённых - Радио Свобода",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9OQTNMTzNzU092elNaeEZibE5qa0prMVlocGx4cDFjcFVhYzhQUHZ1UGRYM2I4ak5JREVFSjF2a1B0WENvT0dkX3lVNE9xQdIBS0FVX3lxTE1OTTRRbDl4bnJkOHNyY0R0a05jVUNxSlBCWW1TOVk0TkVzMll3bXF4VWFtWjFWcVFkSW9ReVdJSlNuQm1hQnhzejYzVQ?oc=5",
-      "published": "2026-10-14T19:52:00"
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3RTYVNqOXl0ckp0OXphakJocjhIZm9Ed2RJQUFZOVJ0eXlyaVJWTmJCZk8tOXFjdmt5TktGR3hSS3VjZTlOSlp0N1Z5ZFRIUllXVnF2UVVQYWctLVVpTHl1S2JsWDJmUFR4aGljOTRKbTAzY2MyTDJ3MDhwUE9Ma1lPel9qSWh1MXZRZFpnRWxhVVRzcUJHRUYxTUpuWi1yd2JtdEwtSGpGR1FrbFlZQ2ZwOHrSAbcBQVVfeXFMUGZiODFMRXRuUGNuMXJKN3FWMFNyOWxZUUJpa091WDZSU1h4eWdPRzZuZHVEYWZEME1QYnlrT0J5cWFSWVlaZDRQclc1Tl9vM2pELXpoSjdFaHJkQVg5YTdtbFpTa1FOS1FrQWRUS2tfZmJsNGwxT1JjZnF1dU1XTm92XzJsdkdrUXp3dUo2Q2NLMG9kLXZ2Wm0ySG5jYk5rZzVwYWlENkVZZEVhX1VRMlVSTG8zZlpR?oc=5",
+      "published": "2026-10-15T09:37:03"
     },
     {
-      "title": "Politico пишет, что Европа отказывается от создания передовых моделей ИИ - Интерфакс",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OTTRRbDl4bnJkOHNyY0R0a05jVUNxSlBCWW1TOVk0TkVzMll3bXF4VWFtWjFWcVFkSW9ReVdJSlNuQm1hQnhzejYzVdIBS0FVX3lxTE1OTTRRbDl4bnJkOHNyY0R0a05jVUNxSlBCWW1TOVk0TkVzMll3bXF4VWFtWjFWcVFkSW9ReVdJSlNuQm1hQnhzejYzVQ?oc=5",
-      "published": "2026-10-14T19:52:00"
+      "title": "Как власти потратят триллион на ИТ, медиа и связь",
+      "source": "CNews",
+      "url": "https://www.cnews.ru/news/top/2026-10-15_kak_vlasti_potratyat_trillion",
+      "published": "2026-10-15T09:04:00"
     },
     {
-      "title": "Сделал CEO AI: помощника для обсуждения задач и работы с ИИ-агентами - Хабр",
+      "title": "ИИ в химической промышленности: обновление профессиональных компетенций - Институт статистических исследований и экономики знаний",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBrT1VINlZ2UGllcXh6S212bFBPNk9SNzJzVm4tUmp3QnRXM1poTVk0S3R4RE5lV3hxQV85LUI5RnRvQWRBUjFaWNIBWEFVX3lxTE5pQzNWTlJIbTlzN1ZXaUFqZ3JNekFKbEtVenBiXzlwcTJKcFJFQkdDa0lRaW5zb2RNV0RLa2hfT1VMMDVhei1PeHRXdWJnYkdSOTRrT251WkU?oc=5",
-      "published": "2026-10-14T19:48:28"
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MdzZTOWZOLVR2djZhdms0R3dZRVhEWkVicVVtMEpDbGtITVRIQ3RzSVA5OEQxQ3ZCVFdXMjVNMG5sdFdvQl9oMjhkOWRpdlp3Y2Vn?oc=5",
+      "published": "2026-10-15T09:02:04"
+    },
+    {
+      "title": "YouTube ввёл пометки для ИИ-песен - Сноб",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50a2dGLTJSRW0zUVV1bnRsZmF6ZmIxUUZ2MDNfQ1RpUDN5QWdUNEM3eklhQm5zbEpwSkt2RmZ1QjVGQmRWak9GMHllTlYzS3ZqaDJGTDV6UlM3RUdTdWN4dmUtRzlpXzJh?oc=5",
+      "published": "2026-10-15T09:00:42"
     }
   ]
 }
