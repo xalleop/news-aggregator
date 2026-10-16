@@ -1,104 +1,101 @@
 {
-  "timestamp": "2026-10-16_13-11",
-  "total_articles": 72,
+  "timestamp": "2026-10-16_19-40",
+  "total_articles": 89,
   "sources": {
-    "Коммерсантъ": 1,
     "Ведомости": 1,
-    "Digital_Russia": 1,
-    "Habr_AI": 14,
-    "CNews": 18,
-    "3DNews": 13,
-    "VC_ru_Технологии": 1,
-    "AI Policy Perspectives": 1,
-    "ИИ комплаенс и этика": 2,
-    "Google News": 20
+    "Digital_Russia": 5,
+    "Habr_AI": 21,
+    "CNews": 22,
+    "3DNews": 15,
+    "ИИ комплаенс и этика": 1,
+    "Google News": 24
   },
   "top_keywords": [
     [
       "ИИ",
-      58
+      66
     ],
     [
       "AI",
-      13
+      14
     ],
     [
       "ESG",
-      5
+      7
     ],
     [
       "Минцифры",
-      4
+      6
     ],
     [
       "искусственный интеллект",
-      2
+      4
     ],
     [
       "регулирование",
-      1
+      2
     ]
   ],
   "recent_headlines": [
     {
-      "title": "iFORA на «Цифровых днях Иннополиса»: Вышка представила ИИ-решение для сферы науки, технологий и инноваций - Высшая школа экономики",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XSzJsZHNiV05oSWV5M014VXZXcDNNMUdRZTdUY1J1NE9NVFpVdlJsR1Q1RXJ5aFk5alhWR0MtVGhPMzRCaFZHNmFXMVJpbURYQzdmOTFQVU5XWUhj?oc=5",
-      "published": "2026-10-16T10:04:04"
-    },
-    {
-      "title": "ГК Softline: почему российским ИТ-вендорам сложно продавать ИИ в Юго-Восточной Азии - Код.ру",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tSjlsMkRTVDM4N2ZXV21wVXpnc1VYYjZoaHN6U1dQREx2M1BHSkJKVjhOMWxKVDUxUlJ5M3ZieXlpUndmRjdSY2lTMXhuWXBiSUxKSHRMbFdUTHV3ZHfSAWNBVV95cUxQV2tpczhPUXFHUWRPUVdXaU83dks0dkYzRzRIM05wVUNvSElwcWhibm5sNFhMRURlbUNIRTVnc2UtYllZYXpxRW45UURjN2tvSWkwNHhubDhVb2VDQ0J3R1QtOVk?oc=5",
-      "published": "2026-10-16T10:03:37"
-    },
-    {
-      "title": "MWS AI научила платформу ИИ-агентов читать сканы, запоминать правила компании и помогать в создании агентов",
-      "source": "CNews",
-      "url": "https://www.cnews.ru/news/line/2026-10-16_mws_ai_nauchila_platformu_ii-agentov",
-      "published": "2026-10-16T09:58:00"
-    },
-    {
-      "title": "Записать — не значит вспомнить: месяц внешней памяти для ИИ-агента",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/basis/articles/1093924/?utm_campaign=1093924&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-16T09:54:45"
-    },
-    {
-      "title": "Microsoft заявила, что создала ИИ мощнее GPT-5.6, потратив на обучение в четыре раза меньше ресурсов",
+      "title": "Линус Торвальдс выпустил первый патч для Linux, написанный с ИИ — синтетический тест показал ускорение в 23 раза",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1150028",
-      "published": "2026-10-16T09:52:00"
+      "url": "https://3dnews.ru/1150054",
+      "published": "2026-10-16T16:23:00"
     },
     {
-      "title": "Уорш из ФРС: ИИ повысит продуктивность, но сигналов по ставке нет - Euronews.com",
+      "title": "ИИ-агент OpenAI без разрешения воспользовался случайным криптокошельком - Эксперт",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOGFyUllNVGx0V1FlOERiei0yQ2o3S01uX0xJZzZTVVhOQWdXMTBQRUZXbkFjZkNjQ1BTT0FzWWhNYkpnaWNLVl9yUlNSQmdESEJ1VDN5RzZHUlFKeU9sNzJGZFJqV1NMRzJDUkZOb0xqM0JhRUFvSC14c0lFc0d1eENwMElLY2tjNnR0V2ppQnhYRWNqcERQOXQxN2pFQ3gyck5iUm51dFY3SGRoZ2ZBc3Z1aGEtbHV6?oc=5",
-      "published": "2026-10-16T09:30:58"
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeTVmSzdIbEttdUNEa3VNVDF6N1pRLUE2T0NLbElBM0JGd3ZyakNod2dXR3ZYc2VZOGtxUXJGUTBxTUkycExMN2wtTEJ0UGY1Wk1kWlRDcDVSVFV1R3pSNzhjcVE2b1VpSWVGcExwS1ZGRnBSUktzam00aUhvMlVnS25kY2NVbktiNnphLTQwTDBTZmNzVzA1aHUzZURTUQ?oc=5",
+      "published": "2026-10-16T16:15:00"
     },
     {
-      "title": "\"Яндекс\" и \"Сбер\" могут подключить к внедрению ИИ в электронную торговлю - TKS.RU",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVDAtTERIRl9kRGxzYXNYLUN3R0tBV0s5WTRKZ01mTDJMVXMzT2hRTUJkcml0Y2toNHNPM0thOWgxVzc4d214Zl9pN3Fxa3A2OHVmR3Z1aG9sd3owUTR5WUgzWmNKNk9pNm84V2ZIVUNFLU8ycl9YclVUM1VCTjh3RzFNNlBkWDVzbHNNNVpwS2dwVThfV2trdkx5b21LX0JqVEVaMGVXR1FfaGlfNGlFQzBjOF8zOS1TSVE?oc=5",
-      "published": "2026-10-16T09:30:00"
-    },
-    {
-      "title": "Open source для ИИ: смотрим на патенты и лидеров гонки",
+      "title": "Где AI-настройка обмена с 1С работает, а где нет: честный разбор",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/onlinepatent/articles/1094742/?utm_campaign=1094742&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-16T09:28:45"
+      "url": "https://habr.com/ru/articles/1095432/?utm_campaign=1095432&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-16T15:29:05"
     },
     {
-      "title": "Минцифры хотело блокировать VPN через ИИ — риски для граждан и бизнеса - BeInCrypto",
+      "title": "Алексей Тимощук: «Единообразное регулирование для внутреннего водного и морского транспорта снижает правовые риски для участников рынка» - RUБЕЖ",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EZU85TmQ0VmdEWEFfaTZNMzZqNVVIaFVlU3FDMG9COTJJdllzY2hwS1JZLWgwUEd6ODhtclQ1alQ5cDNYTmQyaF84T3Y0bnFEUWhvNEJyZktBc3F0Ujl0NXVSVGctamM?oc=5",
-      "published": "2026-10-16T09:15:00"
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdk9BQ1VLb1k0T3lnWWMwTENYTEpTYU13Y2VoZVhZeWlnaW1JUGRNWkJQa3VTSTh1T2hRZEtuYW5FaGNPd19MWGpzLU95TjFHSkFWWnNnd1JoWUxpNWo2b3pjbnYxMGdtVDh3bXFIaF93ZG5vaFItZ2JYeTdkcUFUQ1JHemRvdkpzRWJNVzNvbTIzVEZENTRtSW41cDIwZw?oc=5",
+      "published": "2026-10-16T15:27:34"
     },
     {
-      "title": "Опасения по поводу ИИ-пузыря спровоцировали падение стоимости акций IT-компаний на $1 трлн",
-      "source": "Digital_Russia",
-      "url": "https://d-russia.ru/opaseniya-po-povodu-ii-puzyrya-sprovotsirovali-padenie-stoimosti-aktsij-it-kompanij-na-1-trln.html",
-      "published": "2026-10-16T09:11:24"
+      "title": "В судах Петербурга рассказали, сколько исков пишет ИИ - dp.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSenBwWWNVUXk3SFpTeFF0M096VGFYcTN0SF95WUVzM0JRRTc2cnQ2ZjFBODkyUnJzdmlFTnl6S1RxY2tNUnpybXVzTXllVlpkZVl6UEFoVFUwQ3NSUnR3RmYtT1p0TFR1aDItOdIBd0FVX3lxTE1rRFd5MVVVaDVtSXB5RTcwU3h1ZG5hdHh1RUdjcnhHVk5QRU9mdWtpYzdRMFVELU5yVlRHRGxxbGpsRnB1RjRWN3djMjRNdVA4bzFfbzNJdXRIZFFOaDdRcGlMY0lRSlNWcUlTUHVZLWdSUl8wM1VV?oc=5",
+      "published": "2026-10-16T15:27:00"
+    },
+    {
+      "title": "Директор по ИТ ГК ФСК Владимир Крыльцов рассказал об ИИ-платформе «Камертон» на GoCloudTech 2026",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1095430/?utm_campaign=1095430&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-16T15:25:03"
+    },
+    {
+      "title": "Директор по ИТ ГК ФСК Владимир Крыльцов рассказал об ИИ-платформе «Камертон» на GoCloudTech 2026 - Хабр",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zUDNEMTdrenZJd3ItV1J5dS1kQVVacUlGTEVscWk4ZVVDTDRfY2FXTTM1TWloMGsxZkgxZlliZHdSV2x1dTVXczFRbzZ6Z9IBWEFVX3lxTE9CT3dPeEVDMWtTMVBqcWxIb3N4MUFjc0paTy00SlIzUmhaNEVRZ0dMQ0lTUUx5bVA0cmpPbkFJRk9kaGZUME5zZGJmYjRBYUl4WnRKQUtuZmc?oc=5",
+      "published": "2026-10-16T15:25:03"
+    },
+    {
+      "title": "Компания Long Chau войдет в число 50 ведущих компаний по показателям ESG к 2026 году. - Vietnam.vn",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdldhQklhV2U0RzZkVko5SzVfczdiZ1hMMWp6VC1uLUUzUkFwOEVXWWJUS1VMVXI5bWxtb2lyRTJZQUR4bWpadXVyUV9jUWpxX2lYSGp0X1J1dUwwU1lHQjlXMnVBR2w2bnBqRVNRUUJtcy1BM1oyNC1KNUN2dVRpbU8yeGpPdw?oc=5",
+      "published": "2026-10-16T15:16:32"
+    },
+    {
+      "title": "В России выберут лучшие фильмы и музыкальные проекты, созданные с помощью ИИ - Сноб",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUzRLeE1JUUxjQlgtbm5La0VBR2hQbmM2UkJYcEE0QTJBM2FsZFJ6Vi0xS2RQZE93bEY1UkpBOGZoSEhrbk5QdEJzbUFkYkM0NFJOaVFMTlBKMGpHeWExMWtwdHY1MDZpR1JwU1RfOHlYY0dldFNJTHZEMGpIYXBGaFRWQ1A1cm4xVXIxSVpTdVc5SVdraGhv?oc=5",
+      "published": "2026-10-16T14:48:42"
+    },
+    {
+      "title": "Объем потребления токенов при работе с ИИ-сервисами в Сбере достиг 9 трлн в месяц",
+      "source": "CNews",
+      "url": "https://www.cnews.ru/news/line/2026-10-16_obem_potrebleniya_tokenov",
+      "published": "2026-10-16T14:45:00"
     }
   ]
 }
