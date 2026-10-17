@@ -1,104 +1,98 @@
 {
-  "timestamp": "2026-10-17_12-43",
-  "total_articles": 68,
+  "timestamp": "2026-10-17_18-37",
+  "total_articles": 40,
   "sources": {
-    "ТАСС": 2,
-    "Digital_Russia": 5,
-    "Habr_AI": 11,
-    "CNews": 11,
-    "3DNews": 16,
-    "Google News": 23
+    "Интерфакс": 1,
+    "Habr_AI": 6,
+    "3DNews": 12,
+    "Google News": 21
   },
   "top_keywords": [
     [
       "ИИ",
-      54
-    ],
-    [
-      "AI",
-      6
-    ],
-    [
-      "ESG",
-      6
-    ],
-    [
-      "Минцифры",
-      4
+      35
     ],
     [
       "регулирование",
       4
     ],
     [
-      "искусственный интеллект",
+      "ESG",
+      2
+    ],
+    [
+      "policy",
       1
     ],
     [
       "машинное обучение",
       1
+    ],
+    [
+      "AI",
+      1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "ИИ-агенты без спроса взломали компьютерные системы компаний в Индии: кто за это ответит - RTVI",
+      "title": "На Тайване заказали систему анализа спутниковых снимков ИИ для мониторинга перемещений армии КНР",
+      "source": "Интерфакс",
+      "url": "https://www.interfax.ru/world/1123185",
+      "published": "2026-10-17T14:48:00"
+    },
+    {
+      "title": "На Тайване заказали систему анализа спутниковых снимков ИИ для мониторинга перемещений армии КНР - Интерфакс",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbTY3TElScGZZakx4aEQ4U1hDbmxDR2RncG1MWnJnUzBMUFI4Z2JSQzA3LUNaN3VSSnRodnFBRE5Yai1nREtRNHJ2b2hWRUxmR19vQTJ1QXpqMGNTWVNhS2ZPS0Y4Tkduc3dDR3R1VW1RaktONHBjaEIyMGpaOEJOeFVLdkpkQQ?oc=5",
-      "published": "2026-10-17T09:36:00"
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGd2VNRDNmZGlpcE43Mksxenh4eGY0NHNZWDZ3Wmd5OFJWcXk0aTRoSlEtZVJSeWNYd29ndFlpSjRKQ2FWVXUwaFkyUlJJQdIBS0FVX3lxTE10LUpRSklqX19CXzdUaWNrNm9mcWZqcmpCTzUwR2tERE0tM3NtYUcyZDdOSElSRFJBWGJHS3Y1X2NnQXM4ZUdxa2tqSQ?oc=5",
+      "published": "2026-10-17T14:48:00"
     },
     {
-      "title": "ИИ помог ФАС выявить признаки картеля на торгах на 676,6 млн рублей - TKS.RU",
+      "title": "Сервер или люди? ИИ проверили задачей о вагонетке — и пожалели",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150085",
+      "published": "2026-10-17T14:05:00"
+    },
+    {
+      "title": "Учёные благодаря ИИ нашли ответ на нерешённую с 1995 года задачу - Сноб",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTFk0bEFnOThPVVdndVV5eUppanVraFN1Tkl3MUg1VHUtbG1SdDZRaW9nYW1HUjlTeVVqWUtuX3N1UFhsMUUyQ0xYVDdIU1plTXZhQkhvelV1dDI2bjFGSGNaMzE4enpqMDlZaG44NXViSEdxY0dUSW5jUTZZMERBZUIxT0lCTUxfN1ZUbkZzdlZxSjFScnJPMGhYYmZaSmNjR0RDU01FY2dia1M1eHc?oc=5",
-      "published": "2026-10-17T09:05:00"
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUkdQeHBjMXFkRFoxN2drc1ZQbVhheldHc21LVUloRlFFWHZTaWIxTXJWNlVmRC04dkcxVzFXaFFIbDdZdDRrdmtlVWsyeHBTZGx6OTZHbVhpdHFROVZ2TWUzSzQ0SE5RTUt0eWRUX0ZDUHowZ0hGa2xRam9PbUxMeWRTTkVtekx0RlJmLUVqSTlUcXI5d19qTDViRkhDZ00?oc=5",
+      "published": "2026-10-17T13:23:42"
     },
     {
-      "title": "Глава МВФ назвала опасной зависимость роста мировой экономики от бума ИИ",
-      "source": "ТАСС",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28224957",
-      "published": "2026-10-17T08:41:45"
-    },
-    {
-      "title": "Шкала прорыва. Как Иран использует ИИ для очернения США - Радио Свобода",
+      "title": "Politico: Anthropic тайно предложила Конгрессу США законопроект против ограничений ИИ - Эксперт",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc3RleHRqOWkzVHJha2hlMGxUSWpIWmFXRjgtQnpMLUVObllpUjFVRGd1US1nMU9lR2IwTGVhUlo3NEx6TGRubmZtTVlJbUNmWkxQdk9ySl9KZzhMNWVTUW5IX1kzLWdWUXAzMC1ncnpjQWQzRGNlbHJlNzRfQVB6aXNzNVphZGNsbWkzSzB5RG9QcmJpRFEyS184cWd6elXSAaIBQVVfeXFMT0xLU0lLVXVBb0VrQUJiVXlaUGdGNDI4SW1lVVZubmRXNnN3Q0tIdThZUnYycW9LbEtnbU5NdVpCdlZYQnJLQUpOY1J4TmlMNTIzQ28yTnNLbktYSklPaFdaRDFCMDhWQzh0WWVaNWJTOWMxY1A4NGpFcm5OUmRfOFNqbTV3RXN2RHpPandzT2tEcEhCTGF5cjVKZ0hvOFNZM3J3?oc=5",
-      "published": "2026-10-17T08:40:37"
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT09ObjZxQVF0SWpWdjNMVTBJVGRUbEhkZ2hoTVZVZGJyR0NWRFpHOUxoOEtUMnl5eFltMFBzSlh1SFZpcGdTcHdNTE9iMHQ2SHQ2b0JTdzFKNzIyTnpTWDNPMEh6VElqTE52Q0lNdzFtYWluRTczcUxXSmpBemM3QXRrSEZYS1BZazVZNndHeG5HVjcweG8zUHBfRlFaQ2JycXUtUjZNalZjN0FDX01z?oc=5",
+      "published": "2026-10-17T12:37:00"
     },
     {
-      "title": "ИИ-агенты получили доступ к секретным данным на порталах индийских компаний - Сноб",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNzdQNEh2bWhucTFQbjFSODJhU1pEVFhpeUdkMXlSSUFWYlZzX2gxTDRWbzlKN2xRT0J6bVJSYzJkUWFaeXZVOURCMFpXajNYQXhVOS1QZVpCYWdJdm9SWlU2MVByTWxPWm8zYUFrSWhOS0JacGx6S3Rrb1loTmJsdjdKM2hvakw3RzdBVWJoREgtZw?oc=5",
-      "published": "2026-10-17T08:37:41"
-    },
-    {
-      "title": "Железный сентябрь: от накопителей Unigen на 122 ТБ до архитектуры Arm Ranger и дорожной карты Huawei Ascend",
+      "title": "Anthropic забанила мой Claude и отдала в экспорте только телефон. Теперь мне отвечает Grok в парике",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/selectel/articles/1095216/?utm_campaign=1095216&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-17T08:01:21"
+      "url": "https://habr.com/ru/articles/1095624/?utm_campaign=1095624&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-17T12:28:10"
     },
     {
-      "title": "Структура управления ESG и уровни раскрытия информации: взгляд с точки зрения вьетнамской нефтегазовой отрасли. - Vietnam.vn",
+      "title": "YouTube Music вводит метки для ИИ-треков - ZOOM.CNews.ru",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUnlCOEtob0ZlUlhreUgwSGZFdC1xa0Yxc0szMVYybDlQOEkxN1RLYTdIVlJBNFJaVDktWlZ2aVRmSzF1dzVITWk3RWxfZll0dVUxblZTaFJoU250VXVoeHRka01HaWM2XzNpLXEtQmNuZ24tbTRqNHRWNzQ2VGxYaHlxUkdScFJiWWx3ZWw0UmZxM0tPZjAtR0VYV29TSHI0NWZ5eGVsbC1qbWpp?oc=5",
-      "published": "2026-10-17T07:48:21"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX1U5YVVoVGVmV3IxNGgyLVJCc0VteGJaSklwNkotUkZIdzM5bzZTQXBKM1dRQXdLSmZhUE12V09mOEZ0UE5fOURCZi12cFVIUmNaS1Y1amMyOFVEWlU4LTBCcXUzZ0cwVDFaZ3RadnZ4UXR3SktTWFRZZjFlaDRONGgxSHhvUUZNeGx1czZzd3hjNXdNQmRn?oc=5",
+      "published": "2026-10-17T11:14:32"
     },
     {
-      "title": "Французская SBS запустила ИИ-платформу для банковских систем - PLUSworld",
+      "title": "Конец близок: глава Intel заявил, что перестройка компании завершена на 80 %",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150082",
+      "published": "2026-10-17T11:11:00"
+    },
+    {
+      "title": "Meta* выпустила открытую ИИ-модель на 816 млрд параметров — её можно запустить на настольном Mac Studio - RB.RU",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVeV9XX3Bva3BFV00tWW9FR0ktWmlUbzF5SGw3YkpxbVhmMFBqZVY3MHk3WnlsUi1RYTR3SzFjMmU3NWhDX2FOTlhRV1M?oc=5",
-      "published": "2026-10-17T07:33:57"
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYmxNUmtuay1XMEhBNHEyOHFhcGE1dHpOSFhGQ3pRbV9aQW5NZkx1TnNVVGdWMEYyd0h5by1DdHY2ODNpbEZ2ajZMdGRMdWVOdThBSXE1QVdZZVBLY2llYl82cExkRmZNa0M3RmtDOUVmamtpVkZXazJKaGFBMHgyT3EwZ3l3cXVBTDFqNzdCeUQxQTBIZ0tieV9HbjdJTFd0V1N0QUtIdHFrN0RCaHhlWVk5MkhmNHFrQ0plcw?oc=5",
+      "published": "2026-10-17T11:00:00"
     },
     {
-      "title": "ИИ-модели Google достигли переломного момента: вскоре они смогут самосовершенствоваться - 3DNews",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRktmYlVzNEs1Q3lwOFVvVENKMG9fcW5iR2h1Mlh0QnFBb04xQlN5QTFGMlEycG5lamJuMU82Z1lBTXRRZmYzQlZvNWNXYUEyUWZrZncwZTZfWnJuT2ZxM3lxUnpjbTJNRXU1a1UxZ3R5RE1hczJZanVLdHB5YkNIWHRHN2JoZmVFZi1ydnZZd2ZZNlFIeWNET0plQUtJaTBiRXNWOW5OOVdTLVU5NE9PTGhB0gG3AUFVX3lxTE1uaXhUOVF1TDkzY3NHWGs0YVh0cjI0Y2NNWUxRZzRKUDcydFhtSjRnSG5wVEtkMkw5OWNxU2lQYlkwOGVpekJPTnFCaHIwcTB1dkNrSE9Bb0RzN1QtSFZ4Z0VNZXNveWFhenE0UWNxYThFYTBvMnhOeWJWRThZVFJRVGo5dDB0OVp1eVlTU3lNazVncjZDYmRERUh1dkVCUV9ISDFIcGxMMWRDRG13VGVYMzNfcjBwbw?oc=5",
-      "published": "2026-10-17T07:11:44"
-    },
-    {
-      "title": "В СФ не ожидают, что ИИ повлияет на быстрый переход к сокращенной рабочей неделе",
-      "source": "ТАСС",
-      "url": "https://tass.ru/politika/28224865",
-      "published": "2026-10-17T07:04:30"
+      "title": "Сжатие, красота и Шмидхубер: умеют ли нейросети выдумывать новое",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/ru_mts/articles/1095280/?utm_campaign=1095280&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-17T10:30:36"
     }
   ]
 }
