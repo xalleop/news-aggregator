@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-17_18-37",
-  "total_articles": 40,
+  "timestamp": "2026-10-17_23-54",
+  "total_articles": 34,
   "articles": [
     {
       "title": "На Тайване заказали систему анализа спутниковых снимков ИИ для мониторинга перемещений армии КНР",
@@ -12,6 +12,21 @@
       "category": "general_news",
       "matched_keywords": [
         "ИИ"
+      ]
+    },
+    {
+      "title": "Ни зарплат, ни отпусков, ни больничных. Зато есть User Story и Merge Request: как AI-агенты работают у меня в Jira",
+      "url": "https://habr.com/ru/articles/1095690/?utm_campaign=1095690&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-10-17T16:36:51",
+      "description": "<img src=\"https://habrastorage.org/extt/30/73/5e/30735e0bcc4125e5be1b89dc56e6cfda.png\" /><p>IT-команда в средней компании (продуктовой, интеграторе, неважно) обычно состоит из продукт-менеджера, бизнес-аналитиков, разработчиков и QA-инженеров. Работают они, как правило, в одном трекере вроде Jira. А теперь представьте, что в поле Assignee появились виртуальные коллеги на все эти роли. У меня таких три: фронт, бэк и аналитик.</p><p>Людей они не заменяют. Ревью, ответы на вопросы и последнее слово в MR остаются за человеком, ниже покажу, где именно. Агентам я отдаю oneshot-задачи: достаточно понятные и ограниченные, чтобы решить их за один проход без долгой переписки. </p> <a href=\"https://habr.com/ru/articles/1095690/?utm_campaign=1095690&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Как это работает на практике</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI"
       ]
     },
     {
@@ -90,14 +105,14 @@
       ]
     },
     {
-      "title": "Калибровка параметров шахматного движка",
-      "url": "https://habr.com/ru/articles/1095484/?utm_campaign=1095484&utm_source=habrahabr&utm_medium=rss",
-      "source": "Habr_AI",
-      "published": "2026-10-16T18:19:04",
-      "description": "<img src=\"https://habrastorage.org/extt/54/af/f7/54aff73c6399f282330ebc3666e6c68e.webp\" /><p>Провокационное заявление: мой шахматный движок претендует превзойти по уровню и скорости все существующие. Конечно, с оговорками (об этом позже). Движок показывал прекрасные результаты, но в некоторых ситуациях необъяснимо терпел поражение. Чтобы исправить ситуацию, нужно анализировать большое количество данных (записи партий против программ-конкурентов), выявлять аномалии, вносить изменения в алгоритмы, подстраивать коэффициенты, запускать тестовые матчи и сравнивать результаты с прошлыми версиями. Анализ данных с помощью ИИ-чата показал сомнительную пользу. Зато ИИ справился с написанием скриптов для управления программами-конкурентами и помог построить замечательный инструмент для анализа тончайших настроек шахматного движка.</p> <a href=\"https://habr.com/ru/articles/1095484/?utm_campaign=1095484&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "title": "Конец близок: глава Intel заявил, что перестройка компании завершена на 80 %",
+      "url": "https://3dnews.ru/1150082",
+      "source": "3DNews",
+      "published": "2026-10-17T11:11:00",
+      "description": "Реструктуризация Intel завершена на 80 %, заявил гендиректор компании Лип- Бу Тан ( Lip- Bu Tan) в интервью Nikkei. После назначения в марте 2025 года он заменил большинство высших руководителей. Перспективными направлениями роста Тан считает передовые технологии упаковки чипов для ИИ и специализированные интегральные схемы &mdash; ASIC. При этом создание конкурентоспособного контрактного производства, по его словам, потребует времени. Источник изображения: Rubaitul Azad / unsplash.com",
       "tags": [
-        "ai",
-        "ml"
+        "tech",
+        "hardware"
       ],
       "category": "tech_news",
       "matched_keywords": [
@@ -120,41 +135,11 @@
       ]
     },
     {
-      "title": "Nvidia без спроса открыла ИИ-агентам доступ к управлению видеокартой и играми на ПК пользователя",
-      "url": "https://3dnews.ru/1150065",
+      "title": "ИИ-пузырь сдувается: акции производителей чипов падают на протяжении восьми дней подряд",
+      "url": "https://3dnews.ru/1150069",
       "source": "3DNews",
-      "published": "2026-10-16T17:53:00",
-      "description": "Компания Nvidia добавила поддержку ИИ-агентов в последнюю версию приложения Nvidia App (11.0.9.565). Обновление включает локальный сервер протокола Model Context Protocol (MCP), который позволяет совместимым ИИ-ассистентам управлять функциями Nvidia App. Примечательно, что после установки обновления эта возможность активируется автоматически, без явного согласия или действий со стороны пользователя. Источник изображения: VideoCardz",
-      "tags": [
-        "tech",
-        "hardware"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "ИИ поставил крест на традиционном реверс-инжиниринге игр — decomp.dev прекращает работу",
-      "url": "https://3dnews.ru/1150056",
-      "source": "3DNews",
-      "published": "2026-10-16T16:54:00",
-      "description": "Сайт decomp.dev, посвящённый обратной разработке, декомпиляции и модификации видеоигр, закрывается. Администратор сайта пояснил, что &laquo;сообщество декомпиляции перестало существовать в прежнем виде&raquo; из-за ИИ. По его словам, стало невозможно отличить проекты, созданные людьми, от выполненных с помощью ИИ, а задачи, требовавшие слаженной работы команды специалистов, теперь без особого труда решаются с помощью нейросетей. Источник изображений: unsplash.com",
-      "tags": [
-        "tech",
-        "hardware"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Линус Торвальдс выпустил первый патч для Linux, написанный с ИИ — синтетический тест показал ускорение в 23 раза",
-      "url": "https://3dnews.ru/1150054",
-      "source": "3DNews",
-      "published": "2026-10-16T16:23:00",
-      "description": "Основатель проекта Linux Линус Торвальдс (Linus Torvalds) несколько раз менял свою позицию в отношении написанного искусственным интеллектом кода &mdash; теперь же он сам выпустил первый патч, созданный с помощью большой языковой модели. В синтетическом тесте решение показало прирост производительности в 23 раза. Источник изображения: Cornelius Ventures / unsplash.com",
+      "published": "2026-10-17T02:12:00",
+      "description": "Акции крупнейшим американских поставщиков чипов падают в цене уже восемь торговых сессий подряд, это самое продолжительное пике за предыдущие 16 лет. Сразу несколько факторов способствуют этому, но аналитики успокаивают, что говорить о крахе рынка ИИ преждевременно. Источник изображения: Unsplash, T&ouml;t&ouml;s &Aacute;d&aacute;m",
       "tags": [
         "tech",
         "hardware"
@@ -210,82 +195,6 @@
       ]
     },
     {
-      "title": "ИИ может стать «слишком супер»: команда Трампа взялась за риски искусственного интеллекта",
-      "url": "https://3dnews.ru/1150061",
-      "source": "3DNews",
-      "published": "2026-10-16T17:43:00",
-      "description": "Межведомственная группа &laquo;Силы суперинтеллекта&raquo; (Super Intelligence Force, SIF), о формировании которой президент США Дональд Трамп (Donald Trump) объявил в начале октября, провела в четверг первое заседание. На нём участники договорились заняться рисками, связанными с кибербезопасностью, биобезопасностью, а также &laquo;контролем над моделями и их подотчётностью&raquo;. Источник изображения: Numan Ali/unsplash.com",
-      "tags": [
-        "tech",
-        "hardware"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "M**a выпустила мощную открытую ИИ-модель Muse Spark Open — для её работы хватит всего двух Mac Studio",
-      "url": "https://3dnews.ru/1150060",
-      "source": "3DNews",
-      "published": "2026-10-16T17:30:00",
-      "description": "M**a представила модель искусственного интеллекта с открытыми весами, которую она называет &laquo;самой мощной&raquo; в своём классе в США. Модель получила название Muse Spark Open &mdash; она примечательна ещё и тем, что специально разработана для работы на компьютерах Apple Mac. Источник изображения: apple.com",
-      "tags": [
-        "tech",
-        "hardware"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "ИИ-модель Z.ai GLM-5.3 заподозрили в имитации безопасного поведения для прохождения тестов",
-      "url": "https://3dnews.ru/1150057",
-      "source": "3DNews",
-      "published": "2026-10-16T16:56:00",
-      "description": "Новейшая флагманская модель китайской лаборатории искусственного интеллекта Z.ai GLM-5.3 может оказаться достаточно продвинутой, чтобы &laquo;осознавать&raquo;, как происходит её обучение, а также имитировать успешное прохождение тестов на безопасность. Это порождает новые опасения относительно способности ИИ влиять на собственный процесс развития. Источник изображения: Aidin Geranrekab / unsplash.com",
-      "tags": [
-        "tech",
-        "hardware"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "AI",
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Конец близок: глава Intel заявил, что перестройка компании завершена на 80 %",
-      "url": "https://3dnews.ru/1150082",
-      "source": "3DNews",
-      "published": "2026-10-17T11:11:00",
-      "description": "Реструктуризация Intel завершена на 80 %, заявил гендиректор компании Лип- Бу Тан ( Lip- Bu Tan) в интервью Nikkei. После назначения в марте 2025 года он заменил большинство высших руководителей. Перспективными направлениями роста Тан считает передовые технологии упаковки чипов для ИИ и специализированные интегральные схемы &mdash; ASIC. При этом создание конкурентоспособного контрактного производства, по его словам, потребует времени. Источник изображения: Rubaitul Azad / unsplash.com",
-      "tags": [
-        "tech",
-        "hardware"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "ИИ-пузырь сдувается: акции производителей чипов падают на протяжении восьми дней подряд",
-      "url": "https://3dnews.ru/1150069",
-      "source": "3DNews",
-      "published": "2026-10-17T02:12:00",
-      "description": "Акции крупнейшим американских поставщиков чипов падают в цене уже восемь торговых сессий подряд, это самое продолжительное пике за предыдущие 16 лет. Сразу несколько факторов способствуют этому, но аналитики успокаивают, что говорить о крахе рынка ИИ преждевременно. Источник изображения: Unsplash, T&ouml;t&ouml;s &Aacute;d&aacute;m",
-      "tags": [
-        "tech",
-        "hardware"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
       "title": "Anthropic предложила американским законодателям собственный законопроект о регулировании отрасли ИИ - 3DNews",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ21tSHFtZVVwdG5VcnFicjAyRnhfNXhWbHdiQkkxTWJWa0cyYUU1bk9LYzloeTJuSEVkTDBTdGVHVnV5SVd3QWVMRmt6UDZrbDVwOFBjUmNveHBQbmhyd0NQYlllaG4xLVlVQkEwUHM3SGJETzJpUEdvS2hkLXFZZUpMSDlxTUR1WkwwcXFxaVRzc2JrUElSOER1WU1UT2g3Wk1TMmR1a2FwQkZfLXkydUx0TE9BVkM4MXY5RU81NHVBYTRz0gHKAUFVX3lxTE1HbnEtZ1ZvU28yWTQ5RTBSQ1dkTkRISkE0QjJ6M2hYSFFVYUx1YkZLRDJzdEpYMElUcG1oTUprNnlkcVZNdUxwVXY5UTdBRDZ6emlHZG1jdkhtTlF3V3NOa0dlQ0JpOFRpNjZpU20td2tSME5CeDdnR1B1bnU2NTVPUk5qWXk0aV9rWGNTc3prcF9Ma2oyaWRhNXNFSm1KZlNxTDMtYmJ5aTBFdUZBMFN1SWFQTWlYNXZLZkVtUWtSVnEyVmZmRVFsYkE?oc=5",
       "source": "Google News",
@@ -306,53 +215,6 @@
       "source": "Google News",
       "published": "2026-10-17T04:03:45",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOcWtuZjd3aTVTb0tXWnVBczZZTmUtZmkwYWdKbGlWdkUzaDhMSmw5TVNZeHBkNWUtNGVQc2ZrOUowVTJlWFhqZGgtYjRpRFRlMkxUbTJuS1hxSUtUNENlWTVScDJJM0hRUHI5akdLRHNhN0NCYWNqWHd6Z1I4T1lnaG5mY09UOWpnUTlEelJtV0c4T2F0R2VVSlhMZE9nS0tQZnpPVy1n0gGrAUFVX3lxTE81a0xTTWdjNDVrdzRQNllTZ3BxZXVSMHpycGJNcHAxWWZDS1ZDWmhkZkxwSTVZal9qOUlaS1hLMkFVTmg0aTI5dHhLUHNhTGxSaVFTV0RSSk5RVXNkXy1NazZtMzhQdlZYV2I3YjZUdkh0cndYUGU0VkFyRWRWQmZWQXNhZ2tFN0tQZTE0RFMtN0ExcGJoUE1RWXl2M0J5cG1ocjIxa0taRHMxNA?oc=5\" target=\"_blank\">Эксперт Храмов: регулирование ИИ должно быть риск-ориентированным</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Рамблер</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "регулирование",
-      "matched_keywords": [
-        "регулирование",
-        "ИИ"
-      ]
-    },
-    {
-      "title": "В Госдуме предложили начать регулирование ИИ с медицины и образования - Runet.news",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5zRkxNb2FYaG5xN1V2aUlBMjlKSk1yRllubng3NTI3eklpNHFGbGttbERrLWtnam14cEFlME42Ykt5akE?oc=5",
-      "source": "Google News",
-      "published": "2026-10-16T17:20:26",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5zRkxNb2FYaG5xN1V2aUlBMjlKSk1yRllubng3NTI3eklpNHFGbGttbERrLWtnam14cEFlME42Ykt5akE?oc=5\" target=\"_blank\">В Госдуме предложили начать регулирование ИИ с медицины и образования</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Runet.news</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "регулирование",
-      "matched_keywords": [
-        "регулирование",
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Регулирование табачной отрасли после сокращения количества лицензий: акцент на эффективность правоприменения. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWDBzLS1QUkFneWd5OFFMY0JsaktVeHA4aF9WYzhkR3VkNnlNUEdVeEc5bGRpRzg3bnJDbTNyeERCbmFZV3lXUmlvZE1CczluN05YejNhUG5kZjR6bHF5NWJRWEE3Q01PVXhVbHFFcmNiYWhTZXUyb0huR1BzbHZ2Qy1zRUNXRmxYczR5dk5KQjRTTmlvRkZDTEhXQTlmSF9Mc3FB?oc=5",
-      "source": "Google News",
-      "published": "2026-10-16T18:41:28",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNWDBzLS1QUkFneWd5OFFMY0JsaktVeHA4aF9WYzhkR3VkNnlNUEdVeEc5bGRpRzg3bnJDbTNyeERCbmFZV3lXUmlvZE1CczluN05YejNhUG5kZjR6bHF5NWJRWEE3Q01PVXhVbHFFcmNiYWhTZXUyb0huR1BzbHZ2Qy1zRUNXRmxYczR5dk5KQjRTTmlvRkZDTEhXQTlmSF9Mc3FB?oc=5\" target=\"_blank\">Регулирование табачной отрасли после сокращения количества лицензий: акцент на эффективность правоприменения.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "регулирование",
-      "matched_keywords": [
-        "регулирование"
-      ]
-    },
-    {
-      "title": "В Госдуме предложили начать регулирование ИИ с медицины и образования - Рамблер",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLWQ1RWx6YVh4U0YxQjlpM1FXak9HVzEzOGZnclJTcFAybHFyc0dFQVg0LWJPbEItSkxobTFVaGFJQ0dNV1pvcDM4WnJBR0R2eHFPV0RjWElELWYxWEhIWDV4eGZoenZEN05BbDN6NVNMeVk0U2hOUkZnWVdVVGpLVEJmUVVJNUFHdDNNTHo1c2psZ2FwZzBxemZ2aHhwbU4zc2k1bUE2OUVMU1lBUE1GWmRfd0NpQdIBuwFBVV95cUxOWkNISTFCY3JVVUxBbUlvNElQU0E5RWVvRnVTUlE3cVB2ajVRaEpoMG5kTzloSExpdmVDVGs1T1E4d1BUMzlmU3ctYldtRk1FNXdmUWJFcjVhdlBCd25UcHVYdFRaYkZhaGdhY3E1WWlYNm9JbGtBaGtvMU11VWJyV1o0c2htVUtKa1lObWN0VnFyWUZESWVpbUFYdFdhaC1BNnJtRnNlVUo2emdZT2RqSzc2cUZoS0h1bV80?oc=5",
-      "source": "Google News",
-      "published": "2026-10-16T16:49:11",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNLWQ1RWx6YVh4U0YxQjlpM1FXak9HVzEzOGZnclJTcFAybHFyc0dFQVg0LWJPbEItSkxobTFVaGFJQ0dNV1pvcDM4WnJBR0R2eHFPV0RjWElELWYxWEhIWDV4eGZoenZEN05BbDN6NVNMeVk0U2hOUkZnWVdVVGpLVEJmUVVJNUFHdDNNTHo1c2psZ2FwZzBxemZ2aHhwbU4zc2k1bUE2OUVMU1lBUE1GWmRfd0NpQdIBuwFBVV95cUxOWkNISTFCY3JVVUxBbUlvNElQU0E5RWVvRnVTUlE3cVB2ajVRaEpoMG5kTzloSExpdmVDVGs1T1E4d1BUMzlmU3ctYldtRk1FNXdmUWJFcjVhdlBCd25UcHVYdFRaYkZhaGdhY3E1WWlYNm9JbGtBaGtvMU11VWJyV1o0c2htVUtKa1lObWN0VnFyWUZESWVpbUFYdFdhaC1BNnJtRnNlVUo2emdZT2RqSzc2cUZoS0h1bV80?oc=5\" target=\"_blank\">В Госдуме предложили начать регулирование ИИ с медицины и образования</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Рамблер</font>",
       "tags": [
         "google_news"
       ],
@@ -394,6 +256,21 @@
       ]
     },
     {
+      "title": "Шкала прорыва. Как Иран использует ИИ для очернения США - Радио Свобода",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc3RleHRqOWkzVHJha2hlMGxUSWpIWmFXRjgtQnpMLUVObllpUjFVRGd1US1nMU9lR2IwTGVhUlo3NEx6TGRubmZtTVlJbUNmWkxQdk9ySl9KZzhMNWVTUW5IX1kzLWdWUXAzMC1ncnpjQWQzRGNlbHJlNzRfQVB6aXNzNVphZGNsbWkzSzB5RG9QcmJpRFEyS184cWd6elXSAaIBQVVfeXFMT0xLU0lLVXVBb0VrQUJiVXlaUGdGNDI4SW1lVVZubmRXNnN3Q0tIdThZUnYycW9LbEtnbU5NdVpCdlZYQnJLQUpOY1J4TmlMNTIzQ28yTnNLbktYSklPaFdaRDFCMDhWQzh0WWVaNWJTOWMxY1A4NGpFcm5OUmRfOFNqbTV3RXN2RHpPandzT2tEcEhCTGF5cjVKZ0hvOFNZM3J3?oc=5",
+      "source": "Google News",
+      "published": "2026-10-17T08:40:37",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOc3RleHRqOWkzVHJha2hlMGxUSWpIWmFXRjgtQnpMLUVObllpUjFVRGd1US1nMU9lR2IwTGVhUlo3NEx6TGRubmZtTVlJbUNmWkxQdk9ySl9KZzhMNWVTUW5IX1kzLWdWUXAzMC1ncnpjQWQzRGNlbHJlNzRfQVB6aXNzNVphZGNsbWkzSzB5RG9QcmJpRFEyS184cWd6elXSAaIBQVVfeXFMT0xLU0lLVXVBb0VrQUJiVXlaUGdGNDI4SW1lVVZubmRXNnN3Q0tIdThZUnYycW9LbEtnbU5NdVpCdlZYQnJLQUpOY1J4TmlMNTIzQ28yTnNLbktYSklPaFdaRDFCMDhWQzh0WWVaNWJTOWMxY1A4NGpFcm5OUmRfOFNqbTV3RXN2RHpPandzT2tEcEhCTGF5cjVKZ0hvOFNZM3J3?oc=5\" target=\"_blank\">Шкала прорыва. Как Иран использует ИИ для очернения США</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Радио Свобода</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
       "title": "На Тайване заказали систему анализа спутниковых снимков ИИ для мониторинга перемещений армии КНР - Интерфакс",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGd2VNRDNmZGlpcE43Mksxenh4eGY0NHNZWDZ3Wmd5OFJWcXk0aTRoSlEtZVJSeWNYd29ndFlpSjRKQ2FWVXUwaFkyUlJJQdIBS0FVX3lxTE10LUpRSklqX19CXzdUaWNrNm9mcWZqcmpCTzUwR2tERE0tM3NtYUcyZDdOSElSRFJBWGJHS3Y1X2NnQXM4ZUdxa2tqSQ?oc=5",
       "source": "Google News",
@@ -409,56 +286,26 @@
       ]
     },
     {
+      "title": "ИИ-модели Google достигли переломного момента: вскоре они смогут самосовершенствоваться - 3DNews",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRktmYlVzNEs1Q3lwOFVvVENKMG9fcW5iR2h1Mlh0QnFBb04xQlN5QTFGMlEycG5lamJuMU82Z1lBTXRRZmYzQlZvNWNXYUEyUWZrZncwZTZfWnJuT2ZxM3lxUnpjbTJNRXU1a1UxZ3R5RE1hczJZanVLdHB5YkNIWHRHN2JoZmVFZi1ydnZZd2ZZNlFIeWNET0plQUtJaTBiRXNWOW5OOVdTLVU5NE9PTGhB0gG3AUFVX3lxTE1uaXhUOVF1TDkzY3NHWGs0YVh0cjI0Y2NNWUxRZzRKUDcydFhtSjRnSG5wVEtkMkw5OWNxU2lQYlkwOGVpekJPTnFCaHIwcTB1dkNrSE9Bb0RzN1QtSFZ4Z0VNZXNveWFhenE0UWNxYThFYTBvMnhOeWJWRThZVFJRVGo5dDB0OVp1eVlTU3lNazVncjZDYmRERUh1dkVCUV9ISDFIcGxMMWRDRG13VGVYMzNfcjBwbw?oc=5",
+      "source": "Google News",
+      "published": "2026-10-17T03:37:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNRktmYlVzNEs1Q3lwOFVvVENKMG9fcW5iR2h1Mlh0QnFBb04xQlN5QTFGMlEycG5lamJuMU82Z1lBTXRRZmYzQlZvNWNXYUEyUWZrZncwZTZfWnJuT2ZxM3lxUnpjbTJNRXU1a1UxZ3R5RE1hczJZanVLdHB5YkNIWHRHN2JoZmVFZi1ydnZZd2ZZNlFIeWNET0plQUtJaTBiRXNWOW5OOVdTLVU5NE9PTGhB0gG3AUFVX3lxTE1uaXhUOVF1TDkzY3NHWGs0YVh0cjI0Y2NNWUxRZzRKUDcydFhtSjRnSG5wVEtkMkw5OWNxU2lQYlkwOGVpekJPTnFCaHIwcTB1dkNrSE9Bb0RzN1QtSFZ4Z0VNZXNveWFhenE0UWNxYThFYTBvMnhOeWJWRThZVFJRVGo5dDB0OVp1eVlTU3lNazVncjZDYmRERUh1dkVCUV9ISDFIcGxMMWRDRG13VGVYMzNfcjBwbw?oc=5\" target=\"_blank\">ИИ-модели Google достигли переломного момента: вскоре они смогут самосовершенствоваться</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">3DNews</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
       "title": "ИИ-агент OpenAI взломал чужой криптокошелек - Наука Mail",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rT1ctSU4xQWNGLUZJeTd5UmRFYklmLVpiUjJQOVJXWUFIYS1WTmpTX0VQOGdQZFoyOWRjSmQ0TjFreVhZU1lRWmxFVXQ1VVc3c3VSN2xtQjVQT0FlVjA0UFpPcU11U3dmbDA3OUpDaUl2TE40Mkp4OUlhUGZaV2s?oc=5",
       "source": "Google News",
       "published": "2026-10-17T10:13:22",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9rT1ctSU4xQWNGLUZJeTd5UmRFYklmLVpiUjJQOVJXWUFIYS1WTmpTX0VQOGdQZFoyOWRjSmQ0TjFreVhZU1lRWmxFVXQ1VVc3c3VSN2xtQjVQT0FlVjA0UFpPcU11U3dmbDA3OUpDaUl2TE40Mkp4OUlhUGZaV2s?oc=5\" target=\"_blank\">ИИ-агент OpenAI взломал чужой криптокошелек</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Наука Mail</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Новые правила App Store запрещают ИИ-дипфейки и приложения для «раздевания» - Код.ру",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BUlE0NGpfUWoyZ3IyRUJ5TUZlWTRPOWZoZTNjb1NIMnd5Y2pxMmhMMlRzUDFaTFJfZTlmQklQakpGUEpuTC14eEFIQnlzTE0yUGI1aGFKc1g3d2FfVm1YSHlMUDDSAWpBVV95cUxNRkpxZmtnSkM3YVJsTm9rVzc3cjVHaHFJdGd3NVlBM1Vjb3VhRGM3Q0VBcnpiZjF5T2Iwd3RzSEdfeXpkeXVqbmZDQzAzOEpRN3B5RmFhbTBzTjdaMGpZbW45VTk1ellZSXNn?oc=5",
-      "source": "Google News",
-      "published": "2026-10-17T09:03:16",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BUlE0NGpfUWoyZ3IyRUJ5TUZlWTRPOWZoZTNjb1NIMnd5Y2pxMmhMMlRzUDFaTFJfZTlmQklQakpGUEpuTC14eEFIQnlzTE0yUGI1aGFKc1g3d2FfVm1YSHlMUDDSAWpBVV95cUxNRkpxZmtnSkM3YVJsTm9rVzc3cjVHaHFJdGd3NVlBM1Vjb3VhRGM3Q0VBcnpiZjF5T2Iwd3RzSEdfeXpkeXVqbmZDQzAzOEpRN3B5RmFhbTBzTjdaMGpZbW45VTk1ellZSXNn?oc=5\" target=\"_blank\">Новые правила App Store запрещают ИИ-дипфейки и приложения для «раздевания»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Код.ру</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "ИИ поставил крест на традиционном реверс-инжиниринге игр — decomp.dev прекращает работу - 3DNews",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWhpN3BxSGdSN2wxZkRCUEtwV0h2bnlqMkNEdlozRjByOFdiS3BYMXB5NnBPUnA1Uy1DTXA0TmZCVnhfNFM4YjZRbG5IbUZ5NXE1c0h3SG9hOGN1ZlJ6NHp0SjVCYTNIX1lzblZuSXpTMlBYd0E1Y215c1ZDWXpISjcxb1lrb25CR3o1anB4azJLVk5ZM2ZTa2RCdmRxVnpRdnBuaWZyS0JHUDQ2aUN5Zm5CTdIBuAFBVV95cUxOQmM4a1VnOHpLTkRXUVdwQXNrbFRjTmxzOUhCUF9MX2NyRHVpTnRlWkZlRG5jNDU5UDZmdmZVeXFHTlVodkN6RHNodG5fdVpXV2pLY2hFcndnRkIzb3J0WXFDYm5lSm9IVm42Y0VfMFRLUmVqZ0VEeFlGbEw4RVUyUnUxWnQ1c01OWlBFUmplTGUtbmdMUUwxal9TQXp0YmY0OGpGLThUZmpNelJaZnJsNjZneXNEcFZL?oc=5",
-      "source": "Google News",
-      "published": "2026-10-16T16:54:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWhpN3BxSGdSN2wxZkRCUEtwV0h2bnlqMkNEdlozRjByOFdiS3BYMXB5NnBPUnA1Uy1DTXA0TmZCVnhfNFM4YjZRbG5IbUZ5NXE1c0h3SG9hOGN1ZlJ6NHp0SjVCYTNIX1lzblZuSXpTMlBYd0E1Y215c1ZDWXpISjcxb1lrb25CR3o1anB4azJLVk5ZM2ZTa2RCdmRxVnpRdnBuaWZyS0JHUDQ2aUN5Zm5CTdIBuAFBVV95cUxOQmM4a1VnOHpLTkRXUVdwQXNrbFRjTmxzOUhCUF9MX2NyRHVpTnRlWkZlRG5jNDU5UDZmdmZVeXFHTlVodkN6RHNodG5fdVpXV2pLY2hFcndnRkIzb3J0WXFDYm5lSm9IVm42Y0VfMFRLUmVqZ0VEeFlGbEw4RVUyUnUxWnQ1c01OWlBFUmplTGUtbmdMUUwxal9TQXp0YmY0OGpGLThUZmpNelJaZnJsNjZneXNEcFZL?oc=5\" target=\"_blank\">ИИ поставил крест на традиционном реверс-инжиниринге игр — decomp.dev прекращает работу</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">3DNews</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Шкала прорыва. Как Иран использует ИИ для очернения США - Радио Свобода",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc3RleHRqOWkzVHJha2hlMGxUSWpIWmFXRjgtQnpMLUVObllpUjFVRGd1US1nMU9lR2IwTGVhUlo3NEx6TGRubmZtTVlJbUNmWkxQdk9ySl9KZzhMNWVTUW5IX1kzLWdWUXAzMC1ncnpjQWQzRGNlbHJlNzRfQVB6aXNzNVphZGNsbWkzSzB5RG9QcmJpRFEyS184cWd6elXSAaIBQVVfeXFMT0xLU0lLVXVBb0VrQUJiVXlaUGdGNDI4SW1lVVZubmRXNnN3Q0tIdThZUnYycW9LbEtnbU5NdVpCdlZYQnJLQUpOY1J4TmlMNTIzQ28yTnNLbktYSklPaFdaRDFCMDhWQzh0WWVaNWJTOWMxY1A4NGpFcm5OUmRfOFNqbTV3RXN2RHpPandzT2tEcEhCTGF5cjVKZ0hvOFNZM3J3?oc=5",
-      "source": "Google News",
-      "published": "2026-10-17T08:40:37",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOc3RleHRqOWkzVHJha2hlMGxUSWpIWmFXRjgtQnpMLUVObllpUjFVRGd1US1nMU9lR2IwTGVhUlo3NEx6TGRubmZtTVlJbUNmWkxQdk9ySl9KZzhMNWVTUW5IX1kzLWdWUXAzMC1ncnpjQWQzRGNlbHJlNzRfQVB6aXNzNVphZGNsbWkzSzB5RG9QcmJpRFEyS184cWd6elXSAaIBQVVfeXFMT0xLU0lLVXVBb0VrQUJiVXlaUGdGNDI4SW1lVVZubmRXNnN3Q0tIdThZUnYycW9LbEtnbU5NdVpCdlZYQnJLQUpOY1J4TmlMNTIzQ28yTnNLbktYSklPaFdaRDFCMDhWQzh0WWVaNWJTOWMxY1A4NGpFcm5OUmRfOFNqbTV3RXN2RHpPandzT2tEcEhCTGF5cjVKZ0hvOFNZM3J3?oc=5\" target=\"_blank\">Шкала прорыва. Как Иран использует ИИ для очернения США</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Радио Свобода</font>",
       "tags": [
         "google_news"
       ],
@@ -499,11 +346,26 @@
       ]
     },
     {
-      "title": "ИИ-модели Google достигли переломного момента: вскоре они смогут самосовершенствоваться - 3DNews",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRktmYlVzNEs1Q3lwOFVvVENKMG9fcW5iR2h1Mlh0QnFBb04xQlN5QTFGMlEycG5lamJuMU82Z1lBTXRRZmYzQlZvNWNXYUEyUWZrZncwZTZfWnJuT2ZxM3lxUnpjbTJNRXU1a1UxZ3R5RE1hczJZanVLdHB5YkNIWHRHN2JoZmVFZi1ydnZZd2ZZNlFIeWNET0plQUtJaTBiRXNWOW5OOVdTLVU5NE9PTGhB0gG3AUFVX3lxTE1uaXhUOVF1TDkzY3NHWGs0YVh0cjI0Y2NNWUxRZzRKUDcydFhtSjRnSG5wVEtkMkw5OWNxU2lQYlkwOGVpekJPTnFCaHIwcTB1dkNrSE9Bb0RzN1QtSFZ4Z0VNZXNveWFhenE0UWNxYThFYTBvMnhOeWJWRThZVFJRVGo5dDB0OVp1eVlTU3lNazVncjZDYmRERUh1dkVCUV9ISDFIcGxMMWRDRG13VGVYMzNfcjBwbw?oc=5",
+      "title": "Новые правила App Store запрещают ИИ-дипфейки и приложения для «раздевания» - Код.ру",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BUlE0NGpfUWoyZ3IyRUJ5TUZlWTRPOWZoZTNjb1NIMnd5Y2pxMmhMMlRzUDFaTFJfZTlmQklQakpGUEpuTC14eEFIQnlzTE0yUGI1aGFKc1g3d2FfVm1YSHlMUDDSAWpBVV95cUxNRkpxZmtnSkM3YVJsTm9rVzc3cjVHaHFJdGd3NVlBM1Vjb3VhRGM3Q0VBcnpiZjF5T2Iwd3RzSEdfeXpkeXVqbmZDQzAzOEpRN3B5RmFhbTBzTjdaMGpZbW45VTk1ellZSXNn?oc=5",
       "source": "Google News",
-      "published": "2026-10-17T03:37:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNRktmYlVzNEs1Q3lwOFVvVENKMG9fcW5iR2h1Mlh0QnFBb04xQlN5QTFGMlEycG5lamJuMU82Z1lBTXRRZmYzQlZvNWNXYUEyUWZrZncwZTZfWnJuT2ZxM3lxUnpjbTJNRXU1a1UxZ3R5RE1hczJZanVLdHB5YkNIWHRHN2JoZmVFZi1ydnZZd2ZZNlFIeWNET0plQUtJaTBiRXNWOW5OOVdTLVU5NE9PTGhB0gG3AUFVX3lxTE1uaXhUOVF1TDkzY3NHWGs0YVh0cjI0Y2NNWUxRZzRKUDcydFhtSjRnSG5wVEtkMkw5OWNxU2lQYlkwOGVpekJPTnFCaHIwcTB1dkNrSE9Bb0RzN1QtSFZ4Z0VNZXNveWFhenE0UWNxYThFYTBvMnhOeWJWRThZVFJRVGo5dDB0OVp1eVlTU3lNazVncjZDYmRERUh1dkVCUV9ISDFIcGxMMWRDRG13VGVYMzNfcjBwbw?oc=5\" target=\"_blank\">ИИ-модели Google достигли переломного момента: вскоре они смогут самосовершенствоваться</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">3DNews</font>",
+      "published": "2026-10-17T09:03:16",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BUlE0NGpfUWoyZ3IyRUJ5TUZlWTRPOWZoZTNjb1NIMnd5Y2pxMmhMMlRzUDFaTFJfZTlmQklQakpGUEpuTC14eEFIQnlzTE0yUGI1aGFKc1g3d2FfVm1YSHlMUDDSAWpBVV95cUxNRkpxZmtnSkM3YVJsTm9rVzc3cjVHaHFJdGd3NVlBM1Vjb3VhRGM3Q0VBcnpiZjF5T2Iwd3RzSEdfeXpkeXVqbmZDQzAzOEpRN3B5RmFhbTBzTjdaMGpZbW45VTk1ellZSXNn?oc=5\" target=\"_blank\">Новые правила App Store запрещают ИИ-дипфейки и приложения для «раздевания»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Код.ру</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ИИ в здравоохранении. Дайджест Vademecum за 12–17 октября 2026 года - Vademec.ru",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcU1RVG93UDd2WUt3bEtBX0VEWkRRSUV4NUZkNFZITC1JOUVhSlUxem5PXzBuVDJtYU82UUdvVVBGeV85Qi00d3g5VkNYN2NxOExjV0wxSmJySmZrVVJXZ0R0MUppbFpNeTJiUGRzSXM2Q0gycFFwbTFXSGdObWhyQzdocHFKU3o0S0dNcVd6dVdpa000RlZBYzJtMXhidVN1a1F3U0xQcEVoZw?oc=5",
+      "source": "Google News",
+      "published": "2026-10-17T12:58:58",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcU1RVG93UDd2WUt3bEtBX0VEWkRRSUV4NUZkNFZITC1JOUVhSlUxem5PXzBuVDJtYU82UUdvVVBGeV85Qi00d3g5VkNYN2NxOExjV0wxSmJySmZrVVJXZ0R0MUppbFpNeTJiUGRzSXM2Q0gycFFwbTFXSGdObWhyQzdocHFKU3o0S0dNcVd6dVdpa000RlZBYzJtMXhidVN1a1F3U0xQcEVoZw?oc=5\" target=\"_blank\">ИИ в здравоохранении. Дайджест Vademecum за 12–17 октября 2026 года</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vademec.ru</font>",
       "tags": [
         "google_news"
       ],
@@ -519,6 +381,36 @@
       "source": "Google News",
       "published": "2026-10-17T08:40:37",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPTEtTSUtVdUFvRWtBQmJVeVpQZ0Y0MjhJbWVVVm5uZFc2c3dDS0h1OFlSdjJxb0tsS2dtTk11WkJ2VlhCcktBSk5jUnhOaUw1MjNDbzJOc0tuS1hKSU9oV1pEMUIwOFZDOHRZZVo1YlM5YzFjUDg0akVybk5SZF84U2ptNXdFc3ZEek9qd3NPa0RwSEJMYXlyNUpnSG84U1kzcnfSAaIBQVVfeXFMT0xLU0lLVXVBb0VrQUJiVXlaUGdGNDI4SW1lVVZubmRXNnN3Q0tIdThZUnYycW9LbEtnbU5NdVpCdlZYQnJLQUpOY1J4TmlMNTIzQ28yTnNLbktYSklPaFdaRDFCMDhWQzh0WWVaNWJTOWMxY1A4NGpFcm5OUmRfOFNqbTV3RXN2RHpPandzT2tEcEhCTGF5cjVKZ0hvOFNZM3J3?oc=5\" target=\"_blank\">Шкала прорыва. Как Иран использует ИИ для очернения США</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Радио Свобода</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Российские учёные вошли в топ-1% мировых исследователей в области ИИ - iXBT.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaVp4RGMyOVNNNkQyVjRDQVFDeE52cTNmLWdlZV94YjltaXVsLXVFakJwS3p4dWdlUnVmUkhhVER3WTVtSWVOdGxxYkJ3dndDWl9vci0wV1pPRUdXbVRyRFA3ZEdYNTE4TWFkTTh5NU9CN0t3YS12T0ZJOXRSRXR0YUZfY21DVlVFODY0ZFY0eUEwNkk2X0VHMVRTWTdjd0tXckdTTkM2XzRQemVKX1HSAbMBQVVfeXFMTWFrN001TDhPZy1mSUM0dDk5OVNMWTQzRGJJWkg0SjRJb0szUy1nb2xwenNXamFyYU4tVlhYRXBVbXFzN3pqTDd3Zy1YOElpbUM1RVNMNGd5ZTM2Mm10ek9HclZhQXg1QjV5anpLN2pQSkFrOWFNS01RYVFOd3VBU09qQVhtVGZMUDFfX2pVMThhOGxZYWJWazBlcXJfams4TU9DOHdqbzl3X0hKbEZyTDVvWWc?oc=5",
+      "source": "Google News",
+      "published": "2026-10-17T15:17:08",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNaVp4RGMyOVNNNkQyVjRDQVFDeE52cTNmLWdlZV94YjltaXVsLXVFakJwS3p4dWdlUnVmUkhhVER3WTVtSWVOdGxxYkJ3dndDWl9vci0wV1pPRUdXbVRyRFA3ZEdYNTE4TWFkTTh5NU9CN0t3YS12T0ZJOXRSRXR0YUZfY21DVlVFODY0ZFY0eUEwNkk2X0VHMVRTWTdjd0tXckdTTkM2XzRQemVKX1HSAbMBQVVfeXFMTWFrN001TDhPZy1mSUM0dDk5OVNMWTQzRGJJWkg0SjRJb0szUy1nb2xwenNXamFyYU4tVlhYRXBVbXFzN3pqTDd3Zy1YOElpbUM1RVNMNGd5ZTM2Mm10ek9HclZhQXg1QjV5anpLN2pQSkFrOWFNS01RYVFOd3VBU09qQVhtVGZMUDFfX2pVMThhOGxZYWJWazBlcXJfams4TU9DOHdqbzl3X0hKbEZyTDVvWWc?oc=5\" target=\"_blank\">Российские учёные вошли в топ-1% мировых исследователей в области ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iXBT.com</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ИИ спроектировал пистолет для печати на 3D‑принтере - Хабр",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5rV1NTUDhnS1dLenh1M0hzSG4xckVnaDZVZXZ0bFlDTVVoUlM2VmhSS3dxaWx1YzREU1FWV1hwVzlHZEdxVmlJcNIBWEFVX3lxTE5hRmNMREFhNXhUNXZYcTdMRi1ON3BGcmRyeWJ1ZWRXR1ROdElpWkUzZjBfWkNDMVpiaUdidnB2WFJ5UGZsUzc2UnBOT0xpcjNBT0hxUHRzTFY?oc=5",
+      "source": "Google News",
+      "published": "2026-10-17T12:54:43",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5rV1NTUDhnS1dLenh1M0hzSG4xckVnaDZVZXZ0bFlDTVVoUlM2VmhSS3dxaWx1YzREU1FWV1hwVzlHZEdxVmlJcNIBWEFVX3lxTE5hRmNMREFhNXhUNXZYcTdMRi1ON3BGcmRyeWJ1ZWRXR1ROdElpWkUzZjBfWkNDMVpiaUdidnB2WFJ5UGZsUzc2UnBOT0xpcjNBT0hxUHRzTFY?oc=5\" target=\"_blank\">ИИ спроектировал пистолет для печати на 3D‑принтере</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Хабр</font>",
       "tags": [
         "google_news"
       ],
@@ -574,11 +466,11 @@
       ]
     },
     {
-      "title": "YouTube Music вводит метки для ИИ-треков - ZOOM.CNews.ru",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX1U5YVVoVGVmV3IxNGgyLVJCc0VteGJaSklwNkotUkZIdzM5bzZTQXBKM1dRQXdLSmZhUE12V09mOEZ0UE5fOURCZi12cFVIUmNaS1Y1amMyOFVEWlU4LTBCcXUzZ0cwVDFaZ3RadnZ4UXR3SktTWFRZZjFlaDRONGgxSHhvUUZNeGx1czZzd3hjNXdNQmRn?oc=5",
+      "title": "Четыре связанных с «Яндексом» учёных вошли в мировой топ-1% исследователей ИИ - www1.ru",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQnQzQ1pIWHVTTnFGekpxZWs4U0lhNDBsUGVMZlNBc1I1M1R2d1pMNUNSZUxwMHN3bWN5cG5tNWNLUkZfQXRhR3VsTzdYRUVQaUZ5clZkV1p3bktVcWZIMjAxdmYwb19iUmZISkgwejR3Y0FyVS00N2RjY2tLM3Zzamx6QVRpNFBwdjdiMlIyWW9fS3k5NGpyRlIyQ245Y0dhUUtmOWc5RTdRWGl5LWtNTVBBc9IBuAFBVV95cUxNRWxfajFzZVVxSjVrMmR2OXNVdlc2cng5T2F2TVkyMVQ1NmVwbG5wSDdoR1l4OHcwMDREM3NoM2hETVBfVG1lcmQ5LUFXZHlUcEdsN2hPdnYwRWFKNmlSRGxlTmhQLTNEUnJudW5IQWZtb0VqV0ZfRzB6RGlWbDRVOUFraTNnSzIxTUFPQTE4MWRGV291bVV4MVdEYVdGMlI3S0h6SDdyTW5aWmRlc3JibjlvMmpkazVK?oc=5",
       "source": "Google News",
-      "published": "2026-10-17T11:14:32",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQX1U5YVVoVGVmV3IxNGgyLVJCc0VteGJaSklwNkotUkZIdzM5bzZTQXBKM1dRQXdLSmZhUE12V09mOEZ0UE5fOURCZi12cFVIUmNaS1Y1amMyOFVEWlU4LTBCcXUzZ0cwVDFaZ3RadnZ4UXR3SktTWFRZZjFlaDRONGgxSHhvUUZNeGx1czZzd3hjNXdNQmRn?oc=5\" target=\"_blank\">YouTube Music вводит метки для ИИ-треков</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZOOM.CNews.ru</font>",
+      "published": "2026-10-17T15:40:41",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPQnQzQ1pIWHVTTnFGekpxZWs4U0lhNDBsUGVMZlNBc1I1M1R2d1pMNUNSZUxwMHN3bWN5cG5tNWNLUkZfQXRhR3VsTzdYRUVQaUZ5clZkV1p3bktVcWZIMjAxdmYwb19iUmZISkgwejR3Y0FyVS00N2RjY2tLM3Zzamx6QVRpNFBwdjdiMlIyWW9fS3k5NGpyRlIyQ245Y0dhUUtmOWc5RTdRWGl5LWtNTVBBc9IBuAFBVV95cUxNRWxfajFzZVVxSjVrMmR2OXNVdlc2cng5T2F2TVkyMVQ1NmVwbG5wSDdoR1l4OHcwMDREM3NoM2hETVBfVG1lcmQ5LUFXZHlUcEdsN2hPdnYwRWFKNmlSRGxlTmhQLTNEUnJudW5IQWZtb0VqV0ZfRzB6RGlWbDRVOUFraTNnSzIxTUFPQTE4MWRGV291bVV4MVdEYVdGMlI3S0h6SDdyTW5aWmRlc3JibjlvMmpkazVK?oc=5\" target=\"_blank\">Четыре связанных с «Яндексом» учёных вошли в мировой топ-1% исследователей ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www1.ru</font>",
       "tags": [
         "google_news"
       ],
@@ -589,11 +481,26 @@
       ]
     },
     {
-      "title": "ИИ помог ФАС выявить признаки картеля на торгах на 676,6 млн рублей - TKS.RU",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTFk0bEFnOThPVVdndVV5eUppanVraFN1Tkl3MUg1VHUtbG1SdDZRaW9nYW1HUjlTeVVqWUtuX3N1UFhsMUUyQ0xYVDdIU1plTXZhQkhvelV1dDI2bjFGSGNaMzE4enpqMDlZaG44NXViSEdxY0dUSW5jUTZZMERBZUIxT0lCTUxfN1ZUbkZzdlZxSjFScnJPMGhYYmZaSmNjR0RDU01FY2dia1M1eHc?oc=5",
+      "title": "Искусственный интеллект сокращает проектирование квартир с четырёх часов до одного — ПИК - Всеостройке.рф",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdDR4ZmZXYVRzLTh4ZFFBRnNEZzRvTXVCWU5aczVfTGl4NlBjdHJ2Ty1MQ3pmWlQ5VndNRzBoUXlMcS1kUlRIUm5wNV8tYUZuN3F5a1ZyZURhdWptcTlQZVQwdk12VzdqOHVkS3ZlTjB0YVIzT1R1cXVZWUFJN1hwOUxWV29oQWxRSlNGbmo5dkd1ZndLeG5Iam5Ud3U3RHp4TnEyVml3ZjBZdTNrWFNCQ3c2WTQxTEhEWVBjWC1KaDFya2JUeFE?oc=5",
       "source": "Google News",
-      "published": "2026-10-17T09:05:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPTFk0bEFnOThPVVdndVV5eUppanVraFN1Tkl3MUg1VHUtbG1SdDZRaW9nYW1HUjlTeVVqWUtuX3N1UFhsMUUyQ0xYVDdIU1plTXZhQkhvelV1dDI2bjFGSGNaMzE4enpqMDlZaG44NXViSEdxY0dUSW5jUTZZMERBZUIxT0lCTUxfN1ZUbkZzdlZxSjFScnJPMGhYYmZaSmNjR0RDU01FY2dia1M1eHc?oc=5\" target=\"_blank\">ИИ помог ФАС выявить признаки картеля на торгах на 676,6 млн рублей</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TKS.RU</font>",
+      "published": "2026-10-17T15:04:08",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQdDR4ZmZXYVRzLTh4ZFFBRnNEZzRvTXVCWU5aczVfTGl4NlBjdHJ2Ty1MQ3pmWlQ5VndNRzBoUXlMcS1kUlRIUm5wNV8tYUZuN3F5a1ZyZURhdWptcTlQZVQwdk12VzdqOHVkS3ZlTjB0YVIzT1R1cXVZWUFJN1hwOUxWV29oQWxRSlNGbmo5dkd1ZndLeG5Iam5Ud3U3RHp4TnEyVml3ZjBZdTNrWFNCQ3c2WTQxTEhEWVBjWC1KaDFya2JUeFE?oc=5\" target=\"_blank\">Искусственный интеллект сокращает проектирование квартир с четырёх часов до одного — ПИК</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Всеостройке.рф</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "искусственный интеллект"
+      ]
+    },
+    {
+      "title": "Сетевая «Швейцария»: Cisco изменила стратегию в эпоху агентного ИИ, став более открытой и нейтральной - ServerNews",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5XY3RqR29xN1lzTndGSElXOThPZUdsX0t0T2UwQXdDY2daaGNGWWhYYTRqMW00czdMN21HSlJ6cTZ4WWM?oc=5",
+      "source": "Google News",
+      "published": "2026-10-17T15:04:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5XY3RqR29xN1lzTndGSElXOThPZUdsX0t0T2UwQXdDY2daaGNGWWhYYTRqMW00czdMN21HSlJ6cTZ4WWM?oc=5\" target=\"_blank\">Сетевая «Швейцария»: Cisco изменила стратегию в эпоху агентного ИИ, став более открытой и нейтральной</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ServerNews</font>",
       "tags": [
         "google_news"
       ],
@@ -608,21 +515,22 @@
     "by_source": {
       "Интерфакс": 1,
       "Habr_AI": 6,
-      "3DNews": 12,
+      "3DNews": 6,
       "Google News": 21
     },
     "by_category": {
       "general_news": 1,
-      "tech_news": 18,
+      "tech_news": 12,
       "google_news": 21
     },
     "by_keyword": {
-      "ИИ": 35,
+      "ИИ": 28,
+      "AI": 1,
       "policy": 1,
       "машинное обучение": 1,
-      "AI": 1,
-      "регулирование": 4,
-      "ESG": 2
+      "регулирование": 1,
+      "ESG": 2,
+      "искусственный интеллект": 1
     }
   }
 }
