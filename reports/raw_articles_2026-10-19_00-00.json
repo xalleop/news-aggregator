@@ -1,0 +1,369 @@
+{
+  "timestamp": "2026-10-19_00-00",
+  "total_articles": 23,
+  "articles": [
+    {
+      "title": "Новый мир наступает быстрее, чем мы успеваем испугаться",
+      "url": "https://habr.com/ru/articles/1095856/?utm_campaign=1095856&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-10-18T13:28:32",
+      "description": "<img src=\"https://habrastorage.org/extt/50/16/b4/5016b440d495f8c64dbb37cd38a41cc9.jpg\" /><p>Уже ни для кого не секрет, что ИИ развивается быстрее, чем мы успеваем это осознать.</p><p>Наверняка что-то из этой статьи вы уже слышали, но не судите сразу.</p> <a href=\"https://habr.com/ru/articles/1095856/?utm_campaign=1095856&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ИИ в работе: воркслоп и как его избежать",
+      "url": "https://habr.com/ru/articles/1095746/?utm_campaign=1095746&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-10-18T11:08:11",
+      "description": "<p>Проблемы эффективности нейросети на самом деле — проблемы обращения людей с нейросетью. И «лечить» надо не ИИ — а повышать собственную компетенцию: компетенцию в работе с ИИ, но в первую очередь — собственную компетенцию в работе, для которой человек использует нейросеть. </p><p>Можете быть уверены: <strong>если вы не разбираетесь в вопросе — модель вас обманет.</strong> Только настоящий опыт человека поможет вовремя найти ошибку и исправить ее. Некомпетентный сотрудник или руководитель не будут знать, где ждать подвоха, а видимая, иллюзорная компетентность ИИ только продлит время до реализации допущенной ошибки, когда она уже вполне может превратиться в системную, а её последствия — оказаться катастрофичными.</p> <a href=\"https://habr.com/ru/articles/1095746/?utm_campaign=1095746&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ИИ‑мастер для настольной RPG: один запрос на ход, кубик до ответа и баг, который удваивал здоровье",
+      "url": "https://habr.com/ru/articles/1095802/?utm_campaign=1095802&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-10-18T10:32:11",
+      "description": "<img src=\"https://habrastorage.org/extt/ae/fc/ab/aefcabe475e92308bf7d1320407d496e.jpg\" /><p>Я делаю браузерную текстовую ролевую игру, где ведущим работает языковая модель. Игрок пишет любое действие своими словами, мастер отвечает рассказом, а&nbsp;игра ведёт механику: здоровье, деньги, характеристики, инвентарь, броски d20. Кажется, что&nbsp;всё просто: отправь модели историю и лист персонажа, получи ответ. На&nbsp;практике самые интересные задачи оказались не&nbsp;в&nbsp;промптах вида «напиши смешно», а&nbsp;на&nbsp;стыке вероятностной модели и детерминированной игровой механики. Ниже&nbsp;— четыре таких места и то, как&nbsp;я их решил.</p><p>Стек: Node.js 24, Express, встроенный node:sqlite, модели через OpenRouter и общий для&nbsp;сервера и браузера модуль движка.</p> <a href=\"https://habr.com/ru/articles/1095802/?utm_campaign=1095802&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Идеи Тома Вуджека об инженерном творчестве",
+      "url": "https://habr.com/ru/companies/ru_mts/articles/1095258/?utm_campaign=1095258&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-10-18T10:30:11",
+      "description": "<img src=\"https://habrastorage.org/extt/10/35/2a/10352a58ef9bb7d1c464784aaf9b52cd.png\" /><p>… или как спасти человека, работающего с мыслительным протезом. </p><p>Задолго до кембрийского взрыва ИИ канадский дизайнер Том Вуджек показал принципы инженерного творчества на трех простых упражнениях: на башне из спагетти с зефиркой на вершине, на рисунке тоста и на стене со стикерами. Его выступления на TED разошлись по тренингам и стали учебными пособиями для MVP, пилотных проектов, системных карт и стратегических сессий. Увы, сегодня эти практики воспринимаются как карго-культ, и их повторяют как ритуал: подвинул стикер, получил <s>банан</s> процент от KPI. А теория, идеи и история, которые за ними стояли, забываются.</p><p>Если вы бывали на тренинге по аджайлу или дизайн-мышлению, то, скорее всего, видели много подобных упражнений. Четыре человека, двадцать сухих спагетти, по ярду скотча и ниток, одна зефирка и восемнадцать минут. Команда спорит, чертит, делит роли. За минуту до гонга зефирку торжественно ставят на вершину, и конструкция медленно, с достоинством складывается пополам. Вуджек, проводивший это упражнение десятки раз, называет такой момент переходом от «та-дам» к «ой-ой».</p><p>Дальше на тренинге обычно смеются, обсуждают командную работу, а потом идут пить кофе. Упражнение сделано, галочка поставлена. Мысль, ради которой его придумали, чаще всего остается на столе вместе с обломками спагетти.&nbsp;</p><p><em>Сам Вуджек формулирует ее одной фразой: «У каждого проекта своя зефирка». Это допущение, которое никто не проверил и которое обрушит всю конструкцию в последний момент.</em></p><p>В современной разработке такие башни из спагетти встречаются часто, только выглядят по-другому, а зефирка от этого легче не становится. Модель выдаст код, чертеж или сотню вариантов детали быстрее, чем команда договорится о том, кто держит скотч. Правда, такой код падает на первых живых данных.&nbsp;</p><p>Недавно Вуджек назвал искусственный интеллект <a href=\"https://podcast.iise.org/episodes/wicked-problem-solving-with-tom-wujec/transcript\">зловещей проблемой</a>. Но что стоит за этой фразой? Луддизм или глубокое понимание основ творческого процесса?</p><p>В этой статье я попробую ответить на этот вопрос. Для этого стряхну пыль с трех выступлений Вуджека и посмотрю, что они заложили в современный бизнес и ИТ. А заодно и покажу, что, вернувшись к их сути, мы получаем готовый способ работать с ИИ. Итак, расчехляем виниловые проигрыватели, ставим пластинку Jethro Tull, звоним друзьям и идем на кухню за пачкой макарон.&nbsp;</p> <a href=\"https://habr.com/ru/articles/1095258/?utm_campaign=1095258&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "искусственный интеллект",
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ИИ не ускоряет разработчиков. Он увеличивает разрыв между ними",
+      "url": "https://habr.com/ru/articles/1095794/?utm_campaign=1095794&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-10-18T10:20:10",
+      "description": "<img src=\"https://habrastorage.org/extt/d3/a8/5d/d3a85d11b84b6c5719daf9b2a883f930.png\" /><p>Представим, что&nbsp;разработчик научился выполнять дневную норму за&nbsp;два часа. Что&nbsp;он получит: премию, повышение или&nbsp;ещё четыре дневные нормы? Если приз за&nbsp;скорость&nbsp;— новая норма, молчание становится рациональной стратегией. Возможно, некоторые разработчики уже работают в&nbsp;несколько раз быстрее. Просто не&nbsp;обязательно для&nbsp;вас. </p> <a href=\"https://habr.com/ru/articles/1095794/?utm_campaign=1095794&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Хотел поручить AI целый проект. Уперся в изоляцию, память и восстановление после сбоев",
+      "url": "https://habr.com/ru/articles/1095776/?utm_campaign=1095776&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-10-18T09:13:04",
+      "description": "<img src=\"https://habrastorage.org/extt/e0/6b/11/e06b114814421c147599f1844500f59e.png\" /><p><em>Что&nbsp;пришлось проверить, прежде чем доверять системе самостоятельную работу над программным проектом.</em></p><p>Хотел построить систему, способную самостоятельно вести программный проект от&nbsp;идеи до&nbsp;работающего продукта с&nbsp;помощью AI‑агентов. Но&nbsp;первые инженерные эксперименты показали, что&nbsp;генерация кода далеко не&nbsp;самая сложная часть задачи.</p><p>В&nbsp;статье рассказываю о&nbsp;разработке Yggdrasil: почему ограничения файловой системы не&nbsp;гарантируют защиту данных, какие проблемы остаются после изоляции в&nbsp;VM, почему лимиты памяти не&nbsp;обеспечивают жестких гарантий для&nbsp;хоста и как&nbsp;восстанавливать выполнение после сбоев без&nbsp;риска повторить уже совершенные действия.</p><p>Разбираю реальные результаты испытаний, включая проваленные проверки, принятые архитектурные решения и ограничения, которые пока не&nbsp;удалось устранить. Проект еще находится на&nbsp;стадии исследований, поэтому речь не&nbsp;о&nbsp;готовом решении, а&nbsp;о&nbsp;проблемах, с&nbsp;которыми приходится сталкиваться при&nbsp;попытке построить действительно автономную AI‑разработку.</p> <a href=\"https://habr.com/ru/articles/1095776/?utm_campaign=1095776&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Превращаем Antminer в ИИ‑ускоритель: асинхронно‑пакетный оркестратор и троичная логика против NVIDIA",
+      "url": "https://habr.com/ru/articles/1095768/?utm_campaign=1095768&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-10-18T07:12:55",
+      "description": "<img src=\"https://habrastorage.org/extt/c1/bc/81/c1bc816ddaebb75c1ba4b8b7818c5861.png\" /><p>Архитектура ZAP: Как&nbsp;обойти кремниевый тупик, убрать «бутылочное горлышко» Фон Неймана и запустить ИИ на&nbsp;адиабатических фазовых коллизиях</p><p>Сегодня индустрия искусственного интеллекта упёрлась в&nbsp;очевидный технологический и энергетический тупик. Попытки масштабировать классические кластеры на&nbsp;базе бинарного кремния (NVIDIA H100/B200) приводят к&nbsp;экспоненциальному росту энергопотребления. Дата‑центры требуют мегаватты мощности. Причина этого&nbsp;— не&nbsp;плохой софт, а&nbsp;фундаментальные ограничения: физический предел кремния (квантовое туннелирование на&nbsp;затворах менее 2&nbsp;нм) и классическое бутылочное горлышко Фон Неймана (Von Neumann bottleneck)&nbsp;— постоянный энергозатратный дрейф данных между процессором и памятью по&nbsp;шине.</p> <a href=\"https://habr.com/ru/articles/1095768/?utm_campaign=1095768&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Я пустил ИИ-агента на рабочий кластер 1С. Он нашёл 119 ГБ srvinfo, бэкап-призрак и не нашёл тормозов",
+      "url": "https://habr.com/ru/articles/1095764/?utm_campaign=1095764&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-10-18T06:53:55",
+      "description": "<p>«Утром никто не может зайти: начало сеанса запрещено». «Пользователь ушёл домой ещё вчера, а его сеанс до сих пор висит и держит лицензию». «rphost опять съел всю память, перезагружаем сервер, как каждую неделю». Если вы хоть раз администрировали 1С, у вас сейчас дёрнулся глаз.</p><p>А потом я сделал то, от чего у любого безопасника поднимется давление: посадил ИИ-агента за большой рабочий кластер. Без RDP, из обычного чата. В тестовую базу, не паникуйте, но кластер настоящий: 16 баз, два сервера, 512 ГБ памяти. Пятнадцать минут диагностики, тринадцать минут разработки. Ниже протокол без купюр: что агент нашёл, где споткнулся, чего я ему не разрешил и что пока не проверял.</p><p>Честно сразу: инструмент, через который агент лез на сервер, мой. Называется Local Commander. Так что если вам покажется, что я его хвалю, дочитайте до раздела про то, что в нём надо чинить. Он длинный.</p> <a href=\"https://habr.com/ru/articles/1095764/?utm_campaign=1095764&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать протокол</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "DeepSeek обновила ИИ-модель V4.1-Flash — она стала быстрее и эффективнее",
+      "url": "https://3dnews.ru/1150101",
+      "source": "3DNews",
+      "published": "2026-10-18T10:31:47",
+      "description": "На этой неделе состоялся релиз ИИ-модели DeepSeek V4.1-Flash-1017. Китайская компания заявила, что новый алгоритм стал компактнее и работает быстрее предыдущей версии нейросети. Этот шаг усилит конкуренцию DeepSeek с западными компаниями, такими как Anthropic и OpenAI, а также конкурентами на домашнем рынке, включая Moonshot Kimi и Z.ai. Источник изображения: Unsplash, Solen Feyissa",
+      "tags": [
+        "tech",
+        "hardware"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI",
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ИИ действительно приведёт к потере рабочих мест, но при этом создаст целые новые отрасли, как считает Anthropic",
+      "url": "https://3dnews.ru/1150093",
+      "source": "3DNews",
+      "published": "2026-10-18T04:26:00",
+      "description": "По мнению сооснователя Anthropic Джека Кларка (Jack Clark), ради безопасности человечества создатели ИИ должны быть готовы к &laquo;созидательному разрушению&raquo; своего бизнеса. При этом развитие ИИ позволит уже к 2030 году увеличить ВВП США почти в полтора раза до $44 трлн и создать целые новые отрасли экономики. Источник изображения: Anthropic",
+      "tags": [
+        "tech",
+        "hardware"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Anthropic научит ИИ-агентов самостоятельно заключать сделки и разрешать споры с компаниями — FT - The Insider",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1yVFh2eXlYYUdsYW8zMlROb29neTl0R1pfcUkyUnJXN0hrazBNX1dTaGhabUtBb1UyMzctemIyTHhlYzg?oc=5",
+      "source": "Google News",
+      "published": "2026-10-18T19:46:25",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1yVFh2eXlYYUdsYW8zMlROb29neTl0R1pfcUkyUnJXN0hrazBNX1dTaGhabUtBb1UyMzctemIyTHhlYzg?oc=5\" target=\"_blank\">Anthropic научит ИИ-агентов самостоятельно заключать сделки и разрешать споры с компаниями — FT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Insider</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Энтузиаст с ИИ исправил недоработки разработчиков Oblivion Remastered, +42 % fps на RX 9070 XT - Клуб DNS",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeXdRTVlEdU1rZ3o4NUVZTWpwY1JxM21NZGliM1hxRjV5RndWYmJFU0RPb0R0dGFPbEpneGVQNmV4Qi1wcmo2MlhINnFjNm9mMVhIOUJmXy12TWNSTjBuVHRjakhNc2FXczFraHZOd3lsVV9GY1VIdjVscHVya25Od1NZZWdqUjhFcmdtTHVJTjJ2MFUtQWlScm9tTEpxbXU0YlZGRjRWUmjSAa4BQVVfeXFMTk1YTmM3OXFkalVVY2x5VmZXbUFNWWR0VmpzR3ptLUkzcWZjZnBSLUxIT1BpeHFsczJxREJ5M0M2Ty1aQ3RSZE1SNlBWV1VHTGRTZXpRVl8zZXpKTnJKYnZoQ2FCdjgzSjVQcmpXRDFVMzFXN1NPOVpySHFQLUNYQmVaUHhQbzI4UDRhX2ZxejE1YTkzODdFUTA5ODgtcmlXVERQWGZObVdzeDE2cmRn?oc=5",
+      "source": "Google News",
+      "published": "2026-10-18T16:17:40",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeXdRTVlEdU1rZ3o4NUVZTWpwY1JxM21NZGliM1hxRjV5RndWYmJFU0RPb0R0dGFPbEpneGVQNmV4Qi1wcmo2MlhINnFjNm9mMVhIOUJmXy12TWNSTjBuVHRjakhNc2FXczFraHZOd3lsVV9GY1VIdjVscHVya25Od1NZZWdqUjhFcmdtTHVJTjJ2MFUtQWlScm9tTEpxbXU0YlZGRjRWUmjSAa4BQVVfeXFMTk1YTmM3OXFkalVVY2x5VmZXbUFNWWR0VmpzR3ptLUkzcWZjZnBSLUxIT1BpeHFsczJxREJ5M0M2Ty1aQ3RSZE1SNlBWV1VHTGRTZXpRVl8zZXpKTnJKYnZoQ2FCdjgzSjVQcmpXRDFVMzFXN1NPOVpySHFQLUNYQmVaUHhQbzI4UDRhX2ZxejE1YTkzODdFUTA5ODgtcmlXVERQWGZObVdzeDE2cmRn?oc=5\" target=\"_blank\">Энтузиаст с ИИ исправил недоработки разработчиков Oblivion Remastered, +42 % fps на RX 9070 XT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Клуб DNS</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ИИ в работе: воркслоп и как его избежать - Хабр",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fTmV0YW5FNDRYbGlkX3RlMU9qT0tKUzREOTFzSXpzOHQ2LVRGejBfaEljWmpTUEc1NmtpUTJ3WG5RdjRSWkd6aFY5bHJVZ9IBWEFVX3lxTE0xYXd6NmxtVzd2cFdUZXRUVU9Qb2pqbnZSSVMtNjVsVkdIWXcxSjREZFQ3YXM0YngzMS1rNHJHN241S3FNYkM1b0xORXQ3QkZqTENxZHpUVEo?oc=5",
+      "source": "Google News",
+      "published": "2026-10-18T11:08:11",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fTmV0YW5FNDRYbGlkX3RlMU9qT0tKUzREOTFzSXpzOHQ2LVRGejBfaEljWmpTUEc1NmtpUTJ3WG5RdjRSWkd6aFY5bHJVZ9IBWEFVX3lxTE0xYXd6NmxtVzd2cFdUZXRUVU9Qb2pqbnZSSVMtNjVsVkdIWXcxSjREZFQ3YXM0YngzMS1rNHJHN241S3FNYkM1b0xORXQ3QkZqTENxZHpUVEo?oc=5\" target=\"_blank\">ИИ в работе: воркслоп и как его избежать</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Хабр</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "DeepSeek обновила ИИ-модель V4.1-Flash — она стала быстрее и эффективнее - 3DNews",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb29mSlBCSDNpbzQxVGF5bVl6YXFMejFHU09PZXNtbkpXSzJpOVZPd1c1clNtQUx1RDQ3TzdrWUZOTnNfRTFOWDdCVnF0MWRsZi1KamJ0ZWMyUVc5N18tMU0zREEwYi1kRUpTcWxlTkdtOWdlTHFnVmJtOUtJSUZYRjE1T0tzVlh1VDVMajVubjJrVVVjdElj0gGcAUFVX3lxTFBkRll0VVliT0M2X2hlTVIwbndwWS0wYjRzam1OWkh1UDBjV1lueC1ELV8wNF90MnVkVFAwSmc3S1B3b2dIakh3RGE4VWZHeXNUSVAzbGJyNVlVWnZLSFFydXQ5MzJpOVZERDB5LV9ESF9UbWI0b2h3YlU1U3JYcXgtXzNWN0tiSU1DNXVfQXdNTFdNdGlpdmxVMTFEOQ?oc=5",
+      "source": "Google News",
+      "published": "2026-10-18T10:31:47",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNb29mSlBCSDNpbzQxVGF5bVl6YXFMejFHU09PZXNtbkpXSzJpOVZPd1c1clNtQUx1RDQ3TzdrWUZOTnNfRTFOWDdCVnF0MWRsZi1KamJ0ZWMyUVc5N18tMU0zREEwYi1kRUpTcWxlTkdtOWdlTHFnVmJtOUtJSUZYRjE1T0tzVlh1VDVMajVubjJrVVVjdElj0gGcAUFVX3lxTFBkRll0VVliT0M2X2hlTVIwbndwWS0wYjRzam1OWkh1UDBjV1lueC1ELV8wNF90MnVkVFAwSmc3S1B3b2dIakh3RGE4VWZHeXNUSVAzbGJyNVlVWnZLSFFydXQ5MzJpOVZERDB5LV9ESF9UbWI0b2h3YlU1U3JYcXgtXzNWN0tiSU1DNXVfQXdNTFdNdGlpdmxVMTFEOQ?oc=5\" target=\"_blank\">DeepSeek обновила ИИ-модель V4.1-Flash — она стала быстрее и эффективнее</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">3DNews</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Почему развитие ИИ не вызвало бум строительства ЦОДов в России - Эксперт",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Jd2FfVGxxa09oV2tFOXQ4dGE0bmphWEctbmNINS1qWDRKclNhSTVwWG9TV19ZVDRCbVFRUDR3YmdvSVJ2SE9kQnY1QnZTWmM2N1ZWMzV6U0tFVC1MMUpXSTlORzZnQzlVT1QxSUt3?oc=5",
+      "source": "Google News",
+      "published": "2026-10-18T08:00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9Jd2FfVGxxa09oV2tFOXQ4dGE0bmphWEctbmNINS1qWDRKclNhSTVwWG9TV19ZVDRCbVFRUDR3YmdvSVJ2SE9kQnY1QnZTWmM2N1ZWMzV6U0tFVC1MMUpXSTlORzZnQzlVT1QxSUt3?oc=5\" target=\"_blank\">Почему развитие ИИ не вызвало бум строительства ЦОДов в России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Эксперт</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Птиц пытаются научить утраченным навыкам пения с помощью ИИ - Наука Mail",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5cm5MWWNjWmx6T1didDhuTWFyZTVnVE1COXZJNWpQYkxhZE9PTDVEMWZxQ1dQZDdqcVNXdzBjcmFSM2w2V0I3QjRKUU5wWVEzVlNFTTNqSjRHd09Ha0FidVphTExybGJ1YmRhQU9DRVRpWllMUUxCNUJzd20?oc=5",
+      "source": "Google News",
+      "published": "2026-10-18T06:03:50",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFA5cm5MWWNjWmx6T1didDhuTWFyZTVnVE1COXZJNWpQYkxhZE9PTDVEMWZxQ1dQZDdqcVNXdzBjcmFSM2w2V0I3QjRKUU5wWVEzVlNFTTNqSjRHd09Ha0FidVphTExybGJ1YmRhQU9DRVRpWllMUUxCNUJzd20?oc=5\" target=\"_blank\">Птиц пытаются научить утраченным навыкам пения с помощью ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Наука Mail</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Как я делаю Dungeon Cult: 13 нейросетей снаружи, игровой ИИ внутри - Хабр",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xQVpCMEQ0R2ZEYkJTUV9EdHRyNEhPa3VPNVBTQWd6TW1Ia0ZyNnJVYmVDcVZJa0VFNW42Z09Rc0M4STJYT2dqcjJnU3lCQdIBWEFVX3lxTE45Unl6T19BNkFCdzd5dXUyWGdWSDVlcHowNzFyNFlqZHRGQzZwUUVMX3p2b2RoNjZMVEZVX1pfQjltaWFuTE05bzU2R0p2V3huZkZVSEI3dVI?oc=5",
+      "source": "Google News",
+      "published": "2026-10-18T16:10:02",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xQVpCMEQ0R2ZEYkJTUV9EdHRyNEhPa3VPNVBTQWd6TW1Ia0ZyNnJVYmVDcVZJa0VFNW42Z09Rc0M4STJYT2dqcjJnU3lCQdIBWEFVX3lxTE45Unl6T19BNkFCdzd5dXUyWGdWSDVlcHowNzFyNFlqZHRGQzZwUUVMX3p2b2RoNjZMVEZVX1pfQjltaWFuTE05bzU2R0p2V3huZkZVSEI3dVI?oc=5\" target=\"_blank\">Как я делаю Dungeon Cult: 13 нейросетей снаружи, игровой ИИ внутри</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Хабр</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Правовые рамки генеративного контента: почему локальная политика использования ИИ в компании защищает бизнес от утечек данных и штрафов регуляторов - zakon.ru",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRGVUdTRDazVQQnlNUW9zTUFEcWJfMnVneDVVR3dDNkJoM2ptd0s2UVJfWkVmUDEyV2pDb1lMRlp4SWFDc1FrVFltc0V5V2MxQkQzT2E2T1cwTFBkUGVPLUxtdFdIcVJ5Y1pIcmUzZF8xcjR0dVd5cFhDUTlJTUgtSGNmeWVYbl91WmI5SmFKX1hSZEFYQnA4TjBHMWNKS1M1RDQ0OVY0Unk0NGFzbXRhY2Vuc0k1ZTRBTWVPN1JRTmdyVm1PTmJ4MS1CNWFJQQ?oc=5",
+      "source": "Google News",
+      "published": "2026-10-18T15:33:45",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPRGVUdTRDazVQQnlNUW9zTUFEcWJfMnVneDVVR3dDNkJoM2ptd0s2UVJfWkVmUDEyV2pDb1lMRlp4SWFDc1FrVFltc0V5V2MxQkQzT2E2T1cwTFBkUGVPLUxtdFdIcVJ5Y1pIcmUzZF8xcjR0dVd5cFhDUTlJTUgtSGNmeWVYbl91WmI5SmFKX1hSZEFYQnA4TjBHMWNKS1M1RDQ0OVY0Unk0NGFzbXRhY2Vuc0k1ZTRBTWVPN1JRTmdyVm1PTmJ4MS1CNWFJQQ?oc=5\" target=\"_blank\">Правовые рамки генеративного контента: почему локальная политика использования ИИ в компании защищает бизнес от утечек данных и штрафов регуляторов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">zakon.ru</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ИИ-аватар стал лицом посольства Индии в Джакарте - TV BRICS",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTTBsand0TlpkSTNybGtCTTlqa2x2aWJWMjhFVkxrSDVXMkpmTlRtbGhxeTk3OTF0cFRwMHRqcGFLa2tuc1FoZGhSZXk5SDNENWlaSmpCOHFQb190V3JqOGw0aW9pbzBBZm1IQ3BuMnEwYjVUSEpOV3hURWNwRDhSSDU2UDl4bEV6Z2c4VnJtZFVKcHVR?oc=5",
+      "source": "Google News",
+      "published": "2026-10-18T15:01:08",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQTTBsand0TlpkSTNybGtCTTlqa2x2aWJWMjhFVkxrSDVXMkpmTlRtbGhxeTk3OTF0cFRwMHRqcGFLa2tuc1FoZGhSZXk5SDNENWlaSmpCOHFQb190V3JqOGw0aW9pbzBBZm1IQ3BuMnEwYjVUSEpOV3hURWNwRDhSSDU2UDl4bEV6Z2c4VnJtZFVKcHVR?oc=5\" target=\"_blank\">ИИ-аватар стал лицом посольства Индии в Джакарте</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV BRICS</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "В «Дикси» снизили стоимость создания обучающего контента на 77% с помощью ИИ-аватара - Retail.ru",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMnhrdWxCY0pjYXdSZjEtNXNyRDNEUGVQaS1lTU5CT2RJVWxFbklJcnpfVW9XWTladXlTeDI5YVVVTmUtRUtWSjFSUS1zTDlTdEZHbTM0WmJEMkxLMVh0cDU0dlBLWXQyNUJrQzRUVFBmblV2THM5QnBmRjFvOXNYU2tUUjlOdUYtWC1WSWZhWlFJNmZUdE5WMHpobzkxUDg0Y0xoekVJa1JBZmxxQmZNVTJPVXA4aWtSY1YxaVJETVVTRms4RDE3X0QyR0lSUQ?oc=5",
+      "source": "Google News",
+      "published": "2026-10-18T09:17:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOMnhrdWxCY0pjYXdSZjEtNXNyRDNEUGVQaS1lTU5CT2RJVWxFbklJcnpfVW9XWTladXlTeDI5YVVVTmUtRUtWSjFSUS1zTDlTdEZHbTM0WmJEMkxLMVh0cDU0dlBLWXQyNUJrQzRUVFBmblV2THM5QnBmRjFvOXNYU2tUUjlOdUYtWC1WSWZhWlFJNmZUdE5WMHpobzkxUDg0Y0xoekVJa1JBZmxxQmZNVTJPVXA4aWtSY1YxaVJETVVTRms4RDE3X0QyR0lSUQ?oc=5\" target=\"_blank\">В «Дикси» снизили стоимость создания обучающего контента на 77% с помощью ИИ-аватара</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Retail.ru</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "С 1 сентября 2027 года все старшеклассники будут осваивать ИИ - Первое сентября",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4eVBHN1hMdTJJNnQ1NEJ2MEphQkpqNU5WNFJMQkp1ZkwwdlFQTS05SGJvTGNhaUJ0aldMTTZpc3JBV0JSTWdCYXJRbmJwSGs?oc=5",
+      "source": "Google News",
+      "published": "2026-10-18T07:02:37",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4eVBHN1hMdTJJNnQ1NEJ2MEphQkpqNU5WNFJMQkp1ZkwwdlFQTS05SGJvTGNhaUJ0aldMTTZpc3JBV0JSTWdCYXJRbmJwSGs?oc=5\" target=\"_blank\">С 1 сентября 2027 года все старшеклассники будут осваивать ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Первое сентября</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ИИ-агенты помогают управлять все более сложными сетями - Издательство «Открытые системы»",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UMktHOEE5cFdDVHZYSVRfWm9CSUhFNnIxWG5yX0NpbkFrN3Ryc29TYVFJbTFOb081XzJoRy1hVTNKUk95Yl91U24yZ21lTFM5bGxha2ZjNEtXdw?oc=5",
+      "source": "Google News",
+      "published": "2026-10-18T17:43:24",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UMktHOEE5cFdDVHZYSVRfWm9CSUhFNnIxWG5yX0NpbkFrN3Ryc29TYVFJbTFOb081XzJoRy1hVTNKUk95Yl91U24yZ21lTFM5bGxha2ZjNEtXdw?oc=5\" target=\"_blank\">ИИ-агенты помогают управлять все более сложными сетями</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Издательство «Открытые системы»</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Почему в школах не учат критическому мышлению и зачем оно в эпоху ИИ - Forbes.ru",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPanY2V19xWEtKV3MxUmpzbUJuVFZYaDdqTE91NGl2ekVWdWFSYmxQem1hYVVHQlJMbWF5WnY0TVRueEtqeHBFNnlrczBmS3dwMUlJbEQ2c0V1N2VOYVNEYUc2NDlFd0tyQzNNZGN2SmxNSkRNcXU4cEh5WFI3Y3l6b0JxZnRKMFRicU1mdEZ4anZDQXV0VDZSbnp3YU1QRzdoaHJsX0NFUEE?oc=5",
+      "source": "Google News",
+      "published": "2026-10-18T05:00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPanY2V19xWEtKV3MxUmpzbUJuVFZYaDdqTE91NGl2ekVWdWFSYmxQem1hYVVHQlJMbWF5WnY0TVRueEtqeHBFNnlrczBmS3dwMUlJbEQ2c0V1N2VOYVNEYUc2NDlFd0tyQzNNZGN2SmxNSkRNcXU4cEh5WFI3Y3l6b0JxZnRKMFRicU1mdEZ4anZDQXV0VDZSbnp3YU1QRzdoaHJsX0NFUEE?oc=5\" target=\"_blank\">Почему в школах не учат критическому мышлению и зачем оно в эпоху ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes.ru</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    }
+  ],
+  "groups": {
+    "by_source": {
+      "Habr_AI": 8,
+      "3DNews": 2,
+      "Google News": 13
+    },
+    "by_category": {
+      "tech_news": 10,
+      "google_news": 13
+    },
+    "by_keyword": {
+      "ИИ": 22,
+      "искусственный интеллект": 1,
+      "AI": 2
+    }
+  }
+}

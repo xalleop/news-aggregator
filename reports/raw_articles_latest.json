@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-18_18-53",
-  "total_articles": 29,
+  "timestamp": "2026-10-19_00-00",
+  "total_articles": 23,
   "articles": [
     {
       "title": "Новый мир наступает быстрее, чем мы успеваем испугаться",
@@ -124,36 +124,6 @@
       ]
     },
     {
-      "title": "Ни зарплат, ни отпусков, ни больничных. Зато есть User Story и Merge Request: как AI‑агенты работают у меня в Jira",
-      "url": "https://habr.com/ru/articles/1095690/?utm_campaign=1095690&utm_source=habrahabr&utm_medium=rss",
-      "source": "Habr_AI",
-      "published": "2026-10-17T16:36:51",
-      "description": "<img src=\"https://habrastorage.org/extt/30/73/5e/30735e0bcc4125e5be1b89dc56e6cfda.png\" /><p>IT-команда в средней компании (продуктовой, интеграторе, неважно) обычно состоит из продукт-менеджера, бизнес-аналитиков, разработчиков и QA-инженеров. Работают они, как правило, в одном трекере вроде Jira. А теперь представьте, что в поле Assignee появились виртуальные коллеги на все эти роли. У меня таких три: фронт, бэк и аналитик.</p><p>Людей они не заменяют. Ревью, ответы на вопросы и последнее слово в MR остаются за человеком, ниже покажу, где именно. Агентам я отдаю oneshot-задачи: достаточно понятные и ограниченные, чтобы решить их за один проход без долгой переписки. </p> <a href=\"https://habr.com/ru/articles/1095690/?utm_campaign=1095690&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Как это работает на практике</a>",
-      "tags": [
-        "ai",
-        "ml"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "ИИ-агенту разрешили не больше 100 единиц. Три корректных ALLOW дали итог 120",
-      "url": "https://habr.com/ru/articles/1095622/?utm_campaign=1095622&utm_source=habrahabr&utm_medium=rss",
-      "source": "Habr_AI",
-      "published": "2026-10-17T16:06:26",
-      "description": "<img src=\"https://habrastorage.org/extt/90/02/fa/9002fa2f4131e12e245d320c740282a7.png\" /><p>Человек разрешил workflow заказать не больше 100 единиц товара. Три запроса по 40 прошли через слой авторизации и получили ALLOW. В ERP в итоге оказалось 120.</p><p>Разбираю, почему локально допустимые решения могут вместе выйти за пределы общего лимита, как check-then-act ломается при конкурентном исполнении и почему ALLOW нужно связывать с атомарным резервированием общего лимита до внешнего эффекта.</p> <a href=\"https://habr.com/ru/articles/1095622/?utm_campaign=1095622&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
-      "tags": [
-        "ai",
-        "ml"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
       "title": "DeepSeek обновила ИИ-модель V4.1-Flash — она стала быстрее и эффективнее",
       "url": "https://3dnews.ru/1150101",
       "source": "3DNews",
@@ -185,41 +155,11 @@
       ]
     },
     {
-      "title": "Полное регулирование электронных судебных процессов, обеспечивающее единообразие в рамках правовой системы. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOazlXYnB3UHBCT2FRdFRuWXhXc3JpMWE4Z2xuLWE5aVpjT0lEUjB4c28tTmNKWFhXODVHZnNGRHlnNHdpXzIyTjlhRXZUQXNmS3FMWEtXWENBbzRjZEVlbS1fN0wydm5tRFYxd3FuLTVFSVpjVDBxV3Y2aXllTWZxTndpVHRyLXJwVE10MHAxb0FSZnI5d2MzRDZoZGFUbExL?oc=5",
+      "title": "Anthropic научит ИИ-агентов самостоятельно заключать сделки и разрешать споры с компаниями — FT - The Insider",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1yVFh2eXlYYUdsYW8zMlROb29neTl0R1pfcUkyUnJXN0hrazBNX1dTaGhabUtBb1UyMzctemIyTHhlYzg?oc=5",
       "source": "Google News",
-      "published": "2026-10-18T08:27:35",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOazlXYnB3UHBCT2FRdFRuWXhXc3JpMWE4Z2xuLWE5aVpjT0lEUjB4c28tTmNKWFhXODVHZnNGRHlnNHdpXzIyTjlhRXZUQXNmS3FMWEtXWENBbzRjZEVlbS1fN0wydm5tRFYxd3FuLTVFSVpjVDBxV3Y2aXllTWZxTndpVHRyLXJwVE10MHAxb0FSZnI5d2MzRDZoZGFUbExL?oc=5\" target=\"_blank\">Полное регулирование электронных судебных процессов, обеспечивающее единообразие в рамках правовой системы.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "регулирование",
-      "matched_keywords": [
-        "регулирование"
-      ]
-    },
-    {
-      "title": "Национальный фонд развития физической культуры, «Премия за инновационную политику в области ESG в Корее - 스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpRlowVnNYRzlTYmpsLUNLRnRiZ1hOQzVfdTdGZk1fdjNsQmNzdnRJLUNweXp5dTV0R2wyZDE3NjYtdXY2WlZwMm9oU2M3aFp4alFyUTRpeGdDX2VGV00ydHU0azhOVUtvWTgxWUNqcUFWb2c1QmV1a1dB?oc=5",
-      "source": "Google News",
-      "published": "2026-10-18T08:10:31",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBpRlowVnNYRzlTYmpsLUNLRnRiZ1hOQzVfdTdGZk1fdjNsQmNzdnRJLUNweXp5dTV0R2wyZDE3NjYtdXY2WlZwMm9oU2M3aFp4alFyUTRpeGdDX2VGV00ydHU0azhOVUtvWTgxWUNqcUFWb2c1QmV1a1dB?oc=5\" target=\"_blank\">Национальный фонд развития физической культуры, «Премия за инновационную политику в области ESG в Корее</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">스타뉴스</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ESG",
-      "matched_keywords": [
-        "ESG"
-      ]
-    },
-    {
-      "title": "Почему развитие ИИ не вызвало бум строительства ЦОДов в России - Эксперт",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Jd2FfVGxxa09oV2tFOXQ4dGE0bmphWEctbmNINS1qWDRKclNhSTVwWG9TV19ZVDRCbVFRUDR3YmdvSVJ2SE9kQnY1QnZTWmM2N1ZWMzV6U0tFVC1MMUpXSTlORzZnQzlVT1QxSUt3?oc=5",
-      "source": "Google News",
-      "published": "2026-10-18T08:00:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9Jd2FfVGxxa09oV2tFOXQ4dGE0bmphWEctbmNINS1qWDRKclNhSTVwWG9TV19ZVDRCbVFRUDR3YmdvSVJ2SE9kQnY1QnZTWmM2N1ZWMzV6U0tFVC1MMUpXSTlORzZnQzlVT1QxSUt3?oc=5\" target=\"_blank\">Почему развитие ИИ не вызвало бум строительства ЦОДов в России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Эксперт</font>",
+      "published": "2026-10-18T19:46:25",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1yVFh2eXlYYUdsYW8zMlROb29neTl0R1pfcUkyUnJXN0hrazBNX1dTaGhabUtBb1UyMzctemIyTHhlYzg?oc=5\" target=\"_blank\">Anthropic научит ИИ-агентов самостоятельно заключать сделки и разрешать споры с компаниями — FT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Insider</font>",
       "tags": [
         "google_news"
       ],
@@ -230,101 +170,11 @@
       ]
     },
     {
-      "title": "ИИ действительно приведёт к потере рабочих мест, но при этом создаст целые новые отрасли, как считает Anthropic - 3DNews",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORTB2TU91Nng4T251NS01RWlQZjBKOVRoM0ZMWXp5b0w4Ukd2N1Bmb0hSb2V6cC1xVGJmMjhyaTJiQm5WX0NGVkJERExwQ29nYW9ENmszZThRN3NPY2RzS0ZtSEQtRlRkNEtVMW95Z2ZTUEFDWG5hR3h6M3JKQmwzNmpuR1RnRHY5bFdvcGlZMFNrWFJDeTlteG5Pa3JibkxwNHR1QWJqbUlXRjR0dmJTeERNbmJ6Mkp5Z1hDOEpWdkJRcUstTWJsb1Eya3c3d0JFUHBJctIB2gFBVV95cUxQUDg1ZmtNaFBQazdIUU1jRWtzSXJfWDd5QlJsOFNGMmtOZ252aXdqR2ZwdkRuZ1BjOXNjY2dvOFJRcmlfcE91U1BTUVd1VmxKczA5VWE0cVJjYmZxbXpiVzEyVGR5MjRlREI5UFdCa015amY2RnlzZnVNM2FESjE5QmMwcDlIRkVFNkQ2cTBSanVYUW80N3JIUldFdkFObElEeXp0WlZESXc1b0ZPZWRrWWhTelpjenJ5QXpBUnZsMzlYMWdHVm16djliNXNNczhoS3pKaGFOSXludw?oc=5",
+      "title": "Энтузиаст с ИИ исправил недоработки разработчиков Oblivion Remastered, +42 % fps на RX 9070 XT - Клуб DNS",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeXdRTVlEdU1rZ3o4NUVZTWpwY1JxM21NZGliM1hxRjV5RndWYmJFU0RPb0R0dGFPbEpneGVQNmV4Qi1wcmo2MlhINnFjNm9mMVhIOUJmXy12TWNSTjBuVHRjakhNc2FXczFraHZOd3lsVV9GY1VIdjVscHVya25Od1NZZWdqUjhFcmdtTHVJTjJ2MFUtQWlScm9tTEpxbXU0YlZGRjRWUmjSAa4BQVVfeXFMTk1YTmM3OXFkalVVY2x5VmZXbUFNWWR0VmpzR3ptLUkzcWZjZnBSLUxIT1BpeHFsczJxREJ5M0M2Ty1aQ3RSZE1SNlBWV1VHTGRTZXpRVl8zZXpKTnJKYnZoQ2FCdjgzSjVQcmpXRDFVMzFXN1NPOVpySHFQLUNYQmVaUHhQbzI4UDRhX2ZxejE1YTkzODdFUTA5ODgtcmlXVERQWGZObVdzeDE2cmRn?oc=5",
       "source": "Google News",
-      "published": "2026-10-18T04:26:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxORTB2TU91Nng4T251NS01RWlQZjBKOVRoM0ZMWXp5b0w4Ukd2N1Bmb0hSb2V6cC1xVGJmMjhyaTJiQm5WX0NGVkJERExwQ29nYW9ENmszZThRN3NPY2RzS0ZtSEQtRlRkNEtVMW95Z2ZTUEFDWG5hR3h6M3JKQmwzNmpuR1RnRHY5bFdvcGlZMFNrWFJDeTlteG5Pa3JibkxwNHR1QWJqbUlXRjR0dmJTeERNbmJ6Mkp5Z1hDOEpWdkJRcUstTWJsb1Eya3c3d0JFUHBJctIB2gFBVV95cUxQUDg1ZmtNaFBQazdIUU1jRWtzSXJfWDd5QlJsOFNGMmtOZ252aXdqR2ZwdkRuZ1BjOXNjY2dvOFJRcmlfcE91U1BTUVd1VmxKczA5VWE0cVJjYmZxbXpiVzEyVGR5MjRlREI5UFdCa015amY2RnlzZnVNM2FESjE5QmMwcDlIRkVFNkQ2cTBSanVYUW80N3JIUldFdkFObElEeXp0WlZESXc1b0ZPZWRrWWhTelpjenJ5QXpBUnZsMzlYMWdHVm16djliNXNNczhoS3pKaGFOSXludw?oc=5\" target=\"_blank\">ИИ действительно приведёт к потере рабочих мест, но при этом создаст целые новые отрасли, как считает Anthropic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">3DNews</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Птиц пытаются научить утраченным навыкам пения с помощью ИИ - Наука Mail",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5cm5MWWNjWmx6T1didDhuTWFyZTVnVE1COXZJNWpQYkxhZE9PTDVEMWZxQ1dQZDdqcVNXdzBjcmFSM2w2V0I3QjRKUU5wWVEzVlNFTTNqSjRHd09Ha0FidVphTExybGJ1YmRhQU9DRVRpWllMUUxCNUJzd20?oc=5",
-      "source": "Google News",
-      "published": "2026-10-18T06:03:50",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFA5cm5MWWNjWmx6T1didDhuTWFyZTVnVE1COXZJNWpQYkxhZE9PTDVEMWZxQ1dQZDdqcVNXdzBjcmFSM2w2V0I3QjRKUU5wWVEzVlNFTTNqSjRHd09Ha0FidVphTExybGJ1YmRhQU9DRVRpWllMUUxCNUJzd20?oc=5\" target=\"_blank\">Птиц пытаются научить утраченным навыкам пения с помощью ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Наука Mail</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "5 главных решений аналитиков по ИИ: Meta и Salesforce в фокусе - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHTXBBaWxPTmt3LUZIdi1XaThwM1pCVTgxMkNjXzM5LUxHTTFYMDBVU0NtV0xYTXBEMHVFU2Z6MVN5ZVhYTmxFaXVaZEZmQmxzc0V5T2JQQ081RzBrVDljX3FCemZZdlhUcWhvcnc1by0?oc=5",
-      "source": "Google News",
-      "published": "2026-10-18T07:18:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBHTXBBaWxPTmt3LUZIdi1XaThwM1pCVTgxMkNjXzM5LUxHTTFYMDBVU0NtV0xYTXBEMHVFU2Z6MVN5ZVhYTmxFaXVaZEZmQmxzc0V5T2JQQ081RzBrVDljX3FCemZZdlhUcWhvcnc1by0?oc=5\" target=\"_blank\">5 главных решений аналитиков по ИИ: Meta и Salesforce в фокусе</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "ИИ помогает Red Bull во время гонок - Мир Формулы-1",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rNm5LdVJDSFZmNVBFYXhFNnd5ZlNBMnRMdnMxVlAtT21rMURGUi00WmNYR1gxSGs3TXJvR1otUF9qcjhQX01PLUU0RDFFMWo3bExQMFpQaThqM0JzX0lSSGNNRUROUG8?oc=5",
-      "source": "Google News",
-      "published": "2026-10-18T09:49:39",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rNm5LdVJDSFZmNVBFYXhFNnd5ZlNBMnRMdnMxVlAtT21rMURGUi00WmNYR1gxSGs3TXJvR1otUF9qcjhQX01PLUU0RDFFMWo3bExQMFpQaThqM0JzX0lSSGNNRUROUG8?oc=5\" target=\"_blank\">ИИ помогает Red Bull во время гонок</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Мир Формулы-1</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Konami не откажется от ИИ в разработке, но обозначила важную границу - iXBT.games",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUGN6MlV5cXd0bWhDRTBkd3pXUUx6U2dDOHgxdmJ0TzFQdmNxbkxGNGRGT2t5Z0FkNFJyRk9MLWppc1EweHQ3b3c3MVdQaDc4SFdOMU83V1ZjdUpNTjZBYWJfbW1MTlFGZThLRHdaM1YzT0dGRWd1b2xZcHlwOWtiMm4xT2Y5YUE2bFQ3SHJoZTVzU1BrTUxjMmFNckdpOUhGaDRLWVFxbkRpaW1vb1HSAbMBQVVfeXFMTVp4c0VSb1dSVU13YW40b3FhZXBhY29NNFU3WENQX1dRaDN3OUh3QWR5QjZQaVNmNE4zNE4wT0xMb1hyTDZOZkRHOVJGNFgzdVBLOXhIaTNZOFFQc2hrTkVkNEd0aFRlS3ozdnNxTWJpazQ4T0luMld4YTBfVE93ekV2WURHdlBTbm0yLU1OLWJvZ1RKRGE1eHFIUGFlN3VGc2xkengtbFNWc1RrLXBMVTNLSjA?oc=5",
-      "source": "Google News",
-      "published": "2026-10-18T05:49:47",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPUGN6MlV5cXd0bWhDRTBkd3pXUUx6U2dDOHgxdmJ0TzFQdmNxbkxGNGRGT2t5Z0FkNFJyRk9MLWppc1EweHQ3b3c3MVdQaDc4SFdOMU83V1ZjdUpNTjZBYWJfbW1MTlFGZThLRHdaM1YzT0dGRWd1b2xZcHlwOWtiMm4xT2Y5YUE2bFQ3SHJoZTVzU1BrTUxjMmFNckdpOUhGaDRLWVFxbkRpaW1vb1HSAbMBQVVfeXFMTVp4c0VSb1dSVU13YW40b3FhZXBhY29NNFU3WENQX1dRaDN3OUh3QWR5QjZQaVNmNE4zNE4wT0xMb1hyTDZOZkRHOVJGNFgzdVBLOXhIaTNZOFFQc2hrTkVkNEd0aFRlS3ozdnNxTWJpazQ4T0luMld4YTBfVE93ekV2WURHdlBTbm0yLU1OLWJvZ1RKRGE1eHFIUGFlN3VGc2xkengtbFNWc1RrLXBMVTNLSjA?oc=5\" target=\"_blank\">Konami не откажется от ИИ в разработке, но обозначила важную границу</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iXBT.games</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "В «Дикси» снизили стоимость создания обучающего контента на 77% с помощью ИИ-аватара - Retail.ru",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMnhrdWxCY0pjYXdSZjEtNXNyRDNEUGVQaS1lTU5CT2RJVWxFbklJcnpfVW9XWTladXlTeDI5YVVVTmUtRUtWSjFSUS1zTDlTdEZHbTM0WmJEMkxLMVh0cDU0dlBLWXQyNUJrQzRUVFBmblV2THM5QnBmRjFvOXNYU2tUUjlOdUYtWC1WSWZhWlFJNmZUdE5WMHpobzkxUDg0Y0xoekVJa1JBZmxxQmZNVTJPVXA4aWtSY1YxaVJETVVTRms4RDE3X0QyR0lSUQ?oc=5",
-      "source": "Google News",
-      "published": "2026-10-18T09:17:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOMnhrdWxCY0pjYXdSZjEtNXNyRDNEUGVQaS1lTU5CT2RJVWxFbklJcnpfVW9XWTladXlTeDI5YVVVTmUtRUtWSjFSUS1zTDlTdEZHbTM0WmJEMkxLMVh0cDU0dlBLWXQyNUJrQzRUVFBmblV2THM5QnBmRjFvOXNYU2tUUjlOdUYtWC1WSWZhWlFJNmZUdE5WMHpobzkxUDg0Y0xoekVJa1JBZmxxQmZNVTJPVXA4aWtSY1YxaVJETVVTRms4RDE3X0QyR0lSUQ?oc=5\" target=\"_blank\">В «Дикси» снизили стоимость создания обучающего контента на 77% с помощью ИИ-аватара</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Retail.ru</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Правовые рамки генеративного контента: почему локальная политика использования ИИ в компании защищает бизнес от утечек данных и штрафов регуляторов - zakon.ru",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRGVUdTRDazVQQnlNUW9zTUFEcWJfMnVneDVVR3dDNkJoM2ptd0s2UVJfWkVmUDEyV2pDb1lMRlp4SWFDc1FrVFltc0V5V2MxQkQzT2E2T1cwTFBkUGVPLUxtdFdIcVJ5Y1pIcmUzZF8xcjR0dVd5cFhDUTlJTUgtSGNmeWVYbl91WmI5SmFKX1hSZEFYQnA4TjBHMWNKS1M1RDQ0OVY0Unk0NGFzbXRhY2Vuc0k1ZTRBTWVPN1JRTmdyVm1PTmJ4MS1CNWFJQQ?oc=5",
-      "source": "Google News",
-      "published": "2026-10-18T15:33:45",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPRGVUdTRDazVQQnlNUW9zTUFEcWJfMnVneDVVR3dDNkJoM2ptd0s2UVJfWkVmUDEyV2pDb1lMRlp4SWFDc1FrVFltc0V5V2MxQkQzT2E2T1cwTFBkUGVPLUxtdFdIcVJ5Y1pIcmUzZF8xcjR0dVd5cFhDUTlJTUgtSGNmeWVYbl91WmI5SmFKX1hSZEFYQnA4TjBHMWNKS1M1RDQ0OVY0Unk0NGFzbXRhY2Vuc0k1ZTRBTWVPN1JRTmdyVm1PTmJ4MS1CNWFJQQ?oc=5\" target=\"_blank\">Правовые рамки генеративного контента: почему локальная политика использования ИИ в компании защищает бизнес от утечек данных и штрафов регуляторов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">zakon.ru</font>",
+      "published": "2026-10-18T16:17:40",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeXdRTVlEdU1rZ3o4NUVZTWpwY1JxM21NZGliM1hxRjV5RndWYmJFU0RPb0R0dGFPbEpneGVQNmV4Qi1wcmo2MlhINnFjNm9mMVhIOUJmXy12TWNSTjBuVHRjakhNc2FXczFraHZOd3lsVV9GY1VIdjVscHVya25Od1NZZWdqUjhFcmdtTHVJTjJ2MFUtQWlScm9tTEpxbXU0YlZGRjRWUmjSAa4BQVVfeXFMTk1YTmM3OXFkalVVY2x5VmZXbUFNWWR0VmpzR3ptLUkzcWZjZnBSLUxIT1BpeHFsczJxREJ5M0M2Ty1aQ3RSZE1SNlBWV1VHTGRTZXpRVl8zZXpKTnJKYnZoQ2FCdjgzSjVQcmpXRDFVMzFXN1NPOVpySHFQLUNYQmVaUHhQbzI4UDRhX2ZxejE1YTkzODdFUTA5ODgtcmlXVERQWGZObVdzeDE2cmRn?oc=5\" target=\"_blank\">Энтузиаст с ИИ исправил недоработки разработчиков Oblivion Remastered, +42 % fps на RX 9070 XT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Клуб DNS</font>",
       "tags": [
         "google_news"
       ],
@@ -350,11 +200,101 @@
       ]
     },
     {
+      "title": "DeepSeek обновила ИИ-модель V4.1-Flash — она стала быстрее и эффективнее - 3DNews",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb29mSlBCSDNpbzQxVGF5bVl6YXFMejFHU09PZXNtbkpXSzJpOVZPd1c1clNtQUx1RDQ3TzdrWUZOTnNfRTFOWDdCVnF0MWRsZi1KamJ0ZWMyUVc5N18tMU0zREEwYi1kRUpTcWxlTkdtOWdlTHFnVmJtOUtJSUZYRjE1T0tzVlh1VDVMajVubjJrVVVjdElj0gGcAUFVX3lxTFBkRll0VVliT0M2X2hlTVIwbndwWS0wYjRzam1OWkh1UDBjV1lueC1ELV8wNF90MnVkVFAwSmc3S1B3b2dIakh3RGE4VWZHeXNUSVAzbGJyNVlVWnZLSFFydXQ5MzJpOVZERDB5LV9ESF9UbWI0b2h3YlU1U3JYcXgtXzNWN0tiSU1DNXVfQXdNTFdNdGlpdmxVMTFEOQ?oc=5",
+      "source": "Google News",
+      "published": "2026-10-18T10:31:47",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNb29mSlBCSDNpbzQxVGF5bVl6YXFMejFHU09PZXNtbkpXSzJpOVZPd1c1clNtQUx1RDQ3TzdrWUZOTnNfRTFOWDdCVnF0MWRsZi1KamJ0ZWMyUVc5N18tMU0zREEwYi1kRUpTcWxlTkdtOWdlTHFnVmJtOUtJSUZYRjE1T0tzVlh1VDVMajVubjJrVVVjdElj0gGcAUFVX3lxTFBkRll0VVliT0M2X2hlTVIwbndwWS0wYjRzam1OWkh1UDBjV1lueC1ELV8wNF90MnVkVFAwSmc3S1B3b2dIakh3RGE4VWZHeXNUSVAzbGJyNVlVWnZLSFFydXQ5MzJpOVZERDB5LV9ESF9UbWI0b2h3YlU1U3JYcXgtXzNWN0tiSU1DNXVfQXdNTFdNdGlpdmxVMTFEOQ?oc=5\" target=\"_blank\">DeepSeek обновила ИИ-модель V4.1-Flash — она стала быстрее и эффективнее</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">3DNews</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Почему развитие ИИ не вызвало бум строительства ЦОДов в России - Эксперт",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Jd2FfVGxxa09oV2tFOXQ4dGE0bmphWEctbmNINS1qWDRKclNhSTVwWG9TV19ZVDRCbVFRUDR3YmdvSVJ2SE9kQnY1QnZTWmM2N1ZWMzV6U0tFVC1MMUpXSTlORzZnQzlVT1QxSUt3?oc=5",
+      "source": "Google News",
+      "published": "2026-10-18T08:00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9Jd2FfVGxxa09oV2tFOXQ4dGE0bmphWEctbmNINS1qWDRKclNhSTVwWG9TV19ZVDRCbVFRUDR3YmdvSVJ2SE9kQnY1QnZTWmM2N1ZWMzV6U0tFVC1MMUpXSTlORzZnQzlVT1QxSUt3?oc=5\" target=\"_blank\">Почему развитие ИИ не вызвало бум строительства ЦОДов в России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Эксперт</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Птиц пытаются научить утраченным навыкам пения с помощью ИИ - Наука Mail",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5cm5MWWNjWmx6T1didDhuTWFyZTVnVE1COXZJNWpQYkxhZE9PTDVEMWZxQ1dQZDdqcVNXdzBjcmFSM2w2V0I3QjRKUU5wWVEzVlNFTTNqSjRHd09Ha0FidVphTExybGJ1YmRhQU9DRVRpWllMUUxCNUJzd20?oc=5",
+      "source": "Google News",
+      "published": "2026-10-18T06:03:50",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFA5cm5MWWNjWmx6T1didDhuTWFyZTVnVE1COXZJNWpQYkxhZE9PTDVEMWZxQ1dQZDdqcVNXdzBjcmFSM2w2V0I3QjRKUU5wWVEzVlNFTTNqSjRHd09Ha0FidVphTExybGJ1YmRhQU9DRVRpWllMUUxCNUJzd20?oc=5\" target=\"_blank\">Птиц пытаются научить утраченным навыкам пения с помощью ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Наука Mail</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Как я делаю Dungeon Cult: 13 нейросетей снаружи, игровой ИИ внутри - Хабр",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xQVpCMEQ0R2ZEYkJTUV9EdHRyNEhPa3VPNVBTQWd6TW1Ia0ZyNnJVYmVDcVZJa0VFNW42Z09Rc0M4STJYT2dqcjJnU3lCQdIBWEFVX3lxTE45Unl6T19BNkFCdzd5dXUyWGdWSDVlcHowNzFyNFlqZHRGQzZwUUVMX3p2b2RoNjZMVEZVX1pfQjltaWFuTE05bzU2R0p2V3huZkZVSEI3dVI?oc=5",
+      "source": "Google News",
+      "published": "2026-10-18T16:10:02",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xQVpCMEQ0R2ZEYkJTUV9EdHRyNEhPa3VPNVBTQWd6TW1Ia0ZyNnJVYmVDcVZJa0VFNW42Z09Rc0M4STJYT2dqcjJnU3lCQdIBWEFVX3lxTE45Unl6T19BNkFCdzd5dXUyWGdWSDVlcHowNzFyNFlqZHRGQzZwUUVMX3p2b2RoNjZMVEZVX1pfQjltaWFuTE05bzU2R0p2V3huZkZVSEI3dVI?oc=5\" target=\"_blank\">Как я делаю Dungeon Cult: 13 нейросетей снаружи, игровой ИИ внутри</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Хабр</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Правовые рамки генеративного контента: почему локальная политика использования ИИ в компании защищает бизнес от утечек данных и штрафов регуляторов - zakon.ru",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRGVUdTRDazVQQnlNUW9zTUFEcWJfMnVneDVVR3dDNkJoM2ptd0s2UVJfWkVmUDEyV2pDb1lMRlp4SWFDc1FrVFltc0V5V2MxQkQzT2E2T1cwTFBkUGVPLUxtdFdIcVJ5Y1pIcmUzZF8xcjR0dVd5cFhDUTlJTUgtSGNmeWVYbl91WmI5SmFKX1hSZEFYQnA4TjBHMWNKS1M1RDQ0OVY0Unk0NGFzbXRhY2Vuc0k1ZTRBTWVPN1JRTmdyVm1PTmJ4MS1CNWFJQQ?oc=5",
+      "source": "Google News",
+      "published": "2026-10-18T15:33:45",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPRGVUdTRDazVQQnlNUW9zTUFEcWJfMnVneDVVR3dDNkJoM2ptd0s2UVJfWkVmUDEyV2pDb1lMRlp4SWFDc1FrVFltc0V5V2MxQkQzT2E2T1cwTFBkUGVPLUxtdFdIcVJ5Y1pIcmUzZF8xcjR0dVd5cFhDUTlJTUgtSGNmeWVYbl91WmI5SmFKX1hSZEFYQnA4TjBHMWNKS1M1RDQ0OVY0Unk0NGFzbXRhY2Vuc0k1ZTRBTWVPN1JRTmdyVm1PTmJ4MS1CNWFJQQ?oc=5\" target=\"_blank\">Правовые рамки генеративного контента: почему локальная политика использования ИИ в компании защищает бизнес от утечек данных и штрафов регуляторов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">zakon.ru</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
       "title": "ИИ-аватар стал лицом посольства Индии в Джакарте - TV BRICS",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTTBsand0TlpkSTNybGtCTTlqa2x2aWJWMjhFVkxrSDVXMkpmTlRtbGhxeTk3OTF0cFRwMHRqcGFLa2tuc1FoZGhSZXk5SDNENWlaSmpCOHFQb190V3JqOGw0aW9pbzBBZm1IQ3BuMnEwYjVUSEpOV3hURWNwRDhSSDU2UDl4bEV6Z2c4VnJtZFVKcHVR?oc=5",
       "source": "Google News",
       "published": "2026-10-18T15:01:08",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQTTBsand0TlpkSTNybGtCTTlqa2x2aWJWMjhFVkxrSDVXMkpmTlRtbGhxeTk3OTF0cFRwMHRqcGFLa2tuc1FoZGhSZXk5SDNENWlaSmpCOHFQb190V3JqOGw0aW9pbzBBZm1IQ3BuMnEwYjVUSEpOV3hURWNwRDhSSDU2UDl4bEV6Z2c4VnJtZFVKcHVR?oc=5\" target=\"_blank\">ИИ-аватар стал лицом посольства Индии в Джакарте</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV BRICS</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "В «Дикси» снизили стоимость создания обучающего контента на 77% с помощью ИИ-аватара - Retail.ru",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMnhrdWxCY0pjYXdSZjEtNXNyRDNEUGVQaS1lTU5CT2RJVWxFbklJcnpfVW9XWTladXlTeDI5YVVVTmUtRUtWSjFSUS1zTDlTdEZHbTM0WmJEMkxLMVh0cDU0dlBLWXQyNUJrQzRUVFBmblV2THM5QnBmRjFvOXNYU2tUUjlOdUYtWC1WSWZhWlFJNmZUdE5WMHpobzkxUDg0Y0xoekVJa1JBZmxxQmZNVTJPVXA4aWtSY1YxaVJETVVTRms4RDE3X0QyR0lSUQ?oc=5",
+      "source": "Google News",
+      "published": "2026-10-18T09:17:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOMnhrdWxCY0pjYXdSZjEtNXNyRDNEUGVQaS1lTU5CT2RJVWxFbklJcnpfVW9XWTladXlTeDI5YVVVTmUtRUtWSjFSUS1zTDlTdEZHbTM0WmJEMkxLMVh0cDU0dlBLWXQyNUJrQzRUVFBmblV2THM5QnBmRjFvOXNYU2tUUjlOdUYtWC1WSWZhWlFJNmZUdE5WMHpobzkxUDg0Y0xoekVJa1JBZmxxQmZNVTJPVXA4aWtSY1YxaVJETVVTRms4RDE3X0QyR0lSUQ?oc=5\" target=\"_blank\">В «Дикси» снизили стоимость создания обучающего контента на 77% с помощью ИИ-аватара</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Retail.ru</font>",
       "tags": [
         "google_news"
       ],
@@ -380,11 +320,11 @@
       ]
     },
     {
-      "title": "DeepSeek обновила ИИ-модель V4.1-Flash — она стала быстрее и эффективнее - 3DNews",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb29mSlBCSDNpbzQxVGF5bVl6YXFMejFHU09PZXNtbkpXSzJpOVZPd1c1clNtQUx1RDQ3TzdrWUZOTnNfRTFOWDdCVnF0MWRsZi1KamJ0ZWMyUVc5N18tMU0zREEwYi1kRUpTcWxlTkdtOWdlTHFnVmJtOUtJSUZYRjE1T0tzVlh1VDVMajVubjJrVVVjdElj0gGcAUFVX3lxTFBkRll0VVliT0M2X2hlTVIwbndwWS0wYjRzam1OWkh1UDBjV1lueC1ELV8wNF90MnVkVFAwSmc3S1B3b2dIakh3RGE4VWZHeXNUSVAzbGJyNVlVWnZLSFFydXQ5MzJpOVZERDB5LV9ESF9UbWI0b2h3YlU1U3JYcXgtXzNWN0tiSU1DNXVfQXdNTFdNdGlpdmxVMTFEOQ?oc=5",
+      "title": "ИИ-агенты помогают управлять все более сложными сетями - Издательство «Открытые системы»",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UMktHOEE5cFdDVHZYSVRfWm9CSUhFNnIxWG5yX0NpbkFrN3Ryc29TYVFJbTFOb081XzJoRy1hVTNKUk95Yl91U24yZ21lTFM5bGxha2ZjNEtXdw?oc=5",
       "source": "Google News",
-      "published": "2026-10-18T10:31:47",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNb29mSlBCSDNpbzQxVGF5bVl6YXFMejFHU09PZXNtbkpXSzJpOVZPd1c1clNtQUx1RDQ3TzdrWUZOTnNfRTFOWDdCVnF0MWRsZi1KamJ0ZWMyUVc5N18tMU0zREEwYi1kRUpTcWxlTkdtOWdlTHFnVmJtOUtJSUZYRjE1T0tzVlh1VDVMajVubjJrVVVjdElj0gGcAUFVX3lxTFBkRll0VVliT0M2X2hlTVIwbndwWS0wYjRzam1OWkh1UDBjV1lueC1ELV8wNF90MnVkVFAwSmc3S1B3b2dIakh3RGE4VWZHeXNUSVAzbGJyNVlVWnZLSFFydXQ5MzJpOVZERDB5LV9ESF9UbWI0b2h3YlU1U3JYcXgtXzNWN0tiSU1DNXVfQXdNTFdNdGlpdmxVMTFEOQ?oc=5\" target=\"_blank\">DeepSeek обновила ИИ-модель V4.1-Flash — она стала быстрее и эффективнее</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">3DNews</font>",
+      "published": "2026-10-18T17:43:24",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UMktHOEE5cFdDVHZYSVRfWm9CSUhFNnIxWG5yX0NpbkFrN3Ryc29TYVFJbTFOb081XzJoRy1hVTNKUk95Yl91U24yZ21lTFM5bGxha2ZjNEtXdw?oc=5\" target=\"_blank\">ИИ-агенты помогают управлять все более сложными сетями</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Издательство «Открытые системы»</font>",
       "tags": [
         "google_news"
       ],
@@ -408,54 +348,22 @@
       "matched_keywords": [
         "ИИ"
       ]
-    },
-    {
-      "title": "В 2027 году ИИ увеличит расходы на получение рыночных данных примерно на 50% - PLUSworld",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZTlVGWTZ1YmxReDhteGxNVFBEdC0xb3hvNTBmUWE0TEM0WEhqMEJjdURBOEg1Q2pyeTB1RFI1ZnBWaXZRbEgydU9zODU?oc=5",
-      "source": "Google News",
-      "published": "2026-10-18T11:35:06",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZTlVGWTZ1YmxReDhteGxNVFBEdC0xb3hvNTBmUWE0TEM0WEhqMEJjdURBOEg1Q2pyeTB1RFI1ZnBWaXZRbEgydU9zODU?oc=5\" target=\"_blank\">В 2027 году ИИ увеличит расходы на получение рыночных данных примерно на 50%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PLUSworld</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Американский аналог «Герани-2» LUCAS получит ИИ для управления роем - Naked Science",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qQ3kxdFFTM1VWdHA0N2Nab2xLLUVyOW1VU29ON0FiVEFaVW16QnFVd19FY1J1VjNxRWpfUzhDVTR0dlFsSHAwVnpMTk5sMlJmX09uUQ?oc=5",
-      "source": "Google News",
-      "published": "2026-10-18T13:05:56",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qQ3kxdFFTM1VWdHA0N2Nab2xLLUVyOW1VU29ON0FiVEFaVW16QnFVd19FY1J1VjNxRWpfUzhDVTR0dlFsSHAwVnpMTk5sMlJmX09uUQ?oc=5\" target=\"_blank\">Американский аналог «Герани-2» LUCAS получит ИИ для управления роем</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Naked Science</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
     }
   ],
   "groups": {
     "by_source": {
-      "Habr_AI": 10,
+      "Habr_AI": 8,
       "3DNews": 2,
-      "Google News": 17
+      "Google News": 13
     },
     "by_category": {
-      "tech_news": 12,
-      "google_news": 17
+      "tech_news": 10,
+      "google_news": 13
     },
     "by_keyword": {
-      "ИИ": 25,
+      "ИИ": 22,
       "искусственный интеллект": 1,
-      "AI": 3,
-      "регулирование": 1,
-      "ESG": 1
+      "AI": 2
     }
   }
 }

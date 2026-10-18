@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-10-19_00-00",
+  "total_articles": 23,
+  "sources": {
+    "Habr_AI": 8,
+    "3DNews": 2,
+    "Google News": 13
+  },
+  "top_keywords": [
+    [
+      "ИИ",
+      22
+    ],
+    [
+      "AI",
+      2
+    ],
+    [
+      "искусственный интеллект",
+      1
+    ]
+  ],
+  "recent_headlines": [
+    {
+      "title": "Anthropic научит ИИ-агентов самостоятельно заключать сделки и разрешать споры с компаниями — FT - The Insider",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1yVFh2eXlYYUdsYW8zMlROb29neTl0R1pfcUkyUnJXN0hrazBNX1dTaGhabUtBb1UyMzctemIyTHhlYzg?oc=5",
+      "published": "2026-10-18T19:46:25"
+    },
+    {
+      "title": "ИИ-агенты помогают управлять все более сложными сетями - Издательство «Открытые системы»",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UMktHOEE5cFdDVHZYSVRfWm9CSUhFNnIxWG5yX0NpbkFrN3Ryc29TYVFJbTFOb081XzJoRy1hVTNKUk95Yl91U24yZ21lTFM5bGxha2ZjNEtXdw?oc=5",
+      "published": "2026-10-18T17:43:24"
+    },
+    {
+      "title": "Энтузиаст с ИИ исправил недоработки разработчиков Oblivion Remastered, +42 % fps на RX 9070 XT - Клуб DNS",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeXdRTVlEdU1rZ3o4NUVZTWpwY1JxM21NZGliM1hxRjV5RndWYmJFU0RPb0R0dGFPbEpneGVQNmV4Qi1wcmo2MlhINnFjNm9mMVhIOUJmXy12TWNSTjBuVHRjakhNc2FXczFraHZOd3lsVV9GY1VIdjVscHVya25Od1NZZWdqUjhFcmdtTHVJTjJ2MFUtQWlScm9tTEpxbXU0YlZGRjRWUmjSAa4BQVVfeXFMTk1YTmM3OXFkalVVY2x5VmZXbUFNWWR0VmpzR3ptLUkzcWZjZnBSLUxIT1BpeHFsczJxREJ5M0M2Ty1aQ3RSZE1SNlBWV1VHTGRTZXpRVl8zZXpKTnJKYnZoQ2FCdjgzSjVQcmpXRDFVMzFXN1NPOVpySHFQLUNYQmVaUHhQbzI4UDRhX2ZxejE1YTkzODdFUTA5ODgtcmlXVERQWGZObVdzeDE2cmRn?oc=5",
+      "published": "2026-10-18T16:17:40"
+    },
+    {
+      "title": "Как я делаю Dungeon Cult: 13 нейросетей снаружи, игровой ИИ внутри - Хабр",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xQVpCMEQ0R2ZEYkJTUV9EdHRyNEhPa3VPNVBTQWd6TW1Ia0ZyNnJVYmVDcVZJa0VFNW42Z09Rc0M4STJYT2dqcjJnU3lCQdIBWEFVX3lxTE45Unl6T19BNkFCdzd5dXUyWGdWSDVlcHowNzFyNFlqZHRGQzZwUUVMX3p2b2RoNjZMVEZVX1pfQjltaWFuTE05bzU2R0p2V3huZkZVSEI3dVI?oc=5",
+      "published": "2026-10-18T16:10:02"
+    },
+    {
+      "title": "Правовые рамки генеративного контента: почему локальная политика использования ИИ в компании защищает бизнес от утечек данных и штрафов регуляторов - zakon.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRGVUdTRDazVQQnlNUW9zTUFEcWJfMnVneDVVR3dDNkJoM2ptd0s2UVJfWkVmUDEyV2pDb1lMRlp4SWFDc1FrVFltc0V5V2MxQkQzT2E2T1cwTFBkUGVPLUxtdFdIcVJ5Y1pIcmUzZF8xcjR0dVd5cFhDUTlJTUgtSGNmeWVYbl91WmI5SmFKX1hSZEFYQnA4TjBHMWNKS1M1RDQ0OVY0Unk0NGFzbXRhY2Vuc0k1ZTRBTWVPN1JRTmdyVm1PTmJ4MS1CNWFJQQ?oc=5",
+      "published": "2026-10-18T15:33:45"
+    },
+    {
+      "title": "ИИ-аватар стал лицом посольства Индии в Джакарте - TV BRICS",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTTBsand0TlpkSTNybGtCTTlqa2x2aWJWMjhFVkxrSDVXMkpmTlRtbGhxeTk3OTF0cFRwMHRqcGFLa2tuc1FoZGhSZXk5SDNENWlaSmpCOHFQb190V3JqOGw0aW9pbzBBZm1IQ3BuMnEwYjVUSEpOV3hURWNwRDhSSDU2UDl4bEV6Z2c4VnJtZFVKcHVR?oc=5",
+      "published": "2026-10-18T15:01:08"
+    },
+    {
+      "title": "Новый мир наступает быстрее, чем мы успеваем испугаться",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1095856/?utm_campaign=1095856&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-18T13:28:32"
+    },
+    {
+      "title": "ИИ в работе: воркслоп и как его избежать",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1095746/?utm_campaign=1095746&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-18T11:08:11"
+    },
+    {
+      "title": "ИИ в работе: воркслоп и как его избежать - Хабр",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fTmV0YW5FNDRYbGlkX3RlMU9qT0tKUzREOTFzSXpzOHQ2LVRGejBfaEljWmpTUEc1NmtpUTJ3WG5RdjRSWkd6aFY5bHJVZ9IBWEFVX3lxTE0xYXd6NmxtVzd2cFdUZXRUVU9Qb2pqbnZSSVMtNjVsVkdIWXcxSjREZFQ3YXM0YngzMS1rNHJHN241S3FNYkM1b0xORXQ3QkZqTENxZHpUVEo?oc=5",
+      "published": "2026-10-18T11:08:11"
+    },
+    {
+      "title": "ИИ‑мастер для настольной RPG: один запрос на ход, кубик до ответа и баг, который удваивал здоровье",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1095802/?utm_campaign=1095802&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-18T10:32:11"
+    }
+  ]
+}

@@ -1,34 +1,50 @@
 {
-  "timestamp": "2026-10-18_18-53",
-  "total_articles": 29,
+  "timestamp": "2026-10-19_00-00",
+  "total_articles": 23,
   "sources": {
-    "Habr_AI": 10,
+    "Habr_AI": 8,
     "3DNews": 2,
-    "Google News": 17
+    "Google News": 13
   },
   "top_keywords": [
     [
       "ИИ",
-      25
+      22
     ],
     [
       "AI",
-      3
+      2
     ],
     [
       "искусственный интеллект",
       1
-    ],
-    [
-      "регулирование",
-      1
-    ],
-    [
-      "ESG",
-      1
     ]
   ],
   "recent_headlines": [
+    {
+      "title": "Anthropic научит ИИ-агентов самостоятельно заключать сделки и разрешать споры с компаниями — FT - The Insider",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1yVFh2eXlYYUdsYW8zMlROb29neTl0R1pfcUkyUnJXN0hrazBNX1dTaGhabUtBb1UyMzctemIyTHhlYzg?oc=5",
+      "published": "2026-10-18T19:46:25"
+    },
+    {
+      "title": "ИИ-агенты помогают управлять все более сложными сетями - Издательство «Открытые системы»",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UMktHOEE5cFdDVHZYSVRfWm9CSUhFNnIxWG5yX0NpbkFrN3Ryc29TYVFJbTFOb081XzJoRy1hVTNKUk95Yl91U24yZ21lTFM5bGxha2ZjNEtXdw?oc=5",
+      "published": "2026-10-18T17:43:24"
+    },
+    {
+      "title": "Энтузиаст с ИИ исправил недоработки разработчиков Oblivion Remastered, +42 % fps на RX 9070 XT - Клуб DNS",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeXdRTVlEdU1rZ3o4NUVZTWpwY1JxM21NZGliM1hxRjV5RndWYmJFU0RPb0R0dGFPbEpneGVQNmV4Qi1wcmo2MlhINnFjNm9mMVhIOUJmXy12TWNSTjBuVHRjakhNc2FXczFraHZOd3lsVV9GY1VIdjVscHVya25Od1NZZWdqUjhFcmdtTHVJTjJ2MFUtQWlScm9tTEpxbXU0YlZGRjRWUmjSAa4BQVVfeXFMTk1YTmM3OXFkalVVY2x5VmZXbUFNWWR0VmpzR3ptLUkzcWZjZnBSLUxIT1BpeHFsczJxREJ5M0M2Ty1aQ3RSZE1SNlBWV1VHTGRTZXpRVl8zZXpKTnJKYnZoQ2FCdjgzSjVQcmpXRDFVMzFXN1NPOVpySHFQLUNYQmVaUHhQbzI4UDRhX2ZxejE1YTkzODdFUTA5ODgtcmlXVERQWGZObVdzeDE2cmRn?oc=5",
+      "published": "2026-10-18T16:17:40"
+    },
+    {
+      "title": "Как я делаю Dungeon Cult: 13 нейросетей снаружи, игровой ИИ внутри - Хабр",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xQVpCMEQ0R2ZEYkJTUV9EdHRyNEhPa3VPNVBTQWd6TW1Ia0ZyNnJVYmVDcVZJa0VFNW42Z09Rc0M4STJYT2dqcjJnU3lCQdIBWEFVX3lxTE45Unl6T19BNkFCdzd5dXUyWGdWSDVlcHowNzFyNFlqZHRGQzZwUUVMX3p2b2RoNjZMVEZVX1pfQjltaWFuTE05bzU2R0p2V3huZkZVSEI3dVI?oc=5",
+      "published": "2026-10-18T16:10:02"
+    },
     {
       "title": "Правовые рамки генеративного контента: почему локальная политика использования ИИ в компании защищает бизнес от утечек данных и штрафов регуляторов - zakon.ru",
       "source": "Google News",
@@ -48,18 +64,6 @@
       "published": "2026-10-18T13:28:32"
     },
     {
-      "title": "Американский аналог «Герани-2» LUCAS получит ИИ для управления роем - Naked Science",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qQ3kxdFFTM1VWdHA0N2Nab2xLLUVyOW1VU29ON0FiVEFaVW16QnFVd19FY1J1VjNxRWpfUzhDVTR0dlFsSHAwVnpMTk5sMlJmX09uUQ?oc=5",
-      "published": "2026-10-18T13:05:56"
-    },
-    {
-      "title": "В 2027 году ИИ увеличит расходы на получение рыночных данных примерно на 50% - PLUSworld",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZTlVGWTZ1YmxReDhteGxNVFBEdC0xb3hvNTBmUWE0TEM0WEhqMEJjdURBOEg1Q2pyeTB1RFI1ZnBWaXZRbEgydU9zODU?oc=5",
-      "published": "2026-10-18T11:35:06"
-    },
-    {
       "title": "ИИ в работе: воркслоп и как его избежать",
       "source": "Habr_AI",
       "url": "https://habr.com/ru/articles/1095746/?utm_campaign=1095746&utm_source=habrahabr&utm_medium=rss",
@@ -76,18 +80,6 @@
       "source": "Habr_AI",
       "url": "https://habr.com/ru/articles/1095802/?utm_campaign=1095802&utm_source=habrahabr&utm_medium=rss",
       "published": "2026-10-18T10:32:11"
-    },
-    {
-      "title": "DeepSeek обновила ИИ-модель V4.1-Flash — она стала быстрее и эффективнее",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150101",
-      "published": "2026-10-18T10:31:47"
-    },
-    {
-      "title": "DeepSeek обновила ИИ-модель V4.1-Flash — она стала быстрее и эффективнее - 3DNews",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb29mSlBCSDNpbzQxVGF5bVl6YXFMejFHU09PZXNtbkpXSzJpOVZPd1c1clNtQUx1RDQ3TzdrWUZOTnNfRTFOWDdCVnF0MWRsZi1KamJ0ZWMyUVc5N18tMU0zREEwYi1kRUpTcWxlTkdtOWdlTHFnVmJtOUtJSUZYRjE1T0tzVlh1VDVMajVubjJrVVVjdElj0gGcAUFVX3lxTFBkRll0VVliT0M2X2hlTVIwbndwWS0wYjRzam1OWkh1UDBjV1lueC1ELV8wNF90MnVkVFAwSmc3S1B3b2dIakh3RGE4VWZHeXNUSVAzbGJyNVlVWnZLSFFydXQ5MzJpOVZERDB5LV9ESF9UbWI0b2h3YlU1U3JYcXgtXzNWN0tiSU1DNXVfQXdNTFdNdGlpdmxVMTFEOQ?oc=5",
-      "published": "2026-10-18T10:31:47"
     }
   ]
 }
