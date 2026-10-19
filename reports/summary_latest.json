@@ -1,85 +1,101 @@
 {
-  "timestamp": "2026-10-19_00-00",
-  "total_articles": 23,
+  "timestamp": "2026-10-19_14-18",
+  "total_articles": 60,
   "sources": {
-    "Habr_AI": 8,
-    "3DNews": 2,
-    "Google News": 13
+    "ТАСС": 1,
+    "Habr_AI": 16,
+    "CNews": 12,
+    "3DNews": 7,
+    "VC_ru_Технологии": 1,
+    "ИИ комплаенс и этика": 1,
+    "Google News": 22
   },
   "top_keywords": [
     [
       "ИИ",
-      22
+      50
     ],
     [
       "AI",
-      2
+      8
+    ],
+    [
+      "регулирование",
+      4
     ],
     [
       "искусственный интеллект",
+      3
+    ],
+    [
+      "Минцифры",
+      1
+    ],
+    [
+      "aigovernance",
       1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Anthropic научит ИИ-агентов самостоятельно заключать сделки и разрешать споры с компаниями — FT - The Insider",
+      "title": "Основы кибербезопасности и ИИ введут в курских школах в этом году - Интерфакс Россия",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1yVFh2eXlYYUdsYW8zMlROb29neTl0R1pfcUkyUnJXN0hrazBNX1dTaGhabUtBb1UyMzctemIyTHhlYzg?oc=5",
-      "published": "2026-10-18T19:46:25"
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXFLNkpUUmNqSnF2NnJsc0hWWWtUSVhxVmRiV2N5UVBqb0hQSDlyWkJWUEEwSGFwOW9ESUdHWlF3LThTeTBvSjdjNTFmSU42dVRVeE05OHZIRnZGMnFpNHRYeUZqbVczWHd2bk1RWUxMdVUtOGJ6QTRhZ3hCTE13R0FZMWc1Qm5NMkpBd2tVRFp5RTE1b0NrSUp0dXFZRml3Vmx5czZ3TVNCU3B2VWc?oc=5",
+      "published": "2026-10-19T11:07:09"
     },
     {
-      "title": "ИИ-агенты помогают управлять все более сложными сетями - Издательство «Открытые системы»",
+      "title": "Чего хотят путешественники от ИИ: цены на номера, а не индивидуальные маршруты - Euronews.com",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UMktHOEE5cFdDVHZYSVRfWm9CSUhFNnIxWG5yX0NpbkFrN3Ryc29TYVFJbTFOb081XzJoRy1hVTNKUk95Yl91U24yZ21lTFM5bGxha2ZjNEtXdw?oc=5",
-      "published": "2026-10-18T17:43:24"
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWC00N0UxYVM5TlFQenZMLU1mQm96eVhjV0NSMi1CekJqd085UmZ0RG5fTWRQZDhZZnpwM0NKOWpHTHpDN09pcmplQkVMdkhfTmxBNHNna3liMmxfOVp6S3dnS09BVkxqdkpFRWx5Wkx3ZFhHdzVtWUw4UUpfUGJWTDRpVkZhSDNIWXVETjNLLWRKZXlubkZpODgyVVF4QV9LQ3k2RW1ob1Q3V0VkU3pDS2dCMEhJYzhL?oc=5",
+      "published": "2026-10-19T11:03:48"
     },
     {
-      "title": "Энтузиаст с ИИ исправил недоработки разработчиков Oblivion Remastered, +42 % fps на RX 9070 XT - Клуб DNS",
+      "title": "ИИ-ассистент «Ингосстраха» вдвое сократил время поиска медицинской информации при согласовании услуг по ДМС - Ведомости",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeXdRTVlEdU1rZ3o4NUVZTWpwY1JxM21NZGliM1hxRjV5RndWYmJFU0RPb0R0dGFPbEpneGVQNmV4Qi1wcmo2MlhINnFjNm9mMVhIOUJmXy12TWNSTjBuVHRjakhNc2FXczFraHZOd3lsVV9GY1VIdjVscHVya25Od1NZZWdqUjhFcmdtTHVJTjJ2MFUtQWlScm9tTEpxbXU0YlZGRjRWUmjSAa4BQVVfeXFMTk1YTmM3OXFkalVVY2x5VmZXbUFNWWR0VmpzR3ptLUkzcWZjZnBSLUxIT1BpeHFsczJxREJ5M0M2Ty1aQ3RSZE1SNlBWV1VHTGRTZXpRVl8zZXpKTnJKYnZoQ2FCdjgzSjVQcmpXRDFVMzFXN1NPOVpySHFQLUNYQmVaUHhQbzI4UDRhX2ZxejE1YTkzODdFUTA5ODgtcmlXVERQWGZObVdzeDE2cmRn?oc=5",
-      "published": "2026-10-18T16:17:40"
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcjFWLUhDdDFwUkZjVjZGR2ZDdVY0N0FxdjdWLVpPZkVBaFpILUZwZ2hlYlFaRjFQNTdsWG1oZ3NWQ3VFU2ZzcW9vdDlWNXYzZVRLei1EejVjS0V3VVJUUWRtUWJhbnJpTTdtUGNNQkY5OUVhc25ET1lfQ1pCLXJiUW9ma2ZvVUNuWFNjLXRsZjZ0QlJHa2FqYTdIeVBFWk4tbTlqVzVMZ2lrSVFIdF8wTm9KdFh5WXZiWjFqbURrX3BVR3lZTmtBSFMzblc5ZV9KeC00NFBiMnJzS0I0ZG5RWjVMWXpla244aUJsZ01ZZmQ?oc=5",
+      "published": "2026-10-19T10:58:09"
     },
     {
-      "title": "Как я делаю Dungeon Cult: 13 нейросетей снаружи, игровой ИИ внутри - Хабр",
+      "title": "В Японии против медведей применяют ИИ-камеры, дроны и роботов - Наука Mail",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xQVpCMEQ0R2ZEYkJTUV9EdHRyNEhPa3VPNVBTQWd6TW1Ia0ZyNnJVYmVDcVZJa0VFNW42Z09Rc0M4STJYT2dqcjJnU3lCQdIBWEFVX3lxTE45Unl6T19BNkFCdzd5dXUyWGdWSDVlcHowNzFyNFlqZHRGQzZwUUVMX3p2b2RoNjZMVEZVX1pfQjltaWFuTE05bzU2R0p2V3huZkZVSEI3dVI?oc=5",
-      "published": "2026-10-18T16:10:02"
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12TGFkdG5COHBGRTVHWFhPRXdxLTJ1c2RtLUtvYlBiaFRjS2tkdFFFVEpndkhhN09fVmVnd3BkdnBsUUdlZGFiWVJDeHdodGM2N3lTdTRYZXVQMjl4VUhScUhRUHJIYzlWWTZtVEVuSEhTbkZCX1pNZWxndw?oc=5",
+      "published": "2026-10-19T10:44:20"
     },
     {
-      "title": "Правовые рамки генеративного контента: почему локальная политика использования ИИ в компании защищает бизнес от утечек данных и штрафов регуляторов - zakon.ru",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRGVUdTRDazVQQnlNUW9zTUFEcWJfMnVneDVVR3dDNkJoM2ptd0s2UVJfWkVmUDEyV2pDb1lMRlp4SWFDc1FrVFltc0V5V2MxQkQzT2E2T1cwTFBkUGVPLUxtdFdIcVJ5Y1pIcmUzZF8xcjR0dVd5cFhDUTlJTUgtSGNmeWVYbl91WmI5SmFKX1hSZEFYQnA4TjBHMWNKS1M1RDQ0OVY0Unk0NGFzbXRhY2Vuc0k1ZTRBTWVPN1JRTmdyVm1PTmJ4MS1CNWFJQQ?oc=5",
-      "published": "2026-10-18T15:33:45"
-    },
-    {
-      "title": "ИИ-аватар стал лицом посольства Индии в Джакарте - TV BRICS",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTTBsand0TlpkSTNybGtCTTlqa2x2aWJWMjhFVkxrSDVXMkpmTlRtbGhxeTk3OTF0cFRwMHRqcGFLa2tuc1FoZGhSZXk5SDNENWlaSmpCOHFQb190V3JqOGw0aW9pbzBBZm1IQ3BuMnEwYjVUSEpOV3hURWNwRDhSSDU2UDl4bEV6Z2c4VnJtZFVKcHVR?oc=5",
-      "published": "2026-10-18T15:01:08"
-    },
-    {
-      "title": "Новый мир наступает быстрее, чем мы успеваем испугаться",
+      "title": "Pets.com умер, Amazon выжил. Что пузырь 2000-го говорит об ИИ-сервисах",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1095856/?utm_campaign=1095856&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-18T13:28:32"
+      "url": "https://habr.com/ru/articles/1096224/?utm_campaign=1096224&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-19T10:34:29"
     },
     {
-      "title": "ИИ в работе: воркслоп и как его избежать",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1095746/?utm_campaign=1095746&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-18T11:08:11"
-    },
-    {
-      "title": "ИИ в работе: воркслоп и как его избежать - Хабр",
+      "title": "В Бразилии научат ИИ предсказывать лесные пожары и защищать леса - TV BRICS",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fTmV0YW5FNDRYbGlkX3RlMU9qT0tKUzREOTFzSXpzOHQ2LVRGejBfaEljWmpTUEc1NmtpUTJ3WG5RdjRSWkd6aFY5bHJVZ9IBWEFVX3lxTE0xYXd6NmxtVzd2cFdUZXRUVU9Qb2pqbnZSSVMtNjVsVkdIWXcxSjREZFQ3YXM0YngzMS1rNHJHN241S3FNYkM1b0xORXQ3QkZqTENxZHpUVEo?oc=5",
-      "published": "2026-10-18T11:08:11"
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX3MyaS1JU2hnRzFieFNKRHBlcEJmRWlJYVhybzFlcWhoYkY4QmJyQXM2NVdfc0M3U3JxVzVpYmpUNXlqd19JblZaSDlsUXJGS3V5Uk14b2tPZlRLd2tyUU44VzgwRXdXR1RHNDhDRVBsQi1RZHdDQmdWb2tKZ3dvd3N4c1hzeUlrZ09rdHdMSGI3TzFYeXpjd20xdVo?oc=5",
+      "published": "2026-10-19T10:32:20"
     },
     {
-      "title": "ИИ‑мастер для настольной RPG: один запрос на ход, кубик до ответа и баг, который удваивал здоровье",
+      "title": "MCP как новая поверхность атаки: как контролировать серверы, skills и tool calls, а не только промпты",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1095802/?utm_campaign=1095802&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-18T10:32:11"
+      "url": "https://habr.com/ru/companies/infera_security/articles/1095942/?utm_campaign=1095942&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-19T10:30:46"
+    },
+    {
+      "title": "Мобильный интернет в России разогнался почти 20 % после запуска 5G",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150124",
+      "published": "2026-10-19T10:29:00"
+    },
+    {
+      "title": "Американский ИИ-бум на $10 трлн споткнулся о реальность: стройки буксуют, деньги и электричество заканчиваются",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150123",
+      "published": "2026-10-19T10:22:00"
+    },
+    {
+      "title": "Филиппо высмеял попытки обвинить Россию в протестах во Франции",
+      "source": "ТАСС",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28229363",
+      "published": "2026-10-19T10:09:57"
     }
   ]
 }
