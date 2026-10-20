@@ -1,104 +1,105 @@
 {
-  "timestamp": "2026-10-20_01-36",
-  "total_articles": 79,
+  "timestamp": "2026-10-20_13-27",
+  "total_articles": 83,
   "sources": {
-    "ТАСС": 1,
-    "Habr_AI": 24,
+    "ТАСС": 2,
+    "Digital_Russia": 1,
+    "Habr_AI": 23,
     "CNews": 15,
-    "3DNews": 12,
-    "VC_ru_Технологии": 1,
-    "Google News": 26
+    "3DNews": 11,
+    "ИИ комплаенс и этика": 1,
+    "Google News": 30
   },
   "top_keywords": [
     [
       "ИИ",
-      60
+      59
     ],
     [
       "AI",
-      12
-    ],
-    [
-      "регулирование",
-      5
-    ],
-    [
-      "искусственный интеллект",
-      4
-    ],
-    [
-      "Минцифры",
-      3
+      14
     ],
     [
       "ESG",
+      7
+    ],
+    [
+      "искусственный интеллект",
+      6
+    ],
+    [
+      "регулирование",
+      6
+    ],
+    [
+      "Минцифры",
       1
     ],
     [
-      "машинное обучение",
+      "aigovernance",
       1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "ИИ научился по фото оценивать шансы на выживание онкобольных - RTVI",
+      "title": "Мишустин рассказал о развитии ИИ в России: языковые модели, мощности, сферы применения - Финансы Mail",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQazRyNXdqRDlrMlVwRmdxejl1eVAxMGtpYmp3V2dEWXZTMF91MUcwQVNFakpYd0tTSGQwN0RZOFJ5TWxwUlEzTW1NTkhTVV9OY3ZEOTdIM3p1c0NtVi1kbUxUS3U1TkdGeWFXZ0RpVTNUZmc3UHhkNFJINXFNNzVfeE5ERjF5WEpSTTVVMnNjRQ?oc=5",
-      "published": "2026-10-19T22:30:00"
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMGdCRTBhbDJ1YzEzNktaU1F0a2xRYXhXRHQ3RllRZl8tb2loWVRMNzRycUJxRlhqX3AyM0pmbU9sTU1PaFZYS0szSFhEY1NhU2VxNThxV2ZBTUZWUWVKTEpYUldsVGtnaDI3QUhkSi1fWXpxSC1QRHFmNFpQenJ5YTYzYUZDakJQdDQtVGFwYXRLcmtQWl9ldHU5VzZUa1RSN3NmNXZlZzhTckpCTEN3TjhSZC1Qck5GV1I3TzRiZUxDUQ?oc=5",
+      "published": "2026-10-20T10:18:42"
     },
     {
-      "title": "В России запустили платформу для разработчиков ИИ",
+      "title": "В России запустили ИИ-ассистента по здоровому образу жизни",
+      "source": "CNews",
+      "url": "https://www.cnews.ru/news/line/2026-10-20_v_rossii_zapustili_ii-assistenta",
+      "published": "2026-10-20T10:10:00"
+    },
+    {
+      "title": "В России начал работу ИИ-ассистент по ЗОЖ \"Худеем на здоровье\"",
       "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28231167",
-      "published": "2026-10-19T22:02:00"
+      "url": "https://tass.ru/obschestvo/28233065",
+      "published": "2026-10-20T10:07:22"
     },
     {
-      "title": "Будет ли Китай делиться с Россией ИИ-технологиями на фоне его борьбы с США - Ведомости",
+      "title": "Сбер запустит в опытную эксплуатацию ИИ-агента с медицинскими функциями",
+      "source": "ТАСС",
+      "url": "https://tass.ru/ekonomika/28232759",
+      "published": "2026-10-20T09:51:56"
+    },
+    {
+      "title": "ИТМО и Сбер открыли лабораторию для автоматизации мультиагентных систем с помощью ИИ - Университет ИТМО",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZTNfb2NUb3hSTFZzaDFTSFJhekRwS1YwMVdpSjNmelExa25rXzloMG5yOVZQRUdJMlNURGR0MmJYQnlhRVdkQmVXVmFtQjdLcXBGM09iaUtzYjFRbWZZMTdoUEJkRlRvbjlmaGJzcEF0dFQ1eG0tZVhVWjY1V0EtTlN0VDFhMEtrS3Q4TXppS0ZrdTMxNmNqZzRiWGxVX2dOeVl4Sw?oc=5",
-      "published": "2026-10-19T21:05:01"
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTeGNZNDZtM3BhR2hNTWRGQ0p3UV9iNVBlZlUwRU9xWUJTZlhhS2JLeVRQaWpQeXVDY2ozNjVSVVlMeDRuRHY5dzNRWEFKZDZCaDlUWTJueE5ZU2VIRVFfZGduWEFrNGVP?oc=5",
+      "published": "2026-10-20T09:47:33"
     },
     {
-      "title": "Новая статья: Кризис доверия к ИИ: материальные основания",
+      "title": "Власти США запретили сами себе ПО, созданное с помощью DeepSeek. Уже внедренное нужно уничтожить",
+      "source": "CNews",
+      "url": "https://www.cnews.ru/news/top/2026-10-20_v_ssha_zapretili_federalnym",
+      "published": "2026-10-20T09:26:00"
+    },
+    {
+      "title": "Microsoft решила проблему, которую сама создала: защитой бизнеса от её ИИ займутся «агенты-хранители»",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1150105",
-      "published": "2026-10-19T21:00:00"
+      "url": "https://3dnews.ru/1150160",
+      "published": "2026-10-20T09:26:00"
     },
     {
-      "title": "Кризис доверия к ИИ: материальные основания / Искусственный интеллект - 3DNews",
+      "title": "BIDV — входит в список 50 ведущих компаний Вьетнама по версии Forbes в области ESG. - Vietnam.vn",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RMkQ1WGlaUk45YzNvNWxIcXp4Y1pDd3Z2ZHB5eFI4YnVNMU1Ib2ozQlBSSHZlUlJaMFpLNlkyeUFfRERPajBFekhpVGd4Z1JRSHEtVmhtSHJPQQ?oc=5",
-      "published": "2026-10-19T21:00:00"
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZGZSRS1mSDRWM0FPWkN1T015aWppdGNwMjJ4V2FDTmItZ0pVLUFkZUxmZk1GVWlYbkR2RXZ2WU5fR3NDb0pwUlMwZk1wOUdsdlg5OW95UzJHQm5ZYU12ZVktYzNTZTJqcE0wLWVjWWxkZzQ5QTBmeWtUWEpwT3RtUEgwM0oyWUxBeHZqcUZR?oc=5",
+      "published": "2026-10-20T09:17:08"
     },
     {
-      "title": "Как мы горим",
+      "title": "Gemini получила доступ в интернет и атаковала системы трех реальных компаний",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1096446/?utm_campaign=1096446&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-19T20:35:25"
+      "url": "https://habr.com/ru/companies/avito/articles/1087672/?utm_campaign=1087672&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-20T09:12:04"
     },
     {
-      "title": "12 мини-реакторов для ИИ: Amazon профинансирует строительство почти гигаваттной АЭС в США",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150141",
-      "published": "2026-10-19T19:45:00"
-    },
-    {
-      "title": "В Госдуме предложили установить 30-дневный срок для обжалования решений ИИ - БИЗНЕС Online — Новости Казани",
+      "title": "ФАС: Эталонное регулирование сетей внедрили в 11 субъектах РФ - Энергетика и промышленность России",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuVDlBaFF1RHVrZzlocXQ5aGp5bml0UU80TXJmZzNKbGUzTm1vWHV0dU9tamtxNXdpbEVJamJoWlppOTVXY0ZnUS0xS2NwM0dBOU1TUNIBU0FVX3lxTFBDaldqZVI2RU1reWZ0U0t3U1Nxc19BQnpNc3NxaVRhSjlsbXg3ZW5FNkQ4MXVtTzlQeXhtNi1idnN2M2xSclcwcTc4NlNlamxRa1c0?oc=5",
-      "published": "2026-10-19T19:23:00"
-    },
-    {
-      "title": "Джун закрывает задачи с агентом, но спотыкается на разборе инцидента",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/otus/articles/1088884/?utm_campaign=1088884&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-19T19:05:52"
-    },
-    {
-      "title": "Доверенные технологии ИИ versus Доверие к системам ИИ",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1096430/?utm_campaign=1096430&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-19T18:57:51"
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CUy13VGwtd1VqSGxDamFsZzVYcE1TUkEzX0NoSUprZXh1VEtfSHBmN0dzQ1VrdWJwWGVHZl9IYlpDUEVMbnRROWYyYzl6MWRxWXFhZVRJS3JzUQ?oc=5",
+      "published": "2026-10-20T09:07:18"
     }
   ]
 }
