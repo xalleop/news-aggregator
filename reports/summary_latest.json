@@ -1,31 +1,33 @@
 {
-  "timestamp": "2026-10-20_13-27",
-  "total_articles": 83,
+  "timestamp": "2026-10-20_20-09",
+  "total_articles": 89,
   "sources": {
-    "ТАСС": 2,
+    "Ведомости": 1,
     "Digital_Russia": 1,
-    "Habr_AI": 23,
-    "CNews": 15,
-    "3DNews": 11,
+    "Habr_AI": 20,
+    "iXBT": 1,
+    "CNews": 16,
+    "3DNews": 12,
+    "VC_ru_Технологии": 1,
     "ИИ комплаенс и этика": 1,
-    "Google News": 30
+    "Google News": 36
   },
   "top_keywords": [
     [
       "ИИ",
-      59
+      62
     ],
     [
       "AI",
-      14
+      15
     ],
     [
       "ESG",
-      7
+      13
     ],
     [
       "искусственный интеллект",
-      6
+      8
     ],
     [
       "регулирование",
@@ -42,64 +44,64 @@
   ],
   "recent_headlines": [
     {
-      "title": "Мишустин рассказал о развитии ИИ в России: языковые модели, мощности, сферы применения - Финансы Mail",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMGdCRTBhbDJ1YzEzNktaU1F0a2xRYXhXRHQ3RllRZl8tb2loWVRMNzRycUJxRlhqX3AyM0pmbU9sTU1PaFZYS0szSFhEY1NhU2VxNThxV2ZBTUZWUWVKTEpYUldsVGtnaDI3QUhkSi1fWXpxSC1QRHFmNFpQenJ5YTYzYUZDakJQdDQtVGFwYXRLcmtQWl9ldHU5VzZUa1RSN3NmNXZlZzhTckpCTEN3TjhSZC1Qck5GV1I3TzRiZUxDUQ?oc=5",
-      "published": "2026-10-20T10:18:42"
+      "title": "«Альфа-банк» готовится до конца 2026 года запустить видеоплатформу с фокусом на ИИ-видео, микросериалы и шоу со звёздами — РБК",
+      "source": "VC_ru_Технологии",
+      "url": "https://vc.ru/media/3206196-alfa-bank-zapusk-videoplatformu-s-ii-video?from=rss",
+      "published": "2026-10-20T16:46:57"
     },
     {
-      "title": "В России запустили ИИ-ассистента по здоровому образу жизни",
-      "source": "CNews",
-      "url": "https://www.cnews.ru/news/line/2026-10-20_v_rossii_zapustili_ii-assistenta",
-      "published": "2026-10-20T10:10:00"
-    },
-    {
-      "title": "В России начал работу ИИ-ассистент по ЗОЖ \"Худеем на здоровье\"",
-      "source": "ТАСС",
-      "url": "https://tass.ru/obschestvo/28233065",
-      "published": "2026-10-20T10:07:22"
-    },
-    {
-      "title": "Сбер запустит в опытную эксплуатацию ИИ-агента с медицинскими функциями",
-      "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28232759",
-      "published": "2026-10-20T09:51:56"
-    },
-    {
-      "title": "ИТМО и Сбер открыли лабораторию для автоматизации мультиагентных систем с помощью ИИ - Университет ИТМО",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTeGNZNDZtM3BhR2hNTWRGQ0p3UV9iNVBlZlUwRU9xWUJTZlhhS2JLeVRQaWpQeXVDY2ozNjVSVVlMeDRuRHY5dzNRWEFKZDZCaDlUWTJueE5ZU2VIRVFfZGduWEFrNGVP?oc=5",
-      "published": "2026-10-20T09:47:33"
-    },
-    {
-      "title": "Власти США запретили сами себе ПО, созданное с помощью DeepSeek. Уже внедренное нужно уничтожить",
-      "source": "CNews",
-      "url": "https://www.cnews.ru/news/top/2026-10-20_v_ssha_zapretili_federalnym",
-      "published": "2026-10-20T09:26:00"
-    },
-    {
-      "title": "Microsoft решила проблему, которую сама создала: защитой бизнеса от её ИИ займутся «агенты-хранители»",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150160",
-      "published": "2026-10-20T09:26:00"
-    },
-    {
-      "title": "BIDV — входит в список 50 ведущих компаний Вьетнама по версии Forbes в области ESG. - Vietnam.vn",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZGZSRS1mSDRWM0FPWkN1T015aWppdGNwMjJ4V2FDTmItZ0pVLUFkZUxmZk1GVWlYbkR2RXZ2WU5fR3NDb0pwUlMwZk1wOUdsdlg5OW95UzJHQm5ZYU12ZVktYzNTZTJqcE0wLWVjWWxkZzQ5QTBmeWtUWEpwT3RtUEgwM0oyWUxBeHZqcUZR?oc=5",
-      "published": "2026-10-20T09:17:08"
-    },
-    {
-      "title": "Gemini получила доступ в интернет и атаковала системы трех реальных компаний",
+      "title": "Amazon заблокировал ИИ-агента Meta Muse",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/avito/articles/1087672/?utm_campaign=1087672&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-20T09:12:04"
+      "url": "https://habr.com/ru/articles/1096924/?utm_campaign=1096924&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-20T16:20:42"
     },
     {
-      "title": "ФАС: Эталонное регулирование сетей внедрили в 11 субъектах РФ - Энергетика и промышленность России",
+      "title": "Amazon заблокировал ИИ-агента Meta Muse - Хабр",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CUy13VGwtd1VqSGxDamFsZzVYcE1TUkEzX0NoSUprZXh1VEtfSHBmN0dzQ1VrdWJwWGVHZl9IYlpDUEVMbnRROWYyYzl6MWRxWXFhZVRJS3JzUQ?oc=5",
-      "published": "2026-10-20T09:07:18"
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xMG0tbGx3OHRTYU1sbkpuUXZidGZjcFVGWkh2MnlabVpuWHRMamx5emF0VGpFRWFGWDdPbHMyQkNWbnlkYmRHYnJyNlZzd9IBWEFVX3lxTE5TdVVfWnlnaGtVRk9KSnhha2Q1eDNmT254aFJsWFdIRWozTC1ZNWtncWp1WDZNLWRMbFpuTDRUVUd5eUhwUXBlVS1NUGFWZkUtckdMa3A3cGY?oc=5",
+      "published": "2026-10-20T16:20:42"
+    },
+    {
+      "title": "[Перевод] Как справка WhatsApp тайно запрещала ИИ советовать жалобу регулятору",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1096916/?utm_campaign=1096916&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-20T16:09:02"
+    },
+    {
+      "title": "ИИ для аналитиков и руководителей проектов: 28 выступлений на A&amp;PM EVENT 2026",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/infostart/articles/1096904/?utm_campaign=1096904&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-20T15:55:32"
+    },
+    {
+      "title": "Spotify вычислил и удалил 50 млн ИИ-треков | Диджитал | Новости - AdIndex.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4VkU1Q3VEUkdsS3JrbFJPdkhxRGJaNjVKX1BfdHBMUE5GVDFacjlBWHcxU2VldVIzaTI4SjljUVRIcGZVVS16eXN2a0dZYzVVaTk0UWVqM1BWbDlkSm1JSDVic1Ridw?oc=5",
+      "published": "2026-10-20T15:51:31"
+    },
+    {
+      "title": "Apple объяснила, почему так долго тянула с выпуском смарт-дисплея HomeView",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150190",
+      "published": "2026-10-20T15:47:00"
+    },
+    {
+      "title": "Большая чистка: Spotify удалил из рекомендаций 50 млн треков, созданных с помощью ИИ",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150187",
+      "published": "2026-10-20T15:39:00"
+    },
+    {
+      "title": "Spotify исключил более 50 млн ИИ-треков из рекомендаций",
+      "source": "Ведомости",
+      "url": "https://www.vedomosti.ru/technology/news/2026/10/20/1238640-50-mln-ii-trekov",
+      "published": "2026-10-20T15:30:02"
+    },
+    {
+      "title": "Spotify исключил более 50 млн ИИ-треков из рекомендаций - Ведомости",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUktFUEw2R28zNXZvc1g0Y1Q0VXpaM2dVeVBSTEtmcG1FdHNlMnlBbnA1NXhnOGZzREhRS2UxcFMwc2hpMG9uSWJmSTBRREwxTUUxUWNKTEpncTV3aFVGRmtBQ0wzUVVFcDQwQ0pjTEdEMlZRdnlKcG1EUUI3UjVKdk93?oc=5",
+      "published": "2026-10-20T15:30:02"
     }
   ]
 }
