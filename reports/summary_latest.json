@@ -1,107 +1,111 @@
 {
-  "timestamp": "2026-10-21_00-50",
-  "total_articles": 90,
+  "timestamp": "2026-10-21_13-38",
+  "total_articles": 70,
   "sources": {
-    "Ведомости": 1,
-    "Digital_Russia": 1,
-    "Habr_AI": 20,
-    "iXBT": 1,
-    "CNews": 16,
-    "3DNews": 13,
-    "VC_ru_Технологии": 1,
-    "ИИ комплаенс и этика": 1,
-    "Google News": 36
+    "ТАСС": 1,
+    "Ведомости": 3,
+    "Digital_Russia": 2,
+    "Habr_AI": 23,
+    "iXBT": 2,
+    "3DNews": 10,
+    "VC_ru_Технологии": 2,
+    "ИИ комплаенс и этика": 2,
+    "Google News": 25
   },
   "top_keywords": [
     [
       "ИИ",
-      62
+      54
     ],
     [
       "AI",
-      17
-    ],
-    [
-      "ESG",
-      13
+      12
     ],
     [
       "регулирование",
-      7
+      5
     ],
     [
-      "искусственный интеллект",
-      6
+      "ESG",
+      4
     ],
     [
       "Минцифры",
+      3
+    ],
+    [
+      "искусственный интеллект",
       1
     ],
     [
       "aigovernance",
       1
+    ],
+    [
+      "цифровая трансформация",
+      1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "ИИ может создать риски для качества высшего образования - Ведомости",
+      "title": "Впервые сконструированный ИИ вирус применили для лечения человека - naukatv.ru",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeUlxaHMtSzBuRWppcUtCOE1WcFNWRkFhb2NDZDlQX1ZNc1BZMzRpX3VSZFMxT2kzM1Z1Q2NLeXJ5SWQxQ3dwYW1uaXN0RFZDc2YzMW02c0FzNWIwMzVIV2dkZUEybDhfVFpEUHQtVnRaU0ZzV0FHN3NIWE81VDJWLTVKWXZfVjhGOEhz?oc=5",
-      "published": "2026-10-20T21:27:13"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON0xGUmpwbjlIT2xzaTVvbGJkcnJYVDNfRnlqM3Z2Y2pSbUs1a19ieHBUUDJvQ29KdF9LVHVCeEl1Z0hXOXYwcWlxS1k2LVp6SEtUUENyQXNuc3NBYjh6QzRBSXlreWpyQ0tHWjNXU1d0TC1rX1BqcWRDUi1LR0dHaUlxVy1WaHFGV1Ftd2pfNkdfZk1RVXdGYQ?oc=5",
+      "published": "2026-10-21T10:32:47"
     },
     {
-      "title": "Разработчикам ИИ могут выдать ваучеры на инфраструктуру - Ведомости",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUHZ5VkFKTDZxZDVDVGVCN1FlcmRiWjA0aDF5anpJRkhKb2dNVU1sUWR3NkxFbE1TQTF4Nnk1cDNWYTk4VzRoWF9TM0xHa0JZX19LcmZHOHA5UTljUElfQ0dnRmc3MmIyVjdwSVpBOHdyTUM3WGNZM3l3VEY5cHRxVTZGcEdLdE81S1M0cjFjaTVNSUtNdEFKM1dlTWNYUzdsLUo2bQ?oc=5",
-      "published": "2026-10-20T21:23:22"
-    },
-    {
-      "title": "Пять ошибок на миллион логических операций — Quantinuum в 100 раз превзошла результат Google по коррекции ошибок",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150202",
-      "published": "2026-10-20T21:00:00"
-    },
-    {
-      "title": "Консилиум с чат-ботом: почти 60% врачей используют ИИ в своей практике - Forbes.ru",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUndxLUg5bFhld3pLTHNxOW1IX0FDQmwta2dZMS1FdDlxSHIzT2FjRlByTDlERGxMRVBUbHRsVXh6YV9kVmxjSWNuZWQ4U1VLWW1DSUJYZjdTQmVlS0h5WE02dnY3Mmxra21tNHhxbDZpLU1uSjRYOENzZHktYWVDZmN4cHV2OGJsTWlmZmx2UjJSVVRqTmpoYlZGNXB2UUNmd2lvcU5YbHQwNjBS?oc=5",
-      "published": "2026-10-20T21:00:00"
-    },
-    {
-      "title": "Использование меди для ИИ может утроиться - Финам",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZE1lRjFVY25QQlZhb3RmWkt0Y3Z4cnZYbk9xQ3N2V29OU1U3d3dTQVFRX3FTSXVGV2lmSGZVWXAybUJfVnNqX1VLM09kNDJsTXJweHd4WEY4aGZQaGlFYmhXMmk2bEp3SFRIRWl6WDVyeEx4V3hCdEF3aUxPSFFvM05MTjNvVmhUbFI3TXV5TF93ODlDbElabjVacXI?oc=5",
-      "published": "2026-10-20T20:46:27"
-    },
-    {
-      "title": "Почему ИИ плохо писал на COBOL и что изменилось: разбираем новый бенчмарк OpenAI",
+      "title": "RAG под защитой: как не превратить корпоративную базу знаний в канал утечки",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1096978/?utm_campaign=1096978&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-20T20:29:57"
+      "url": "https://habr.com/ru/companies/infera_security/articles/1097220/?utm_campaign=1097220&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-21T10:28:49"
     },
     {
-      "title": "Spotify исключил более 50 млн ИИ-треков из рекомендаций - Эксперт",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNXpSc3h6LU1uWWhWUE1KR3ZIR2JHLVRWS0RUY1lzakxFX2hjejMtcUhKQ0phdjdnWkEzNl9WanJBNW1iZ19ibFNHdXhGY0tHc1dYd2NjLUZPS211eDAyVVplMHNrRjFqRk9na0RmLU5DR2FqMm10Q3c5ZGpVbHJIQXlCNTNFZ0FJ?oc=5",
-      "published": "2026-10-20T18:43:00"
-    },
-    {
-      "title": "Anthropic применила технологию Яндекса для исследования безопасности ИИ - RB.RU",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa2N4c09KSnhUelc1Q0g5SE1sd0ljTUc2aTlad0NURDlvWjZsT3ZtWWwtVzZUX1d5b1VFMXVwbTFJbVJWZmtkbzBmdVFIdkVHNGZ0ZGtxUmJpdnRJUU93MHlsbW1nTi1XUEZ5TEtUaHJvaXpyYUxkb3JlQUlieUdVSk5iMEx4Q3R5TXh4ZVd5OHlTZTlaeHM3b2NnZ2F1Z05INlU2eEFVWU1zUzRwakhpMzZPaTM1VldYWkNLVDZBMFhTSjY1QTJJZ2pn?oc=5",
-      "published": "2026-10-20T18:30:00"
-    },
-    {
-      "title": "AMD выпустила видеодрайвер с поддержкой FSR 4.1 для Radeon RX 6000 и встроенной графики Ryzen",
+      "title": "ИИ-агенты OpenAI дважды за октябрь обошли систему, которая должна контролировать их поведение",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1150196",
-      "published": "2026-10-20T18:16:00"
+      "url": "https://3dnews.ru/1150228",
+      "published": "2026-10-21T10:27:00"
     },
     {
-      "title": "Тысячи приватных переписок и документов утекли из ИИ-агента M**a Muse — функцию временно отключили",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150195",
-      "published": "2026-10-20T18:10:00"
+      "title": "ИИ-агенты OpenAI дважды за октябрь обошли систему, которая должна контролировать их поведение - 3DNews",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRkJzVHVmdlpTU014U0lES3JPSXQtOWYxRG1TUjhtS3l2eVhVSG1hZW02RGVCUEVMZ1BSYUZ1RzEtbXdRcWtud3BmRVdISGVZNFhLQjhGSm1HOWxuaXlWbHhhbzRuMG5RUE8wUFJFMDBtRmNyUnJnWGZ3TDc1N3I2WDdmMUZVdk16N1dPcHIwaVBrbURBYUlwMGdXdF9zdnV0QTdwamdzODU0NkZJU01nQlZ2YVpPMGRwWXfSAb8BQVVfeXFMUEdvbTNFRFZLek5KTEVkeHFPYkttN1RVSVBJSnIwV3Nta3Y2MC1zcGFiM3R1em5aaENtN0xVTUdSNUliYnQ5NFJZN2EyMXhxX2hVWjJDeHdhVVlFWW5NTmFIbXBrb0RyejdhV2tmaGJFNlVFdmxsNjJSS0pnSDYyX0FzUkU4aDVyT3o5SnVhN2Z2NTREdDR2UjlBR05qUXRtNUhvU0hHMk9kNTFqcEVacnN2bUlNNlVkQjF2eUZDSkU?oc=5",
+      "published": "2026-10-21T10:27:00"
+    },
+    {
+      "title": "Форум «Спектр 2026» стартовал в «Завидово»",
+      "source": "Digital_Russia",
+      "url": "https://d-russia.ru/forum-spektr-2026-startoval-v-zavidovo.html",
+      "published": "2026-10-21T10:15:12"
+    },
+    {
+      "title": "SIEM на двух ядрах для 150 хостов и 9B-модель на триаже: как устроен самописный AI SOC",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1097200/?utm_campaign=1097200&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-21T10:11:59"
+    },
+    {
+      "title": "Собянин сообщил о продолжении развития ИИ-помощников врачей в Москве",
+      "source": "ТАСС",
+      "url": "https://tass.ru/obschestvo/28237201",
+      "published": "2026-10-21T10:04:49"
+    },
+    {
+      "title": "Тайка Вайтити назвал создание фильмов с помощью ИИ скучным и унылым занятием - Кино Mail",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT25SSWl5TUlHXzFrd0VEXzZLclJMS1VwWVpCUm5IbVF4QWdnR1RFWUhNZHkxY2w2ZFZPbVduX19SMUpYc3lNTzlKWjg3SXg2YldmRWhqX2F0Ql93V0w2SzdQVXVPNUNwczRfbnNUbFM0Zl8yYnpqZVN4TFZUcXJfZm16Mmhfd1RsNDA2aXUxaWlfSV95VzF4aFJHbmM4VHhES2N0dWFPTkxVR040dlpkTnVR?oc=5",
+      "published": "2026-10-21T10:00:00"
+    },
+    {
+      "title": "Как ИИ-агенты помогают на производстве",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1097180/?utm_campaign=1097180&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-21T09:57:48"
+    },
+    {
+      "title": "ИИ разоряет геймеров, цены на ОЗУ взлетели в 5 раз, видеокарты и SSD дорожают следом — PC Gamer - Клуб DNS",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRGZXR3VVLXRheERfMVlFMGpWNGlGeTJuZEdOODlvTEs4QWZ2eHdFNEZKZy1UM19xc2Y2ZlZfVjlwR3pyVjJoTXdVeVliMjh2c1liRWRSRHMwRWJyNk9laW9fZVpRdkYya3liS1VoVi1tNUo3LVMtbkhSSWFBMFo5SGR5ZDdETDkxM3Y0M1JRNmM0blpoUGhSRGV2b181WklkSWhMMG4xQndod9IBrwFBVV95cUxNeDVSOFVvRFpoWlgweTJLT1RXeEZTaUVPQnZ0WklGdUE4bUVYajBMQktEbDNGTTZrM2xaU1ViU3dSZVRWSlFTcTJTX1VPUjFKdXZMSVprMFVlNkl2eE9XTEQ3dVZBd2VMNFRfcTFhVEljVjkzTnhxLWV3LWNwOFQtc2pmZ0pkR2xjMWxxSmVvUnU5cmpiVk1TTzRMS3RPYVhkZ0cyOFJBQ2lVeFhGdGZV?oc=5",
+      "published": "2026-10-21T09:20:47"
     }
   ]
 }

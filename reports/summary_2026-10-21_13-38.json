@@ -1,0 +1,111 @@
+{
+  "timestamp": "2026-10-21_13-38",
+  "total_articles": 70,
+  "sources": {
+    "ТАСС": 1,
+    "Ведомости": 3,
+    "Digital_Russia": 2,
+    "Habr_AI": 23,
+    "iXBT": 2,
+    "3DNews": 10,
+    "VC_ru_Технологии": 2,
+    "ИИ комплаенс и этика": 2,
+    "Google News": 25
+  },
+  "top_keywords": [
+    [
+      "ИИ",
+      54
+    ],
+    [
+      "AI",
+      12
+    ],
+    [
+      "регулирование",
+      5
+    ],
+    [
+      "ESG",
+      4
+    ],
+    [
+      "Минцифры",
+      3
+    ],
+    [
+      "искусственный интеллект",
+      1
+    ],
+    [
+      "aigovernance",
+      1
+    ],
+    [
+      "цифровая трансформация",
+      1
+    ]
+  ],
+  "recent_headlines": [
+    {
+      "title": "Впервые сконструированный ИИ вирус применили для лечения человека - naukatv.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON0xGUmpwbjlIT2xzaTVvbGJkcnJYVDNfRnlqM3Z2Y2pSbUs1a19ieHBUUDJvQ29KdF9LVHVCeEl1Z0hXOXYwcWlxS1k2LVp6SEtUUENyQXNuc3NBYjh6QzRBSXlreWpyQ0tHWjNXU1d0TC1rX1BqcWRDUi1LR0dHaUlxVy1WaHFGV1Ftd2pfNkdfZk1RVXdGYQ?oc=5",
+      "published": "2026-10-21T10:32:47"
+    },
+    {
+      "title": "RAG под защитой: как не превратить корпоративную базу знаний в канал утечки",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/infera_security/articles/1097220/?utm_campaign=1097220&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-21T10:28:49"
+    },
+    {
+      "title": "ИИ-агенты OpenAI дважды за октябрь обошли систему, которая должна контролировать их поведение",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150228",
+      "published": "2026-10-21T10:27:00"
+    },
+    {
+      "title": "ИИ-агенты OpenAI дважды за октябрь обошли систему, которая должна контролировать их поведение - 3DNews",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRkJzVHVmdlpTU014U0lES3JPSXQtOWYxRG1TUjhtS3l2eVhVSG1hZW02RGVCUEVMZ1BSYUZ1RzEtbXdRcWtud3BmRVdISGVZNFhLQjhGSm1HOWxuaXlWbHhhbzRuMG5RUE8wUFJFMDBtRmNyUnJnWGZ3TDc1N3I2WDdmMUZVdk16N1dPcHIwaVBrbURBYUlwMGdXdF9zdnV0QTdwamdzODU0NkZJU01nQlZ2YVpPMGRwWXfSAb8BQVVfeXFMUEdvbTNFRFZLek5KTEVkeHFPYkttN1RVSVBJSnIwV3Nta3Y2MC1zcGFiM3R1em5aaENtN0xVTUdSNUliYnQ5NFJZN2EyMXhxX2hVWjJDeHdhVVlFWW5NTmFIbXBrb0RyejdhV2tmaGJFNlVFdmxsNjJSS0pnSDYyX0FzUkU4aDVyT3o5SnVhN2Z2NTREdDR2UjlBR05qUXRtNUhvU0hHMk9kNTFqcEVacnN2bUlNNlVkQjF2eUZDSkU?oc=5",
+      "published": "2026-10-21T10:27:00"
+    },
+    {
+      "title": "Форум «Спектр 2026» стартовал в «Завидово»",
+      "source": "Digital_Russia",
+      "url": "https://d-russia.ru/forum-spektr-2026-startoval-v-zavidovo.html",
+      "published": "2026-10-21T10:15:12"
+    },
+    {
+      "title": "SIEM на двух ядрах для 150 хостов и 9B-модель на триаже: как устроен самописный AI SOC",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1097200/?utm_campaign=1097200&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-21T10:11:59"
+    },
+    {
+      "title": "Собянин сообщил о продолжении развития ИИ-помощников врачей в Москве",
+      "source": "ТАСС",
+      "url": "https://tass.ru/obschestvo/28237201",
+      "published": "2026-10-21T10:04:49"
+    },
+    {
+      "title": "Тайка Вайтити назвал создание фильмов с помощью ИИ скучным и унылым занятием - Кино Mail",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT25SSWl5TUlHXzFrd0VEXzZLclJMS1VwWVpCUm5IbVF4QWdnR1RFWUhNZHkxY2w2ZFZPbVduX19SMUpYc3lNTzlKWjg3SXg2YldmRWhqX2F0Ql93V0w2SzdQVXVPNUNwczRfbnNUbFM0Zl8yYnpqZVN4TFZUcXJfZm16Mmhfd1RsNDA2aXUxaWlfSV95VzF4aFJHbmM4VHhES2N0dWFPTkxVR040dlpkTnVR?oc=5",
+      "published": "2026-10-21T10:00:00"
+    },
+    {
+      "title": "Как ИИ-агенты помогают на производстве",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1097180/?utm_campaign=1097180&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-21T09:57:48"
+    },
+    {
+      "title": "ИИ разоряет геймеров, цены на ОЗУ взлетели в 5 раз, видеокарты и SSD дорожают следом — PC Gamer - Клуб DNS",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRGZXR3VVLXRheERfMVlFMGpWNGlGeTJuZEdOODlvTEs4QWZ2eHdFNEZKZy1UM19xc2Y2ZlZfVjlwR3pyVjJoTXdVeVliMjh2c1liRWRSRHMwRWJyNk9laW9fZVpRdkYya3liS1VoVi1tNUo3LVMtbkhSSWFBMFo5SGR5ZDdETDkxM3Y0M1JRNmM0blpoUGhSRGV2b181WklkSWhMMG4xQndod9IBrwFBVV95cUxNeDVSOFVvRFpoWlgweTJLT1RXeEZTaUVPQnZ0WklGdUE4bUVYajBMQktEbDNGTTZrM2xaU1ViU3dSZVRWSlFTcTJTX1VPUjFKdXZMSVprMFVlNkl2eE9XTEQ3dVZBd2VMNFRfcTFhVEljVjkzTnhxLWV3LWNwOFQtc2pmZ0pkR2xjMWxxSmVvUnU5cmpiVk1TTzRMS3RPYVhkZ0cyOFJBQ2lVeFhGdGZV?oc=5",
+      "published": "2026-10-21T09:20:47"
+    }
+  ]
+}
