@@ -1,111 +1,108 @@
 {
-  "timestamp": "2026-10-21_13-38",
-  "total_articles": 70,
+  "timestamp": "2026-10-21_20-14",
+  "total_articles": 81,
   "sources": {
-    "ТАСС": 1,
-    "Ведомости": 3,
+    "ТАСС": 2,
+    "Ведомости": 2,
     "Digital_Russia": 2,
-    "Habr_AI": 23,
-    "iXBT": 2,
-    "3DNews": 10,
-    "VC_ru_Технологии": 2,
+    "Habr_AI": 25,
+    "iXBT": 1,
+    "CNews": 11,
+    "3DNews": 11,
+    "VC_ru_Технологии": 1,
     "ИИ комплаенс и этика": 2,
-    "Google News": 25
+    "Google News": 24
   },
   "top_keywords": [
     [
       "ИИ",
-      54
+      64
     ],
     [
       "AI",
-      12
+      8
     ],
     [
       "регулирование",
-      5
-    ],
-    [
-      "ESG",
-      4
+      6
     ],
     [
       "Минцифры",
-      3
+      2
     ],
     [
       "искусственный интеллект",
-      1
+      2
+    ],
+    [
+      "ESG",
+      2
     ],
     [
       "aigovernance",
-      1
-    ],
-    [
-      "цифровая трансформация",
       1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Впервые сконструированный ИИ вирус применили для лечения человека - naukatv.ru",
+      "title": "Дмитриев сообщил об активном диалоге РФ и США по энергетике и ИИ-дата-центрам - Национальная Служба Новостей",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON0xGUmpwbjlIT2xzaTVvbGJkcnJYVDNfRnlqM3Z2Y2pSbUs1a19ieHBUUDJvQ29KdF9LVHVCeEl1Z0hXOXYwcWlxS1k2LVp6SEtUUENyQXNuc3NBYjh6QzRBSXlreWpyQ0tHWjNXU1d0TC1rX1BqcWRDUi1LR0dHaUlxVy1WaHFGV1Ftd2pfNkdfZk1RVXdGYQ?oc=5",
-      "published": "2026-10-21T10:32:47"
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUmo2a2FGUS1oc0FqZjlFa3otbS1nUmpqSEVvNjJVRXlFRUtFZUZXSkRQU0tNTUNZTXJkY3kyd0FUZG52TERqWVRGSW5WYTVYMmV3V2lCdkZka2M1eGRKWWhOWlduZEt1U1VZa1dNM0FjSzlWa21GYUhVOVZFU3ppWnN6Zmt0SmxXNnN0bjk2ME9mbFUxS2M4enozbjJmekZ3dnQ0ZGRR0gGrAUFVX3lxTE52SFJUaEhUZVUtVEJHQ09WRm5XTi1wVnZmWGFUUWNlM0Z3bmF5eER5U2pOZTBheThjaUY2ZHhDeVlaNjN1aFNLa2JaZVJOUExtZUNHUGh2WHBaUEc1OTMxVlEwVXFQclVaQjRGOEdvajJTc3FwZGFyRVFRdmZOTVhPdlNYc1IwLVpJcmFIeEV2VnMzWE5qQjFETTN2V0Zac1c4cXVDa0N1amVTVQ?oc=5",
+      "published": "2026-10-21T17:03:36"
     },
     {
-      "title": "RAG под защитой: как не превратить корпоративную базу знаний в канал утечки",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/infera_security/articles/1097220/?utm_campaign=1097220&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-21T10:28:49"
-    },
-    {
-      "title": "ИИ-агенты OpenAI дважды за октябрь обошли систему, которая должна контролировать их поведение",
+      "title": "ИИ добрался до древнего кода: OpenAI научилась переносить программы с COBOL с точностью 97,9 %",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1150228",
-      "published": "2026-10-21T10:27:00"
+      "url": "https://3dnews.ru/1150251",
+      "published": "2026-10-21T16:58:00"
     },
     {
-      "title": "ИИ-агенты OpenAI дважды за октябрь обошли систему, которая должна контролировать их поведение - 3DNews",
+      "title": "ИИ добрался до древнего кода: OpenAI научилась переносить программы с COBOL с точностью 97,9 % - 3DNews",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRkJzVHVmdlpTU014U0lES3JPSXQtOWYxRG1TUjhtS3l2eVhVSG1hZW02RGVCUEVMZ1BSYUZ1RzEtbXdRcWtud3BmRVdISGVZNFhLQjhGSm1HOWxuaXlWbHhhbzRuMG5RUE8wUFJFMDBtRmNyUnJnWGZ3TDc1N3I2WDdmMUZVdk16N1dPcHIwaVBrbURBYUlwMGdXdF9zdnV0QTdwamdzODU0NkZJU01nQlZ2YVpPMGRwWXfSAb8BQVVfeXFMUEdvbTNFRFZLek5KTEVkeHFPYkttN1RVSVBJSnIwV3Nta3Y2MC1zcGFiM3R1em5aaENtN0xVTUdSNUliYnQ5NFJZN2EyMXhxX2hVWjJDeHdhVVlFWW5NTmFIbXBrb0RyejdhV2tmaGJFNlVFdmxsNjJSS0pnSDYyX0FzUkU4aDVyT3o5SnVhN2Z2NTREdDR2UjlBR05qUXRtNUhvU0hHMk9kNTFqcEVacnN2bUlNNlVkQjF2eUZDSkU?oc=5",
-      "published": "2026-10-21T10:27:00"
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFB5WG1qQlJZRzRBR2t2S3V2RWJHbXEtSm9oOUowWHR1WVdpVnNiMUJTNmxsUFlmZ1lLTTItbWNR0gG_AUFVX3lxTE14WTdhLUZPZ0VxOGoxb2RTYm9RNmYtazI1ZWE2OTdSMWRPTVprTXhqbHptUlpnR3VkcXZFcVpTZTUydFllZUFObnAxY2ZjUkhINFVNdU9aSHI1aU9ndmlpZmNnTU9ESW45QWRPVm9HRXRQenF1eFZESUhSdEJYV1lmZDVKcjFjdV9HUXQ2djZWZHJ0bnFnYUhqNWJHWnhWUUkwVGJMZklnUk40VDE5M1EzalpJV3JlV2FrOV9CcDZn?oc=5",
+      "published": "2026-10-21T16:58:00"
     },
     {
-      "title": "Форум «Спектр 2026» стартовал в «Завидово»",
-      "source": "Digital_Russia",
-      "url": "https://d-russia.ru/forum-spektr-2026-startoval-v-zavidovo.html",
-      "published": "2026-10-21T10:15:12"
+      "title": "ИИ может прыгать - Хабр",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VN0lQUHUwc2t3V3JzLVZsNnNLdDBjOW1ndGJrYWFHVzkwR2VhbjZLUGt6TVc3M1NOeHVHT2tUN3hicHpxOXBIZjhtN1FBQdIBWEFVX3lxTFBBUlV0dXc0cW5qaWRlMWg3eUY0RURycXViUlZhNEg5NHJIWU1qcHZJUzhtcjZYMDZNNHE5bk94QTNLTjYtSExMWWVEeV84M0F6NkM3UkVsRFk?oc=5",
+      "published": "2026-10-21T16:57:17"
     },
     {
-      "title": "SIEM на двух ядрах для 150 хостов и 9B-модель на триаже: как устроен самописный AI SOC",
+      "title": "AMD и Intel объединились, чтобы упростить запуск ИИ-моделей на процессорах x86",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150249",
+      "published": "2026-10-21T16:39:00"
+    },
+    {
+      "title": "В мире плодятся ИИ-агенты - Октагон.Медиа",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTWHNDMUE3NDdmQlNUNFRXWHBJdnFNdmVwTVUxMjZoVlZKMVdlQVVSOGNHaWhSbXBwcmlqbXBleWZNb0RmNnp3UTU3azdPU09ENGRPNmR2RTFQdGdwaEpNcFdmMm5OTFBJRmo5TmdkYw?oc=5",
+      "published": "2026-10-21T16:25:32"
+    },
+    {
+      "title": "Профессия программиста выживет. Почему это не гарантирует вам работу",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1097200/?utm_campaign=1097200&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-21T10:11:59"
+      "url": "https://habr.com/ru/articles/1097460/?utm_campaign=1097460&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-21T16:19:00"
     },
     {
-      "title": "Собянин сообщил о продолжении развития ИИ-помощников врачей в Москве",
+      "title": "РФ и КНР проведут в Китае международную конференцию по ИИ в 2027 году",
       "source": "ТАСС",
-      "url": "https://tass.ru/obschestvo/28237201",
-      "published": "2026-10-21T10:04:49"
+      "url": "https://tass.ru/nauka/28239159",
+      "published": "2026-10-21T16:15:36"
     },
     {
-      "title": "Тайка Вайтити назвал создание фильмов с помощью ИИ скучным и унылым занятием - Кино Mail",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT25SSWl5TUlHXzFrd0VEXzZLclJMS1VwWVpCUm5IbVF4QWdnR1RFWUhNZHkxY2w2ZFZPbVduX19SMUpYc3lNTzlKWjg3SXg2YldmRWhqX2F0Ql93V0w2SzdQVXVPNUNwczRfbnNUbFM0Zl8yYnpqZVN4TFZUcXJfZm16Mmhfd1RsNDA2aXUxaWlfSV95VzF4aFJHbmM4VHhES2N0dWFPTkxVR040dlpkTnVR?oc=5",
-      "published": "2026-10-21T10:00:00"
+      "title": "РФ и КНР будут вместе следить за развитием ИИ и регулировать эту сферу",
+      "source": "ТАСС",
+      "url": "https://tass.ru/ekonomika/28239151",
+      "published": "2026-10-21T16:10:54"
     },
     {
-      "title": "Как ИИ-агенты помогают на производстве",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1097180/?utm_campaign=1097180&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-21T09:57:48"
-    },
-    {
-      "title": "ИИ разоряет геймеров, цены на ОЗУ взлетели в 5 раз, видеокарты и SSD дорожают следом — PC Gamer - Клуб DNS",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRGZXR3VVLXRheERfMVlFMGpWNGlGeTJuZEdOODlvTEs4QWZ2eHdFNEZKZy1UM19xc2Y2ZlZfVjlwR3pyVjJoTXdVeVliMjh2c1liRWRSRHMwRWJyNk9laW9fZVpRdkYya3liS1VoVi1tNUo3LVMtbkhSSWFBMFo5SGR5ZDdETDkxM3Y0M1JRNmM0blpoUGhSRGV2b181WklkSWhMMG4xQndod9IBrwFBVV95cUxNeDVSOFVvRFpoWlgweTJLT1RXeEZTaUVPQnZ0WklGdUE4bUVYajBMQktEbDNGTTZrM2xaU1ViU3dSZVRWSlFTcTJTX1VPUjFKdXZMSVprMFVlNkl2eE9XTEQ3dVZBd2VMNFRfcTFhVEljVjkzTnhxLWV3LWNwOFQtc2pmZ0pkR2xjMWxxSmVvUnU5cmpiVk1TTzRMS3RPYVhkZ0cyOFJBQ2lVeFhGdGZV?oc=5",
-      "published": "2026-10-21T09:20:47"
+      "title": "Памяти не хватает, цены растут: Samsung и SK hynix могут вернуть в параллельный импорт в России",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150247",
+      "published": "2026-10-21T16:01:00"
     }
   ]
 }
