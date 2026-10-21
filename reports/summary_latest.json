@@ -1,30 +1,32 @@
 {
-  "timestamp": "2026-10-21_20-14",
-  "total_articles": 81,
+  "timestamp": "2026-10-22_00-57",
+  "total_articles": 76,
   "sources": {
-    "ТАСС": 2,
     "Ведомости": 2,
     "Digital_Russia": 2,
-    "Habr_AI": 25,
+    "Habr_AI": 21,
     "iXBT": 1,
     "CNews": 11,
-    "3DNews": 11,
+    "3DNews": 17,
     "VC_ru_Технологии": 1,
-    "ИИ комплаенс и этика": 2,
-    "Google News": 24
+    "Google News": 21
   },
   "top_keywords": [
     [
       "ИИ",
-      64
+      61
     ],
     [
       "AI",
-      8
+      5
     ],
     [
       "регулирование",
-      6
+      5
+    ],
+    [
+      "ESG",
+      4
     ],
     [
       "Минцифры",
@@ -32,77 +34,69 @@
     ],
     [
       "искусственный интеллект",
-      2
-    ],
-    [
-      "ESG",
-      2
-    ],
-    [
-      "aigovernance",
       1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Дмитриев сообщил об активном диалоге РФ и США по энергетике и ИИ-дата-центрам - Национальная Служба Новостей",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUmo2a2FGUS1oc0FqZjlFa3otbS1nUmpqSEVvNjJVRXlFRUtFZUZXSkRQU0tNTUNZTXJkY3kyd0FUZG52TERqWVRGSW5WYTVYMmV3V2lCdkZka2M1eGRKWWhOWlduZEt1U1VZa1dNM0FjSzlWa21GYUhVOVZFU3ppWnN6Zmt0SmxXNnN0bjk2ME9mbFUxS2M4enozbjJmekZ3dnQ0ZGRR0gGrAUFVX3lxTE52SFJUaEhUZVUtVEJHQ09WRm5XTi1wVnZmWGFUUWNlM0Z3bmF5eER5U2pOZTBheThjaUY2ZHhDeVlaNjN1aFNLa2JaZVJOUExtZUNHUGh2WHBaUEc1OTMxVlEwVXFQclVaQjRGOEdvajJTc3FwZGFyRVFRdmZOTVhPdlNYc1IwLVpJcmFIeEV2VnMzWE5qQjFETTN2V0Zac1c4cXVDa0N1amVTVQ?oc=5",
-      "published": "2026-10-21T17:03:36"
-    },
-    {
-      "title": "ИИ добрался до древнего кода: OpenAI научилась переносить программы с COBOL с точностью 97,9 %",
+      "title": "DeepSeek открыла исходный код DeepInfer — фреймворка для инференса своего ИИ",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1150251",
-      "published": "2026-10-21T16:58:00"
+      "url": "https://3dnews.ru/1150264",
+      "published": "2026-10-21T21:19:00"
     },
     {
-      "title": "ИИ добрался до древнего кода: OpenAI научилась переносить программы с COBOL с точностью 97,9 % - 3DNews",
+      "title": "DeepSeek открыла исходный код DeepInfer — фреймворка для инференса своего ИИ - ServerNews",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFB5WG1qQlJZRzRBR2t2S3V2RWJHbXEtSm9oOUowWHR1WVdpVnNiMUJTNmxsUFlmZ1lLTTItbWNR0gG_AUFVX3lxTE14WTdhLUZPZ0VxOGoxb2RTYm9RNmYtazI1ZWE2OTdSMWRPTVprTXhqbHptUlpnR3VkcXZFcVpTZTUydFllZUFObnAxY2ZjUkhINFVNdU9aSHI1aU9ndmlpZmNnTU9ESW45QWRPVm9HRXRQenF1eFZESUhSdEJYV1lmZDVKcjFjdV9HUXQ2djZWZHJ0bnFnYUhqNWJHWnhWUUkwVGJMZklnUk40VDE5M1EzalpJV3JlV2FrOV9CcDZn?oc=5",
-      "published": "2026-10-21T16:58:00"
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBHX1hRUDVtQjNxejFhejIzTV85azhCTWw5UFV1VzE5U2dCZUlwWFF6ZDF3YWxKMngwVG0tanpva2JSTms?oc=5",
+      "published": "2026-10-21T21:19:00"
     },
     {
-      "title": "ИИ может прыгать - Хабр",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VN0lQUHUwc2t3V3JzLVZsNnNLdDBjOW1ndGJrYWFHVzkwR2VhbjZLUGt6TVc3M1NOeHVHT2tUN3hicHpxOXBIZjhtN1FBQdIBWEFVX3lxTFBBUlV0dXc0cW5qaWRlMWg3eUY0RURycXViUlZhNEg5NHJIWU1qcHZJUzhtcjZYMDZNNHE5bk94QTNLTjYtSExMWWVEeV84M0F6NkM3UkVsRFk?oc=5",
-      "published": "2026-10-21T16:57:17"
-    },
-    {
-      "title": "AMD и Intel объединились, чтобы упростить запуск ИИ-моделей на процессорах x86",
+      "title": "HPE компьютеризирует Луну — на луноход Astrolab FLIP установят ИИ-систему с секретным процессором",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1150249",
-      "published": "2026-10-21T16:39:00"
+      "url": "https://3dnews.ru/1150262",
+      "published": "2026-10-21T21:03:00"
     },
     {
-      "title": "В мире плодятся ИИ-агенты - Октагон.Медиа",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTWHNDMUE3NDdmQlNUNFRXWHBJdnFNdmVwTVUxMjZoVlZKMVdlQVVSOGNHaWhSbXBwcmlqbXBleWZNb0RmNnp3UTU3azdPU09ENGRPNmR2RTFQdGdwaEpNcFdmMm5OTFBJRmo5TmdkYw?oc=5",
-      "published": "2026-10-21T16:25:32"
-    },
-    {
-      "title": "Профессия программиста выживет. Почему это не гарантирует вам работу",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1097460/?utm_campaign=1097460&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-21T16:19:00"
-    },
-    {
-      "title": "РФ и КНР проведут в Китае международную конференцию по ИИ в 2027 году",
-      "source": "ТАСС",
-      "url": "https://tass.ru/nauka/28239159",
-      "published": "2026-10-21T16:15:36"
-    },
-    {
-      "title": "РФ и КНР будут вместе следить за развитием ИИ и регулировать эту сферу",
-      "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28239151",
-      "published": "2026-10-21T16:10:54"
-    },
-    {
-      "title": "Памяти не хватает, цены растут: Samsung и SK hynix могут вернуть в параллельный импорт в России",
+      "title": "Nvidia и Siemens научили ИИ проектировать 3D-чипы — трудозатраты инженеров можно сократить на 95 %",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1150247",
-      "published": "2026-10-21T16:01:00"
+      "url": "https://3dnews.ru/1150260",
+      "published": "2026-10-21T21:01:00"
+    },
+    {
+      "title": "Октябрьский фестиваль демоверсий «Играм быть» в Steam наводнил ИИ-мусор, и пользователи требуют перемен",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150261",
+      "published": "2026-10-21T21:00:31"
+    },
+    {
+      "title": "Nvidia заткнёт деньгами узкие места в производстве ИИ-чипов — чтобы через три года выпускать в 2,5 раза больше ИИ-ускорителей",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150259",
+      "published": "2026-10-21T21:00:00"
+    },
+    {
+      "title": "Деловой России» предложили бизнесу практические инструменты киберустойчивости и внедрения ИИ - Деловая Россия",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRmIwUkd1Um9yVTdhQnYzS2lDNVhMSHpjcDI3dzNpRWhoMWpja0JvMm5iRGZBXzdDd3Z3TFlSZmFrR1ZfM2s0RHloekp2cUhyX3Q2TWNxMldPNnhaVDE1Sjh6Rkw1N0Z1UjZxRGxteXVlRG1lRXMtV2twemhaVVk4S0JCUTNxMTlteE1qTlJhck0zZUtXQnk0UUNJOTNrUG9VUW10UUxtRXJnNlU1Vmxac3gtVWVrVURYc3ZXQ3FmYXhkOWp0Ri0xUU4yUjJ4TnVWN1JKV3JLNkhaVjJyRU5fT2FFUmxvZw?oc=5",
+      "published": "2026-10-21T20:56:53"
+    },
+    {
+      "title": "ООН предупреждает: ИИ может заменить человека при принятии решений на поле боя - UN News",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96c25wbXFDQjNCdUNKYmVwdk5JRFR5cG5nZHQ0MWFEeFBOV19uaWc1bGhDQTZIQXZsdjBGNU1DNDF5dUIxajZaWFF4d3RJV09vQWlveEhWUQ?oc=5",
+      "published": "2026-10-21T20:07:21"
+    },
+    {
+      "title": "ИИ-агенты замечены в дискриминации людей: что говорят исследования - Наука Mail",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlSTJJODJnWUhXYVZrUUsxMVQ5OGVQZkVQM2N2ZVNCREhQSGR1UjNBcS04TXptQmhNZlZWVkIwX0gwU0tuVldWMEJhZmlvczJYV1ZGQkFEcGxxVDVQcUNpZ1JnQmd4SXB1SGlDRDkwbTJGeGtFSnc?oc=5",
+      "published": "2026-10-21T19:33:01"
+    },
+    {
+      "title": "Дело Телисона Орельена: издатель признаёт использование ИИ при написании романа - Euronews.com",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVzhxN3RZS0E3b0lhZHN3b25JMl9nWmJSbS1XZW44a3lNLW16emE5cS1FTkpUUmhJS3dEUUsyTVZVR3FBbmF1MzZWa19yZVZybXU1NDhEc1ZRSndkQV9Dd1J3MHlGXzhyZ3NlMThrZ2RlZEtlOTRNZl9iMTdxNjdKd1hxcEgzSlZPdG5NQzE5U0doOHY3UEFPQVdSaUhObFRvOWkzb2JKOXVodWZuLVRzZ2FJdVJuYlRTZ212WElya0pRVG8?oc=5",
+      "published": "2026-10-21T19:20:21"
     }
   ]
 }
