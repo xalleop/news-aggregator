@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-10-22_13-41",
-  "total_articles": 77,
+  "timestamp": "2026-10-22_20-12",
+  "total_articles": 79,
   "sources": {
-    "Ведомости": 3,
+    "Интерфакс": 1,
+    "Коммерсантъ": 1,
+    "Ведомости": 4,
     "Digital_Russia": 2,
-    "Habr_AI": 23,
+    "Habr_AI": 20,
     "CNews": 9,
     "3DNews": 17,
-    "VC_ru_Технологии": 1,
-    "ИИ комплаенс и этика": 2,
-    "Google News": 20
+    "Google News": 25
   },
   "top_keywords": [
     [
       "ИИ",
-      67
+      64
     ],
     [
       "AI",
@@ -22,85 +22,81 @@
     ],
     [
       "регулирование",
-      4
+      6
     ],
     [
       "искусственный интеллект",
-      3
+      4
     ],
     [
       "ESG",
-      2
+      4
     ],
     [
       "Минцифры",
-      1
-    ],
-    [
-      "aigovernance",
-      1
+      2
     ]
   ],
   "recent_headlines": [
     {
-      "title": "5 задач, которые я больше не хочу делать руками после знакомства с AI-агентами",
+      "title": "Регулирование криптовалют: Южная Корея готовит базовый закон для рынка цифровых активов - Cryptonews.net",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10VHlGd2xTY0hWM0pKWUtzWWdIYWEzTUVDeFV6SHhHZElRR2hqa0EtTjlzWUxySFVsaVRtMGRlRWhIeE9uLVFyN0ZOTlM2cHEwd2N4R2tVR2pBZw?oc=5",
+      "published": "2026-10-22T16:44:00"
+    },
+    {
+      "title": "Amazon вложит более €16 млрд в развитие ИИ и облачных сервисов - New Retail",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRTh3N0V1T3ZpbDl2b20yTWdoYmREb2hjSXFRSy1JZndLbWpwVTVjbHJ3ZVk1UUt2UThnZlFWaFJvQ19sS01xTWNaaThwV21sUEUxODREbVVpXzl4RFBUb3UwbTNNcG9DYjY0cE9DR1RqMVVHVEJJSVBkZDAyYkFsaWVTZm9vSlFQeTFEdWtyRTNsVkN3RHRRSllYam9fM0lFSjJ1cA?oc=5",
+      "published": "2026-10-22T16:35:38"
+    },
+    {
+      "title": "Если спросить у нейросетей на английском про российский бренд, в ответах почти не будет русскоязычных источников",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1097852/?utm_campaign=1097852&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-22T10:29:22"
+      "url": "https://habr.com/ru/articles/1097066/?utm_campaign=1097066&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-22T16:29:20"
     },
     {
-      "title": "Накопление воды и регулирование урожайности для борьбы с явлением Эль-Ниньо. - Vietnam.vn",
+      "title": "VR и ИИ научились подбирать лечение хронической боли по движениям глаз - Наука Mail",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNXFPUWZhZ0dtb0lUZXk5RVZvMHotaXpJeWRrQ2ZWS3BqUW5pT1FLRzYta1pUWEpZVVNQOHVwdUJjd21zTFRvVlUydmxBaDhrMDNYZE1UV3FsQ0Q2RFF5aG5GVUY5RGhXQS1PRHRZb014RGV0VldRdEE3S3RfYmpCSnFOLVQ?oc=5",
-      "published": "2026-10-22T10:22:54"
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TTGZna1JIY3J4VFprMXdaUVIwUmVLcXdRSlRQZXZqOUdULUw5aWpmZTFZVDZ1MFptUl80ak5tZXJWWllKcGpQcy16UWZ5eG81NjViOUd3eS1DRFh1UTRzdzNhYXgxSVlUTTRVSVFLVQ?oc=5",
+      "published": "2026-10-22T16:20:37"
     },
     {
-      "title": "Код-ревью в эпоху ИИ: как агенты меняют проверку кода",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1097830/?utm_campaign=1097830&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-22T10:15:02"
-    },
-    {
-      "title": "Axoft стала дистрибьютором Reezonly в России, Белоруссии, Казахстане и Узбекистане",
-      "source": "CNews",
-      "url": "https://www.cnews.ru/news/line/2026-10-22_axoft_stala_distribyutorom",
-      "published": "2026-10-22T10:14:00"
-    },
-    {
-      "title": "ИИ‑агент захватил штурвал моего пет‑проекта. Возвращаю его с помощью интерактивных объяснений и двух промптов",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1097826/?utm_campaign=1097826&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-22T10:12:21"
-    },
-    {
-      "title": "«Худеем на здоровье»: персональный ИИ-ассистент от Минздрава, Первого МГМУ и Сбера - Наука Mail",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZcUxmQ1JHcVE3QklyR3UzZ1VxVWkxdktwSDJJVm96TFo2Q3pnT2p4UEhPb201MEJMbUJEcU9PUVNldEVMRmZPSkU5bUd3S201Rjl6WU55QUNfc2I3ZE1lbUFxTTlvbV9WSkFYeS1HQnpUbUkwcmdrRA?oc=5",
-      "published": "2026-10-22T10:11:45"
-    },
-    {
-      "title": "Билайн признали лидером по удобству доступа к ИИ - ПензаИнформ",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX0Y5ZnJCS2w4T2NNcjJxdm53b1hWb2lQQ1BDMjdOQW96V2xiRFdYTXB3LW54ZF9vZTg4NUhCbkhBSEJEZnVvTjJaMDR3TEhyM1E3TGREdF9KaFJES3NfYWZwbzhoNDBJQUZhdkkwaUNyT1gtWjJWS0xBaFY5MHNHZnFyZVNhdFJoX0JnZUo4S2NoUDA1SHMzWTUwV3Y4c3JZWS1oUGNn?oc=5",
-      "published": "2026-10-22T10:07:00"
-    },
-    {
-      "title": "Anthropic представила усовершенствованного ИИ-агента Claude Duet - rb.ru",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcVFoZXZBbFZxTGItV09vYV9STExaYWZOVVFVYjQ5OG9Rc2JiNm95SmU2Y0xua3RLT1lweVc1S0RVdDRueF82a19hMDlsSnczR0RudE9yZk84Z0RfRWpXcGtxMTJWQTNiYy1ONFNaeXV1VENlZTR2czIwUUdsWC1TQ1FRNW81SXFhMjNpd0RuMTk3Z2Fzakl0UW11MTNaSjRvak8zZUQya0RQMzhua0ZpXzNjRFd1Z0JqSjZkbXdldTFkRkhRUnYtMw?oc=5",
-      "published": "2026-10-22T10:00:00"
-    },
-    {
-      "title": "Премия Паскаля: во Франции учредили награду за книги с соавторством ИИ - Euronews.com",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbkNlbng4NnpHaDZxazVWUEU3dEhYMmdWTWZONC13a2E2UWJsc0JDMkthY0JyWGRpUHB5UDZFdkRONU41MTJlMUdscjlscUREVnZuQ0tFV0ZqcV9PZ3A0c0JCR2c2cGItVUJXaWhaOFNNY0ZLWl91MjlxLS11a3VlRndNbW5vWWNwRTUwNVZBU3Noa18tbUJ1OUl1YzNNT1VNZWhJMFBDd1VHYzBnRy1vbkhB?oc=5",
-      "published": "2026-10-22T09:54:20"
-    },
-    {
-      "title": "DeepSeek привлекла $15 млрд на борьбу с OpenAI и Anthropic",
+      "title": "ИИ поставил кибератаки на конвейер: CrowdStrike рассказала, как хакеры делегируют взлом автономным агентам",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1150281",
-      "published": "2026-10-22T09:46:00"
+      "url": "https://3dnews.ru/1150306",
+      "published": "2026-10-22T16:06:00"
+    },
+    {
+      "title": "Русский с китайцем судьи навек // Игорь Краснов продолжает знакомство с китайским опытом цифровизации правосудия",
+      "source": "Коммерсантъ",
+      "url": "https://www.kommersant.ru/doc/9045048",
+      "published": "2026-10-22T15:56:38"
+    },
+    {
+      "title": "Футуролог Юсуфов: ИИ может влиять на формирование ценностей детей",
+      "source": "Ведомости",
+      "url": "https://www.vedomosti.ru/society/news/2026/10/22/1239395-ii-mozhet-vliyat",
+      "published": "2026-10-22T15:53:31"
+    },
+    {
+      "title": "Футуролог Юсуфов: ИИ может влиять на формирование ценностей детей - Ведомости",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zZHdsb0tNdUNJVlJUdy1GdkVncmIxdy1ldXhYcnpxMkdfb25HRnR5ZTdBb0tRbnM2NFpNaVA5TTlYUmZ6NGRaM1hLTXBneVM1b0lCZjBoOEwyUlduLXphSHBUdEJ0VmduZkg2QV9KQ0N0SmwxSkxnTzVXSXpMQQ?oc=5",
+      "published": "2026-10-22T15:53:31"
+    },
+    {
+      "title": "«Государство не субсидирует жилье, но и не оставляет его регулирование исключительно на усмотрение рынка». - Vietnam.vn",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcHR6NkU1aW5GWXJOSHN1N0ZwT1ZIMzdBNHZ5aXV2WVBlV1JfV19YSHBCdWp6V2puTy00clJCUEpxdkdiTEJaazJkLUlpREY1clpZbVdwRkJwUzBJcWlUOU9lUXdEeS1IWGxaLXBNOFpfbnVwSThTdmppaVFJR3Z5SG1nZlcwRXd2T1NZdURzeHpBbUVYY3FvVUVLOHA5VGRfN0ZEZGZHS3VGSVpwc1ZiSQ?oc=5",
+      "published": "2026-10-22T15:50:17"
+    },
+    {
+      "title": "Axios: банки США выявили несогласованный доступ ИИ-агентов к счетам клиентов - BFM.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9jVXd2NmFTanF6S3VYUDJXUnhkamxJcFp0WmNkRm5Db3ZUeFlaRzl6cFQtcms5RDloUm5WcE9UazJvRkl30gFKQVVfeXFMTUdCXzkwOUhCMTZHQWtZd3o0LVJTSHI0LW8tRnFhOHhXQmFnWUZZWkJ0N04xWFMxWll3amowekhoaFhxRXJYMzVlRFE?oc=5",
+      "published": "2026-10-22T15:41:30"
     }
   ]
 }
