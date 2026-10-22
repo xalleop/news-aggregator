@@ -1,15 +1,16 @@
 {
-  "timestamp": "2026-10-22_20-12",
-  "total_articles": 79,
+  "timestamp": "2026-10-23_00-54",
+  "total_articles": 76,
   "sources": {
-    "Интерфакс": 1,
-    "Коммерсантъ": 1,
+    "Коммерсантъ": 2,
     "Ведомости": 4,
     "Digital_Russia": 2,
-    "Habr_AI": 20,
+    "Habr_AI": 22,
     "CNews": 9,
-    "3DNews": 17,
-    "Google News": 25
+    "3DNews": 11,
+    "VC_ru_Технологии": 1,
+    "ИИ комплаенс и этика": 2,
+    "Google News": 23
   },
   "top_keywords": [
     [
@@ -18,85 +19,93 @@
     ],
     [
       "AI",
-      6
+      7
     ],
     [
       "регулирование",
-      6
+      5
     ],
     [
       "искусственный интеллект",
-      4
-    ],
-    [
-      "ESG",
-      4
+      3
     ],
     [
       "Минцифры",
       2
+    ],
+    [
+      "ESG",
+      2
+    ],
+    [
+      "цифровая трансформация",
+      1
+    ],
+    [
+      "aigovernance",
+      1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Регулирование криптовалют: Южная Корея готовит базовый закон для рынка цифровых активов - Cryptonews.net",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10VHlGd2xTY0hWM0pKWUtzWWdIYWEzTUVDeFV6SHhHZElRR2hqa0EtTjlzWUxySFVsaVRtMGRlRWhIeE9uLVFyN0ZOTlM2cHEwd2N4R2tVR2pBZw?oc=5",
-      "published": "2026-10-22T16:44:00"
-    },
-    {
-      "title": "Amazon вложит более €16 млрд в развитие ИИ и облачных сервисов - New Retail",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRTh3N0V1T3ZpbDl2b20yTWdoYmREb2hjSXFRSy1JZndLbWpwVTVjbHJ3ZVk1UUt2UThnZlFWaFJvQ19sS01xTWNaaThwV21sUEUxODREbVVpXzl4RFBUb3UwbTNNcG9DYjY0cE9DR1RqMVVHVEJJSVBkZDAyYkFsaWVTZm9vSlFQeTFEdWtyRTNsVkN3RHRRSllYam9fM0lFSjJ1cA?oc=5",
-      "published": "2026-10-22T16:35:38"
-    },
-    {
-      "title": "Если спросить у нейросетей на английском про российский бренд, в ответах почти не будет русскоязычных источников",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1097066/?utm_campaign=1097066&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-22T16:29:20"
-    },
-    {
-      "title": "VR и ИИ научились подбирать лечение хронической боли по движениям глаз - Наука Mail",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TTGZna1JIY3J4VFprMXdaUVIwUmVLcXdRSlRQZXZqOUdULUw5aWpmZTFZVDZ1MFptUl80ak5tZXJWWllKcGpQcy16UWZ5eG81NjViOUd3eS1DRFh1UTRzdzNhYXgxSVlUTTRVSVFLVQ?oc=5",
-      "published": "2026-10-22T16:20:37"
-    },
-    {
-      "title": "ИИ поставил кибератаки на конвейер: CrowdStrike рассказала, как хакеры делегируют взлом автономным агентам",
+      "title": "Microsoft заявила, что её ИИ диагностирует заболевания намного лучше живых врачей",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1150306",
-      "published": "2026-10-22T16:06:00"
+      "url": "https://3dnews.ru/1150318",
+      "published": "2026-10-22T21:02:00"
     },
     {
-      "title": "Русский с китайцем судьи навек // Игорь Краснов продолжает знакомство с китайским опытом цифровизации правосудия",
+      "title": "Экспериментальный браузер Arc закрылся — разработчики зазывают пользователей в ИИ-браузер Dia",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150314",
+      "published": "2026-10-22T21:01:00"
+    },
+    {
+      "title": "Как ИИ изменит CRM: от отдельных инструментов к единому агенту - IT Channel News",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UeTRiLTZEczJ6enVjLW1NekpIVkFSelktcGcxeHg5RFZtUmFnZ1FPS1owSVc0M0NXZGJBWUtYMmNLLXY5ZlVtM0J2MWxxcXBIaFBWWnpJaW1nY3c4NWx2dkg1UXExbGs?oc=5",
+      "published": "2026-10-22T21:00:00"
+    },
+    {
+      "title": "Антиматерию впервые поймали в ловушку на месяцы — это шанс разгадать одну из главных загадок Вселенной",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150317",
+      "published": "2026-10-22T19:48:00"
+    },
+    {
+      "title": "Как мы научили ИИ-агента не выдумывать цифры в отчётах",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1098124/?utm_campaign=1098124&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-22T19:35:45"
+    },
+    {
+      "title": "Центр ФСБ отреагировал на обнаруженную ИИ уязвимость сайтов - Национальная Служба Новостей",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbE5TT081MHVISkhJUjNhbXMwVHNGUVFoaFd1bzYzVmpuTHJ6R0dOOWFwcTU5NlRiVmZ1T19QMkFLQTNTWlJMVTBiMUY1Qjhhem05cm04SUtHVVJXcTR0b3Q4bTBpRGhOU3F0WGozVWMxbnIwQ0ZiUWdRTmZOZUFvX0haNDBOUmF6LXBnRy05YWJQN2tuLWZ6Q1pYa9IBoAFBVV95cUxPZTB5YzRSZHhkcDNSWUVia0NvMTM0T1VnOUJ1MDZsN0pUV0c1NUEtLUl5RDk1RGxJeUtrRHhpU0V0YUU5Vmw0Zzl6VEtBYTJNRmpZR01od3RzLXBFSFJrUFI0bmNLV3dSaGdxQTBTQVNIUEE5S2EzYzFURnUxQkYxaFJDYXAwLVZvQmpXWmpOeHZ2MW9VLUhsWFEzQWdtWVBB?oc=5",
+      "published": "2026-10-22T19:27:35"
+    },
+    {
+      "title": "Банки США выявили ИИ-агентов в счетах своих клиентов - Сноб",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVFpKVVFZbFVabUFNNmdscDhQdVJQNHJKTXVlNW9iU25DNlJNVnoyT212MVhELVFMZ2Z6TGVQZGo2b3FNN0VOZUo1QWxxM28zNF8wc3BEUWhmblVqVm5wVjMxQlZESGRiUFRTdlRuWXc2TnRXb0xZT0tJOWpxX0VUNG16aFdidw?oc=5",
+      "published": "2026-10-22T18:55:21"
+    },
+    {
+      "title": "Цифровая трансформация // Дмитрий Григоренко переходит в Сбербанк",
       "source": "Коммерсантъ",
-      "url": "https://www.kommersant.ru/doc/9045048",
-      "published": "2026-10-22T15:56:38"
+      "url": "https://www.kommersant.ru/doc/9045196",
+      "published": "2026-10-22T18:33:33"
     },
     {
-      "title": "Футуролог Юсуфов: ИИ может влиять на формирование ценностей детей",
-      "source": "Ведомости",
-      "url": "https://www.vedomosti.ru/society/news/2026/10/22/1239395-ii-mozhet-vliyat",
-      "published": "2026-10-22T15:53:31"
+      "title": "Тестирование ИИ-агента реального действия на выполнение неназванных условий: прогоны на DeepSeek",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1098088/?utm_campaign=1098088&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-22T18:17:55"
     },
     {
-      "title": "Футуролог Юсуфов: ИИ может влиять на формирование ценностей детей - Ведомости",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zZHdsb0tNdUNJVlJUdy1GdkVncmIxdy1ldXhYcnpxMkdfb25HRnR5ZTdBb0tRbnM2NFpNaVA5TTlYUmZ6NGRaM1hLTXBneVM1b0lCZjBoOEwyUlduLXphSHBUdEJ0VmduZkg2QV9KQ0N0SmwxSkxnTzVXSXpMQQ?oc=5",
-      "published": "2026-10-22T15:53:31"
-    },
-    {
-      "title": "«Государство не субсидирует жилье, но и не оставляет его регулирование исключительно на усмотрение рынка». - Vietnam.vn",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcHR6NkU1aW5GWXJOSHN1N0ZwT1ZIMzdBNHZ5aXV2WVBlV1JfV19YSHBCdWp6V2puTy00clJCUEpxdkdiTEJaazJkLUlpREY1clpZbVdwRkJwUzBJcWlUOU9lUXdEeS1IWGxaLXBNOFpfbnVwSThTdmppaVFJR3Z5SG1nZlcwRXd2T1NZdURzeHpBbUVYY3FvVUVLOHA5VGRfN0ZEZGZHS3VGSVpwc1ZiSQ?oc=5",
-      "published": "2026-10-22T15:50:17"
-    },
-    {
-      "title": "Axios: банки США выявили несогласованный доступ ИИ-агентов к счетам клиентов - BFM.ru",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9jVXd2NmFTanF6S3VYUDJXUnhkamxJcFp0WmNkRm5Db3ZUeFlaRzl6cFQtcms5RDloUm5WcE9UazJvRkl30gFKQVVfeXFMTUdCXzkwOUhCMTZHQWtZd3o0LVJTSHI0LW8tRnFhOHhXQmFnWUZZWkJ0N04xWFMxWll3amowekhoaFhxRXJYMzVlRFE?oc=5",
-      "published": "2026-10-22T15:41:30"
+      "title": "The Browser Company закроет браузер Arc",
+      "source": "VC_ru_Технологии",
+      "url": "https://vc.ru/services/3210488-kompaniya-the-browser-company-zakryvaet-brauzer-arc?from=rss",
+      "published": "2026-10-22T17:48:56"
     }
   ]
 }
