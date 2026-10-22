@@ -1,102 +1,106 @@
 {
-  "timestamp": "2026-10-22_00-57",
-  "total_articles": 76,
+  "timestamp": "2026-10-22_13-41",
+  "total_articles": 77,
   "sources": {
-    "Ведомости": 2,
+    "Ведомости": 3,
     "Digital_Russia": 2,
-    "Habr_AI": 21,
-    "iXBT": 1,
-    "CNews": 11,
+    "Habr_AI": 23,
+    "CNews": 9,
     "3DNews": 17,
     "VC_ru_Технологии": 1,
-    "Google News": 21
+    "ИИ комплаенс и этика": 2,
+    "Google News": 20
   },
   "top_keywords": [
     [
       "ИИ",
-      61
+      67
     ],
     [
       "AI",
-      5
+      6
     ],
     [
       "регулирование",
-      5
-    ],
-    [
-      "ESG",
       4
     ],
     [
-      "Минцифры",
+      "искусственный интеллект",
+      3
+    ],
+    [
+      "ESG",
       2
     ],
     [
-      "искусственный интеллект",
+      "Минцифры",
+      1
+    ],
+    [
+      "aigovernance",
       1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "DeepSeek открыла исходный код DeepInfer — фреймворка для инференса своего ИИ",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150264",
-      "published": "2026-10-21T21:19:00"
+      "title": "5 задач, которые я больше не хочу делать руками после знакомства с AI-агентами",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1097852/?utm_campaign=1097852&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-22T10:29:22"
     },
     {
-      "title": "DeepSeek открыла исходный код DeepInfer — фреймворка для инференса своего ИИ - ServerNews",
+      "title": "Накопление воды и регулирование урожайности для борьбы с явлением Эль-Ниньо. - Vietnam.vn",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBHX1hRUDVtQjNxejFhejIzTV85azhCTWw5UFV1VzE5U2dCZUlwWFF6ZDF3YWxKMngwVG0tanpva2JSTms?oc=5",
-      "published": "2026-10-21T21:19:00"
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNXFPUWZhZ0dtb0lUZXk5RVZvMHotaXpJeWRrQ2ZWS3BqUW5pT1FLRzYta1pUWEpZVVNQOHVwdUJjd21zTFRvVlUydmxBaDhrMDNYZE1UV3FsQ0Q2RFF5aG5GVUY5RGhXQS1PRHRZb014RGV0VldRdEE3S3RfYmpCSnFOLVQ?oc=5",
+      "published": "2026-10-22T10:22:54"
     },
     {
-      "title": "HPE компьютеризирует Луну — на луноход Astrolab FLIP установят ИИ-систему с секретным процессором",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150262",
-      "published": "2026-10-21T21:03:00"
+      "title": "Код-ревью в эпоху ИИ: как агенты меняют проверку кода",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1097830/?utm_campaign=1097830&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-22T10:15:02"
     },
     {
-      "title": "Nvidia и Siemens научили ИИ проектировать 3D-чипы — трудозатраты инженеров можно сократить на 95 %",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150260",
-      "published": "2026-10-21T21:01:00"
+      "title": "Axoft стала дистрибьютором Reezonly в России, Белоруссии, Казахстане и Узбекистане",
+      "source": "CNews",
+      "url": "https://www.cnews.ru/news/line/2026-10-22_axoft_stala_distribyutorom",
+      "published": "2026-10-22T10:14:00"
     },
     {
-      "title": "Октябрьский фестиваль демоверсий «Играм быть» в Steam наводнил ИИ-мусор, и пользователи требуют перемен",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150261",
-      "published": "2026-10-21T21:00:31"
+      "title": "ИИ‑агент захватил штурвал моего пет‑проекта. Возвращаю его с помощью интерактивных объяснений и двух промптов",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1097826/?utm_campaign=1097826&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-22T10:12:21"
     },
     {
-      "title": "Nvidia заткнёт деньгами узкие места в производстве ИИ-чипов — чтобы через три года выпускать в 2,5 раза больше ИИ-ускорителей",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150259",
-      "published": "2026-10-21T21:00:00"
-    },
-    {
-      "title": "Деловой России» предложили бизнесу практические инструменты киберустойчивости и внедрения ИИ - Деловая Россия",
+      "title": "«Худеем на здоровье»: персональный ИИ-ассистент от Минздрава, Первого МГМУ и Сбера - Наука Mail",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRmIwUkd1Um9yVTdhQnYzS2lDNVhMSHpjcDI3dzNpRWhoMWpja0JvMm5iRGZBXzdDd3Z3TFlSZmFrR1ZfM2s0RHloekp2cUhyX3Q2TWNxMldPNnhaVDE1Sjh6Rkw1N0Z1UjZxRGxteXVlRG1lRXMtV2twemhaVVk4S0JCUTNxMTlteE1qTlJhck0zZUtXQnk0UUNJOTNrUG9VUW10UUxtRXJnNlU1Vmxac3gtVWVrVURYc3ZXQ3FmYXhkOWp0Ri0xUU4yUjJ4TnVWN1JKV3JLNkhaVjJyRU5fT2FFUmxvZw?oc=5",
-      "published": "2026-10-21T20:56:53"
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZcUxmQ1JHcVE3QklyR3UzZ1VxVWkxdktwSDJJVm96TFo2Q3pnT2p4UEhPb201MEJMbUJEcU9PUVNldEVMRmZPSkU5bUd3S201Rjl6WU55QUNfc2I3ZE1lbUFxTTlvbV9WSkFYeS1HQnpUbUkwcmdrRA?oc=5",
+      "published": "2026-10-22T10:11:45"
     },
     {
-      "title": "ООН предупреждает: ИИ может заменить человека при принятии решений на поле боя - UN News",
+      "title": "Билайн признали лидером по удобству доступа к ИИ - ПензаИнформ",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96c25wbXFDQjNCdUNKYmVwdk5JRFR5cG5nZHQ0MWFEeFBOV19uaWc1bGhDQTZIQXZsdjBGNU1DNDF5dUIxajZaWFF4d3RJV09vQWlveEhWUQ?oc=5",
-      "published": "2026-10-21T20:07:21"
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX0Y5ZnJCS2w4T2NNcjJxdm53b1hWb2lQQ1BDMjdOQW96V2xiRFdYTXB3LW54ZF9vZTg4NUhCbkhBSEJEZnVvTjJaMDR3TEhyM1E3TGREdF9KaFJES3NfYWZwbzhoNDBJQUZhdkkwaUNyT1gtWjJWS0xBaFY5MHNHZnFyZVNhdFJoX0JnZUo4S2NoUDA1SHMzWTUwV3Y4c3JZWS1oUGNn?oc=5",
+      "published": "2026-10-22T10:07:00"
     },
     {
-      "title": "ИИ-агенты замечены в дискриминации людей: что говорят исследования - Наука Mail",
+      "title": "Anthropic представила усовершенствованного ИИ-агента Claude Duet - rb.ru",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlSTJJODJnWUhXYVZrUUsxMVQ5OGVQZkVQM2N2ZVNCREhQSGR1UjNBcS04TXptQmhNZlZWVkIwX0gwU0tuVldWMEJhZmlvczJYV1ZGQkFEcGxxVDVQcUNpZ1JnQmd4SXB1SGlDRDkwbTJGeGtFSnc?oc=5",
-      "published": "2026-10-21T19:33:01"
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcVFoZXZBbFZxTGItV09vYV9STExaYWZOVVFVYjQ5OG9Rc2JiNm95SmU2Y0xua3RLT1lweVc1S0RVdDRueF82a19hMDlsSnczR0RudE9yZk84Z0RfRWpXcGtxMTJWQTNiYy1ONFNaeXV1VENlZTR2czIwUUdsWC1TQ1FRNW81SXFhMjNpd0RuMTk3Z2Fzakl0UW11MTNaSjRvak8zZUQya0RQMzhua0ZpXzNjRFd1Z0JqSjZkbXdldTFkRkhRUnYtMw?oc=5",
+      "published": "2026-10-22T10:00:00"
     },
     {
-      "title": "Дело Телисона Орельена: издатель признаёт использование ИИ при написании романа - Euronews.com",
+      "title": "Премия Паскаля: во Франции учредили награду за книги с соавторством ИИ - Euronews.com",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVzhxN3RZS0E3b0lhZHN3b25JMl9nWmJSbS1XZW44a3lNLW16emE5cS1FTkpUUmhJS3dEUUsyTVZVR3FBbmF1MzZWa19yZVZybXU1NDhEc1ZRSndkQV9Dd1J3MHlGXzhyZ3NlMThrZ2RlZEtlOTRNZl9iMTdxNjdKd1hxcEgzSlZPdG5NQzE5U0doOHY3UEFPQVdSaUhObFRvOWkzb2JKOXVodWZuLVRzZ2FJdVJuYlRTZ212WElya0pRVG8?oc=5",
-      "published": "2026-10-21T19:20:21"
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbkNlbng4NnpHaDZxazVWUEU3dEhYMmdWTWZONC13a2E2UWJsc0JDMkthY0JyWGRpUHB5UDZFdkRONU41MTJlMUdscjlscUREVnZuQ0tFV0ZqcV9PZ3A0c0JCR2c2cGItVUJXaWhaOFNNY0ZLWl91MjlxLS11a3VlRndNbW5vWWNwRTUwNVZBU3Noa18tbUJ1OUl1YzNNT1VNZWhJMFBDd1VHYzBnRy1vbkhB?oc=5",
+      "published": "2026-10-22T09:54:20"
+    },
+    {
+      "title": "DeepSeek привлекла $15 млрд на борьбу с OpenAI и Anthropic",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150281",
+      "published": "2026-10-22T09:46:00"
     }
   ]
 }
