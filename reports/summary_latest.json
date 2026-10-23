@@ -1,21 +1,20 @@
 {
-  "timestamp": "2026-10-23_00-54",
-  "total_articles": 76,
+  "timestamp": "2026-10-23_13-33",
+  "total_articles": 68,
   "sources": {
-    "Коммерсантъ": 2,
-    "Ведомости": 4,
-    "Digital_Russia": 2,
-    "Habr_AI": 22,
-    "CNews": 9,
-    "3DNews": 11,
-    "VC_ru_Технологии": 1,
-    "ИИ комплаенс и этика": 2,
-    "Google News": 23
+    "ТАСС": 1,
+    "Ведомости": 1,
+    "Digital_Russia": 1,
+    "Habr_AI": 23,
+    "CNews": 5,
+    "3DNews": 13,
+    "VC_ru_Технологии": 2,
+    "Google News": 22
   },
   "top_keywords": [
     [
       "ИИ",
-      64
+      59
     ],
     [
       "AI",
@@ -23,89 +22,77 @@
     ],
     [
       "регулирование",
-      5
+      3
     ],
     [
-      "искусственный интеллект",
+      "ESG",
       3
     ],
     [
       "Минцифры",
-      2
-    ],
-    [
-      "ESG",
-      2
-    ],
-    [
-      "цифровая трансформация",
-      1
-    ],
-    [
-      "aigovernance",
       1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Microsoft заявила, что её ИИ диагностирует заболевания намного лучше живых врачей",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150318",
-      "published": "2026-10-22T21:02:00"
+      "title": "Фальков призвал не запрещать ИИ в вузах",
+      "source": "ТАСС",
+      "url": "https://tass.ru/obschestvo/28246169",
+      "published": "2026-10-23T10:17:31"
     },
     {
-      "title": "Экспериментальный браузер Arc закрылся — разработчики зазывают пользователей в ИИ-браузер Dia",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150314",
-      "published": "2026-10-22T21:01:00"
-    },
-    {
-      "title": "Как ИИ изменит CRM: от отдельных инструментов к единому агенту - IT Channel News",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UeTRiLTZEczJ6enVjLW1NekpIVkFSelktcGcxeHg5RFZtUmFnZ1FPS1owSVc0M0NXZGJBWUtYMmNLLXY5ZlVtM0J2MWxxcXBIaFBWWnpJaW1nY3c4NWx2dkg1UXExbGs?oc=5",
-      "published": "2026-10-22T21:00:00"
-    },
-    {
-      "title": "Антиматерию впервые поймали в ловушку на месяцы — это шанс разгадать одну из главных загадок Вселенной",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150317",
-      "published": "2026-10-22T19:48:00"
-    },
-    {
-      "title": "Как мы научили ИИ-агента не выдумывать цифры в отчётах",
+      "title": "Чек‑лист по хранению ключей в репозиториях на основе инцидентов с ИИ‑агентами",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1098124/?utm_campaign=1098124&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-22T19:35:45"
+      "url": "https://habr.com/ru/articles/1098384/?utm_campaign=1098384&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-23T10:14:56"
     },
     {
-      "title": "Центр ФСБ отреагировал на обнаруженную ИИ уязвимость сайтов - Национальная Служба Новостей",
+      "title": "«Нет выключателя»: Palantir заверила НАТО в независимости военной ИИ-системы от США - RTVI",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbE5TT081MHVISkhJUjNhbXMwVHNGUVFoaFd1bzYzVmpuTHJ6R0dOOWFwcTU5NlRiVmZ1T19QMkFLQTNTWlJMVTBiMUY1Qjhhem05cm04SUtHVVJXcTR0b3Q4bTBpRGhOU3F0WGozVWMxbnIwQ0ZiUWdRTmZOZUFvX0haNDBOUmF6LXBnRy05YWJQN2tuLWZ6Q1pYa9IBoAFBVV95cUxPZTB5YzRSZHhkcDNSWUVia0NvMTM0T1VnOUJ1MDZsN0pUV0c1NUEtLUl5RDk1RGxJeUtrRHhpU0V0YUU5Vmw0Zzl6VEtBYTJNRmpZR01od3RzLXBFSFJrUFI0bmNLV3dSaGdxQTBTQVNIUEE5S2EzYzFURnUxQkYxaFJDYXAwLVZvQmpXWmpOeHZ2MW9VLUhsWFEzQWdtWVBB?oc=5",
-      "published": "2026-10-22T19:27:35"
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdjhpaHhud21nYy1qbjJnb1pVUnZmaVZaOXk3RVpqdElzVUtTMjJYQl8yc1YzQnd5NHJQOWs0c3pTSnZRMC02dmhiVTlsRzhQY3JpdkM0c1V5c2kzcHJ1cTVKR25WLXJ5QW43S3JiUHZ4dS1GVUFldnVhRnNlaFZDMGFSekJzb1dFMkxFemFRMnd3bzNaY0pjREUzLXhoYUNnckJ2d192UW9KZnV5Tnc?oc=5",
+      "published": "2026-10-23T10:10:00"
     },
     {
-      "title": "Банки США выявили ИИ-агентов в счетах своих клиентов - Сноб",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVFpKVVFZbFVabUFNNmdscDhQdVJQNHJKTXVlNW9iU25DNlJNVnoyT212MVhELVFMZ2Z6TGVQZGo2b3FNN0VOZUo1QWxxM28zNF8wc3BEUWhmblVqVm5wVjMxQlZESGRiUFRTdlRuWXc2TnRXb0xZT0tJOWpxX0VUNG16aFdidw?oc=5",
-      "published": "2026-10-22T18:55:21"
-    },
-    {
-      "title": "Цифровая трансформация // Дмитрий Григоренко переходит в Сбербанк",
-      "source": "Коммерсантъ",
-      "url": "https://www.kommersant.ru/doc/9045196",
-      "published": "2026-10-22T18:33:33"
-    },
-    {
-      "title": "Тестирование ИИ-агента реального действия на выполнение неназванных условий: прогоны на DeepSeek",
+      "title": "Почему мы забрали у LLM браузер: 8 выводов после года работы над расширением для промокодов",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1098088/?utm_campaign=1098088&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-22T18:17:55"
+      "url": "https://habr.com/ru/articles/1098250/?utm_campaign=1098250&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-23T10:07:22"
     },
     {
-      "title": "The Browser Company закроет браузер Arc",
-      "source": "VC_ru_Технологии",
-      "url": "https://vc.ru/services/3210488-kompaniya-the-browser-company-zakryvaet-brauzer-arc?from=rss",
-      "published": "2026-10-22T17:48:56"
+      "title": "Казахстан расширит мощности ИИ ЦОД на чипах NVIDIA",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150332",
+      "published": "2026-10-23T10:01:00"
+    },
+    {
+      "title": "Казахстан расширит мощности ИИ ЦОД на чипах NVIDIA - ServerNews",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9NYWpsRjRlYVEtbGtwcTFlY2RkZ0VHenQtUFo1YzhWdDlDV3gxOWJoYlpLUk5tWlN4WkcxdE9yLVJ6Q3M?oc=5",
+      "published": "2026-10-23T10:01:00"
+    },
+    {
+      "title": "Французские дети используют ИИ гораздо чаще, чем думают их родители - Euronews",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUURJdEpGeHY4cE91WjhGTGd2SjY5dm5qTVFQWGZWNUVtTjZ6M2pNTml0NnJGNXF6U2tua3k1cVJEc2RzSUM1UjY1SlptQWlMcFlMY1NrMkxJWTYzOFZvbTNqSWRtUDExRUlfR214TjBVWkthamlaNjFGWDlZcGp3RFU1d2RsVHhxcFV6Z1VDYUE5ajdYblpLMWFfcV93RXNzU0J1QjkxLWZ0UndMSlE?oc=5",
+      "published": "2026-10-23T09:57:08"
+    },
+    {
+      "title": "35 бесплатных уроков для бэкенд-разработчиков: Java, Python, Go, архитектура и ИИ - Хабр",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tUzFxRThDMG1UcW85SWplLVc3dGs5RGFhTlA1SW5kODcycGVGNU1Hb3ZCUzROa3cwb01qbDhTakJmTHVLcHFxaVhVbXhfMFFTNFdJSlMzenFTaG56NHhLamtB0gFYQVVfeXFMTW5zQm8xQnNzSmlFZm1Jd1RMOEQwVnVUUDhwcFNNM0RwLWExY0xKQ3JLNFp2MmFxa0hGbjQ1dzRveG5zZTY4LWo0c01TWkRVcF9yc1o1OVJWNA?oc=5",
+      "published": "2026-10-23T09:55:54"
+    },
+    {
+      "title": "ИИ ускоряет сотрудника, но замедляет команду: где проходит граница полезной автоматизации",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1098370/?utm_campaign=1098370&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-23T09:49:36"
+    },
+    {
+      "title": "Директор Ларисы Долиной рассказал о сгенерированной ИИ рекламе с участием певицы - Эксперт",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON1owR2xGdVdrdzM4eWtfeDJxendUaHRmOC1ZOFhzMUlzZDg2ckd4TEFKa2xoN1NKOV8zcEdiU2x1TXpGbzJ0Yy1UZlFyQ200dXdYR3pqODBDV29RdDRaaGVRQlZCakFrbVNJZzlHVW9tX0p0ZlNlYnZwQWJEdDJpNjRwbGNCZDhIaVBKOEdhOTJTb01rWW8tcGJkOUNRNEZ1X05MWlJWN2c?oc=5",
+      "published": "2026-10-23T09:49:00"
     }
   ]
 }
