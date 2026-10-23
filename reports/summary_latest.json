@@ -1,29 +1,24 @@
 {
-  "timestamp": "2026-10-23_20-09",
-  "total_articles": 78,
+  "timestamp": "2026-10-24_00-37",
+  "total_articles": 68,
   "sources": {
     "ТАСС": 1,
-    "Интерфакс": 1,
     "Ведомости": 1,
     "Digital_Russia": 2,
     "Habr_AI": 23,
     "CNews": 8,
-    "3DNews": 16,
-    "VC_ru_Технологии": 2,
-    "Google News": 24
+    "3DNews": 13,
+    "VC_ru_Технологии": 1,
+    "Google News": 19
   },
   "top_keywords": [
     [
       "ИИ",
-      65
+      59
     ],
     [
       "AI",
-      12
-    ],
-    [
-      "ESG",
-      4
+      14
     ],
     [
       "регулирование",
@@ -40,64 +35,64 @@
   ],
   "recent_headlines": [
     {
-      "title": "На учебники по ИИ и информационной безопасности планируют выделять по 500 млн рублей в год - Хабр",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8wcXdxaWZXSVc3YkpuN28zSVY1SXpiamRpRDZEaE9tb0tudVZqd2dqRHJKQmRjSTRxYjJYT3R4RkJ4ZTk2MGppd9IBWEFVX3lxTE5qQkt2cjV1eW9EVmVpOGtWVFBFdWVUeThTRk4zems4N25ZTjBYVGR6clNfNG9DNWFsSHlTWjc2dzFqUXhlU1FFYVk0al9KOFcxOWFkWi1zVUI?oc=5",
-      "published": "2026-10-23T16:45:44"
+      "title": "ИИ-помощник для КТ головы",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1098766/?utm_campaign=1098766&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-23T21:13:30"
     },
     {
-      "title": "Можно ли доверить ИИ миграцию Spring Boot 2.7 → 3.5?",
+      "title": "Google разрешила себе использовать личную информацию из Gmail и «Фото» при показе рекламы",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150374",
+      "published": "2026-10-23T21:01:00"
+    },
+    {
+      "title": "Девять видеокарт и до 2 Тбайт ОЗУ с обдувом: Gigabyte представила плату для Threadripper Pro",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150369",
+      "published": "2026-10-23T21:00:00"
+    },
+    {
+      "title": "Дипфейки и стереотипы: комитет ООН предупредил о новых угрозах для женщин в эпоху ИИ - UN News",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50ZGJ6R1dhRnoxcU4yb21DYktMTzFvZjZrSnVyRkNtWDU5TFR4cXZEZ1hNTDNOQnRoVlZQTjIzd1lwUnJLa2diZ2IxVmpDWEtKNFlWRmdvNA?oc=5",
+      "published": "2026-10-23T20:03:43"
+    },
+    {
+      "title": "Generali сократит 800 рабочих мест в ФРГ из-за инвестиций в ИИ и цифровизацию",
+      "source": "ТАСС",
+      "url": "https://tass.ru/ekonomika/28248355",
+      "published": "2026-10-23T19:04:37"
+    },
+    {
+      "title": "Вышла Kimi K3.1 Pro: разбираем бенчмарки и то, как Moonshot притормозила ей кибернавыки",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1098746/?utm_campaign=1098746&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-23T18:48:29"
+    },
+    {
+      "title": "СМИ: Банки США начали блокировать ИИ-агентам доступ к счетам клиентов - Финансы Mail",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU2RqUFFSZzg5V25DODA1OXg2LXVKRzc5U3dNSFFlNmJSODREU1Q3d3hoTUNPTU1acjF0UmhjVHFjLVNNb1hibXFxbzB5SEZQN3hXS0ZjWXlydHBlM0VFVEFpMEF4aFBLRW5aSDc3Wk00Y25ENVZtUU9RZWJHUmVXZWZmc1JqZ1FLQ3p1eW81bS1lQXNtR0o4VFRoMEdyemxqb3hXSGlyNC1qWHJaVmZBYWxR?oc=5",
+      "published": "2026-10-23T18:07:43"
+    },
+    {
+      "title": "Можно ли доверить ИИ миграцию Spring Boot 2 → 3?",
       "source": "Habr_AI",
       "url": "https://habr.com/ru/companies/koda/articles/1098702/?utm_campaign=1098702&utm_source=habrahabr&utm_medium=rss",
       "published": "2026-10-23T16:15:01"
     },
     {
-      "title": "Можно ли доверить ИИ миграцию Spring Boot 2.7 → 3.5? - Хабр",
+      "title": "Банки США закрывают доступ ИИ‑агентам, которые стали слишком самостоятельными - Хабр",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12WmxTMWxFdW03d2czdWRIRndJcnhaNFBUUHFqWDg0SnVOT0YzZ0pkcEhweVBOeDNncDVzRjltcnZsSElNNHFLbjhQeFEwQmxQX0s2OWRtSDlfVnBiWWtEZ3Zn0gFYQVVfeXFMT3NpR1QyYWZVM0V0dkdnNFpib3BYVnc2b2V3MGZ4ZS1OMTRVVHZ1NWFNNEV4ZUdURFM2RXdKOVMxeVp3UU1ONjN6MXk1b0ZJS2UySGROUi04Wg?oc=5",
-      "published": "2026-10-23T16:15:01"
-    },
-    {
-      "title": "\"Грамота.ру\": больше всего новых слов в 2026 году связано с IT и ИИ",
-      "source": "ТАСС",
-      "url": "https://tass.ru/obschestvo/28247951",
-      "published": "2026-10-23T16:01:17"
-    },
-    {
-      "title": "В ЕК опровергли получение приглашения КНР вступить во Всемирную организацию по ИИ",
-      "source": "Интерфакс",
-      "url": "https://www.interfax.ru/world/1124624",
-      "published": "2026-10-23T15:45:00"
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWZXNsdGk3S3ZqM2R3bXZiSTBFSlM2TEJQMFBIak9RUlBiN1ZNOTQxV0JzMXV3VENkSzNYdEdZb19QaFpHV3VnSdIBWEFVX3lxTFBFTmhnSENuTXMxSVpGMm91ODEwaU1qbXpOMFItNUdfclIwYnNIMTFIMXNFU1hJbjJnNzV0Z3RVbmxMQmtDaElxUzM1ZnlWelM2aXVPdGpzWFM?oc=5",
+      "published": "2026-10-23T15:45:25"
     },
     {
       "title": "В ЕК опровергли получение приглашения КНР вступить во Всемирную организацию по ИИ - Интерфакс",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5WeXVXZWFOcEw5ckhuSkNNVDN2R0pqRHdrRUY3VUltejVUUkJIWjRnX2VhUWFteDl4bXBjejVHUkZxbUx2SUgzemJabVNpUdIBS0FVX3lxTFBQS0ozTTlNZmUtdU8zVmZJeElsOHNBUWhyYlV6X2lQVFViR3dKN3JMazhRMmJrSEVUS0ZoM1BEd0JlMmVBTkg1azJ2NA?oc=5",
       "published": "2026-10-23T15:45:00"
-    },
-    {
-      "title": "Вам нужен бро… AI bro",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1098684/?utm_campaign=1098684&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-23T15:38:13"
-    },
-    {
-      "title": "AI написал проект, команда ушла, а поддерживать теперь вам",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1098674/?utm_campaign=1098674&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-23T15:27:23"
-    },
-    {
-      "title": "PSLC и Agent-Ops: от поддержки продукта к изменению инфраструктуры",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1098652/?utm_campaign=1098652&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-23T15:25:47"
-    },
-    {
-      "title": "Как мы сделали ИИ-собеседника, которому можно соврать",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1098650/?utm_campaign=1098650&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-23T15:08:15"
     }
   ]
 }

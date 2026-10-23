@@ -1,0 +1,98 @@
+{
+  "timestamp": "2026-10-24_00-37",
+  "total_articles": 68,
+  "sources": {
+    "ТАСС": 1,
+    "Ведомости": 1,
+    "Digital_Russia": 2,
+    "Habr_AI": 23,
+    "CNews": 8,
+    "3DNews": 13,
+    "VC_ru_Технологии": 1,
+    "Google News": 19
+  },
+  "top_keywords": [
+    [
+      "ИИ",
+      59
+    ],
+    [
+      "AI",
+      14
+    ],
+    [
+      "регулирование",
+      2
+    ],
+    [
+      "искусственный интеллект",
+      1
+    ],
+    [
+      "Минцифры",
+      1
+    ]
+  ],
+  "recent_headlines": [
+    {
+      "title": "ИИ-помощник для КТ головы",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1098766/?utm_campaign=1098766&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-23T21:13:30"
+    },
+    {
+      "title": "Google разрешила себе использовать личную информацию из Gmail и «Фото» при показе рекламы",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150374",
+      "published": "2026-10-23T21:01:00"
+    },
+    {
+      "title": "Девять видеокарт и до 2 Тбайт ОЗУ с обдувом: Gigabyte представила плату для Threadripper Pro",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150369",
+      "published": "2026-10-23T21:00:00"
+    },
+    {
+      "title": "Дипфейки и стереотипы: комитет ООН предупредил о новых угрозах для женщин в эпоху ИИ - UN News",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50ZGJ6R1dhRnoxcU4yb21DYktMTzFvZjZrSnVyRkNtWDU5TFR4cXZEZ1hNTDNOQnRoVlZQTjIzd1lwUnJLa2diZ2IxVmpDWEtKNFlWRmdvNA?oc=5",
+      "published": "2026-10-23T20:03:43"
+    },
+    {
+      "title": "Generali сократит 800 рабочих мест в ФРГ из-за инвестиций в ИИ и цифровизацию",
+      "source": "ТАСС",
+      "url": "https://tass.ru/ekonomika/28248355",
+      "published": "2026-10-23T19:04:37"
+    },
+    {
+      "title": "Вышла Kimi K3.1 Pro: разбираем бенчмарки и то, как Moonshot притормозила ей кибернавыки",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1098746/?utm_campaign=1098746&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-23T18:48:29"
+    },
+    {
+      "title": "СМИ: Банки США начали блокировать ИИ-агентам доступ к счетам клиентов - Финансы Mail",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU2RqUFFSZzg5V25DODA1OXg2LXVKRzc5U3dNSFFlNmJSODREU1Q3d3hoTUNPTU1acjF0UmhjVHFjLVNNb1hibXFxbzB5SEZQN3hXS0ZjWXlydHBlM0VFVEFpMEF4aFBLRW5aSDc3Wk00Y25ENVZtUU9RZWJHUmVXZWZmc1JqZ1FLQ3p1eW81bS1lQXNtR0o4VFRoMEdyemxqb3hXSGlyNC1qWHJaVmZBYWxR?oc=5",
+      "published": "2026-10-23T18:07:43"
+    },
+    {
+      "title": "Можно ли доверить ИИ миграцию Spring Boot 2 → 3?",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/koda/articles/1098702/?utm_campaign=1098702&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-23T16:15:01"
+    },
+    {
+      "title": "Банки США закрывают доступ ИИ‑агентам, которые стали слишком самостоятельными - Хабр",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWZXNsdGk3S3ZqM2R3bXZiSTBFSlM2TEJQMFBIak9RUlBiN1ZNOTQxV0JzMXV3VENkSzNYdEdZb19QaFpHV3VnSdIBWEFVX3lxTFBFTmhnSENuTXMxSVpGMm91ODEwaU1qbXpOMFItNUdfclIwYnNIMTFIMXNFU1hJbjJnNzV0Z3RVbmxMQmtDaElxUzM1ZnlWelM2aXVPdGpzWFM?oc=5",
+      "published": "2026-10-23T15:45:25"
+    },
+    {
+      "title": "В ЕК опровергли получение приглашения КНР вступить во Всемирную организацию по ИИ - Интерфакс",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5WeXVXZWFOcEw5ckhuSkNNVDN2R0pqRHdrRUY3VUltejVUUkJIWjRnX2VhUWFteDl4bXBjejVHUkZxbUx2SUgzemJabVNpUdIBS0FVX3lxTFBQS0ozTTlNZmUtdU8zVmZJeElsOHNBUWhyYlV6X2lQVFViR3dKN3JMazhRMmJrSEVUS0ZoM1BEd0JlMmVBTkg1azJ2NA?oc=5",
+      "published": "2026-10-23T15:45:00"
+    }
+  ]
+}
