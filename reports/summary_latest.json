@@ -1,32 +1,35 @@
 {
-  "timestamp": "2026-10-24_00-37",
-  "total_articles": 68,
+  "timestamp": "2026-10-24_12-49",
+  "total_articles": 67,
   "sources": {
     "ТАСС": 1,
-    "Ведомости": 1,
+    "Ведомости": 3,
     "Digital_Russia": 2,
-    "Habr_AI": 23,
-    "CNews": 8,
+    "Habr_AI": 21,
+    "CNews": 5,
     "3DNews": 13,
-    "VC_ru_Технологии": 1,
-    "Google News": 19
+    "Google News": 22
   },
   "top_keywords": [
     [
       "ИИ",
-      59
+      55
     ],
     [
       "AI",
-      14
+      15
+    ],
+    [
+      "искусственный интеллект",
+      3
     ],
     [
       "регулирование",
       2
     ],
     [
-      "искусственный интеллект",
-      1
+      "ESG",
+      2
     ],
     [
       "Минцифры",
@@ -35,64 +38,64 @@
   ],
   "recent_headlines": [
     {
-      "title": "ИИ-помощник для КТ головы",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1098766/?utm_campaign=1098766&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-23T21:13:30"
-    },
-    {
-      "title": "Google разрешила себе использовать личную информацию из Gmail и «Фото» при показе рекламы",
+      "title": "Основатель Twitter  представил голосовой ИИ, обученный с нуля только на человеческой речи",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1150374",
-      "published": "2026-10-23T21:01:00"
+      "url": "https://3dnews.ru/1150388",
+      "published": "2026-10-24T09:14:00"
     },
     {
-      "title": "Девять видеокарт и до 2 Тбайт ОЗУ с обдувом: Gigabyte представила плату для Threadripper Pro",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150369",
-      "published": "2026-10-23T21:00:00"
-    },
-    {
-      "title": "Дипфейки и стереотипы: комитет ООН предупредил о новых угрозах для женщин в эпоху ИИ - UN News",
+      "title": "Основатель Twitter представил голосовой ИИ, обученный с нуля только на человеческой речи - 3DNews",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50ZGJ6R1dhRnoxcU4yb21DYktMTzFvZjZrSnVyRkNtWDU5TFR4cXZEZ1hNTDNOQnRoVlZQTjIzd1lwUnJLa2diZ2IxVmpDWEtKNFlWRmdvNA?oc=5",
-      "published": "2026-10-23T20:03:43"
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBBRUFqMXF4V3BFRHJSTzFsdmdhNzBwQzRkRV9aY1RKR2t1T1hVeDkyQ0paLUw0N1F4cWIwYmxR0gG8AUFVX3lxTE90eFgtRnNoek5BSC02SlMwRlNxbWxTb0N3WWR0eWpHVHQzVnFSdlBhTUtyQll6THlEelJyaFNJMm9QQ1dqSHZidEhieDVSaTlya1NjeVBiS1JMRmZMeUZLTDZXT1dNaUFIVXl6OTBPRHFhbTZYTU5pUFRheURJejNpakFYbmxyMWtLVU1MT1RCUEJfcTVCejBwTFBaNElGNXYyWHBGc3hWT21hbDRsNTJRVFMxb2FReVg5THZk?oc=5",
+      "published": "2026-10-24T09:14:00"
     },
     {
-      "title": "Generali сократит 800 рабочих мест в ФРГ из-за инвестиций в ИИ и цифровизацию",
-      "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28248355",
-      "published": "2026-10-23T19:04:37"
-    },
-    {
-      "title": "Вышла Kimi K3.1 Pro: разбираем бенчмарки и то, как Moonshot притормозила ей кибернавыки",
+      "title": "[Перевод] Прорывы в роботизированных ИИ не изменят вашу жизнь в обозримом будущем",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1098746/?utm_campaign=1098746&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-23T18:48:29"
+      "url": "https://habr.com/ru/articles/1097512/?utm_campaign=1097512&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-24T08:48:59"
     },
     {
-      "title": "СМИ: Банки США начали блокировать ИИ-агентам доступ к счетам клиентов - Финансы Mail",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU2RqUFFSZzg5V25DODA1OXg2LXVKRzc5U3dNSFFlNmJSODREU1Q3d3hoTUNPTU1acjF0UmhjVHFjLVNNb1hibXFxbzB5SEZQN3hXS0ZjWXlydHBlM0VFVEFpMEF4aFBLRW5aSDc3Wk00Y25ENVZtUU9RZWJHUmVXZWZmc1JqZ1FLQ3p1eW81bS1lQXNtR0o4VFRoMEdyemxqb3hXSGlyNC1qWHJaVmZBYWxR?oc=5",
-      "published": "2026-10-23T18:07:43"
-    },
-    {
-      "title": "Можно ли доверить ИИ миграцию Spring Boot 2 → 3?",
+      "title": "Как цензура в закрытых ИИ-моделях меняет науку и разработку: кейс ДНК-модели Carbon-X и спор о «поверхностных фильтрах»",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/koda/articles/1098702/?utm_campaign=1098702&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-23T16:15:01"
+      "url": "https://habr.com/ru/articles/1098796/?utm_campaign=1098796&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-24T08:06:56"
     },
     {
-      "title": "Банки США закрывают доступ ИИ‑агентам, которые стали слишком самостоятельными - Хабр",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWZXNsdGk3S3ZqM2R3bXZiSTBFSlM2TEJQMFBIak9RUlBiN1ZNOTQxV0JzMXV3VENkSzNYdEdZb19QaFpHV3VnSdIBWEFVX3lxTFBFTmhnSENuTXMxSVpGMm91ODEwaU1qbXpOMFItNUdfclIwYnNIMTFIMXNFU1hJbjJnNzV0Z3RVbmxMQmtDaElxUzM1ZnlWelM2aXVPdGpzWFM?oc=5",
-      "published": "2026-10-23T15:45:25"
+      "title": "Как добавить свою LLM в aish",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/selectel/articles/1095406/?utm_campaign=1095406&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-24T08:00:55"
     },
     {
-      "title": "В ЕК опровергли получение приглашения КНР вступить во Всемирную организацию по ИИ - Интерфакс",
+      "title": "Суды более 20 регионов России начали пробное внедрение ИИ в свою работу - The Insider",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5WeXVXZWFOcEw5ckhuSkNNVDN2R0pqRHdrRUY3VUltejVUUkJIWjRnX2VhUWFteDl4bXBjejVHUkZxbUx2SUgzemJabVNpUdIBS0FVX3lxTFBQS0ozTTlNZmUtdU8zVmZJeElsOHNBUWhyYlV6X2lQVFViR3dKN3JMazhRMmJrSEVUS0ZoM1BEd0JlMmVBTkg1azJ2NA?oc=5",
-      "published": "2026-10-23T15:45:00"
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9lRDFROFRBS0F5LW5YWjVTZXN6d0dqME1NUGRTSEdRekNiZ1FkUU9GNHZOV3VqX3V3cVNiUk5BbE91N1U?oc=5",
+      "published": "2026-10-24T07:42:16"
+    },
+    {
+      "title": "От отдела к компании: как объединить ИИ-навыки",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1098774/?utm_campaign=1098774&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-24T07:39:51"
+    },
+    {
+      "title": "Руководство банков вынуждают ускорять внедрение ИИ - PLUSworld",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4WXVkLWdPYW1wRUtlWEpER1JDUW1Kei1Dd1BneG4wRzJxMVN1dnUwTmR4U1N4U0tCRTFqNGgyYVhHQXZQZWprcGIxdDQ?oc=5",
+      "published": "2026-10-24T07:31:16"
+    },
+    {
+      "title": "ИИ поможет Великобритании бороться с биологическими угрозами - Версия - versia.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYWRRZWd5SUpRTnVBMU9GQmVVcU1lZE1kZ1lDenFGV2Vza0tLVDY5Y2E4TWVpeW4yRE5wMi05ME1UM05Ic096WGpBS190T1dndGFvZkxUektfckpwMHBWM05hcmg5Ti1VN2hWVUJXTjk1WG1vMkpYWnBBRlpTRDZvVWtzakxXYVXSAYwBQVVfeXFMTVUwbEItZE11TVFsX2w1dDc2cmdZZm1PUE9tdFVTV0RNZXV1cGpxNFp3Umt1QWZ2REZsYUU0bm9ETUNKSTN3bEgyZUV5RmplbkV2VVNScGxRTDl2TFNKQkNINlZmQjdVaHVwTGRMU012UlRSOTBWdmVpYk9HZTVpdUhOdHVDUmU5UTI1bDI?oc=5",
+      "published": "2026-10-24T07:30:00"
+    },
+    {
+      "title": "Я не умею программировать и рисовать, но сделал гео-игру про славянских духов. Как ИИ построил Mifozov за неделю - Хабр",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rOXlfQ3owZVI2YXdfVFE5YkVnclJNYVpROW1MOEZuaEItaVRoVTRFemcxZXZvMUhyZVc5Ym1rRnI1VWhIS1hHUDY4cF9MZ9IBWEFVX3lxTFBGUk1hRW1rR0xxU2gzS1pjU2hiVGpIZ0ZuaVJpT3UxZEI0RVpCM2psZkRzN0VwdXZsc1JzMWhPbjFmNlVnZHBYSHltOU4zd2lYOFZ2RGdwTGY?oc=5",
+      "published": "2026-10-24T07:26:52"
     }
   ]
 }
