@@ -1,101 +1,90 @@
 {
-  "timestamp": "2026-10-24_12-49",
-  "total_articles": 67,
+  "timestamp": "2026-10-24_18-58",
+  "total_articles": 41,
   "sources": {
-    "ТАСС": 1,
-    "Ведомости": 3,
-    "Digital_Russia": 2,
-    "Habr_AI": 21,
-    "CNews": 5,
-    "3DNews": 13,
-    "Google News": 22
+    "Ведомости": 2,
+    "Habr_AI": 11,
+    "3DNews": 9,
+    "Google News": 19
   },
   "top_keywords": [
     [
       "ИИ",
-      55
+      36
     ],
     [
       "AI",
-      15
+      8
     ],
     [
       "искусственный интеллект",
-      3
-    ],
-    [
-      "регулирование",
-      2
+      1
     ],
     [
       "ESG",
-      2
-    ],
-    [
-      "Минцифры",
       1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Основатель Twitter  представил голосовой ИИ, обученный с нуля только на человеческой речи",
+      "title": "AI: скальпель у каждого в руках",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1098924/?utm_campaign=1098924&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-24T15:27:31"
+    },
+    {
+      "title": "OpenAI начала обучать модели ИИ в офлайн-формате из соображений безопасности - Эксперт",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeXU4TWNwVG5OT20ya1pnck5aMHlSc0hTOERfdGpzdmcweEItNGw1aG5USHRITmlpZENBVGRlVDYzdnVvOEpNVEFqSVFqTzZ6d2tEOTlodTNxWklybzQxVnlaa2hMdmlsYzZJMzVzSjVCR2htc3pTY2YwZ01mSHRFbWItdmtRTk9QZkQ5SVNVaGJHNU85VXdJSWMzUFFEQkhGUG5v?oc=5",
+      "published": "2026-10-24T15:18:00"
+    },
+    {
+      "title": "Во Франции учредили премию для книг, написанных при помощи ИИ - Радио Свобода",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUDhNeklzMURWclNIdmVweW9EYnlYMTRDdk4tYUdaY0VsdklCSUhpLXpOZWg5NG9yeVM2TGJSaGM0UVZYOGd3RGFQTTZtM09iNzV5ZXdVLXAxUzRjUGVrSTJoTnlyX3AxSnlWb2s2MVRCWXFyWjBCbDhyWkU2WUhQTjM5VFpvclRmYzFYOGZaaVBZOW1FbXNKLXd6bkFLamFRM3ZqMm15Ym95Z9IBrAFBVV95cUxQcTVjTDljQkc1LTc3cW9ITWR6WWt5T3AwelQxUVluRllFY3VpUVRqelRsY1VlYm9XanRMWXUyYmx1Z2ZiOFh3OVJFSExiZHJURnF2d293bV9EbXVDdWQ4Vm13LUpJemd2ci05M1NPeGRiakd3ejdTdTNubTNLaWd1TFJqMGFGVGhJeGF2LWhVVGdtNXIwLWU0N1JMbXV0Tm1uYk8yeHR3YVVXVWZq?oc=5",
+      "published": "2026-10-24T14:38:27"
+    },
+    {
+      "title": "ИИ-инструменты тюменского вуза заинтересовали Малайзию и ЮАР - Тюменская область сегодня",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQnVLWnBnbkd6ZDVtZVl0ZG05QkFvQ19UZjFuOGlrbkF1cC1rN1VGT3BjTm5ydU1hTkd6aTgzR25RV3RTUmpFTWE0V1M2LWtEQnJmUGMxNk1HTDZKYWt0ekhySE1vYlZpeXh4UDRsT2tTbkhyMmVUc19GbFhKV2EzdVpZTVEzc09UWkNuMktJZzhQUUJPODlFX3F3X2E?oc=5",
+      "published": "2026-10-24T13:36:00"
+    },
+    {
+      "title": "[Перевод] Я запустил 100 ИИ-агентов, чтобы они меня взломали. Пять раз у них получилось",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/otus/articles/1097872/?utm_campaign=1097872&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-24T13:05:20"
+    },
+    {
+      "title": "Краснов: ИИ-сервисы планируют внедрить во все суды России - БИЗНЕС Online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GTWo0MGtmUTBSWElnUDNGeUxPMnFCMzNsdXN4ZFFKdVViOVJ5UG9iRFExRk9Rb1Z5YXRvd042OTR4dEw3MlNMSnRUci15aE5Vb2lBRA?oc=5",
+      "published": "2026-10-24T12:28:00"
+    },
+    {
+      "title": "OpenAI возобновила обучение самых мощных ИИ-моделей, отключив их от интернета - The Insider",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5Ka29SMTNiaWtqS3doZ1VlaEJVLVZiUDZNbm80Vk96QTdlaElZcmxGWVhiejMzZklfWlJsQTRsaUJMNWM?oc=5",
+      "published": "2026-10-24T12:17:32"
+    },
+    {
+      "title": "Новая эпоха в технологиях трейдинга. Вытеснит ли ИИ трейдеров-людей? - Финам",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVTFfX3dmU1pEb2Q1VHplTmF0RFRRNWtBeDRFRG91c3hXYVlKQ1NSbXpadWVPTHV0Y0FHMk16bjNzZXl1Y3ljWlRpTWcwSXd5LW93M21qdHZnaGdDZUowdUxSU0NzSGxLOHh2S3oyOEY3OHMtLVdUVVk4QkViaGU0OFNabkNzVV9yYmN5a2UyMWVEQnhIYUlGalEwZGdPSUI1RU9fcm1rTFVhRmxDZndlWDdybmE5cklLT3JfZWlDUzVNWWJw?oc=5",
+      "published": "2026-10-24T11:54:28"
+    },
+    {
+      "title": "Игорь Краснов назвал условие для внедрения ИИ в судах - Эксперт",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORV9rOGItTVJwc0FwMlNVd0ZpNGVadzBEN1hkQ1RubTkzZ1J1N0VURGEtNGxhbkw3QVpwcDJmZ1JRU0w2dFNNNXJZRXlKWWhXSThQQXMzS3FrVkpQa3hYa2dFUi1ZM0FMTFZVWDI4MUtEb2hNc2VzTzRqaFZoWHBjXzZaYTU?oc=5",
+      "published": "2026-10-24T11:24:07"
+    },
+    {
+      "title": "Infineon и NVIDIA разработают технологию питания на основе GaN для стоек на 800 В",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1150388",
-      "published": "2026-10-24T09:14:00"
-    },
-    {
-      "title": "Основатель Twitter представил голосовой ИИ, обученный с нуля только на человеческой речи - 3DNews",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBBRUFqMXF4V3BFRHJSTzFsdmdhNzBwQzRkRV9aY1RKR2t1T1hVeDkyQ0paLUw0N1F4cWIwYmxR0gG8AUFVX3lxTE90eFgtRnNoek5BSC02SlMwRlNxbWxTb0N3WWR0eWpHVHQzVnFSdlBhTUtyQll6THlEelJyaFNJMm9QQ1dqSHZidEhieDVSaTlya1NjeVBiS1JMRmZMeUZLTDZXT1dNaUFIVXl6OTBPRHFhbTZYTU5pUFRheURJejNpakFYbmxyMWtLVU1MT1RCUEJfcTVCejBwTFBaNElGNXYyWHBGc3hWT21hbDRsNTJRVFMxb2FReVg5THZk?oc=5",
-      "published": "2026-10-24T09:14:00"
-    },
-    {
-      "title": "[Перевод] Прорывы в роботизированных ИИ не изменят вашу жизнь в обозримом будущем",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1097512/?utm_campaign=1097512&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-24T08:48:59"
-    },
-    {
-      "title": "Как цензура в закрытых ИИ-моделях меняет науку и разработку: кейс ДНК-модели Carbon-X и спор о «поверхностных фильтрах»",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1098796/?utm_campaign=1098796&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-24T08:06:56"
-    },
-    {
-      "title": "Как добавить свою LLM в aish",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/selectel/articles/1095406/?utm_campaign=1095406&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-24T08:00:55"
-    },
-    {
-      "title": "Суды более 20 регионов России начали пробное внедрение ИИ в свою работу - The Insider",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9lRDFROFRBS0F5LW5YWjVTZXN6d0dqME1NUGRTSEdRekNiZ1FkUU9GNHZOV3VqX3V3cVNiUk5BbE91N1U?oc=5",
-      "published": "2026-10-24T07:42:16"
-    },
-    {
-      "title": "От отдела к компании: как объединить ИИ-навыки",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1098774/?utm_campaign=1098774&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-24T07:39:51"
-    },
-    {
-      "title": "Руководство банков вынуждают ускорять внедрение ИИ - PLUSworld",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4WXVkLWdPYW1wRUtlWEpER1JDUW1Kei1Dd1BneG4wRzJxMVN1dnUwTmR4U1N4U0tCRTFqNGgyYVhHQXZQZWprcGIxdDQ?oc=5",
-      "published": "2026-10-24T07:31:16"
-    },
-    {
-      "title": "ИИ поможет Великобритании бороться с биологическими угрозами - Версия - versia.ru",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYWRRZWd5SUpRTnVBMU9GQmVVcU1lZE1kZ1lDenFGV2Vza0tLVDY5Y2E4TWVpeW4yRE5wMi05ME1UM05Ic096WGpBS190T1dndGFvZkxUektfckpwMHBWM05hcmg5Ti1VN2hWVUJXTjk1WG1vMkpYWnBBRlpTRDZvVWtzakxXYVXSAYwBQVVfeXFMTVUwbEItZE11TVFsX2w1dDc2cmdZZm1PUE9tdFVTV0RNZXV1cGpxNFp3Umt1QWZ2REZsYUU0bm9ETUNKSTN3bEgyZUV5RmplbkV2VVNScGxRTDl2TFNKQkNINlZmQjdVaHVwTGRMU012UlRSOTBWdmVpYk9HZTVpdUhOdHVDUmU5UTI1bDI?oc=5",
-      "published": "2026-10-24T07:30:00"
-    },
-    {
-      "title": "Я не умею программировать и рисовать, но сделал гео-игру про славянских духов. Как ИИ построил Mifozov за неделю - Хабр",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rOXlfQ3owZVI2YXdfVFE5YkVnclJNYVpROW1MOEZuaEItaVRoVTRFemcxZXZvMUhyZVc5Ym1rRnI1VWhIS1hHUDY4cF9MZ9IBWEFVX3lxTFBGUk1hRW1rR0xxU2gzS1pjU2hiVGpIZ0ZuaVJpT3UxZEI0RVpCM2psZkRzN0VwdXZsc1JzMWhPbjFmNlVnZHBYSHltOU4zd2lYOFZ2RGdwTGY?oc=5",
-      "published": "2026-10-24T07:26:52"
+      "url": "https://3dnews.ru/1150364",
+      "published": "2026-10-24T10:48:00"
     }
   ]
 }
