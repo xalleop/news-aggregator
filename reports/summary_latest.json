@@ -1,24 +1,24 @@
 {
-  "timestamp": "2026-10-24_18-58",
-  "total_articles": 41,
+  "timestamp": "2026-10-25_00-08",
+  "total_articles": 37,
   "sources": {
     "Ведомости": 2,
-    "Habr_AI": 11,
-    "3DNews": 9,
-    "Google News": 19
+    "Habr_AI": 10,
+    "3DNews": 7,
+    "Google News": 18
   },
   "top_keywords": [
     [
       "ИИ",
-      36
+      34
     ],
     [
       "AI",
-      8
+      4
     ],
     [
       "искусственный интеллект",
-      1
+      2
     ],
     [
       "ESG",
@@ -26,6 +26,24 @@
     ]
   ],
   "recent_headlines": [
+    {
+      "title": "СМИ: Писательница из ЮАР создала более 370 книг с помощью ИИ - Национальная Служба Новостей",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT1dBdmYyWHNCZ1lfNmRSbEt4WGJmU2FlbjZNRnloX3BHTS1BS0N0anZPOGZTdWZSdWd0Z3Vzd1d2emxJdHByRjg0Y3JOZ2pUckY1VGZVX3VvTm15aWZ6N3VnYWowMDd0YWtuaUtDRmx2VXNWMnVLMFNPTnBuM2hoamNiZkhLdlkzR2lj0gGQAUFVX3lxTE56d3VxLWNZVlhFY0t5VjhHZGota1gwQXBKZ1lRTkFyM3RPVU9BMENHb2R1MENWT2QyVm0xOHFoeXJOT3FfUEVGT2xFV3VHQU9WLXVVMlNZWHRieFFzSW9zUjlNQXVjcHNKMF9NSXp2Nkg3SjYzQl9TbnFPR2FHaTBidXViR3ZJSzB3YkFpeFVoNA?oc=5",
+      "published": "2026-10-24T17:30:31"
+    },
+    {
+      "title": "Как мы взломали HHH‑цензуру корпоративных нейросетей через ЛитРПГ и заставили ИИ лечить души",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1098936/?utm_campaign=1098936&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-24T17:19:24"
+    },
+    {
+      "title": "Какие профессии уже заменяет ИИ, а кому пока можно не бояться - Rozetked.me",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcGdOUk45TzBaSVBfYTNYYTVuZFppczhBV0l2U2YzbEhJV1lhQ1dxNGZqMW1aNWRwbjR1ZWtYNS1OMkZyX0h5V3pDSFdBTW9GbFExMFk2eG5Yd0RnMVBOTUhESVBFRjdKWVNvSWVpcFhVOU5Pdnlmd0gzSnNNUFpoanBxOWkwUFBJTU4tRjlscmZSY0pMYWlhLVhpVG5kLWhBR2c?oc=5",
+      "published": "2026-10-24T16:00:00"
+    },
     {
       "title": "AI: скальпель у каждого в руках",
       "source": "Habr_AI",
@@ -45,12 +63,6 @@
       "published": "2026-10-24T14:38:27"
     },
     {
-      "title": "ИИ-инструменты тюменского вуза заинтересовали Малайзию и ЮАР - Тюменская область сегодня",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQnVLWnBnbkd6ZDVtZVl0ZG05QkFvQ19UZjFuOGlrbkF1cC1rN1VGT3BjTm5ydU1hTkd6aTgzR25RV3RTUmpFTWE0V1M2LWtEQnJmUGMxNk1HTDZKYWt0ekhySE1vYlZpeXh4UDRsT2tTbkhyMmVUc19GbFhKV2EzdVpZTVEzc09UWkNuMktJZzhQUUJPODlFX3F3X2E?oc=5",
-      "published": "2026-10-24T13:36:00"
-    },
-    {
       "title": "[Перевод] Я запустил 100 ИИ-агентов, чтобы они меня взломали. Пять раз у них получилось",
       "source": "Habr_AI",
       "url": "https://habr.com/ru/companies/otus/articles/1097872/?utm_campaign=1097872&utm_source=habrahabr&utm_medium=rss",
@@ -63,28 +75,16 @@
       "published": "2026-10-24T12:28:00"
     },
     {
+      "title": "OpenAI ограничила интернет для мощных ИИ-моделей: причины, инциденты, меры безопасности - Финансы Mail",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc0xpX3hIcnoxTUV2NWltLVlLWWJGaXJ3ZC1wYmxYb2JYOTMxMGM2UTR3WUxKMGMwaEd0NUF6aEI5RWg0UU9xWjA2WUFyTlo2TXRZeTg3MmV5S25oa3RFV0p6TUpIQzJwU3JGRnptWVp3aWVobmZOTHZlRmwzNFc5TEJZaW1XeUJCSkpRcWpuRVAwSUdialVJbVdlZUxYdGdVMElsRi0wRFQ?oc=5",
+      "published": "2026-10-24T12:25:57"
+    },
+    {
       "title": "OpenAI возобновила обучение самых мощных ИИ-моделей, отключив их от интернета - The Insider",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5Ka29SMTNiaWtqS3doZ1VlaEJVLVZiUDZNbm80Vk96QTdlaElZcmxGWVhiejMzZklfWlJsQTRsaUJMNWM?oc=5",
       "published": "2026-10-24T12:17:32"
-    },
-    {
-      "title": "Новая эпоха в технологиях трейдинга. Вытеснит ли ИИ трейдеров-людей? - Финам",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVTFfX3dmU1pEb2Q1VHplTmF0RFRRNWtBeDRFRG91c3hXYVlKQ1NSbXpadWVPTHV0Y0FHMk16bjNzZXl1Y3ljWlRpTWcwSXd5LW93M21qdHZnaGdDZUowdUxSU0NzSGxLOHh2S3oyOEY3OHMtLVdUVVk4QkViaGU0OFNabkNzVV9yYmN5a2UyMWVEQnhIYUlGalEwZGdPSUI1RU9fcm1rTFVhRmxDZndlWDdybmE5cklLT3JfZWlDUzVNWWJw?oc=5",
-      "published": "2026-10-24T11:54:28"
-    },
-    {
-      "title": "Игорь Краснов назвал условие для внедрения ИИ в судах - Эксперт",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORV9rOGItTVJwc0FwMlNVd0ZpNGVadzBEN1hkQ1RubTkzZ1J1N0VURGEtNGxhbkw3QVpwcDJmZ1JRU0w2dFNNNXJZRXlKWWhXSThQQXMzS3FrVkpQa3hYa2dFUi1ZM0FMTFZVWDI4MUtEb2hNc2VzTzRqaFZoWHBjXzZaYTU?oc=5",
-      "published": "2026-10-24T11:24:07"
-    },
-    {
-      "title": "Infineon и NVIDIA разработают технологию питания на основе GaN для стоек на 800 В",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150364",
-      "published": "2026-10-24T10:48:00"
     }
   ]
 }
