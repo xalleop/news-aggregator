@@ -1,90 +1,89 @@
 {
-  "timestamp": "2026-10-25_00-08",
-  "total_articles": 37,
+  "timestamp": "2026-10-25_13-11",
+  "total_articles": 26,
   "sources": {
-    "Ведомости": 2,
-    "Habr_AI": 10,
-    "3DNews": 7,
-    "Google News": 18
+    "Habr_AI": 8,
+    "3DNews": 2,
+    "Google News": 16
   },
   "top_keywords": [
     [
       "ИИ",
-      34
+      24
     ],
     [
       "AI",
-      4
-    ],
-    [
-      "искусственный интеллект",
       2
     ],
     [
-      "ESG",
+      "искусственный интеллект",
+      1
+    ],
+    [
+      "регулирование",
       1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "СМИ: Писательница из ЮАР создала более 370 книг с помощью ИИ - Национальная Служба Новостей",
+      "title": "Россиянам рассказали, как использование ИИ в учебе может сказаться на умении мыслить - Дети Mail",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT1dBdmYyWHNCZ1lfNmRSbEt4WGJmU2FlbjZNRnloX3BHTS1BS0N0anZPOGZTdWZSdWd0Z3Vzd1d2emxJdHByRjg0Y3JOZ2pUckY1VGZVX3VvTm15aWZ6N3VnYWowMDd0YWtuaUtDRmx2VXNWMnVLMFNPTnBuM2hoamNiZkhLdlkzR2lj0gGQAUFVX3lxTE56d3VxLWNZVlhFY0t5VjhHZGota1gwQXBKZ1lRTkFyM3RPVU9BMENHb2R1MENWT2QyVm0xOHFoeXJOT3FfUEVGT2xFV3VHQU9WLXVVMlNZWHRieFFzSW9zUjlNQXVjcHNKMF9NSXp2Nkg3SjYzQl9TbnFPR2FHaTBidXViR3ZJSzB3YkFpeFVoNA?oc=5",
-      "published": "2026-10-24T17:30:31"
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObHZhSDE1Tk5WNHpQOEgyVWFTTURKZzdXUEFycXZlTUNvWEU4Sl96TUpFb015TlFRSFljN0JYajRZeHlWOGFYMy1ILVBXWGszajlRamxybjlyM0JjNXNOMFhzMEJ2eHVRdW5iM0JmUUktWnQtTlpUOE5ObGFXWUJpTHg1aw?oc=5",
+      "published": "2026-10-25T10:00:00"
     },
     {
-      "title": "Как мы взломали HHH‑цензуру корпоративных нейросетей через ЛитРПГ и заставили ИИ лечить души",
+      "title": "Изолированные ИИ научились переговариваться через кеш CPU. OpenAI раскрыла опасный эксперимент - SecurityLab.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fLXdEdHI3T0VIaldSMG4tNnF3UHdJT25kUFNERXQ3OXlTMmVIRzl4VmNUYTk5VENHWno5VlB4RE1DbjcwTGwtdjFQQVhNQmJLclFpMw?oc=5",
+      "published": "2026-10-25T09:47:51"
+    },
+    {
+      "title": "Microsoft разрабатывает ИИ-инструмент, способный ставить последовательные диагнозы, подобно врачу - Финам",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVWFoVHBaVmlEQWE3T2hLb3lrbFdxRkcxMzU0VzlCYXliOF8tOTRCMDdHQTdDeGNFc1BtUnkwQ1JuLV9JQjlsa2VHZWl2LXpxdEM4SWtPQVdiRjd2Q1hNMmJpT1VNSTJrcGkzNEc1OFcyMzBiZEU2cDNfVTgwZ1FDd2o1NGZyUi15MElFOXo1VnViRFZ3ZS1rZ0hPY0NiLWQ2elNEOHhJVGhXMjRFMDVZX0dOVU9ieXdJQW54X1N1b25uaFZFUENWZWRYS0w3WVU4STg0TkFYTHAxNmVXbkJJbnpR?oc=5",
+      "published": "2026-10-25T09:30:00"
+    },
+    {
+      "title": "ИИ не тот, чем кажется. Новая теория вызвала восторг и споры учёных - dev.by",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZGx5TmdTNGs4aHdUa3RDeGhlZDZUbmFaY2hIRFd5SS1PMWFEZkVPM0sxcks5dUgzYmJsZEpNR1htQnBnNXhpYkZLZHJpWHJtSzdJNURVVDRNT0tTX2xHcTd3eHNQbWF5UFJlQVdoVS1QRE5XMDZ1LVdOMkY2WXgtbW81OWd1UlQzUXFtWnl1U2pCMWhJb2psVUtB?oc=5",
+      "published": "2026-10-25T09:18:00"
+    },
+    {
+      "title": "Грузинское облако Silk Cloud предложит ИИ-ускорители NVIDIA Blackwell в следующем году",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150398",
+      "published": "2026-10-25T09:01:00"
+    },
+    {
+      "title": "Грузинское облако Silk Cloud предложит ИИ-ускорители NVIDIA Blackwell в следующем году - ServerNews",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VaDdkZ18wYjg1Y052aWRydUhnZURPdDlYV3RMRE1pajIzLVlyTXhiN3U2Q1VOdkowUmp3bGhrcGIzaTg?oc=5",
+      "published": "2026-10-25T09:01:00"
+    },
+    {
+      "title": "Фильтр Калмана в цикле правок ИИ: что он меняет и как это проверить",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1098936/?utm_campaign=1098936&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-24T17:19:24"
+      "url": "https://habr.com/ru/articles/1098756/?utm_campaign=1098756&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-25T08:56:34"
     },
     {
-      "title": "Какие профессии уже заменяет ИИ, а кому пока можно не бояться - Rozetked.me",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcGdOUk45TzBaSVBfYTNYYTVuZFppczhBV0l2U2YzbEhJV1lhQ1dxNGZqMW1aNWRwbjR1ZWtYNS1OMkZyX0h5V3pDSFdBTW9GbFExMFk2eG5Yd0RnMVBOTUhESVBFRjdKWVNvSWVpcFhVOU5Pdnlmd0gzSnNNUFpoanBxOWkwUFBJTU4tRjlscmZSY0pMYWlhLVhpVG5kLWhBR2c?oc=5",
-      "published": "2026-10-24T16:00:00"
-    },
-    {
-      "title": "AI: скальпель у каждого в руках",
+      "title": "[Перевод] ИИ доказал квазигипотезу Римана. Что дальше?",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1098924/?utm_campaign=1098924&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-24T15:27:31"
+      "url": "https://habr.com/ru/articles/1098970/?utm_campaign=1098970&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-25T08:52:40"
     },
     {
-      "title": "OpenAI начала обучать модели ИИ в офлайн-формате из соображений безопасности - Эксперт",
+      "title": "ИИ доказал квазигипотезу Римана. Что дальше? - Хабр",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeXU4TWNwVG5OT20ya1pnck5aMHlSc0hTOERfdGpzdmcweEItNGw1aG5USHRITmlpZENBVGRlVDYzdnVvOEpNVEFqSVFqTzZ6d2tEOTlodTNxWklybzQxVnlaa2hMdmlsYzZJMzVzSjVCR2htc3pTY2YwZ01mSHRFbWItdmtRTk9QZkQ5SVNVaGJHNU85VXdJSWMzUFFEQkhGUG5v?oc=5",
-      "published": "2026-10-24T15:18:00"
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43ei1DMzhqT1lJNEF1a0NLNHNPOVJXaFZKekxOZkJLZkFpRzdVeVJsQmVja0tNTjFGdkNTMV9GdzRtdlRxd0Q3dloxeURyUdIBWEFVX3lxTE1kYUU2WlljY24xOHNIQzNMLTVsTml4TjBNSTBlT2k1NkI3ZjdUVXZUOVNFNnRBTDlYdUZIZDNYaHN1MEJJbnhUZFR2b3NpNml5M0tnTFVXcFc?oc=5",
+      "published": "2026-10-25T08:52:40"
     },
     {
-      "title": "Во Франции учредили премию для книг, написанных при помощи ИИ - Радио Свобода",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUDhNeklzMURWclNIdmVweW9EYnlYMTRDdk4tYUdaY0VsdklCSUhpLXpOZWg5NG9yeVM2TGJSaGM0UVZYOGd3RGFQTTZtM09iNzV5ZXdVLXAxUzRjUGVrSTJoTnlyX3AxSnlWb2s2MVRCWXFyWjBCbDhyWkU2WUhQTjM5VFpvclRmYzFYOGZaaVBZOW1FbXNKLXd6bkFLamFRM3ZqMm15Ym95Z9IBrAFBVV95cUxQcTVjTDljQkc1LTc3cW9ITWR6WWt5T3AwelQxUVluRllFY3VpUVRqelRsY1VlYm9XanRMWXUyYmx1Z2ZiOFh3OVJFSExiZHJURnF2d293bV9EbXVDdWQ4Vm13LUpJemd2ci05M1NPeGRiakd3ejdTdTNubTNLaWd1TFJqMGFGVGhJeGF2LWhVVGdtNXIwLWU0N1JMbXV0Tm1uYk8yeHR3YVVXVWZq?oc=5",
-      "published": "2026-10-24T14:38:27"
-    },
-    {
-      "title": "[Перевод] Я запустил 100 ИИ-агентов, чтобы они меня взломали. Пять раз у них получилось",
+      "title": "Morse AI",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/otus/articles/1097872/?utm_campaign=1097872&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-24T13:05:20"
-    },
-    {
-      "title": "Краснов: ИИ-сервисы планируют внедрить во все суды России - БИЗНЕС Online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GTWo0MGtmUTBSWElnUDNGeUxPMnFCMzNsdXN4ZFFKdVViOVJ5UG9iRFExRk9Rb1Z5YXRvd042OTR4dEw3MlNMSnRUci15aE5Vb2lBRA?oc=5",
-      "published": "2026-10-24T12:28:00"
-    },
-    {
-      "title": "OpenAI ограничила интернет для мощных ИИ-моделей: причины, инциденты, меры безопасности - Финансы Mail",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc0xpX3hIcnoxTUV2NWltLVlLWWJGaXJ3ZC1wYmxYb2JYOTMxMGM2UTR3WUxKMGMwaEd0NUF6aEI5RWg0UU9xWjA2WUFyTlo2TXRZeTg3MmV5S25oa3RFV0p6TUpIQzJwU3JGRnptWVp3aWVobmZOTHZlRmwzNFc5TEJZaW1XeUJCSkpRcWpuRVAwSUdialVJbVdlZUxYdGdVMElsRi0wRFQ?oc=5",
-      "published": "2026-10-24T12:25:57"
-    },
-    {
-      "title": "OpenAI возобновила обучение самых мощных ИИ-моделей, отключив их от интернета - The Insider",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5Ka29SMTNiaWtqS3doZ1VlaEJVLVZiUDZNbm80Vk96QTdlaElZcmxGWVhiejMzZklfWlJsQTRsaUJMNWM?oc=5",
-      "published": "2026-10-24T12:17:32"
+      "url": "https://habr.com/ru/articles/1099020/?utm_campaign=1099020&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-25T08:32:54"
     }
   ]
 }

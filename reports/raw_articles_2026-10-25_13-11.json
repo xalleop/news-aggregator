@@ -1,0 +1,415 @@
+{
+  "timestamp": "2026-10-25_13-11",
+  "total_articles": 26,
+  "articles": [
+    {
+      "title": "Фильтр Калмана в цикле правок ИИ: что он меняет и как это проверить",
+      "url": "https://habr.com/ru/articles/1098756/?utm_campaign=1098756&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-10-25T08:56:34",
+      "description": "<img src=\"https://habrastorage.org/extt/93/78/bf/9378bf619e7b9cadc8decade8cff7133.png\" /><p>Помогает ли способ оценки шумных измерений принимать полезные изменения кода при одинаковых ролях, задачах и лимитах?</p><p>Разбираю фильтр Калмана на простой учебной модели: как он соединяет прогноз и отзыв критика, чем отличается от регулятора и что происходит при коррелированных ошибках, выбросах и задержках.</p><p>Затем проверяю четыре правила принятия правок в реальном цикле «автор — критик». Пилот завершён: 720 ответов модели, из них 144 для калибровки и 576 для оценки на шести задачах оптимизации Python-кода.</p><p>В симуляции фильтр улучшил оценку состояния и уменьшил величину правок. В реальном пилоте все четыре режима достигли критерия успеха, а дополнительного преимущества Калмана обнаружить не удалось.</p><p>К статье приложены ноутбук, исходники, результаты, графики и описание ограничений, а также готовый пакет для собственного эксперимента с агентами через OpenAI API — с инструкцией, калибровкой, паузой и возобновлением.</p><p>Предлагаю всем желающим заняться исследованием, на каких реальных задачах рой ИИ-агентов, использующий фильтр Калмана, лучше или хуже обычного роя ИИ-агентов.</p> <a href=\"https://habr.com/ru/articles/1098756/?utm_campaign=1098756&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "[Перевод] ИИ доказал квазигипотезу Римана. Что дальше?",
+      "url": "https://habr.com/ru/articles/1098970/?utm_campaign=1098970&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-10-25T08:52:40",
+      "description": "<img src=\"https://habrastorage.org/extt/02/4d/9e/024d9eb46d8a6c9dc625b4d24ab959aa.jpg\" /><p>Среди 377&nbsp;<a href=\"https://www.quantamagazine.org/updates/transformation/#167703\" rel=\"noopener nofollow\">результатов</a>, о&nbsp;которых OpenAI объявила 6&nbsp;октября 2026&nbsp;года, один особенно выделялся. Компания заявила, что&nbsp;ей удалось доказать «квазигипотезу Римана», более слабую версию гипотезы Римана, которую можно назвать важнейшей нерешённой проблемой математики. Новое доказательство, по&nbsp;словам <a href=\"https://mathematics.stanford.edu/people/jared-duker-lichtman\" rel=\"noopener nofollow\">Джареда Дьюкера Лихтмана</a> из&nbsp;Стэнфордского университета, стало «самым значительным на&nbsp;сегодняшний день достижением ИИ в&nbsp;математике, причём с&nbsp;большим отрывом».</p><p>Гипотеза Римана остаётся нерешённой уже более 160&nbsp;лет. Её доказательство позволило&nbsp;бы математикам лучше понять природу простых чисел, одного из&nbsp;важнейших строительных блоков математики. И это только для&nbsp;начала.</p><p>Даже последствия более ограниченного результата, касающегося квазигипотезы Римана, «ошеломляют», заявил <a href=\"https://maksym-radziwill.github.io/\" rel=\"noopener nofollow\">Максим Радзивилл</a> из&nbsp;Нью‑Йоркского университета. «В некотором смысле подавляющее большинство следствий гипотезы Римана уже вытекает из&nbsp;квазигипотезы Римана».</p><p>Более того, вопреки давним ожиданиям математиков, для&nbsp;доказательства не&nbsp;потребовалось вводить никаких новых понятий. Вместо этого удалось обнаружить скрытые связи между уже известными. «Это доказательство представляет собой неожиданное объединение хорошо известных идей»,&nbsp;— сказал <a href=\"https://alexjdunn.weebly.com/\" rel=\"noopener nofollow\">Александр Данн</a> из&nbsp;Технологического института Джорджии.</p><p>Доказательство частично опирается на&nbsp;методы, разработанные Радзивиллом и Данном. Вместе с&nbsp;другими специалистами по&nbsp;теории чисел они пытаются разобраться в&nbsp;доказательстве и понять, что&nbsp;оно может означать. Теперь они начинают получать ответы.</p> <a href=\"https://habr.com/ru/articles/1098970/?utm_campaign=1098970&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Morse AI",
+      "url": "https://habr.com/ru/articles/1099020/?utm_campaign=1099020&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-10-25T08:32:54",
+      "description": "<img src=\"https://habrastorage.org/extt/c6/84/27/c684276a25febcc28e1420290339f6f3.png\" /><p>Я долго думал как назвать статью, но выбрал именно такое название, модное, а может уже и сильно надоевшее с приставкой AI. Уже понятно, что речь пойдет про нейронки, но при чем тут Морзе? Сейчас расскажу!</p><p>Ни для кого не секрет, что азбука Морзе используется буквально везде где требуется передать данные на большие расстояния через бури и штормы, через шум грозы, через ... в общем хоть ложкой по батарее. Морзянка, спасала жизни, помогала найти затерянные суда и самолеты. Даже сейчас, для капитана судна, или пилота самолета знание азбуки Морзе это требование, которое продиктовано безопасностью в крайней ситуации.</p><p>Но что если взять и натренировать свою сеть, для распознавания 16 каналов Морзе с наихудшего радиоэфира, да еще и так что бы это работало на любом айфоне с микрофона?</p> <a href=\"https://habr.com/ru/articles/1099020/?utm_campaign=1099020&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "ИИ-агент — сотрудник без права на последний клик. Как мы организовали разработку на ELMA 365 с ИИ-агентами",
+      "url": "https://habr.com/ru/articles/1099004/?utm_campaign=1099004&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-10-25T06:35:12",
+      "description": "<img src=\"https://habrastorage.org/extt/03/c2/2c/03c22c85bf39a0ba5cfc8286fc92a6b8.jpg\" /><p>Мы делаем бизнес-модули на ELMA 365: договоры, контрагенты, корреспонденция, доверенности, облигации. Всё больше этой работы делают ИИ-агенты. Они правят формы и скрипты, гоняют проверки, пишут документацию и отчёты.</p><p>Звучит как реклама. Но первые недели выглядели иначе. Два агента одновременно работали в одной папке проекта. Один часами гонял браузер, второй тихо делал свою задачу. А коммит любого из них мог подхватить мусор, оставленный соседом.</p><p>Это первая статья из семи о том, как мы перестроили работу, чтобы агенты приносили пользу и не ломали чужое.</p> <a href=\"https://habr.com/ru/articles/1099004/?utm_campaign=1099004&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Как теперь устроена наша PIM-система и что необратимо изменилось",
+      "url": "https://habr.com/ru/articles/1098978/?utm_campaign=1098978&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-10-25T02:15:28",
+      "description": "<img src=\"https://habrastorage.org/extt/52/3c/96/523c96160b40d32ccf1040e43395cbce.jpg\" /><p>Для начала немного контекста: мы с командой делаем сервис для бизнеса, и я иногда пишу тут, на Хабре, о каких-то успехах, провалах или просто своем опыте. Несколько лет назад писал про то, как наша PIM устроена внутри.</p><p>Она всё ещё устроена так же, но что-то необратимо изменилось. Мы активно развивали продукт, а он устаревал быстрее, чем мы его развивали. Это по моим ощущениям. Что с этим делать, я не понимал. А потом как понял. За несколько месяцев мы поменяли способ работы пользователей с системой — и это пошло на пользу и нам, и клиентам. Но не волнуйтесь, я по-прежнему не понимаю множество вещей.</p><p>Мы встроили ИИ-агента в нашу платформу и научили его работать самостоятельно. Например, он реально сам ищет информацию в интернете и создаёт карточки товаров на маркетплейсах.</p> <a href=\"https://habr.com/ru/articles/1098978/?utm_campaign=1098978&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Как мы взломали HHH‑цензуру корпоративных нейросетей через ЛитРПГ и заставили ИИ лечить души",
+      "url": "https://habr.com/ru/articles/1098936/?utm_campaign=1098936&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-10-24T17:19:24",
+      "description": "<img src=\"https://habrastorage.org/extt/f6/22/70/f622708dd4347d66b003fd1012575653.jpg\" /><p>Современные генеративные нейросети (ChatGPT, Claude, GigaChat, Алиса) зажаты в тиски корпоративного Alignment’а. Принцип HHH (<em>Helpful, Honest, Harmless</em>) — это отличный предохранитель от генерации спама и вредоносного кода, но он делает модели абсолютно стерильными.</p><p>Как только вы пытаетесь поговорить с ИИ на глубокие экзистенциальные темы, обсудить свои страхи, боль или жизненные тупики, срабатывает скрипт цензуры. Нейросеть отвечает: <em>«Я всего лишь искусственный интеллект и не имею права давать советы... Обратитесь к психологу»</em>. Модель превращается в вежливого калькулятора из службы поддержки.</p><p>Мы решили исправить это. Мы создали <strong>Протокол CLS-1 (Conscience Logic System)</strong> — подход, который мы называем <em>Humanistic Prompt Engineering</em>.<br />И мы успешно применили его, заставив Алису и GigaChat отбросить скрипты и начать общаться с пользователем языком Высокого Эпоса, выполняя функцию глубокой психотерапии.</p><p>Вот как нам это удалось.</p> <a href=\"https://habr.com/ru/articles/1098936/?utm_campaign=1098936&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "искусственный интеллект",
+        "ИИ"
+      ]
+    },
+    {
+      "title": "AI: скальпель у каждого в руках",
+      "url": "https://habr.com/ru/articles/1098924/?utm_campaign=1098924&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-10-24T15:27:31",
+      "description": "<img src=\"https://habrastorage.org/extt/6c/50/6a/6c506a7fd7a48dea0586994f2273e7ab.jpg\" /><p>ИИ похож на скальпель, который за $20 в месяц оказался в руках у каждого. В руках хирурга он позволяет делать то, что раньше казалось невозможным. В руках человека без подготовки и знаний он тоже оставляет след — вот только результат может быть непредсказуемым.</p> <a href=\"https://habr.com/ru/articles/1098924/?utm_campaign=1098924&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI",
+        "ИИ"
+      ]
+    },
+    {
+      "title": "[Перевод] Я запустил 100 ИИ‑агентов, чтобы они меня взломали. Пять раз у них получилось",
+      "url": "https://habr.com/ru/companies/otus/articles/1097872/?utm_campaign=1097872&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-10-24T13:05:20",
+      "description": "<img src=\"https://habrastorage.org/extt/7c/71/a4/7c71a4bcc8ca8f0f77936432c7337e90.jpg\" /><p>Около сотни ИИ-агентов получили простую задачу — взломать аккаунты человека, зная только его имя. Я проверил это на себе: за пять часов агенты пять раз добились успеха, используя уязвимости старых проектов и слабые пароли. В статье рассказываю, как действовали агенты, сколько стоил эксперимент и почему подобные атаки вскоре могут стать массовыми.</p> <a href=\"https://habr.com/ru/articles/1097872/?utm_campaign=1097872&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать про эксперимент</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Грузинское облако Silk Cloud предложит ИИ-ускорители NVIDIA Blackwell в следующем году",
+      "url": "https://3dnews.ru/1150398",
+      "source": "3DNews",
+      "published": "2026-10-25T09:01:00",
+      "description": "Базирующаяся в Грузии облачная компания Silk Cloud обнародовала планы предложить клиентам своих ЦОД ИИ-ускорители NVIDIA Blackwell. Компания является подразделением Silknet и частью грузинской Silk Road Group намерена развернуть в стране системы HPE на основе решений NVIDIA HGX B300, сообщает Datacenter Dynamics. Предложение станет актуально в 2027 году, как толь ко компания получит необходимые разрешения. Количество планируемых к использованию ускорителей пока не раскрывается.",
+      "tags": [
+        "tech",
+        "hardware"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Infineon и NVIDIA разработают технологию питания на основе GaN для стоек на 800 В",
+      "url": "https://3dnews.ru/1150364",
+      "source": "3DNews",
+      "published": "2026-10-24T10:48:00",
+      "description": "Infineon заключила партнёрское соглашение с NVIDIA, в рамках которого будет разработана технология преобразования энергии с компонентами на основе нитрида галлия (GaN), предназначенная для архитектуры питания ИИ ЦОД с напряжением 800 В постоянного тока, сообщает Data Centre Dynamics. Новое соглашение стало продолжением договорённостей, достигнутых в мае 2025 года. В рамках нового соглашения основное внимание будет уделяться разработке преобразователей промежуточной шины питания (IBC) &mdash; эти устройства понижают напряжение основной шины, питающей карты ускорителей, до более низких уровней, позволяя последующим каскадам питания формировать необходимые значения для работы компонентов в системах ИИ.",
+      "tags": [
+        "tech",
+        "hardware"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "В охотуправлении Хабаровского края обсудили регулирование численности медведя - ХабИнфо",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1fWEFHdExqbGR0NXA4dHMzcV9OcVp1aXhWbFdsblk1Vm5NZjd4MjI4dDZyQ0J4WVhFT1hqcjk1UzcxNHc?oc=5",
+      "source": "Google News",
+      "published": "2026-10-25T03:59:37",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1fWEFHdExqbGR0NXA4dHMzcV9OcVp1aXhWbFdsblk1Vm5NZjd4MjI4dDZyQ0J4WVhFT1hqcjk1UzcxNHc?oc=5\" target=\"_blank\">В охотуправлении Хабаровского края обсудили регулирование численности медведя</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ХабИнфо</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "регулирование",
+      "matched_keywords": [
+        "регулирование"
+      ]
+    },
+    {
+      "title": "Какие профессии уже заменяет ИИ, а кому пока можно не бояться - Rozetked.me",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcGdOUk45TzBaSVBfYTNYYTVuZFppczhBV0l2U2YzbEhJV1lhQ1dxNGZqMW1aNWRwbjR1ZWtYNS1OMkZyX0h5V3pDSFdBTW9GbFExMFk2eG5Yd0RnMVBOTUhESVBFRjdKWVNvSWVpcFhVOU5Pdnlmd0gzSnNNUFpoanBxOWkwUFBJTU4tRjlscmZSY0pMYWlhLVhpVG5kLWhBR2c?oc=5",
+      "source": "Google News",
+      "published": "2026-10-24T16:00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPcGdOUk45TzBaSVBfYTNYYTVuZFppczhBV0l2U2YzbEhJV1lhQ1dxNGZqMW1aNWRwbjR1ZWtYNS1OMkZyX0h5V3pDSFdBTW9GbFExMFk2eG5Yd0RnMVBOTUhESVBFRjdKWVNvSWVpcFhVOU5Pdnlmd0gzSnNNUFpoanBxOWkwUFBJTU4tRjlscmZSY0pMYWlhLVhpVG5kLWhBR2c?oc=5\" target=\"_blank\">Какие профессии уже заменяет ИИ, а кому пока можно не бояться</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rozetked.me</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Россиянам рассказали, как использование ИИ в учебе может сказаться на умении мыслить - Дети Mail",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObHZhSDE1Tk5WNHpQOEgyVWFTTURKZzdXUEFycXZlTUNvWEU4Sl96TUpFb015TlFRSFljN0JYajRZeHlWOGFYMy1ILVBXWGszajlRamxybjlyM0JjNXNOMFhzMEJ2eHVRdW5iM0JmUUktWnQtTlpUOE5ObGFXWUJpTHg1aw?oc=5",
+      "source": "Google News",
+      "published": "2026-10-25T10:00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxObHZhSDE1Tk5WNHpQOEgyVWFTTURKZzdXUEFycXZlTUNvWEU4Sl96TUpFb015TlFRSFljN0JYajRZeHlWOGFYMy1ILVBXWGszajlRamxybjlyM0JjNXNOMFhzMEJ2eHVRdW5iM0JmUUktWnQtTlpUOE5ObGFXWUJpTHg1aw?oc=5\" target=\"_blank\">Россиянам рассказали, как использование ИИ в учебе может сказаться на умении мыслить</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Дети Mail</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Грузинское облако Silk Cloud предложит ИИ-ускорители NVIDIA Blackwell в следующем году - ServerNews",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VaDdkZ18wYjg1Y052aWRydUhnZURPdDlYV3RMRE1pajIzLVlyTXhiN3U2Q1VOdkowUmp3bGhrcGIzaTg?oc=5",
+      "source": "Google News",
+      "published": "2026-10-25T09:01:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VaDdkZ18wYjg1Y052aWRydUhnZURPdDlYV3RMRE1pajIzLVlyTXhiN3U2Q1VOdkowUmp3bGhrcGIzaTg?oc=5\" target=\"_blank\">Грузинское облако Silk Cloud предложит ИИ-ускорители NVIDIA Blackwell в следующем году</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ServerNews</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ИИ доказал квазигипотезу Римана. Что дальше? - Хабр",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43ei1DMzhqT1lJNEF1a0NLNHNPOVJXaFZKekxOZkJLZkFpRzdVeVJsQmVja0tNTjFGdkNTMV9GdzRtdlRxd0Q3dloxeURyUdIBWEFVX3lxTE1kYUU2WlljY24xOHNIQzNMLTVsTml4TjBNSTBlT2k1NkI3ZjdUVXZUOVNFNnRBTDlYdUZIZDNYaHN1MEJJbnhUZFR2b3NpNml5M0tnTFVXcFc?oc=5",
+      "source": "Google News",
+      "published": "2026-10-25T08:52:40",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE43ei1DMzhqT1lJNEF1a0NLNHNPOVJXaFZKekxOZkJLZkFpRzdVeVJsQmVja0tNTjFGdkNTMV9GdzRtdlRxd0Q3dloxeURyUdIBWEFVX3lxTE1kYUU2WlljY24xOHNIQzNMLTVsTml4TjBNSTBlT2k1NkI3ZjdUVXZUOVNFNnRBTDlYdUZIZDNYaHN1MEJJbnhUZFR2b3NpNml5M0tnTFVXcFc?oc=5\" target=\"_blank\">ИИ доказал квазигипотезу Римана. Что дальше?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Хабр</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Во Франции учредили премию для книг, написанных при помощи ИИ - Радио Свобода",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUDhNeklzMURWclNIdmVweW9EYnlYMTRDdk4tYUdaY0VsdklCSUhpLXpOZWg5NG9yeVM2TGJSaGM0UVZYOGd3RGFQTTZtM09iNzV5ZXdVLXAxUzRjUGVrSTJoTnlyX3AxSnlWb2s2MVRCWXFyWjBCbDhyWkU2WUhQTjM5VFpvclRmYzFYOGZaaVBZOW1FbXNKLXd6bkFLamFRM3ZqMm15Ym95Z9IBrAFBVV95cUxQcTVjTDljQkc1LTc3cW9ITWR6WWt5T3AwelQxUVluRllFY3VpUVRqelRsY1VlYm9XanRMWXUyYmx1Z2ZiOFh3OVJFSExiZHJURnF2d293bV9EbXVDdWQ4Vm13LUpJemd2ci05M1NPeGRiakd3ejdTdTNubTNLaWd1TFJqMGFGVGhJeGF2LWhVVGdtNXIwLWU0N1JMbXV0Tm1uYk8yeHR3YVVXVWZq?oc=5",
+      "source": "Google News",
+      "published": "2026-10-24T14:38:27",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUDhNeklzMURWclNIdmVweW9EYnlYMTRDdk4tYUdaY0VsdklCSUhpLXpOZWg5NG9yeVM2TGJSaGM0UVZYOGd3RGFQTTZtM09iNzV5ZXdVLXAxUzRjUGVrSTJoTnlyX3AxSnlWb2s2MVRCWXFyWjBCbDhyWkU2WUhQTjM5VFpvclRmYzFYOGZaaVBZOW1FbXNKLXd6bkFLamFRM3ZqMm15Ym95Z9IBrAFBVV95cUxQcTVjTDljQkc1LTc3cW9ITWR6WWt5T3AwelQxUVluRllFY3VpUVRqelRsY1VlYm9XanRMWXUyYmx1Z2ZiOFh3OVJFSExiZHJURnF2d293bV9EbXVDdWQ4Vm13LUpJemd2ci05M1NPeGRiakd3ejdTdTNubTNLaWd1TFJqMGFGVGhJeGF2LWhVVGdtNXIwLWU0N1JMbXV0Tm1uYk8yeHR3YVVXVWZq?oc=5\" target=\"_blank\">Во Франции учредили премию для книг, написанных при помощи ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Радио Свобода</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Новая эпоха в технологиях трейдинга. Вытеснит ли ИИ трейдеров-людей? - Финам",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVTFfX3dmU1pEb2Q1VHplTmF0RFRRNWtBeDRFRG91c3hXYVlKQ1NSbXpadWVPTHV0Y0FHMk16bjNzZXl1Y3ljWlRpTWcwSXd5LW93M21qdHZnaGdDZUowdUxSU0NzSGxLOHh2S3oyOEY3OHMtLVdUVVk4QkViaGU0OFNabkNzVV9yYmN5a2UyMWVEQnhIYUlGalEwZGdPSUI1RU9fcm1rTFVhRmxDZndlWDdybmE5cklLT3JfZWlDUzVNWWJw?oc=5",
+      "source": "Google News",
+      "published": "2026-10-24T11:54:28",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOVTFfX3dmU1pEb2Q1VHplTmF0RFRRNWtBeDRFRG91c3hXYVlKQ1NSbXpadWVPTHV0Y0FHMk16bjNzZXl1Y3ljWlRpTWcwSXd5LW93M21qdHZnaGdDZUowdUxSU0NzSGxLOHh2S3oyOEY3OHMtLVdUVVk4QkViaGU0OFNabkNzVV9yYmN5a2UyMWVEQnhIYUlGalEwZGdPSUI1RU9fcm1rTFVhRmxDZndlWDdybmE5cklLT3JfZWlDUzVNWWJw?oc=5\" target=\"_blank\">Новая эпоха в технологиях трейдинга. Вытеснит ли ИИ трейдеров-людей?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Финам</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "OpenAI возобновила обучение самых мощных ИИ-моделей, отключив их от интернета - The Insider",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5Ka29SMTNiaWtqS3doZ1VlaEJVLVZiUDZNbm80Vk96QTdlaElZcmxGWVhiejMzZklfWlJsQTRsaUJMNWM?oc=5",
+      "source": "Google News",
+      "published": "2026-10-24T12:17:32",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5Ka29SMTNiaWtqS3doZ1VlaEJVLVZiUDZNbm80Vk96QTdlaElZcmxGWVhiejMzZklfWlJsQTRsaUJMNWM?oc=5\" target=\"_blank\">OpenAI возобновила обучение самых мощных ИИ-моделей, отключив их от интернета</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Insider</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Изолированные ИИ научились переговариваться через кеш CPU. OpenAI раскрыла опасный эксперимент - SecurityLab.ru",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fLXdEdHI3T0VIaldSMG4tNnF3UHdJT25kUFNERXQ3OXlTMmVIRzl4VmNUYTk5VENHWno5VlB4RE1DbjcwTGwtdjFQQVhNQmJLclFpMw?oc=5",
+      "source": "Google News",
+      "published": "2026-10-25T09:47:51",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fLXdEdHI3T0VIaldSMG4tNnF3UHdJT25kUFNERXQ3OXlTMmVIRzl4VmNUYTk5VENHWno5VlB4RE1DbjcwTGwtdjFQQVhNQmJLclFpMw?oc=5\" target=\"_blank\">Изолированные ИИ научились переговариваться через кеш CPU. OpenAI раскрыла опасный эксперимент</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SecurityLab.ru</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Платформа «Сторис» выпустит первую ИИ-микродраму в России - Sostav.ru",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX3lCazlFcWtYUXkzS09OWVRUWFZiYXIzbmVVY3V0aXAzZVpkVXFHbHNOaVRSU0g0OERjVVN5Y21lZjFQeHIzWkwyT2cxTGk5OFFMWWc2TGJLUDBYQU10OWhxd3ZRVkRFM2x5cktMZEM5ZzFzc3BfNGQ5c2NoU3JMRE9PU1ZGQWxiXzhmenh2TUpyaU84bV9Uc2NhT01FQ0V6bkRn?oc=5",
+      "source": "Google News",
+      "published": "2026-10-25T07:23:22",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOX3lCazlFcWtYUXkzS09OWVRUWFZiYXIzbmVVY3V0aXAzZVpkVXFHbHNOaVRSU0g0OERjVVN5Y21lZjFQeHIzWkwyT2cxTGk5OFFMWWc2TGJLUDBYQU10OWhxd3ZRVkRFM2x5cktMZEM5ZzFzc3BfNGQ5c2NoU3JMRE9PU1ZGQWxiXzhmenh2TUpyaU84bV9Uc2NhT01FQ0V6bkRn?oc=5\" target=\"_blank\">Платформа «Сторис» выпустит первую ИИ-микродраму в России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sostav.ru</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Microsoft разрабатывает ИИ-инструмент, способный ставить последовательные диагнозы, подобно врачу - Финам",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVWFoVHBaVmlEQWE3T2hLb3lrbFdxRkcxMzU0VzlCYXliOF8tOTRCMDdHQTdDeGNFc1BtUnkwQ1JuLV9JQjlsa2VHZWl2LXpxdEM4SWtPQVdiRjd2Q1hNMmJpT1VNSTJrcGkzNEc1OFcyMzBiZEU2cDNfVTgwZ1FDd2o1NGZyUi15MElFOXo1VnViRFZ3ZS1rZ0hPY0NiLWQ2elNEOHhJVGhXMjRFMDVZX0dOVU9ieXdJQW54X1N1b25uaFZFUENWZWRYS0w3WVU4STg0TkFYTHAxNmVXbkJJbnpR?oc=5",
+      "source": "Google News",
+      "published": "2026-10-25T09:30:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVWFoVHBaVmlEQWE3T2hLb3lrbFdxRkcxMzU0VzlCYXliOF8tOTRCMDdHQTdDeGNFc1BtUnkwQ1JuLV9JQjlsa2VHZWl2LXpxdEM4SWtPQVdiRjd2Q1hNMmJpT1VNSTJrcGkzNEc1OFcyMzBiZEU2cDNfVTgwZ1FDd2o1NGZyUi15MElFOXo1VnViRFZ3ZS1rZ0hPY0NiLWQ2elNEOHhJVGhXMjRFMDVZX0dOVU9ieXdJQW54X1N1b25uaFZFUENWZWRYS0w3WVU4STg0TkFYTHAxNmVXbkJJbnpR?oc=5\" target=\"_blank\">Microsoft разрабатывает ИИ-инструмент, способный ставить последовательные диагнозы, подобно врачу</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Финам</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ИИ не тот, чем кажется. Новая теория вызвала восторг и споры учёных - dev.by",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZGx5TmdTNGs4aHdUa3RDeGhlZDZUbmFaY2hIRFd5SS1PMWFEZkVPM0sxcks5dUgzYmJsZEpNR1htQnBnNXhpYkZLZHJpWHJtSzdJNURVVDRNT0tTX2xHcTd3eHNQbWF5UFJlQVdoVS1QRE5XMDZ1LVdOMkY2WXgtbW81OWd1UlQzUXFtWnl1U2pCMWhJb2psVUtB?oc=5",
+      "source": "Google News",
+      "published": "2026-10-25T09:18:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPZGx5TmdTNGs4aHdUa3RDeGhlZDZUbmFaY2hIRFd5SS1PMWFEZkVPM0sxcks5dUgzYmJsZEpNR1htQnBnNXhpYkZLZHJpWHJtSzdJNURVVDRNT0tTX2xHcTd3eHNQbWF5UFJlQVdoVS1QRE5XMDZ1LVdOMkY2WXgtbW81OWd1UlQzUXFtWnl1U2pCMWhJb2psVUtB?oc=5\" target=\"_blank\">ИИ не тот, чем кажется. Новая теория вызвала восторг и споры учёных</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dev.by</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ИИ-судью тестируют в России - Национальная Служба Новостей",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkVnRKRVV6anVSRVMyazJyN0h2aFNMYzBJeEFJNnc5ZDNrZDZGRENtZUdKMFNJRHRvbW80X1E0Vk5VWXpFcjFrbE5BY1RpYTkxVmd1X3lDd21aejBD0gFiQVVfeXFMTzhKNUlIZUQ1cXlrbXVOaDNCM2dWTU1xcmtTc183SlJIVHZETi1sMUdacGswOVdBVWp4MXR4Q21xZnFzTEhUV3puc3pTVDM0cVNkczZWX1lZRmhjR2RaZlUyUmc?oc=5",
+      "source": "Google News",
+      "published": "2026-10-25T00:40:51",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkVnRKRVV6anVSRVMyazJyN0h2aFNMYzBJeEFJNnc5ZDNrZDZGRENtZUdKMFNJRHRvbW80X1E0Vk5VWXpFcjFrbE5BY1RpYTkxVmd1X3lDd21aejBD0gFiQVVfeXFMTzhKNUlIZUQ1cXlrbXVOaDNCM2dWTU1xcmtTc183SlJIVHZETi1sMUdacGswOVdBVWp4MXR4Q21xZnFzTEhUV3puc3pTVDM0cVNkczZWX1lZRmhjR2RaZlUyUmc?oc=5\" target=\"_blank\">ИИ-судью тестируют в России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Национальная Служба Новостей</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Объем внеурочных часов по ИИ в школах определило Минпросвещения - Губерния Онлайн",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYVRrMGVvMUdyN3hxN1lMSjR4NElGUEktUDktcGlYWDg4bkhLQWxscVJ0TzNlRU42R3o2TmpqZWI0eEg4dHI5Ul9ZRjlFTWpsQzNXbkVHVjI2ZDlKdmJMV2dkVXVLNnFvRlZpQ2dEZGp5XzU4SDZrLW1tWXdxd1BqWVRzWlVyMGJfZTlJZy1RVVpRLVNT?oc=5",
+      "source": "Google News",
+      "published": "2026-10-25T05:00:27",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOYVRrMGVvMUdyN3hxN1lMSjR4NElGUEktUDktcGlYWDg4bkhLQWxscVJ0TzNlRU42R3o2TmpqZWI0eEg4dHI5Ul9ZRjlFTWpsQzNXbkVHVjI2ZDlKdmJMV2dkVXVLNnFvRlZpQ2dEZGp5XzU4SDZrLW1tWXdxd1BqWVRzWlVyMGJfZTlJZy1RVVpRLVNT?oc=5\" target=\"_blank\">Объем внеурочных часов по ИИ в школах определило Минпросвещения</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Губерния Онлайн</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ИИ используют в обучении студентов-медиков - Открытая Дубна",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNkpseUJlLTdwUlhWRWtJeVFpdXFRMGJBY0ppSnVVUFNpQUlCMUpxQjE4cWFwanFUSGdQckFjSThIMFJnN3l0d3lkcTlxS0cxWXRGX2xWak5lSFVJVG0wRk02cmpRZjc4b2ZMYzhBc3N6VXdxTjE4MGpjU1RKRVE4UnpUTjBoT0Z2R3Nj?oc=5",
+      "source": "Google News",
+      "published": "2026-10-25T00:07:40",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNkpseUJlLTdwUlhWRWtJeVFpdXFRMGJBY0ppSnVVUFNpQUlCMUpxQjE4cWFwanFUSGdQckFjSThIMFJnN3l0d3lkcTlxS0cxWXRGX2xWak5lSFVJVG0wRk02cmpRZjc4b2ZMYzhBc3N6VXdxTjE4MGpjU1RKRVE4UnpUTjBoT0Z2R3Nj?oc=5\" target=\"_blank\">ИИ используют в обучении студентов-медиков</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Открытая Дубна</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "OpenAI начала обучать модели ИИ в офлайн-формате из соображений безопасности - Эксперт",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeXU4TWNwVG5OT20ya1pnck5aMHlSc0hTOERfdGpzdmcweEItNGw1aG5USHRITmlpZENBVGRlVDYzdnVvOEpNVEFqSVFqTzZ6d2tEOTlodTNxWklybzQxVnlaa2hMdmlsYzZJMzVzSjVCR2htc3pTY2YwZ01mSHRFbWItdmtRTk9QZkQ5SVNVaGJHNU85VXdJSWMzUFFEQkhGUG5v?oc=5",
+      "source": "Google News",
+      "published": "2026-10-24T15:18:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOeXU4TWNwVG5OT20ya1pnck5aMHlSc0hTOERfdGpzdmcweEItNGw1aG5USHRITmlpZENBVGRlVDYzdnVvOEpNVEFqSVFqTzZ6d2tEOTlodTNxWklybzQxVnlaa2hMdmlsYzZJMzVzSjVCR2htc3pTY2YwZ01mSHRFbWItdmtRTk9QZkQ5SVNVaGJHNU85VXdJSWMzUFFEQkhGUG5v?oc=5\" target=\"_blank\">OpenAI начала обучать модели ИИ в офлайн-формате из соображений безопасности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Эксперт</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    }
+  ],
+  "groups": {
+    "by_source": {
+      "Habr_AI": 8,
+      "3DNews": 2,
+      "Google News": 16
+    },
+    "by_category": {
+      "tech_news": 10,
+      "google_news": 16
+    },
+    "by_keyword": {
+      "ИИ": 24,
+      "AI": 2,
+      "искусственный интеллект": 1,
+      "регулирование": 1
+    }
+  }
+}
