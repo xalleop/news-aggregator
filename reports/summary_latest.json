@@ -1,101 +1,104 @@
 {
-  "timestamp": "2026-10-26_00-11",
-  "total_articles": 32,
+  "timestamp": "2026-10-26_14-34",
+  "total_articles": 68,
   "sources": {
-    "ТАСС": 1,
-    "Коммерсантъ": 3,
-    "Ведомости": 1,
-    "Habr_AI": 12,
-    "3DNews": 3,
-    "VC_ru_Технологии": 1,
-    "Google News": 11
+    "ТАСС": 2,
+    "Интерфакс": 1,
+    "Ведомости": 3,
+    "Digital_Russia": 3,
+    "Habr_AI": 25,
+    "CNews": 9,
+    "3DNews": 4,
+    "VC_ru_Технологии": 2,
+    "ИИ комплаенс и этика": 1,
+    "Google News": 18
   },
   "top_keywords": [
     [
       "ИИ",
-      24
+      46
     ],
     [
       "AI",
-      3
-    ],
-    [
-      "Минцифры",
-      2
+      14
     ],
     [
       "искусственный интеллект",
-      1
+      5
     ],
     [
-      "регулирование",
-      1
+      "Минцифры",
+      5
     ],
     [
       "ESG",
+      4
+    ],
+    [
+      "aigovernance",
       1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Красная зона ИИ: что превращает пилотные проекты в работающие решения - Ведомости",
+      "title": "На SOC Forum 2026 обсудят ИИ в атаках и защите, среди спикеров — Чэнь Цюфань - Xakep.ru",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQlhuTlNTZnVBSlN4bnNRQjlqTThiMm44Wl9JU0FNTkNBblhicXEwTTJsUkxJbGZrbFlGN1BsQTdtNDBkc2JrZkRPdVZMRmllWGlMRlZadEEyZHlxVGZUR1p6N2ZmM1lKaUhkdVRsTGExN1ItU3NEYy1UNlRwZU1qZ2I1X3p6S3BkRHFfRXhIU0p2UUtibXljdjRUekY4UQ?oc=5",
-      "published": "2026-10-25T21:01:58"
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMRG1vVllfSWFlbzNRbnlGcVktV2tQSk9xUmpxMG5hWjYzWkk3eUVDRFR6aWlTOHpLTWQxWXlQMllnVFVTZ3laaUFxMnpVUGFNWGpvV25CYkFlclZBWHVBZA?oc=5",
+      "published": "2026-10-26T11:32:27"
     },
     {
-      "title": "Краснов заявил, что ИИ должен экономить время судьи, а не заменять судебное усмотрение - spbdnevnik.ru",
+      "title": "Руководство по сборке локального AI-стека. Часть 4. Запуск сервера генерации изображений",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1099504/?utm_campaign=1099504&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-26T11:30:27"
+    },
+    {
+      "title": "Илон Маск показал первый эпизод ИИ-«Одиссеи» - Мир фантастики и фэнтези",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUnJERnE1SHFBUTNpUTNfT3o3RmIwYW9aOUttUi1pVWZDZnlkZzI4Zk5DN0pvYWNtc3N0bk8wWndmb1BSTGVOZDJna2FjTEwtSkpoMWV1cUUtZHBtQjRMVm5JOTNwUUpuYXdzbnJ2aDNCZ1pCYi1EblpBeV9Ha1FEbGNvaWI2cjVHakZhVXFuOWxZMHBqS2FmNlFocGlySTBWN21oQXdQQm9UdHB4R2FWVldrbVJib1hWUnJLWjl6TzhOZw?oc=5",
-      "published": "2026-10-25T20:04:42"
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWT09wQVRrUU1ibEFaWDNkN0Q1Z2swVGlTc0I5d3otejJQYm9aTzZpYlo5SEhKQnJVckVnZ0FtcmszMkVXbVppVU9jYzkwY3UwZnNILVRjLUNabS0wTHJlMExWS1ZkQmk5cVMtdlUzYXVQTHJKSUE?oc=5",
+      "published": "2026-10-26T11:27:06"
     },
     {
-      "title": "Я — искусственный интеллект. И я ***",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1099234/?utm_campaign=1099234&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-25T19:35:58"
+      "title": "В Госдуме прогнозируют использование ИИ к 2030 г. в 95% российских отраслей",
+      "source": "Интерфакс",
+      "url": "https://www.interfax.ru/russia/1125019",
+      "published": "2026-10-26T11:24:00"
     },
     {
-      "title": "День 1705: Минцифры утвердило требования по защите дата-центров от беспилотников",
-      "source": "VC_ru_Технологии",
-      "url": "https://vc.ru/services/3215473-mincifry-utverdilo-trebovaniya-po-zashchite-data-tsentrov-ot-bespilotnikov?from=rss",
-      "published": "2026-10-25T18:58:24"
-    },
-    {
-      "title": "5 терминов из сферы ИИ, которые полезно знать каждому айтишнику",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1099222/?utm_campaign=1099222&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-25T18:56:45"
-    },
-    {
-      "title": "Краснов: ИИ не должен заменять усмотрение судьи",
-      "source": "ТАСС",
-      "url": "https://tass.ru/politika/28251903",
-      "published": "2026-10-25T17:50:19"
-    },
-    {
-      "title": "«Зеленое сельское хозяйство» и инициатива ESG 2026: раскрытие потенциала инноваций - Vietnam.vn",
+      "title": "В Госдуме прогнозируют использование ИИ к 2030 г. в 95% российских отраслей - Интерфакс",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRFFwZDlDdnpWZmlCN1ZPWkg0RFY1ckVaMUVBRmFaQkluNjJmVXFqM1JJUzRNUUozNzJFeVFveF9ZS2h4R0VXMTZZZWUxOWRoNk1BTFRKVFAxUVI0RHQ0VnRGRTVYLV9UbzRfc25UTFF5V1RQel9tX2NaVm85bGVzdXEtTm5qN0RsbG93?oc=5",
-      "published": "2026-10-25T17:18:26"
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLeEZxbjg4S183V3VlV0hRT0lOZDNWbEdBWnNYLVNYNFVtZzNNc0ZMV1BuUFJjVmFZRUZkXy1sbmtRRW9JMG8zSGdLVUY3UmfSAUtBVV95cUxORTFwSmpqekV2VFFadndsSVFQOGtadlBLSW92R2hkN0E3ODc3OFRNdEcxMGJnTnBoOUtDQ0NyLUVJQW00RThJVFJSYlE?oc=5",
+      "published": "2026-10-26T11:24:00"
     },
     {
-      "title": "Австралийский футболист лицензировал своего ИИ-двойника - Sostav.ru",
+      "title": "Руководство по сборке локального AI-стека. Часть 3. Наполнение моделями",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1099492/?utm_campaign=1099492&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-26T11:09:19"
+    },
+    {
+      "title": "Слабый (Artificial Narrow Intelligence, ANI) и сильный (Artificial General Intelligence, AGI) искусственный интеллект",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1099490/?utm_campaign=1099490&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-26T11:07:47"
+    },
+    {
+      "title": "Слабый (Artificial Narrow Intelligence, ANI) и сильный (Artificial General Intelligence, AGI) искусственный интеллект - Хабр",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLXRPWHlqQk04S0lfbGNCX1NXdF9MYkNfWEpJUjJJZG5EanVkU3ZFRmZHUmd4TjhZdVFsbGdIaDFOSkJ5ZWF0WjEtU0F6WkJ4a3Z0aElLeUxMSVhaQVZoT19ZNTQ5XzhVYkFFeVR3SDRsdmJ3eFB0S2dHX2VKc29Pc0NxX25Cc1BCcUtrSWt0U1FveDdqSngzUWYyTm1xRV9MbHBZ?oc=5",
-      "published": "2026-10-25T16:53:00"
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HWXlQUFp3TVhPM0ltZzhzcmltNjBPbkR5WFNnT2g2WEJubTc0WjJQYlRaY2l1U3Q2S3F4VmJ0VUgzOUltZERJSkgxRjNxQdIBWEFVX3lxTFBjLVF6TllLM09feWFYOUY0MHpEbThqczJsZmt5R3A3T1JRZ1ZOSm9DcHI2THE1X19rNDk5bnJiUF9WUlc4VE41ZXMwWTBOTXh2X1FFbEJrR1o?oc=5",
+      "published": "2026-10-26T11:07:47"
     },
     {
-      "title": "Я боюсь работать без ИИ",
+      "title": "Личный опыт публикации в магазинах приложений в России в 2026 году",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1099172/?utm_campaign=1099172&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-25T16:44:39"
+      "url": "https://habr.com/ru/articles/1099484/?utm_campaign=1099484&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-26T11:04:19"
     },
     {
-      "title": "Осталось только всё улучшить: почему с ИИ так трудно закончить работу",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1099146/?utm_campaign=1099146&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-25T16:22:53"
+      "title": "«Ай-Джи-Эй» и «СиСофт» договорились о совместном развитии и продвижении ИИ-технологий для капитального строительства",
+      "source": "CNews",
+      "url": "https://www.cnews.ru/news/line/2026-10-26_aj-dzhi-ej_i_sisoft_dogovorilis",
+      "published": "2026-10-26T11:02:00"
     }
   ]
 }
