@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-10-26_21-41",
-  "total_articles": 84,
+  "timestamp": "2026-10-27_01-51",
+  "total_articles": 80,
   "sources": {
     "ТАСС": 1,
     "Интерфакс": 1,
-    "Ведомости": 2,
+    "Ведомости": 1,
     "Digital_Russia": 3,
     "Habr_Топ_День": 1,
     "Habr_AI": 30,
     "CNews": 12,
     "3DNews": 9,
-    "VC_ru_Технологии": 4,
+    "VC_ru_Технологии": 3,
     "ИИ комплаенс и этика": 1,
-    "Google News": 20
+    "Google News": 18
   },
   "top_keywords": [
     [
@@ -21,15 +21,11 @@
     ],
     [
       "AI",
-      18
+      17
     ],
     [
       "Минцифры",
-      7
-    ],
-    [
-      "ESG",
-      4
+      6
     ],
     [
       "искусственный интеллект",
@@ -37,6 +33,10 @@
     ],
     [
       "регулирование",
+      2
+    ],
+    [
+      "ESG",
       2
     ],
     [
@@ -50,27 +50,51 @@
   ],
   "recent_headlines": [
     {
-      "title": "Пыталась заработать на миллионах пользователей и испортила продукт: платформа с ИИ-персонажами Character AI и её путь к банкротству",
-      "source": "VC_ru_Технологии",
-      "url": "https://vc.ru/money/3216814-pytalas-zarabotat-na-millionah-polzovatelei-i-isportila-produkt-platforma-s-ii-personazhami-character-ai-i-ee-put-k-bankrotstvu?from=rss",
-      "published": "2026-10-26T18:34:31"
+      "title": "[Media] 🇺🇸💰 Банки США ограничили доступ ИИ-агентов к счетам клиентов",
+      "source": "ИИ комплаенс и этика",
+      "url": "https://t.me/ai_and_law_rus/1178",
+      "published": "2026-10-26T22:17:42"
     },
     {
-      "title": "Сириус намерен стать территорией полного цикла развития технологий ИИ",
+      "title": "Microsoft предложила добровольно уволиться 60 000 сотрудникам — деньги нужны на ИИ",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150452",
+      "published": "2026-10-26T20:32:00"
+    },
+    {
+      "title": "Компьютер начал подвисать, когда на нём заработали ИИ-агенты. Нашлись две причины",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1099768/?utm_campaign=1099768&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-26T19:40:17"
+    },
+    {
+      "title": "Вдвое дешевле и умнее: новая нейросеть OpenAI уничтожила прошлые поколения ИИ - https://hightech.fm/sitemap",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TaGVBUnpPeElNc2dzaGsxZDgwRlRyYk41eWhyNFlUZlFNMVlsQ0Z1VndPQmxlN3AyMlVqa0lPRzdjdVVfMXBVM1lhQ2J4eWw2dmJuZWpIV0lnTml6SEVHUi15ZDQxbVNmUFVZ?oc=5",
+      "published": "2026-10-26T19:39:44"
+    },
+    {
+      "title": "Дробыш призвал не ограничивать конкуренцию ИИ-музыки с живыми исполнителями",
       "source": "ТАСС",
-      "url": "https://tass.ru/obschestvo/28255649",
-      "published": "2026-10-26T18:26:43"
+      "url": "https://tass.ru/kultura/28255673",
+      "published": "2026-10-26T19:24:25"
+    },
+    {
+      "title": "Заявка Anthropic на IPO раскрывает рост выручки и риски ИИ для человечества - Euronews.com",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOU1IX0ZQeWNJNURnSEJ6TVQxYXNJM1hJNzJ4ZFFtZVFaaW1ONTl3Uk83T0NoUGpDM3E5a0NyLXFKM1JHTmJiZ21JUnZwclJHNVNJTHhsb1lEb1U5dFJvNHN4WEVIVVE4aVJzUVJwOEFKZVVnTnVIOWNpeGlaeDB6cC01MTNFZGR3ZWxiczh5Y0J2RWY1dHQ4NXpwZGJvX0JPZUtfcVk2R1ZvVDRTaEhwSHB1ZmwyX0ZqT2cySUZIa3FJWjQ?oc=5",
+      "published": "2026-10-26T18:56:41"
+    },
+    {
+      "title": "Пыталась заработать на миллионах пользователей и испортила продукт: платформа с ИИ-персонажами Character AI и её путь к банкротству",
+      "source": "VC_ru_Технологии",
+      "url": "https://vc.ru/money/3216814-character-ai-put-bankrotstvu-i-sdelka-s-disney?from=rss",
+      "published": "2026-10-26T18:34:31"
     },
     {
       "title": "M**a хочет привлечь рекордные до $95 млрд на ИИ — Nvidia, AMD и Broadcom готовы вложиться",
       "source": "3DNews",
       "url": "https://3dnews.ru/1150448",
-      "published": "2026-10-26T18:23:00"
-    },
-    {
-      "title": "Meta хочет привлечь рекордные до $95 млрд на ИИ — Nvidia, AMD и Broadcom готовы вложиться - 3DNews",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9yUFRsdG80NS1rbTRiWk9HZWlyU1BVUFJBNmRKZXFjVnVJTW9LTm1salVfNllwTGRFNDBxTUJn0gG3AUFVX3lxTE43d1dhMHpxSW4zMy1hSnNCZkNFVlo0eUlWa3lQN3lQWWRLeFlnSVZBXy0tV2x6Q1ZmcndoUW55VkRPUk01bzAxZGxxSi1vcFFJNGd1NGY2S2xmeDlsX21hZWRBelFsRDgzNFh3aVdTSE03YTE4a25oZUZkUFpqdXJ0QjFkcVVHeUVEWUwxR0FfUjRTcmRBbUJwcTRhaGtZNFdyYjgyUWRSbVlGSFNGZXcyTDBHSFZrQQ?oc=5",
       "published": "2026-10-26T18:23:00"
     },
     {
@@ -80,34 +104,10 @@
       "published": "2026-10-26T18:16:00"
     },
     {
-      "title": "Шантаж, взломы и угроза человечеству: Anthropic предупредила об опасностях ИИ перед IPO - 3DNews",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFB1N3pqQl9rQjcwLWg0Si00dzU3YlVSX3pPTlk1anBUTUs5N2g1Z3BrWkFIcXFZbkRHN1dKUUVB0gG7AUFVX3lxTE10UEN4UWhsMHNGd3VBRGM1ZW93X3UxR1NPTWxjR2dVZjF4QWE4SVJNSG9nMXhnRU5iVDZmOTM0ay1HdTBEcEZxNGhHaHlZYVduQjJqRGpSVTJKVm9MeW55YmJNV1FiSFFNa3hQNWEyMHFoSWNnZ3ZYN3loMmdHRVBhRDdmbnFnOE5zMUhESEVWVXd0RlBKTkM4ZnliQ0VfTlBmZndQSEtqSlJPUVFKRnBqbHBSdEp6Z1pPVHM?oc=5",
-      "published": "2026-10-26T18:16:00"
-    },
-    {
       "title": "Минцифры предупредило о возможных ограничениях мобильного интернета в центре Москвы 27-29 октября 2026 года",
       "source": "VC_ru_Технологии",
       "url": "https://vc.ru/services/3217615-mintsifry-predupredilo-ob-ogranicheniyakh-mobilnogo-interneta-v-moskve?from=rss",
       "published": "2026-10-26T18:06:35"
-    },
-    {
-      "title": "В Москве 27-29 октября могут ограничивать мобильный интернет",
-      "source": "Интерфакс",
-      "url": "https://www.interfax.ru/russia/1125107",
-      "published": "2026-10-26T17:54:00"
-    },
-    {
-      "title": "ИИ точнее врачей определил болезни в диагностическом тесте - Телеканал «Наука",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdnFPVlktSVJreHEydU15WWhmd1daemtKU3FQUkJLNEc4TDlSMkdBRVlnQlBtcE13ZEFoYTNGNXJFMlFoSnE4MzdVUk93Njh2TXhUdEc4dWMtYnV1WjJFbXVDRGowR3JlRjBFajhSUWQ0MndXb1N4UkhFbVEtUHg4Y19jdEdpaDI3cnNsYXhEbWJObld2UHNQLUlkdWFVTVlnVnF4bWdPZ2Y3YWFyOXVFUExUdzBhQQ?oc=5",
-      "published": "2026-10-26T16:40:24"
-    },
-    {
-      "title": "Индонезия усиливает регулирование в сфере ИИ для защиты данных. - Vietnam.vn",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZlNkc3RjMGluRkVLNmpOSGQtMG5RYmxBUXJJNm1IQXRyQmxheC1kV0tlTTVnZnpxeG4wUHNXMWlaRUtBZHZmaFU2MXd4bmpURlVOSDUxc1laY1BQQXNiSWdKY1UyTXF1Yk1Td1o5MnhYbWszNjhuZEN1Y3hoVmVoVENR?oc=5",
-      "published": "2026-10-26T16:38:12"
     }
   ]
 }
