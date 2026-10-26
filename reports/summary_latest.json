@@ -1,38 +1,47 @@
 {
-  "timestamp": "2026-10-26_14-34",
-  "total_articles": 68,
+  "timestamp": "2026-10-26_21-41",
+  "total_articles": 84,
   "sources": {
-    "ТАСС": 2,
+    "ТАСС": 1,
     "Интерфакс": 1,
-    "Ведомости": 3,
+    "Ведомости": 2,
     "Digital_Russia": 3,
-    "Habr_AI": 25,
-    "CNews": 9,
-    "3DNews": 4,
-    "VC_ru_Технологии": 2,
+    "Habr_Топ_День": 1,
+    "Habr_AI": 30,
+    "CNews": 12,
+    "3DNews": 9,
+    "VC_ru_Технологии": 4,
     "ИИ комплаенс и этика": 1,
-    "Google News": 18
+    "Google News": 20
   },
   "top_keywords": [
     [
       "ИИ",
-      46
+      57
     ],
     [
       "AI",
-      14
-    ],
-    [
-      "искусственный интеллект",
-      5
+      18
     ],
     [
       "Минцифры",
-      5
+      7
     ],
     [
       "ESG",
       4
+    ],
+    [
+      "искусственный интеллект",
+      3
+    ],
+    [
+      "регулирование",
+      2
+    ],
+    [
+      "policy",
+      1
     ],
     [
       "aigovernance",
@@ -41,64 +50,64 @@
   ],
   "recent_headlines": [
     {
-      "title": "На SOC Forum 2026 обсудят ИИ в атаках и защите, среди спикеров — Чэнь Цюфань - Xakep.ru",
+      "title": "Пыталась заработать на миллионах пользователей и испортила продукт: платформа с ИИ-персонажами Character AI и её путь к банкротству",
+      "source": "VC_ru_Технологии",
+      "url": "https://vc.ru/money/3216814-pytalas-zarabotat-na-millionah-polzovatelei-i-isportila-produkt-platforma-s-ii-personazhami-character-ai-i-ee-put-k-bankrotstvu?from=rss",
+      "published": "2026-10-26T18:34:31"
+    },
+    {
+      "title": "Сириус намерен стать территорией полного цикла развития технологий ИИ",
+      "source": "ТАСС",
+      "url": "https://tass.ru/obschestvo/28255649",
+      "published": "2026-10-26T18:26:43"
+    },
+    {
+      "title": "M**a хочет привлечь рекордные до $95 млрд на ИИ — Nvidia, AMD и Broadcom готовы вложиться",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150448",
+      "published": "2026-10-26T18:23:00"
+    },
+    {
+      "title": "Meta хочет привлечь рекордные до $95 млрд на ИИ — Nvidia, AMD и Broadcom готовы вложиться - 3DNews",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMRG1vVllfSWFlbzNRbnlGcVktV2tQSk9xUmpxMG5hWjYzWkk3eUVDRFR6aWlTOHpLTWQxWXlQMllnVFVTZ3laaUFxMnpVUGFNWGpvV25CYkFlclZBWHVBZA?oc=5",
-      "published": "2026-10-26T11:32:27"
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9yUFRsdG80NS1rbTRiWk9HZWlyU1BVUFJBNmRKZXFjVnVJTW9LTm1salVfNllwTGRFNDBxTUJn0gG3AUFVX3lxTE43d1dhMHpxSW4zMy1hSnNCZkNFVlo0eUlWa3lQN3lQWWRLeFlnSVZBXy0tV2x6Q1ZmcndoUW55VkRPUk01bzAxZGxxSi1vcFFJNGd1NGY2S2xmeDlsX21hZWRBelFsRDgzNFh3aVdTSE03YTE4a25oZUZkUFpqdXJ0QjFkcVVHeUVEWUwxR0FfUjRTcmRBbUJwcTRhaGtZNFdyYjgyUWRSbVlGSFNGZXcyTDBHSFZrQQ?oc=5",
+      "published": "2026-10-26T18:23:00"
     },
     {
-      "title": "Руководство по сборке локального AI-стека. Часть 4. Запуск сервера генерации изображений",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1099504/?utm_campaign=1099504&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-26T11:30:27"
+      "title": "Шантаж, взломы и угроза человечеству: Anthropic предупредила об опасностях ИИ перед IPO",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150447",
+      "published": "2026-10-26T18:16:00"
     },
     {
-      "title": "Илон Маск показал первый эпизод ИИ-«Одиссеи» - Мир фантастики и фэнтези",
+      "title": "Шантаж, взломы и угроза человечеству: Anthropic предупредила об опасностях ИИ перед IPO - 3DNews",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWT09wQVRrUU1ibEFaWDNkN0Q1Z2swVGlTc0I5d3otejJQYm9aTzZpYlo5SEhKQnJVckVnZ0FtcmszMkVXbVppVU9jYzkwY3UwZnNILVRjLUNabS0wTHJlMExWS1ZkQmk5cVMtdlUzYXVQTHJKSUE?oc=5",
-      "published": "2026-10-26T11:27:06"
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFB1N3pqQl9rQjcwLWg0Si00dzU3YlVSX3pPTlk1anBUTUs5N2g1Z3BrWkFIcXFZbkRHN1dKUUVB0gG7AUFVX3lxTE10UEN4UWhsMHNGd3VBRGM1ZW93X3UxR1NPTWxjR2dVZjF4QWE4SVJNSG9nMXhnRU5iVDZmOTM0ay1HdTBEcEZxNGhHaHlZYVduQjJqRGpSVTJKVm9MeW55YmJNV1FiSFFNa3hQNWEyMHFoSWNnZ3ZYN3loMmdHRVBhRDdmbnFnOE5zMUhESEVWVXd0RlBKTkM4ZnliQ0VfTlBmZndQSEtqSlJPUVFKRnBqbHBSdEp6Z1pPVHM?oc=5",
+      "published": "2026-10-26T18:16:00"
     },
     {
-      "title": "В Госдуме прогнозируют использование ИИ к 2030 г. в 95% российских отраслей",
+      "title": "Минцифры предупредило о возможных ограничениях мобильного интернета в центре Москвы 27-29 октября 2026 года",
+      "source": "VC_ru_Технологии",
+      "url": "https://vc.ru/services/3217615-mintsifry-predupredilo-ob-ogranicheniyakh-mobilnogo-interneta-v-moskve?from=rss",
+      "published": "2026-10-26T18:06:35"
+    },
+    {
+      "title": "В Москве 27-29 октября могут ограничивать мобильный интернет",
       "source": "Интерфакс",
-      "url": "https://www.interfax.ru/russia/1125019",
-      "published": "2026-10-26T11:24:00"
+      "url": "https://www.interfax.ru/russia/1125107",
+      "published": "2026-10-26T17:54:00"
     },
     {
-      "title": "В Госдуме прогнозируют использование ИИ к 2030 г. в 95% российских отраслей - Интерфакс",
+      "title": "ИИ точнее врачей определил болезни в диагностическом тесте - Телеканал «Наука",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLeEZxbjg4S183V3VlV0hRT0lOZDNWbEdBWnNYLVNYNFVtZzNNc0ZMV1BuUFJjVmFZRUZkXy1sbmtRRW9JMG8zSGdLVUY3UmfSAUtBVV95cUxORTFwSmpqekV2VFFadndsSVFQOGtadlBLSW92R2hkN0E3ODc3OFRNdEcxMGJnTnBoOUtDQ0NyLUVJQW00RThJVFJSYlE?oc=5",
-      "published": "2026-10-26T11:24:00"
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdnFPVlktSVJreHEydU15WWhmd1daemtKU3FQUkJLNEc4TDlSMkdBRVlnQlBtcE13ZEFoYTNGNXJFMlFoSnE4MzdVUk93Njh2TXhUdEc4dWMtYnV1WjJFbXVDRGowR3JlRjBFajhSUWQ0MndXb1N4UkhFbVEtUHg4Y19jdEdpaDI3cnNsYXhEbWJObld2UHNQLUlkdWFVTVlnVnF4bWdPZ2Y3YWFyOXVFUExUdzBhQQ?oc=5",
+      "published": "2026-10-26T16:40:24"
     },
     {
-      "title": "Руководство по сборке локального AI-стека. Часть 3. Наполнение моделями",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1099492/?utm_campaign=1099492&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-26T11:09:19"
-    },
-    {
-      "title": "Слабый (Artificial Narrow Intelligence, ANI) и сильный (Artificial General Intelligence, AGI) искусственный интеллект",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1099490/?utm_campaign=1099490&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-26T11:07:47"
-    },
-    {
-      "title": "Слабый (Artificial Narrow Intelligence, ANI) и сильный (Artificial General Intelligence, AGI) искусственный интеллект - Хабр",
+      "title": "Индонезия усиливает регулирование в сфере ИИ для защиты данных. - Vietnam.vn",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HWXlQUFp3TVhPM0ltZzhzcmltNjBPbkR5WFNnT2g2WEJubTc0WjJQYlRaY2l1U3Q2S3F4VmJ0VUgzOUltZERJSkgxRjNxQdIBWEFVX3lxTFBjLVF6TllLM09feWFYOUY0MHpEbThqczJsZmt5R3A3T1JRZ1ZOSm9DcHI2THE1X19rNDk5bnJiUF9WUlc4VE41ZXMwWTBOTXh2X1FFbEJrR1o?oc=5",
-      "published": "2026-10-26T11:07:47"
-    },
-    {
-      "title": "Личный опыт публикации в магазинах приложений в России в 2026 году",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1099484/?utm_campaign=1099484&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-26T11:04:19"
-    },
-    {
-      "title": "«Ай-Джи-Эй» и «СиСофт» договорились о совместном развитии и продвижении ИИ-технологий для капитального строительства",
-      "source": "CNews",
-      "url": "https://www.cnews.ru/news/line/2026-10-26_aj-dzhi-ej_i_sisoft_dogovorilis",
-      "published": "2026-10-26T11:02:00"
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZlNkc3RjMGluRkVLNmpOSGQtMG5RYmxBUXJJNm1IQXRyQmxheC1kV0tlTTVnZnpxeG4wUHNXMWlaRUtBZHZmaFU2MXd4bmpURlVOSDUxc1laY1BQQXNiSWdKY1UyTXF1Yk1Td1o5MnhYbWszNjhuZEN1Y3hoVmVoVENR?oc=5",
+      "published": "2026-10-26T16:38:12"
     }
   ]
 }
