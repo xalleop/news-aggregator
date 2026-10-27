@@ -1,31 +1,35 @@
 {
-  "timestamp": "2026-10-27_21-02",
-  "total_articles": 84,
+  "timestamp": "2026-10-28_01-34",
+  "total_articles": 87,
   "sources": {
     "ТАСС": 2,
     "Коммерсантъ": 2,
     "Ведомости": 4,
     "Digital_Russia": 3,
     "Habr_Топ_День": 1,
-    "Habr_AI": 19,
-    "3DNews": 17,
-    "VC_ru_Технологии": 4,
+    "Habr_AI": 22,
+    "3DNews": 15,
+    "VC_ru_Технологии": 2,
     "Montreal AI Ethics Institute": 1,
     "The Centre for the Governance of AI Blog": 5,
-    "ИИ комплаенс и этика": 2,
-    "Google News": 24
+    "ИИ комплаенс и этика": 1,
+    "Google News": 29
   },
   "top_keywords": [
     [
       "ИИ",
-      56
+      55
     ],
     [
       "AI",
-      16
+      18
     ],
     [
-      "искусственный интеллект",
+      "ESG",
+      7
+    ],
+    [
+      "регулирование",
       5
     ],
     [
@@ -33,7 +37,7 @@
       5
     ],
     [
-      "регулирование",
+      "искусственный интеллект",
       4
     ],
     [
@@ -45,78 +49,74 @@
       4
     ],
     [
-      "ESG",
-      4
+      "ethics",
+      1
     ],
     [
       "aigovernance",
-      2
-    ],
-    [
-      "ethics",
       1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Трамп хочет официально запретить термин «искусственный интеллект»",
-      "source": "Ведомости",
-      "url": "https://www.vedomosti.ru/politics/news/2026/10/27/1240622-tramp-hochet-zapretit",
-      "published": "2026-10-27T17:54:27"
-    },
-    {
-      "title": "Трамп хочет официально запретить термин «искусственный интеллект» - Ведомости",
+      "title": "Akamai расширила платформу AI Cloud средами для инференса и работы ИИ-агентов - ServerNews",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSGtkRGFhem1fdlhHQl83S3hHY0d0bWdpRklkNWNxV0hsTEYxTXY3X3JZUDRQZkd5LWl1SHJWaVdFZklBVElvdU9Od0FYMDU4LWk0dTRTSDR2cDhmT2pVSGlXUWx3QzlDVE9FU0tVbHRzOGxycWcwYWFEd0doZW9YSFJuSGxRQQ?oc=5",
-      "published": "2026-10-27T17:54:27"
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9Nb2hCb1hIU3o4Tlh5NmZ1MUJ5bjlXb2NCdVVqZEZPdVYtcUd0RkFlTVY5emdCb2tCRDVrdnB5dURvTGs?oc=5",
+      "published": "2026-10-27T22:08:00"
     },
     {
-      "title": "Что уже сделано для сокращения числа абортов",
-      "source": "Коммерсантъ",
-      "url": "https://www.kommersant.ru/doc/9062251",
-      "published": "2026-10-27T17:14:55"
-    },
-    {
-      "title": "Как ИИ-чат-боты усугубляют психоз у людей: исследование - Наука Mail",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM2JmdDBLNGZGcW1Pb08yZU1JXzN3cldyMXJxZUoxOWs3TDFVQTJ1WDVEeXZOYnpYQlJLZTdtY0xiVU54NlpBd3BBLWFjYnMtclNrVU1zQXlqRThoMFNKVEdhVmpCbHV0UGdZTUYxVUF5UnJJRjhaVVVSMTdSVXVDUE1JTElWTUgy?oc=5",
-      "published": "2026-10-27T17:14:27"
-    },
-    {
-      "title": "Google представила Genie 4: ИИ-модель создаёт интерактивные виртуальные миры, которые теперь живут до двух минут",
+      "title": "Налог на родной язык: общение с ИИ не по-английски обходится до 17 раз дороже",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1150511",
-      "published": "2026-10-27T17:08:00"
+      "url": "https://3dnews.ru/1150524",
+      "published": "2026-10-27T22:06:00"
     },
     {
-      "title": "The AI Ethics Brief #202: Delegated by Default",
-      "source": "Montreal AI Ethics Institute",
-      "url": "https://brief.montrealethics.ai/p/the-ai-ethics-brief-202-delegated",
-      "published": "2026-10-27T17:02:02"
+      "title": "Opera представила WebAI — теперь браузер сможет запускать ИИ прямо на компьютере без облака",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150522",
+      "published": "2026-10-27T21:58:00"
     },
     {
-      "title": "UK Winter Fellowship 2027, Applied Track | GovAI Blog",
-      "source": "The Centre for the Governance of AI Blog",
-      "url": "https://www.governance.ai/post/winter-fellowship-2027-applied-track",
-      "published": "2026-10-27T17:00:04"
+      "title": "Минцифры продвигает идею ограничить зарубежный интернет для всех россиян — но пока это труднореализуемо",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150525",
+      "published": "2026-10-27T21:52:00"
     },
     {
-      "title": "UK Winter Fellowship 2027, Research Track | GovAI Blog",
-      "source": "The Centre for the Governance of AI Blog",
-      "url": "https://www.governance.ai/post/winter-fellowship-2027-research-track",
-      "published": "2026-10-27T17:00:04"
+      "title": "Компании рискуют потерять заказы, если не будут соответствовать требованиям ESG. - Vietnam.vn",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY3lpaWs1NjFzS0tOZnNhM21qdHc1UHB1TGdPOEJWQ0x4Sy1MZ0lnNnNEbjJJUC1uSXlwdlNsVlVzTEk0b3dPaG1KNWgwU2QxVTRVazVsRFcwZFp2bHl2cnpwa2JiV0NjZzNDa0pka3hwRjM3aUlsVGN2ZjZyZ3VmcUJST0U5V0hxdWdlOHU2ZER3TkdsZnFF?oc=5",
+      "published": "2026-10-27T21:24:46"
     },
     {
-      "title": "Глава института машинного интеллекта допустил вымирание людей из-за ИИ",
+      "title": "\"Эксперт РА\": объем портфеля ESG-кредитов за год вырос до 9,7 трлн рублей",
       "source": "ТАСС",
-      "url": "https://tass.ru/obschestvo/28259423",
-      "published": "2026-10-27T16:50:14"
+      "url": "https://tass.ru/ekonomika/28259919",
+      "published": "2026-10-27T21:13:52"
     },
     {
-      "title": "UK Summer Fellowship 2027, Applied Track | GovAI Blog",
-      "source": "The Centre for the Governance of AI Blog",
-      "url": "https://www.governance.ai/post/uk-summer-fellowship-2027-applied-track",
-      "published": "2026-10-27T16:42:53"
+      "title": "«Эксперт РА»: рынок ESG-кредитования сбавил темпы роста - Ведомости",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLUh4THZXLVdocFpERU03V2R0aXE4NkhfNWxUUFJ6dDc1a1A2VWMwZ2VhZmd1c2NuS3pVQnVjalBId2VUSHIybWpLYjI1ME5HMno0SEdYN3J3NVdzbUVhRG4wQ3paOGoxOV9CaU5VM2dnR2w0Y1k5LXc5MENXSEtKSDJILUtQcDdEUkhTb0UwSENSTjY3M0hlLUxPaw?oc=5",
+      "published": "2026-10-27T21:00:00"
+    },
+    {
+      "title": "В Башкирии ИИ выявил патологии почти в половине из 600 тыс. радиоисследований",
+      "source": "ТАСС",
+      "url": "https://tass.ru/nauka/28259849",
+      "published": "2026-10-27T20:44:10"
+    },
+    {
+      "title": "ИИ не только пишет тесты: как ручной QA использовал агента для аудита автотестов",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1099782/?utm_campaign=1099782&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-27T19:45:45"
+    },
+    {
+      "title": "Условия, в которых рождаются системы. Средовой подход для ИИ‑агентов",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1100302/?utm_campaign=1100302&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-27T19:42:08"
     }
   ]
 }
