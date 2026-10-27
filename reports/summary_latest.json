@@ -1,111 +1,122 @@
 {
-  "timestamp": "2026-10-27_14-03",
-  "total_articles": 78,
+  "timestamp": "2026-10-27_21-02",
+  "total_articles": 84,
   "sources": {
-    "Ведомости": 1,
-    "Digital_Russia": 5,
-    "Habr_AI": 28,
-    "CNews": 2,
-    "3DNews": 13,
-    "VC_ru_Технологии": 3,
-    "The Centre for the Governance of AI Blog": 1,
+    "ТАСС": 2,
+    "Коммерсантъ": 2,
+    "Ведомости": 4,
+    "Digital_Russia": 3,
+    "Habr_Топ_День": 1,
+    "Habr_AI": 19,
+    "3DNews": 17,
+    "VC_ru_Технологии": 4,
+    "Montreal AI Ethics Institute": 1,
+    "The Centre for the Governance of AI Blog": 5,
     "ИИ комплаенс и этика": 2,
-    "Google News": 23
+    "Google News": 24
   },
   "top_keywords": [
     [
       "ИИ",
-      55
+      56
     ],
     [
       "AI",
-      14
-    ],
-    [
-      "Минцифры",
-      5
+      16
     ],
     [
       "искусственный интеллект",
+      5
+    ],
+    [
+      "policy",
+      5
+    ],
+    [
+      "регулирование",
+      4
+    ],
+    [
+      "Минцифры",
+      4
+    ],
+    [
+      "governance",
       4
     ],
     [
       "ESG",
-      3
-    ],
-    [
-      "policy",
-      2
+      4
     ],
     [
       "aigovernance",
       2
     ],
     [
-      "регулирование",
-      2
+      "ethics",
+      1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Первый рабочий день джуниора Данилы. Часть1. Прайс из Китая",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1100038/?utm_campaign=1100038&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-27T10:59:57"
+      "title": "Трамп хочет официально запретить термин «искусственный интеллект»",
+      "source": "Ведомости",
+      "url": "https://www.vedomosti.ru/politics/news/2026/10/27/1240622-tramp-hochet-zapretit",
+      "published": "2026-10-27T17:54:27"
     },
     {
-      "title": "GovAI U.S. AI Policy Program | GovAI Blog",
+      "title": "Трамп хочет официально запретить термин «искусственный интеллект» - Ведомости",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSGtkRGFhem1fdlhHQl83S3hHY0d0bWdpRklkNWNxV0hsTEYxTXY3X3JZUDRQZkd5LWl1SHJWaVdFZklBVElvdU9Od0FYMDU4LWk0dTRTSDR2cDhmT2pVSGlXUWx3QzlDVE9FU0tVbHRzOGxycWcwYWFEd0doZW9YSFJuSGxRQQ?oc=5",
+      "published": "2026-10-27T17:54:27"
+    },
+    {
+      "title": "Что уже сделано для сокращения числа абортов",
+      "source": "Коммерсантъ",
+      "url": "https://www.kommersant.ru/doc/9062251",
+      "published": "2026-10-27T17:14:55"
+    },
+    {
+      "title": "Как ИИ-чат-боты усугубляют психоз у людей: исследование - Наука Mail",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM2JmdDBLNGZGcW1Pb08yZU1JXzN3cldyMXJxZUoxOWs3TDFVQTJ1WDVEeXZOYnpYQlJLZTdtY0xiVU54NlpBd3BBLWFjYnMtclNrVU1zQXlqRThoMFNKVEdhVmpCbHV0UGdZTUYxVUF5UnJJRjhaVVVSMTdSVXVDUE1JTElWTUgy?oc=5",
+      "published": "2026-10-27T17:14:27"
+    },
+    {
+      "title": "Google представила Genie 4: ИИ-модель создаёт интерактивные виртуальные миры, которые теперь живут до двух минут",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150511",
+      "published": "2026-10-27T17:08:00"
+    },
+    {
+      "title": "The AI Ethics Brief #202: Delegated by Default",
+      "source": "Montreal AI Ethics Institute",
+      "url": "https://brief.montrealethics.ai/p/the-ai-ethics-brief-202-delegated",
+      "published": "2026-10-27T17:02:02"
+    },
+    {
+      "title": "UK Winter Fellowship 2027, Applied Track | GovAI Blog",
       "source": "The Centre for the Governance of AI Blog",
-      "url": "https://www.governance.ai/post/govai-u-s-ai-policy-program",
-      "published": "2026-10-27T10:52:37"
+      "url": "https://www.governance.ai/post/winter-fellowship-2027-applied-track",
+      "published": "2026-10-27T17:00:04"
     },
     {
-      "title": "РОМИР определил роль ИИ в исследованиях - РОМИР",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ubGdfelZXYXJrdkhwUVkxOTduMXU2Z28xZXlJYUNHanc3NmtWMmNaT3ZwMnB1MlRpM1c0VEcwSVJSMFRGZXlvYV9jamlzMkdtRlNsWDdXTkhoUEt1Qkoyc3FhTTNYMW1aeGRxVXRHbw?oc=5",
-      "published": "2026-10-27T10:48:02"
+      "title": "UK Winter Fellowship 2027, Research Track | GovAI Blog",
+      "source": "The Centre for the Governance of AI Blog",
+      "url": "https://www.governance.ai/post/winter-fellowship-2027-research-track",
+      "published": "2026-10-27T17:00:04"
     },
     {
-      "title": "Что собираются регулировать в сфере ИИ? - Amic.ru",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd09CMi12SXlUM1pyOGRtd1FXMXl3RkF4VXZPd0NKSXNITVVrNl93NElvSnV1V2N6YzJTbXVsakVZWF8tSEhlcHVxQXZxcGZET1V3LXMxdDNrajY4MHYyOU50Z0pUU3hBUU5YZzRfVUpmTm84TnJWbGVnWVdBLUN3SER0azFoLVMyeWNOTDRFbUZLMkNvZ2pjb9IBS0FVX3lxTFBUYjkzUHF6MUJxSXJxYVROWVltVEh5dHFTeW9Yb2N3VDZLQjY2eVQxS21CeWNCNTZIeEM1R0V0RHpTWG4wS1JwWjRwbw?oc=5",
-      "published": "2026-10-27T10:30:00"
+      "title": "Глава института машинного интеллекта допустил вымирание людей из-за ИИ",
+      "source": "ТАСС",
+      "url": "https://tass.ru/obschestvo/28259423",
+      "published": "2026-10-27T16:50:14"
     },
     {
-      "title": "«МТС Exolve» показала новый Контакт-центр с ИИ-агентами и Co-Pilot для операторов - CNews.ru",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42RktNQTF3UWhsLVZ5MUdYS2tpNTlESFJBdDBwWmg0SEkxMkYxNFdjdVhGUGcxNmVSSUl6dURpX0s0NUNWRWR1VjU5Z3paaHNYcGcxQmVteDU4a1lJUExsM0NkWFlkWk45bzhxQjI5OWpqZUxiQlE?oc=5",
-      "published": "2026-10-27T10:30:00"
-    },
-    {
-      "title": "Как мы строим безопасную on-prem AI-платформу для корпоративных AI-агентов",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/agima/articles/1100006/?utm_campaign=1100006&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-27T10:22:39"
-    },
-    {
-      "title": "[Перевод] За термином «нейрослоп» скрываются вопросы, которые мы должны обсудить",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1099802/?utm_campaign=1099802&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-27T10:11:45"
-    },
-    {
-      "title": "Минцифры хочет ввести для виртуальных операторов связи минимальный тариф в 250 рублей и запретить им использовать сети больше чем одного оператора — «Ъ»",
-      "source": "VC_ru_Технологии",
-      "url": "https://vc.ru/services/3218792-mincifry-vvodit-minimalnyj-tarif-dlya-virtualnyh-operatorov-svyazi?from=rss",
-      "published": "2026-10-27T10:11:32"
-    },
-    {
-      "title": "Проходим тесты hh.ru с помощью локального ИИ",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1099994/?utm_campaign=1099994&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-27T10:03:12"
-    },
-    {
-      "title": "МВД: признать потерянный паспорт недействительным теперь можно на портале госуслуг",
-      "source": "Digital_Russia",
-      "url": "https://d-russia.ru/mvd-priznat-poteryannyj-pasport-nedejstvitelnym-teper-mozhno-na-portale-gosuslug.html",
-      "published": "2026-10-27T09:58:53"
+      "title": "UK Summer Fellowship 2027, Applied Track | GovAI Blog",
+      "source": "The Centre for the Governance of AI Blog",
+      "url": "https://www.governance.ai/post/uk-summer-fellowship-2027-applied-track",
+      "published": "2026-10-27T16:42:53"
     }
   ]
 }
