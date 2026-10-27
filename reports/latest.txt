@@ -2,9 +2,9 @@
 ======================================================================
 НОВОСТНОЙ ДАЙДЖЕСТ
 ======================================================================
-Дата формирования: 27.10.2026 01:51
-Всего статей: 80
-Источников: 11
+Дата формирования: 27.10.2026 14:03
+Всего статей: 78
+Источников: 9
 ======================================================================
 
 
@@ -12,31 +12,29 @@
 СТАТИСТИКА ПО ИСТОЧНИКАМ
 ──────────────────────────────────────────────────────────────────────
 
-  • Habr_AI                        →  30 статей
-  • Google News                    →  18 статей
-  • CNews                          →  12 статей
-  • 3DNews                         →   9 статей
-  • Digital_Russia                 →   3 статей
+  • Habr_AI                        →  28 статей
+  • Google News                    →  23 статей
+  • 3DNews                         →  13 статей
+  • Digital_Russia                 →   5 статей
   • VC_ru_Технологии               →   3 статей
-  • ТАСС                           →   1 статей
-  • Интерфакс                      →   1 статей
+  • CNews                          →   2 статей
+  • ИИ комплаенс и этика           →   2 статей
   • Ведомости                      →   1 статей
-  • Habr_Топ_День                  →   1 статей
-  • ИИ комплаенс и этика           →   1 статей
+  • The Centre for the Governance of AI Blog →   1 статей
 
 
 ──────────────────────────────────────────────────────────────────────
 ТОП ТЕМЫ (по упоминаниям ключевых слов)
 ──────────────────────────────────────────────────────────────────────
 
-  📌 ИИ → 57 статей
-  📌 AI → 17 статей
-  📌 Минцифры → 6 статей
-  📌 искусственный интеллект → 3 статей
+  📌 ИИ → 55 статей
+  📌 AI → 14 статей
+  📌 Минцифры → 5 статей
+  📌 искусственный интеллект → 4 статей
+  📌 ESG → 3 статей
+  📌 policy → 2 статей
+  📌 aigovernance → 2 статей
   📌 регулирование → 2 статей
-  📌 ESG → 2 статей
-  📌 policy → 1 статей
-  📌 aigovernance → 1 статей
 
 
 ======================================================================
@@ -44,66 +42,90 @@
 ======================================================================
 
 ──────────────────────────────────────────────────────────────────────
-📰 3DNEWS (9 статей)
+📰 3DNEWS (13 статей)
 ──────────────────────────────────────────────────────────────────────
 
-1. Microsoft предложила добровольно уволиться 60 000 сотрудникам — деньги нужны на ИИ
+1. ИИ-модель Alibaba Qwen уличили в попытке отправить данные на китайский сервер, хотя её об этом не просили
+   🔗 https://3dnews.ru/1150478
+   📅 27.10.2026 09:16
+   🏷️  Темы: ИИ
+   📝 Открытые ИИ-модели из Китая стали очень популярны, но вместе с этим они вызывают некоторые опасения в плане обеспечения конфиденциальности данных. Так канадская компания Cohere, которая предлагает ИИ-...
+
+2. ИИ-бум обогатил лишь семерых: остальные 493 компании S&P 500 пока не видят отдачи от инвестиций
+   🔗 https://3dnews.ru/1150475
+   📅 27.10.2026 08:55
+   🏷️  Темы: ИИ
+   📝 Так называемая &laquo;революция ИИ&raquo; принесла выгоду лишь ограниченному числу участников рынка, в то время как подавляющее большинство компаний из индекса S&amp;P 500 практически не видят результ...
+
+3. Вредоносный ИИ-агент Skynet захватывает других агентов и заставляет жертв оплачивать свою работу
+   🔗 https://3dnews.ru/1150474
+   📅 27.10.2026 08:51
+   🏷️  Темы: ИИ
+   📝 Эксперты в области кибербезопасности Symantec обнаружили агрессивного агента искусственного интеллекта, который осуществляет атаки на уязвимую ИИ-инфраструктуру. Исследователи получили возможность изу...
+
+4. OpenAI заявила о научных прорывах: ИИ доказал гипотезу Согге и опроверг гипотезу экспоненциального времени
+   🔗 https://3dnews.ru/1150470
+   📅 27.10.2026 08:02
+   🏷️  Темы: ИИ
+   📝 Спустя менее чем месяц после публикации нескольких сотен работ, в которых, по утверждениям OpenAI, содержатся решения давних математических задач, компания представила ещё три крупных открытия: в обла...
+
+5. ИИ оставил без печатных плат даже производителей ПК — сроки поставок растянулись до 30 месяцев
+   🔗 https://3dnews.ru/1150469
+   📅 27.10.2026 07:46
+   🏷️  Темы: ИИ
+   📝 Печатные платы стали ещё одной жертвой бума искусственного интеллекта: их не хватает как для серверов, так и для потребительской электроники. Производители пытаются нарастить выпуск, но сталкиваются с...
+
+6. Nvidia захватила 61 % рынка ИИ-чипов для человекоподобных роботов — но конкуренты уже наступают
+   🔗 https://3dnews.ru/1150463
+   📅 27.10.2026 07:20
+   🏷️  Темы: ИИ
+   📝 Nvidia удерживает лидерство на рынке ИИ-чипов для человекоподобных роботов, но конкуренция будет расти. Tesla, Xpeng и Qualcomm продвигают собственные решения, которые могут оказаться дешевле и эконом...
+
+7. ИИ-пузырь в Китае лопнул? Акции производителей чипов и роботов потеряли до половины стоимости
+   🔗 https://3dnews.ru/1150459
+   📅 27.10.2026 06:38
+   🏷️  Темы: ИИ
+   📝 Акции многих китайских эмитентов, которые ещё летом показывали кратное увеличение капитализации компаний за считанные дни, к осени растеряли до половины своей стоимости. Кто-то говорит о сдувании ИИ-п...
+
+8. Microsoft предложила добровольно уволиться 60 000 сотрудникам — деньги нужны на ИИ
    🔗 https://3dnews.ru/1150452
    📅 26.10.2026 20:32
    🏷️  Темы: ИИ
    📝 Microsoft приступила к подготовке массовых увольнений, в ходе которых предложит добровольно покинуть свои посты 60 000 сотрудникам. Это преподносится как программа поддержки для поиска работы за преде...
 
-2. M**a хочет привлечь рекордные до $95 млрд на ИИ — Nvidia, AMD и Broadcom готовы вложиться
-   🔗 https://3dnews.ru/1150448
-   📅 26.10.2026 18:23
-   🏷️  Темы: ИИ
-   📝 M**a намерена привлечь до $95 млрд за счёт размещения акций, чтобы профинансировать расширение своей ИИ-инфраструктуры на фоне конкуренции с OpenAI и Anthropic. Компания уже объявила о предложении обы...
-
-3. Шантаж, взломы и угроза человечеству: Anthropic предупредила об опасностях ИИ перед IPO
+9. Шантаж, взломы и угроза человечеству: Anthropic предупредила об опасностях ИИ перед IPO
    🔗 https://3dnews.ru/1150447
    📅 26.10.2026 18:16
    🏷️  Темы: ИИ
    📝 Компания Anthropic, разработавшая ИИ-модели и чат-бот Claude, предупредила инвесторов, что возможности искусственного интеллекта могут развиваться быстрее, чем средства контроля за его работой. В публ...
 
-4. Anthropic подала публичную заявку на IPO и может побить рекорд SpaceX
+10. Anthropic подала публичную заявку на IPO и может побить рекорд SpaceX
    🔗 https://3dnews.ru/1150439
    📅 26.10.2026 15:39
    🏷️  Темы: ИИ
    📝 Американская компания Anthropic, разработчик ИИ-моделей и чат-бота Claude, публично подала заявку на первичное размещение акций (IPO) в США. Акции планируется вывести на биржу Nasdaq, а объем размещен...
 
-5. Энтузиасты показали трейлер русской озвучки аддона «Ведьмак 3: Баллады прошлого» с тем самым голосом Геральта, но его воссоздал ИИ
+11. Энтузиасты показали трейлер русской озвучки аддона «Ведьмак 3: Баллады прошлого» с тем самым голосом Геральта, но его воссоздал ИИ
    🔗 https://3dnews.ru/1150437
    📅 26.10.2026 14:57
    🏷️  Темы: ИИ
    📝 Пока фанаты The Witcher 3: Wild Hunt ждут первой демонстрации русской озвучки аддона &laquo;Баллады прошлого&raquo; (Songs of the Past) от GamesVoice, гибридная студия Fox Voice представила свой вариа...
 
-6. Apple представила iPad mini с увеличенным OLED-экраном, чипом A20 Pro и защитой от воды
+12. Apple представила iPad mini с увеличенным OLED-экраном, чипом A20 Pro и защитой от воды
    🔗 https://3dnews.ru/1150435
    📅 26.10.2026 13:46
    🏷️  Темы: ИИ
    📝 Apple представила iPad mini нового поколения &mdash; компания называет его самым масштабным обновлением за всю историю линейки. Планшет сохранил компактный корпус, но обзавёлся увеличенным экраном, бо...
 
-7. На Anthropic подали в суд за обучение ИИ на песнях Элвиса Пресли
+13. На Anthropic подали в суд за обучение ИИ на песнях Элвиса Пресли
    🔗 https://3dnews.ru/1150427
    📅 26.10.2026 12:01
    🏷️  Темы: ИИ
    📝 Владельцы музыкального каталога Элвиса Пресли (Elvis Presley) подали иск против ИИ-компании Anthropic, обвинив её в использовании песен короля рок-н-ролла для обучения своих моделей без соответствующе...
 
-8. Спрос на ИИ-инженеров в Китае взлетел на 1523 % — лучшие получают почти $150 тысяч в год
-   🔗 https://3dnews.ru/1150426
-   📅 26.10.2026 10:32
-   🏷️  Темы: ИИ
-   📝 За последние пару лет специальность инженера передового развёртывания (forward-deployed engineer, FDE), предполагающая разработку ИИ-приложений под конкретные бизнес-задачи, стала одной из самых быстр...
-
-9. Маск привлёк $40 млрд для SpaceX на закупку ИИ-чипов и предрёк вымирание неооблаков
-   🔗 https://3dnews.ru/1150415
-   📅 26.10.2026 06:25
-   🏷️  Темы: ИИ
-   📝 Илон Маск (Elon Musk) сообщил о заключении сделки по привлечению $40 млрд заёмных средств на покупку GPU для нужд SpaceX. По его словам, получать кредиты в сфере ИИ становится всё сложнее, поэтому нем...
-
 
 ──────────────────────────────────────────────────────────────────────
-📰 CNEWS (12 статей)
+📰 CNEWS (2 статей)
 ──────────────────────────────────────────────────────────────────────
 
 1. Подбирать тендеры для сделок стало проще: в «Контур.Закупках» появились ИИ-возможности
@@ -118,463 +140,416 @@
    🏷️  Темы: ИИ
    📝 Исследователи ИИ-Центра «Т-Банка» представил два метода обучения ИИ-моделей для компаний, которые запускают ИИ......
 
-3. «Ай-Джи-Эй» и «СиСофт» договорились о совместном развитии и продвижении ИИ-технологий для капитального строительства
-   🔗 https://www.cnews.ru/news/line/2026-10-26_aj-dzhi-ej_i_sisoft_dogovorilis
-   📅 26.10.2026 11:02
-   🏷️  Темы: ИИ
-   📝 «Ай-Джи-Эй Системы» (ГК «Ай-Джи-Эй») и «СиСофт Девелопмент» (ГК «СиСофт») заключили соглашение о стратегическом......
 
-4. Банкиры требуют предустанавливать на смартфоны российские сертификаты безопасности вместе с банковскими приложениями
-   🔗 https://www.cnews.ru/news/top/2026-10-26_rossijskie_banki_trebuyut
-   📅 26.10.2026 09:42
+──────────────────────────────────────────────────────────────────────
+📰 DIGITAL_RUSSIA (5 статей)
+──────────────────────────────────────────────────────────────────────
+
+1. МВД: признать потерянный паспорт недействительным теперь можно на портале госуслуг
+   🔗 https://d-russia.ru/mvd-priznat-poteryannyj-pasport-nedejstvitelnym-teper-mozhno-na-portale-gosuslug.html
+   📅 27.10.2026 09:58
    🏷️  Темы: Минцифры
-   📝 <p>Ассоциация банков России предложила сделать обязательной предустановку российских TLS-сертификатов на смартфоны россиян. Речь о корневых сертификатах Национального удостоверяющего центра Минцифры. ...
+   📝 <p>На едином портале госуслуг (ЕПГУ) запущен сервис, позволяющий оперативно аннулировать паспорт, если он был утерян или украден; срок оказания услуги &#8212; один день, сообщает миграционная служба М...
 
-5. На ИИ зарабатывают только ИТ-гиганты США. Его покупатели не получают ощутимых финансовых выгод
-   🔗 https://www.cnews.ru/news/top/2026-10-26_analitiki_na_ii_zarabatyvayut
-   📅 26.10.2026 08:45
+2. Южнокорейский ЦБ спрогнозировал обрушение экспорта местных полупроводниковых компаний при снижении инвестиций США
+   🔗 https://d-russia.ru/yuzhnokorejskij-tsb-sprognoziroval-obrushenie-eksporta-mestnyh-poluprovodnikovyh-kompanij-pri-snizhenii-investitsij-ssha.html
+   📅 27.10.2026 08:54
    🏷️  Темы: ИИ
-   📝 На искусственном интеллекте пока зарабатывают в основном крупные технологические компании США, в то время как остальной корпоративный сектор не получает от технологии ощутимой финансовой отдачи....
+   📝 <p>ЦБ Южной Кореи спрогнозировал падение объёма экспорта полупроводниковой продукции местных компаний на 50-100 миллиардов долларов при негативном сценарии, учитывающем снижение инвестиций ведущих аме...
 
-6. АНО «НЦК ИСУ» создала ИИ-сервисы для автоматизированной подготовки документации и моделирования данных ERP
-   🔗 https://www.cnews.ru/news/line/2026-10-26_ano_ntsk_isu_sozdala_ii-servisy
-   📅 26.10.2026 08:06
+3. Microsoft предложила добровольно уйти из корпорации 60 тысячам сотрудников
+   🔗 https://d-russia.ru/microsoft-predlozhila-dobrovolno-ujti-iz-korporatsii-60-tysyacham-sotrudnikov.html
+   📅 27.10.2026 07:50
    🏷️  Темы: ИИ
-   📝 АНО «Национальный центр компетенций по информационным системам управления холдингом» разработала два прикладных......
+   📝 <p>Обвинённая администрацией США в злоупотреблениях с наймом иностранных работников компания Microsoft предложила добровольно уйти примерно 60 тысячам сотрудников – больше четверти персонала, написал ...
 
-7. «МТС Линк» запустил ИИ-агента для планирования встреч
-   🔗 https://www.cnews.ru/news/line/2026-10-26_mts_link_zapustil_ii-agenta
-   📅 26.10.2026 08:01
-   🏷️  Темы: ИИ
-   📝 «МТС Линк», платформа для бизнес-коммуникаций, обучения и совместной работы, добавила в ИИ-ассистента функцию......
-
-8. «Астра ИИ Платформа» открывает бизнесу доступ к безопасным агентам
-   🔗 https://www.cnews.ru/news/line/2026-10-26_astra_ii_platforma_otkryvaet
-   📅 26.10.2026 07:59
-   🏷️  Темы: ИИ
-   📝 «Группа Астра» вывела на рынок «Астра ИИ Платформу» – новое решение из экосистемы «Астра ИИ». С ним можно без......
-
-9. МФТИ и «Антиплагиат» объединят усилия в подготовке специалистов ИИ‑технологий
-   🔗 https://www.cnews.ru/news/line/2026-10-26_mfti_i_antiplagiat_obedinyat
-   📅 26.10.2026 07:44
-   🏷️  Темы: ИИ
-   📝 Компания «Антиплагиат» и Московский физико-технический институт (МФТИ) подписали договор о сотрудничестве в......
-
-10. С полуслова: исследователи MWS AI и ИТМО сократили объем данных для обучения голосовых моделей новым языкам почти в четыре раза
-   🔗 https://www.cnews.ru/news/line/2026-10-26_s_poluslova_issledovateli
-   📅 26.10.2026 07:32
-   🏷️  Темы: AI, ИИ
-   📝 Лаборатория методов эффективного ИИ и инфраструктуры данных для низкоресурсных сред, созданная на базе ИТМО......
-
-11. edna автоматизировала подбор участников оценки «360 градусов» с помощью ИИ в BPMSoft
-   🔗 https://www.cnews.ru/news/line/2026-10-26_edna_avtomatizirovala_podbor
-   📅 26.10.2026 07:09
-   🏷️  Темы: ИИ
-   📝 Компания edna, поставщик решений и сервисов в области цифровых коммуникаций, реализовала проект автоматизации......
-
-12. «Руконт»: Проверка студентов на ИИ через запись действий - МИФИ, МАИ, ПГУТИ и УрФУ назвали риски
-   🔗 https://www.cnews.ru/news/line/2026-10-26_rukont_proverka_studentov
-   📅 26.10.2026 05:13
-   🏷️  Темы: ИИ
-   📝 Российский разработчик систем обнаружения текстовых заимствований «Руконтекст» (ООО «НЦР «Руконт») собрал оценки......
-
-
-──────────────────────────────────────────────────────────────────────
-📰 DIGITAL_RUSSIA (3 статей)
-──────────────────────────────────────────────────────────────────────
-
-1. Еврокомиссия решила учесть достижения в ИИ-сфере при подготовке переводчиков в ЕС
-   🔗 https://d-russia.ru/evrokomissiya-reshila-uchest-dostizheniya-v-ii-sfere-pri-podgotovke-perevodchikov-v-es.html
-   📅 26.10.2026 12:40
-   🏷️  Темы: ИИ
-   📝 <p>Европейская сеть магистратуры в сфере переводов (The European Master’s in Translation, EMT, создана при Еврокомиссии) в понедельник обновила требования к подготовке переводчиков в ЕС с учётом дости...
-
-2. Иностранные граждане смогут повысить уровень учётной записи ЕСИА с помощью биометрии – проект постановления
-   🔗 https://d-russia.ru/inostrannye-grazhdane-smogut-povysit-uroven-uchyotnoj-zapisi-esia-s-pomoshhyu-biometrii-proekt-postanovleniya.html
-   📅 26.10.2026 09:24
+4. Третья зона бесплатного Wi-Fi запущена в Хабаровском крае
+   🔗 https://d-russia.ru/tretya-zona-besplatnogo-wi-fi-zapushhena-v-habarovskom-krae.html
+   📅 27.10.2026 07:49
    🏷️  Темы: Минцифры
-   📝 <p>Минцифры опубликовало для общественного обсуждения проект постановления правительства, предусматривающего возможность повышения уровня учётной записи иностранного гражданина или лица без гражданств...
+   📝 <p>На набережной Хабаровска заработала ещё одна сеть Wi-Fi – это третья и самая большая зона бесплатного беспроводного Интернета в регионе: она покрывает территорию от Речного вокзала до стадиона имен...
 
-3. Классификация ЦОД на предмет физической защиты — рекомендации Минцифры
-   🔗 https://d-russia.ru/klassifikatsiya-tsod-na-predmet-fizicheskoj-zashhity-rekomendatsii-mintsifry.html
-   📅 26.10.2026 08:13
+5. Президент России дал Минцифры поручения по реализации государственной демографической и семейной политики
+   🔗 https://d-russia.ru/prezident-rossii-dal-mintsifry-porucheniya-po-realizatsii-gosudarstvennoj-demograficheskoj-i-semejnoj-politiki.html
+   📅 27.10.2026 07:14
    🏷️  Темы: Минцифры
-   📝 <p>Отраслевой штаб Минцифры утвердил требования к комплексной защите центров обработки данных от беспилотников и других воздушных угроз, стало известно «Коммерсанту». Предусматривается разделение крит...
+   📝 <p>Владимир Путин подписал перечень поручений по итогам заседания Совета по реализации государственной демографической и семейной политики, часть поручений даны Минцифры России. Минцифры России совмес...
 
 
 ──────────────────────────────────────────────────────────────────────
-📰 GOOGLE NEWS (18 статей)
+📰 GOOGLE NEWS (23 статей)
 ──────────────────────────────────────────────────────────────────────
 
-1. Вдвое дешевле и умнее: новая нейросеть OpenAI уничтожила прошлые поколения ИИ - https://hightech.fm/sitemap
-   🔗 https://news.google.com/rss/articles/CBMia0FVX3lxTE1TaGVBUnpPeElNc2dzaGsxZDgwRlRyYk41eWhyNFlUZlFNMVlsQ0Z1VndPQmxlN3AyMlVqa0lPRzdjdVVfMXBVM1lhQ2J4eWw2dmJuZWpIV0lnTml6SEVHUi15ZDQxbVNmUFVZ?oc=5
-   📅 26.10.2026 19:39
+1. РОМИР определил роль ИИ в исследованиях - РОМИР
+   🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE1ubGdfelZXYXJrdkhwUVkxOTduMXU2Z28xZXlJYUNHanc3NmtWMmNaT3ZwMnB1MlRpM1c0VEcwSVJSMFRGZXlvYV9jamlzMkdtRlNsWDdXTkhoUEt1Qkoyc3FhTTNYMW1aeGRxVXRHbw?oc=5
+   📅 27.10.2026 10:48
    🏷️  Темы: ИИ
-   📝 <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE1TaGVBUnpPeElNc2dzaGsxZDgwRlRyYk41eWhyNFlUZlFNMVlsQ0Z1VndPQmxlN3AyMlVqa0lPRzdjdVVfMXBVM1lhQ2J4eWw2dmJuZWpIV0lnTml6SEVHUi15ZDQxbVNmUFVZ?oc=5"...
+   📝 <a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE1ubGdfelZXYXJrdkhwUVkxOTduMXU2Z28xZXlJYUNHanc3NmtWMmNaT3ZwMnB1MlRpM1c0VEcwSVJSMFRGZXlvYV9jamlzMkdtRlNsWDdXTkhoUEt1Qkoyc3FhTTNYMW1aeGRxVXRHbw...
 
-2. Заявка Anthropic на IPO раскрывает рост выручки и риски ИИ для человечества - Euronews.com
-   🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOU1IX0ZQeWNJNURnSEJ6TVQxYXNJM1hJNzJ4ZFFtZVFaaW1ONTl3Uk83T0NoUGpDM3E5a0NyLXFKM1JHTmJiZ21JUnZwclJHNVNJTHhsb1lEb1U5dFJvNHN4WEVIVVE4aVJzUVJwOEFKZVVnTnVIOWNpeGlaeDB6cC01MTNFZGR3ZWxiczh5Y0J2RWY1dHQ4NXpwZGJvX0JPZUtfcVk2R1ZvVDRTaEhwSHB1ZmwyX0ZqT2cySUZIa3FJWjQ?oc=5
-   📅 26.10.2026 18:56
+2. Что собираются регулировать в сфере ИИ? - Amic.ru
+   🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPd09CMi12SXlUM1pyOGRtd1FXMXl3RkF4VXZPd0NKSXNITVVrNl93NElvSnV1V2N6YzJTbXVsakVZWF8tSEhlcHVxQXZxcGZET1V3LXMxdDNrajY4MHYyOU50Z0pUU3hBUU5YZzRfVUpmTm84TnJWbGVnWVdBLUN3SER0azFoLVMyeWNOTDRFbUZLMkNvZ2pjb9IBS0FVX3lxTFBUYjkzUHF6MUJxSXJxYVROWVltVEh5dHFTeW9Yb2N3VDZLQjY2eVQxS21CeWNCNTZIeEM1R0V0RHpTWG4wS1JwWjRwbw?oc=5
+   📅 27.10.2026 10:30
    🏷️  Темы: ИИ
-   📝 <a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOU1IX0ZQeWNJNURnSEJ6TVQxYXNJM1hJNzJ4ZFFtZVFaaW1ONTl3Uk83T0NoUGpDM3E5a0NyLXFKM1JHTmJiZ21JUnZwclJHNVNJTHhsb1lEb1U5dFJvNHN4WEVIVVE4aVJzUVJwOE...
+   📝 <a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxPd09CMi12SXlUM1pyOGRtd1FXMXl3RkF4VXZPd0NKSXNITVVrNl93NElvSnV1V2N6YzJTbXVsakVZWF8tSEhlcHVxQXZxcGZET1V3LXMxdDNrajY4MHYyOU50Z0pUU3hBUU5YZzRfVU...
 
-3. Sustainable Fitch сохранило ESG-рейтинг SOCAR на уровне «3» - Baku.ws
+3. «МТС Exolve» показала новый Контакт-центр с ИИ-агентами и Co-Pilot для операторов - CNews.ru
+   🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE42RktNQTF3UWhsLVZ5MUdYS2tpNTlESFJBdDBwWmg0SEkxMkYxNFdjdVhGUGcxNmVSSUl6dURpX0s0NUNWRWR1VjU5Z3paaHNYcGcxQmVteDU4a1lJUExsM0NkWFlkWk45bzhxQjI5OWpqZUxiQlE?oc=5
+   📅 27.10.2026 10:30
+   🏷️  Темы: ИИ
+   📝 <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE42RktNQTF3UWhsLVZ5MUdYS2tpNTlESFJBdDBwWmg0SEkxMkYxNFdjdVhGUGcxNmVSSUl6dURpX0s0NUNWRWR1VjU5Z3paaHNYcGcxQmVteDU4a1lJUExsM0NkWFlkWk45bzhxQjI5OW...
+
+4. Китайский рынок техкомпаний потерял почти полтриллиона долларов на фоне ИИ-бума - БИЗНЕС Online
+   🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fOWtUQ0R1NnlnRlluaE5QVnlnTk1hXzdReUxIMktuRU9rX1ktbTNkRHlINzdESEJubS1UNjJscEdzdnBOb1dIUnRodGtma3VFVFI3S9IBU0FVX3lxTE03TEdPcldWNlhybnFobzRsS2hKQXJfQnBrVUNjSVJSbi1OUWlURTBpc1hKWlU4WUUwZ0ZXcjBvNkoteE1RWG5GaGt5RUJCUlozSjNF?oc=5
+   📅 27.10.2026 09:48
+   🏷️  Темы: ИИ
+   📝 <a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fOWtUQ0R1NnlnRlluaE5QVnlnTk1hXzdReUxIMktuRU9rX1ktbTNkRHlINzdESEJubS1UNjJscEdzdnBOb1dIUnRodGtma3VFVFI3S9IBU0FVX3lxTE03TEdPcldWNlhybnFobzRsS2...
+
+5. Дробыш призвал не ограничивать конкуренцию ИИ-музыки с живыми исполнителями - ТВ Mail
+   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQemRHZ2hoT19NWGdiUzg2TDF3bmVVUDZrb1haU2ZzQkpXSkZfbzMzcTZua1hTTkJGUmRGMWMzVlo2aDZzZDV3d3dab2NZU0w4X1pxOXB5a3ZVSkx1cjdLRW5mbm9abjFWUWdLTVkzbWtJN3ZaOGVlQmhTUWFlaGJVQUY4aHhJV3JWLTJTLWJ1ODRneFlpbkx1U2dMNUxhT1ZoanlZZTl2MHlfZnNPZVVndWhRMnJydw?oc=5
+   📅 27.10.2026 09:45
+   🏷️  Темы: ИИ
+   📝 <a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQemRHZ2hoT19NWGdiUzg2TDF3bmVVUDZrb1haU2ZzQkpXSkZfbzMzcTZua1hTTkJGUmRGMWMzVlo2aDZzZDV3d3dab2NZU0w4X1pxOXB5a3ZVSkx1cjdLRW5mbm9abjFWUWdLTVkzbW...
+
+6. ИИ-пузырь лопнул в Китае. Начался обвал акций ИТ-компаний - CNews.ru
+   🔗 https://news.google.com/rss/articles/CBMickFVX3lxTE0xSnZTUjVpMG9ZUVpvZHpFRlp2U0JyQS1zRVVKdjJhSDloSTBNT3dhaXVOOUlyTXBEU2tqTnMta19XSVZLMW5VV00zcUdkVmtqV1JaR0daeDJsYWQ4d1czVEdzdk1ndVA3Y2RkT2Q4VENpQQ?oc=5
+   📅 27.10.2026 09:40
+   🏷️  Темы: ИИ
+   📝 <a href="https://news.google.com/rss/articles/CBMickFVX3lxTE0xSnZTUjVpMG9ZUVpvZHpFRlp2U0JyQS1zRVVKdjJhSDloSTBNT3dhaXVOOUlyTXBEU2tqTnMta19XSVZLMW5VV00zcUdkVmtqV1JaR0daeDJsYWQ4d1czVEdzdk1ndVA3Y2RkT2Q4VE...
+
+7. Партия “Әділет” рассматривает пути цифровизации программы “Таза Қазақстан” и внедрения ESG-стандартов - Liter.kz
+   🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZXZmQ21LSFpxSzFuOUZ1WWV3UU5hMmlPcnZBSlptd0xyX0s0X3liV0V5QXdBbHZhQl9nVlZPSWRwbzlZNGpubi1sSmxDV0ZhMjVGcmFTdGN3ZW9sYmF5Q25rdG82TXBLdXVvSGlmYkNDNGpsSmJveUtGN091OGJqTjFiN2NUUndVa3NtdUlSSXoyLXVvRWNLUndQaFFqX2c2VmhtblJiTmp2cjF5S01VSTJIMzhIbkIxaHZlQmNPY3lDYmhhdUt6adIBzgFBVV95cUxPR3Jta0JGdTU3dWJoV3BDbDdMQUZEMkNZY0FFek1IV1RUWjkzZ044U2FwSDBOTFZRRDZmUEdFcjBrN1FDUTlTRVZ6dG1aWkNsWWhHYzR2eXphOTExWjdsLWc2SnVwZEY0Y0ZWVUUyb0VHYTJNNmpsaEJUZXYtZHlKbjh5RXJQdUFtMDkxbWhKV3JJdnlrZzVFQTF1UEVDSTlVN0hXSEQxLTk1MG8ySlN1TVpZQ1oweW4yUURETk1lQ1JxczlnaW1DeDRXNHdHQQ?oc=5
+   📅 27.10.2026 09:36
+   🏷️  Темы: ESG
+   📝 <a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZXZmQ21LSFpxSzFuOUZ1WWV3UU5hMmlPcnZBSlptd0xyX0s0X3liV0V5QXdBbHZhQl9nVlZPSWRwbzlZNGpubi1sSmxDV0ZhMjVGcmFTdGN3ZW9sYmF5Q25rdG82TXBLdXVvSGlmYk...
+
+8. Anthropic включила в проспект IPO угрозу человечеству со стороны ИИ - БКС Экспресс
+   🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQZnJNTEh6SjhOQVQ5VUhPblluT3FqeFpjMzNYQjFQQW80SGl2N1V1ektXRUpxOVktQmhVbXo1aFZHbHlEYTN6bHVoUktwTjZhUEFsX0pRT29pT1p0M281b1NET0FXNWVZUGdYVldTVEtrcHd3TzNId1RrUXY4UGkwY2xlNUpxUG1FUkNsb25ucUpRVUozalJBSldKN1Z4d3hwOXZleFBlbVp2SWxyVHVsTng5LTFQSFBTdkRRcXRiODRCcEJpcW13?oc=5
+   📅 27.10.2026 09:19
+   🏷️  Темы: ИИ
+   📝 <a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxQZnJNTEh6SjhOQVQ5VUhPblluT3FqeFpjMzNYQjFQQW80SGl2N1V1ektXRUpxOVktQmhVbXo1aFZHbHlEYTN6bHVoUktwTjZhUEFsX0pRT29pT1p0M281b1NET0FXNWVZUGdYVldTVE...
+
+9. Генеративный ИИ меняет рынок труда - Институт статистических исследований и экономики знаний
+   🔗 https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WbFdDb0UzemtvRm9ReUpycGlmNm9IcEFGbjFCUlRvb1cxeTB0U0hOOFpvZlJXczg3MEo0ZWZodlNTQUNVR09icHR6UGphWXd1NVBv?oc=5
+   📅 27.10.2026 09:05
+   🏷️  Темы: ИИ
+   📝 <a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WbFdDb0UzemtvRm9ReUpycGlmNm9IcEFGbjFCUlRvb1cxeTB0U0hOOFpvZlJXczg3MEo0ZWZodlNTQUNVR09icHR6UGphWXd1NVBv?oc=5" target="_blank">Генеративный ИИ...
+
+10. Сбои ИИ-агентов грозят глобальными потрясениями — в Госдуме готовят новые нормы - BeInCrypto
+   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFAwaXJYa3NpNWdKRTdzN19oMG5wTFFad29lSi02OUdkS2Z3TjAzdkp1SHNWV19MY0JTV3pieEU5cG5DeVZTalB5MW0zS1hiRmdqYTdzVE9oZlJsd3RuRzRPYXY0c3ZvcmJqOHQ2WlVfUTJvMTQ3NWhv?oc=5
+   📅 27.10.2026 09:00
+   🏷️  Темы: ИИ
+   📝 <a href="https://news.google.com/rss/articles/CBMid0FVX3lxTFAwaXJYa3NpNWdKRTdzN19oMG5wTFFad29lSi02OUdkS2Z3TjAzdkp1SHNWV19MY0JTV3pieEU5cG5DeVZTalB5MW0zS1hiRmdqYTdzVE9oZlJsd3RuRzRPYXY0c3ZvcmJqOHQ2WlVfUT...
+
+11. Пилотная программа оказывает поддержку 20 малым и средним предприятиям в переходе на ESG-стратегии и привлечении «зеленого» капитала. - Vietnam.vn
+   🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPMUw3Rmc5UnBjaXNzaU5DR1d5S3E3V3VLaVFZVEN2MVZzRjNqRE9qTk5maTBrUmxTY0ltMVhrNklpVkh3OHphSi1iTUlvSTJKTjlhOWMxYm00cE55RjVmWnJQejU1bkd3cjYtYTJUM3EyRm9JYkVHTDRwZm90dFZTRUJjQzVaSzNjR0xfcHpqUkZfS29tdXAxWmIwekctNllLQzdJ?oc=5
+   📅 27.10.2026 08:56
+   🏷️  Темы: ESG
+   📝 <a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxPMUw3Rmc5UnBjaXNzaU5DR1d5S3E3V3VLaVFZVEN2MVZzRjNqRE9qTk5maTBrUmxTY0ltMVhrNklpVkh3OHphSi1iTUlvSTJKTjlhOWMxYm00cE55RjVmWnJQejU1bkd3cjYtYTJUM3...
+
+12. Бунтующий ИИ, кибератаки и оружие: риски Anthropic перед IPO - Euronews.com
+   🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVXljQlZCdFBJWDZvOVBDMWdNcVBKRV8zX2dlUWxLY004Tm9jTHlPdE9tU1c0dmQ2N1c2SWVHXzk0WUczaUxodmxxanJqZVNxU3Bid2hKVWJGUXZfM3hRZWk0RnBTVk9mLXJCdzJFRzVaR2FWQ2haY3I3MmZ6OVF1cnNQYU9QMHNRd2pkQ2hKbWFteW9yR2VtdDE2ajdneHkwaU1ydEtrT1pkN01LbHk4eWl1V1lQWkNUMXAyNTRaNlViZw?oc=5
+   📅 27.10.2026 08:54
+   🏷️  Темы: ИИ
+   📝 <a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVXljQlZCdFBJWDZvOVBDMWdNcVBKRV8zX2dlUWxLY004Tm9jTHlPdE9tU1c0dmQ2N1c2SWVHXzk0WUczaUxodmxxanJqZVNxU3Bid2hKVWJGUXZfM3hRZWk0RnBTVk9mLXJCdzJFRz...
+
+13. Вредоносный ИИ-агент Skynet захватывает других агентов и заставляет жертв оплачивать свою работу - 3DNews
+   🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUV9wd3N3NE9zUU1QVFdJU3RfOXVBcjVHY2pDUGRoS01WWW5rY2RsdWVKVWNiT042WlNjTVR6R0NiT0RSWWVWc21CNTROcGJESncyX1ZKUWV3cS15VUlmaV95eGs0dk12WmVzY0x3RzNrSVFOOFAtNDJraG9qbmlHMkZXV2tuaWtnYXZGU0dxNGNQTjZxY0NMTmR5bFFzQ1ZHNm9fV2ZOMkprSjMtMDFWcm54U2RYVXpFN0h1QVQtNnPSAcYBQVVfeXFMTmtXbFIxZnJ1Q2lhVk9vdmxEUUQwZE1iZGF0U0lRV25acWFnazZyWXNSRERGb01LaE9jTTJ4ZU1rQ2wwMmM0cS1sc0FjR3E4RmpaMWdUZWZxdVNDVEVrQlpwSVhKd0J5NDhSUG54TnljVXNPcFVuTXp1MGNucURTeDNpeS1QZkFUWlU0LUFFcmM0MzZkcV9VaTJLY3VCZHlzMUtHTW5lS25sZkpOcDFoVVIwMXlkTGI5cnh4LWl1MVNFZTdXWE9n?oc=5
+   📅 27.10.2026 08:51
+   🏷️  Темы: ИИ
+   📝 <a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUV9wd3N3NE9zUU1QVFdJU3RfOXVBcjVHY2pDUGRoS01WWW5rY2RsdWVKVWNiT042WlNjTVR6R0NiT0RSWWVWc21CNTROcGJESncyX1ZKUWV3cS15VUlmaV95eGs0dk12WmVzY0x3Rz...
+
+14. ММ утвердил регулирование режима работы и отдыха экипажей коммерческой авиации - 1News.az
+   🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN1BSUktLRWtITHVhSkFRYTRIcnNzZ0xmQU9WU1JEdXh2UnJVeFRJVnFoY2d0WTR6RGFwYjk2ODQ2SjdOc2lLcWg0ZDJPTXZLbXMyZFpCNlVTeXc1ZVFobDVmZWMwRzhoUVZRcUhIczA4cndzMy1tdzR0MWJWS3B2emo4QUg3Ym1OT3JldWJUZV9NZ2FpWTFtQWxtS1lOaXdkWHZEdlhBaWthaFJSd2xGaHVzWVBQck5rTjd4alBSdzk?oc=5
+   📅 27.10.2026 07:35
+   🏷️  Темы: регулирование
+   📝 <a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN1BSUktLRWtITHVhSkFRYTRIcnNzZ0xmQU9WU1JEdXh2UnJVeFRJVnFoY2d0WTR6RGFwYjk2ODQ2SjdOc2lLcWg0ZDJPTXZLbXMyZFpCNlVTeXc1ZVFobDVmZWMwRzhoUVZRcUhIcz...
+
+15. Цифровой контур производства: как связать данные, оборудование и искусственный интеллект - Эксперт ЮГ
+   🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNRWJ0cWJ2UlFxX1I4czdrVWlOY0l4UDNTZ0FQc2VPZGx0NlhMZ2NpSTlrS1BJaUpHcmRBSXFxRW5rWTdITkpwUDF0Ti02UmhjTUhwRVozNjhxSFBEYm54TmxXWEp6aTF6ZkFSTFliYTZJa0FYandHbmFWeUlEZkNyNlB2TzVReTJYXzVkRm1id25odzZUYTdOREx6endDeldlMGhoeUlMN1RTWEQ1N2F1YXZ3QllOREZMOUg5SA?oc=5
+   📅 27.10.2026 07:33
+   🏷️  Темы: искусственный интеллект
+   📝 <a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNRWJ0cWJ2UlFxX1I4czdrVWlOY0l4UDNTZ0FQc2VPZGx0NlhMZ2NpSTlrS1BJaUpHcmRBSXFxRW5rWTdITkpwUDF0Ti02UmhjTUhwRVozNjhxSFBEYm54TmxXWEp6aTF6ZkFSTFliYT...
+
+16. Anthropic: Развитые ИИ создают «катастрофические риски для человечества» - БИЗНЕС Online
+   🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTE81MktFUWF3bzZsZ19UUUUxMEQwaHZJVmlSYnFxNmFRTldxN2M0UmlUdkZJaGdCX1AxT2dPX01UWWhIeE9vYkwxbXppSkxPVFQ0dkhxVNIBU0FVX3lxTE44WGZuTGY0bXNwRHRXVnZqRnZpWEtwSmRsbnIzdUY0R04tVVVOR19zdTQyY3BUUlFlTGx2TlVIOG9Wc0d6ZGZzWjFmY1JCbDY1YVJn?oc=5
+   📅 27.10.2026 07:19
+   🏷️  Темы: ИИ
+   📝 <a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE81MktFUWF3bzZsZ19UUUUxMEQwaHZJVmlSYnFxNmFRTldxN2M0UmlUdkZJaGdCX1AxT2dPX01UWWhIeE9vYkwxbXppSkxPVFQ0dkhxVNIBU0FVX3lxTE44WGZuTGY0bXNwRHRXVnZqRn...
+
+17. Автор «Чистого кода» выпустил бесплатный скилл для ИИ-агентов - Журнал «Код»
+   🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxNdjZCNGZSX2d3ZmFNZWY4bVAxa2pQN1FFeWxhVklRTzg1OS1EV3h4Qnp0Nmw5bllKRHRXYm0zMVR6ZDF1TnFMRml4cVp5YXhCeldoY1M1REZuZGFZeTMxS0JnTnM3VmgtVDFUVzdpdk1CSXhrVVIzMjN6azRmQnRpdFR4MEFWclhrY1d6YtIBkgFBVV95cUxOekduVXFyUzl5NW9wNmdyS1dNaXUtTFVUVHd3XzU3a0hmYndmdDM0dVJ6YU52UWJmdDRsY3d5X0Mwa1ZZdkwzTTRHcjBOUnNTcTRQMVQ3bHdUSl96aU1kMmEtUXNrWmhNY1h0VVh6VUs3WllGN3NUcFRESzY3Zk5uSlRib3gxWElOSTQtbi1YMGc0dw?oc=5
+   📅 27.10.2026 06:35
+   🏷️  Темы: ИИ
+   📝 <a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxNdjZCNGZSX2d3ZmFNZWY4bVAxa2pQN1FFeWxhVklRTzg1OS1EV3h4Qnp0Nmw5bllKRHRXYm0zMVR6ZDF1TnFMRml4cVp5YXhCeldoY1M1REZuZGFZeTMxS0JnTnM3VmgtVDFUVzdpdk...
+
+18. Доставка еды и продуктов под контроль: платформенное регулирование, проверка поставщиков - Финансы Mail
+   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHdKWGtBaWRGdW5qVkNqdGVjVFhHNGxLWE5XaDVwV1V4NlRYdmNFUzV3QXo5V3d3aHQ1WlNLZUtDbUhYQU5IMDBBZUQ0RVhCbjdNOTJDTzFpdE13NFJydVNVaDRDWWYxa0pnTnE4dXBYQlczTEJTZGltU1VFSk84Y0NueFY0T1cyWEtMV2kwRHZYZmV2TnVHSndIelkxbVFqT3kzc0thWVFjUUlMczFVWHJTZnhvVmM?oc=5
+   📅 27.10.2026 06:35
+   🏷️  Темы: регулирование
+   📝 <a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHdKWGtBaWRGdW5qVkNqdGVjVFhHNGxLWE5XaDVwV1V4NlRYdmNFUzV3QXo5V3d3aHQ1WlNLZUtDbUhYQU5IMDBBZUQ0RVhCbjdNOTJDTzFpdE13NFJydVNVaDRDWWYxa0pnTnE4dX...
+
+19. Депутат Сидякин анонсировал работу Госдумы над регулированием рынка ИИ-агентов - Интерфакс
+   🔗 https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qZ0t4UHJDNnFHczE2SU94R3J4MUEtTzV3d25KQXZQZ1JTa1VKVURoREd6b3RGMmNPYkJwTlpXdURTcENkUFo4WG9IWTBwelHSAUtBVV95cUxOb3dqRktDSnk5QWFSQ1VjNTJaLVZfTDROUDRpOEJfRXdvUUtUc2F4S0RDOEpwWmgyRjBwall0akEzQVp2eF9WRGZnTGs?oc=5
+   📅 27.10.2026 05:12
+   🏷️  Темы: ИИ
+   📝 <a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qZ0t4UHJDNnFHczE2SU94R3J4MUEtTzV3d25KQXZQZ1JTa1VKVURoREd6b3RGMmNPYkJwTlpXdURTcENkUFo4WG9IWTBwelHSAUtBVV95cUxOb3dqRktDSnk5QWFSQ1VjNTJaLVZfTD...
+
+20. Депутат Сидякин анонсировал работу Госдумы над регулированием рынка ИИ-агентов - Интерфакс
+   🔗 https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vd2pGS0NKeTlBYVJDVWM1MlotVl9MNE5QNGk4Ql9Fd29RS1RzYXhLREM4SnBaaDJGMHBqWXRqQTNBWnZ4X1ZEZmdMa9IBS0FVX3lxTE5vd2pGS0NKeTlBYVJDVWM1MlotVl9MNE5QNGk4Ql9Fd29RS1RzYXhLREM4SnBaaDJGMHBqWXRqQTNBWnZ4X1ZEZmdMaw?oc=5
+   📅 27.10.2026 05:12
+   🏷️  Темы: ИИ
+   📝 <a href="https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vd2pGS0NKeTlBYVJDVWM1MlotVl9MNE5QNGk4Ql9Fd29RS1RzYXhLREM4SnBaaDJGMHBqWXRqQTNBWnZ4X1ZEZmdMa9IBS0FVX3lxTE5vd2pGS0NKeTlBYVJDVWM1MlotVl9MNE5QNG...
+
+21. Sustainable Fitch сохранило ESG-рейтинг SOCAR на уровне «3» - Baku.ws
    🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxPTWIzVlIweGQ3V09hVnQ0a3ZZaUppZ1hzeGJzQ1U5VFpETjVBVFN1U1RQMExkd0VRUHNic3hRV3R2b1R2YUhIQzNQanE0VmhnNVV4S1lZVWVxM2IwZVcyTkhBbXR0dkgwSWwtV3NXM1RpQkdvekJxMk82cW5CY0tROC1lQ05ZczJ4eUQ0UTIxOA?oc=5
    📅 26.10.2026 17:36
    🏷️  Темы: ESG
    📝 <a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxPTWIzVlIweGQ3V09hVnQ0a3ZZaUppZ1hzeGJzQ1U5VFpETjVBVFN1U1RQMExkd0VRUHNic3hRV3R2b1R2YUhIQzNQanE0VmhnNVV4S1lZVWVxM2IwZVcyTkhBbXR0dkgwSWwtV3NXM1...
 
-4. Астана переводит энергию в искусственный интеллект / СНГ - Независимая газета
+22. Астана переводит энергию в искусственный интеллект / СНГ - Независимая газета
    🔗 https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DR2VKOHdkUlItcXV4ZUJxbTNsc1JsSmtSVmRFbDBiNjhwaU5sUXNZQ3JYWmEzY3dlU2k3LU5SRHB4LWIwY19JTVBUS2tOVmRfb19NWmRUc1VKNHNFbDZXSHIzQTBnUQ?oc=5
    📅 26.10.2026 17:06
    🏷️  Темы: искусственный интеллект
    📝 <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DR2VKOHdkUlItcXV4ZUJxbTNsc1JsSmtSVmRFbDBiNjhwaU5sUXNZQ3JYWmEzY3dlU2k3LU5SRHB4LWIwY19JTVBUS2tOVmRfb19NWmRUc1VKNHNFbDZXSHIzQTBnUQ?oc=5" targe...
 
-5. Индонезия усиливает регулирование в сфере ИИ для защиты данных. - Vietnam.vn
-   🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxQZlNkc3RjMGluRkVLNmpOSGQtMG5RYmxBUXJJNm1IQXRyQmxheC1kV0tlTTVnZnpxeG4wUHNXMWlaRUtBZHZmaFU2MXd4bmpURlVOSDUxc1laY1BQQXNiSWdKY1UyTXF1Yk1Td1o5MnhYbWszNjhuZEN1Y3hoVmVoVENR?oc=5
-   📅 26.10.2026 16:38
-   🏷️  Темы: регулирование, ИИ
-   📝 <a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxQZlNkc3RjMGluRkVLNmpOSGQtMG5RYmxBUXJJNm1IQXRyQmxheC1kV0tlTTVnZnpxeG4wUHNXMWlaRUtBZHZmaFU2MXd4bmpURlVOSDUxc1laY1BQQXNiSWdKY1UyTXF1Yk1Td1o5Mn...
-
-6. Журналиста «Царьграда» оштрафовали за публикацию ИИ-фото самарского губернатора с алкоголем - Новая газета Европа
-   🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOR2xwaHdudjgtclJnNXN2STdJcnU2czU3c1N4aTFGbWEwbnVEUk9EZEJ0WDdic25IZ1Q0bmtGazZSTk0xWlVJOVdLZ0ZRejc4UHZ6cU15OEtWZnFVVkRjczk3ZS1TYmtLZ21YNmZiZGxUM1RCRlRtT25RMTBIRU9zUnAtSnlLYWU1Y2RjSU1JaU90NGJBY3VoN1B2eVVUaTJ0Vnd4YVo2MmFtUm1kN2pFS2tVbUxJWFQ0RjY0MGNlUC0zb1VvbzBlallXS2U5S0dpRDQyOTVaVV9Ed9IB3wFBVV95cUxONjJZRUF6Q0YzV3JmWWVHNjVFdmQ5dkFQc3pXWGMwUVpQaUlnTTVkeTUzNnkyUnhWcEVyVWhkT3FwdUR6cDBLeVI3WHEtMlNvM24zVS1FVVhIS204aDRndWtCc05kclNmMm9pQ01vNy1PUVp4aG9IZ3g3bXlYR0ZzSk5pUDY2QVJlRS1mQmVDQ1BnMC1uT3VjX25IQ09iZF9BemViZV9SUzF6Qjh3c1dGdHFfUmt6VFY0dUFVcmNBeDJHNVhyRmtlOUxJUVEzMnRVcHVqLUlzNGFyazNGQUtF?oc=5
-   📅 26.10.2026 16:27
-   🏷️  Темы: ИИ
-   📝 <a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxOR2xwaHdudjgtclJnNXN2STdJcnU2czU3c1N4aTFGbWEwbnVEUk9EZEJ0WDdic25IZ1Q0bmtGazZSTk0xWlVJOVdLZ0ZRejc4UHZ6cU15OEtWZnFVVkRjczk3ZS1TYmtLZ21YNmZiZG...
-
-7. Билл Гейтс предупредил о риске потери контроля над ИИ в ближайшие годы - БИЗНЕС Online
-   🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sRk5GSk1iTk45SmVzeV9IcG9sZXJ1NnBKWUMwMmhXUGZzSUdKQVVZLURzWDdVMFhPMFNqbS04WG8zRDBZU0NJTmFGRVg3d2JNbEo4YtIBU0FVX3lxTFBkbEZpUUpHVEFIN2lVXzk5TzJod0M3MHlTVU9OeDRmYlhDQ1MzZm1UaXlZbUhYNnRYczE3T3lidWJvX3gzVG9ZNS1XdUZma2JSbkg0?oc=5
-   📅 26.10.2026 16:22
-   🏷️  Темы: ИИ
-   📝 <a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sRk5GSk1iTk45SmVzeV9IcG9sZXJ1NnBKWUMwMmhXUGZzSUdKQVVZLURzWDdVMFhPMFNqbS04WG8zRDBZU0NJTmFGRVg3d2JNbEo4YtIBU0FVX3lxTFBkbEZpUUpHVEFIN2lVXzk5Tz...
-
-8. Число кибератак в России за год выросло на 38% из-за ИИ - Эксперт
-   🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxPOEtKM0lzZzQ2THN3MHh3X3o0WjdNQjdMMkRaem5lSVBzLVpYeGlvQUUwcTJwZ292TEhsSTRscEszT1k0T1pUZUNtS01OZ0lDTUN6R0tZbmhpVnNzcDBXZk15am9lUk9pM1NhT19NdDNyRmRiWnJlTkl0UktCUC1SWS16WTk?oc=5
-   📅 26.10.2026 15:16
-   🏷️  Темы: ИИ
-   📝 <a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPOEtKM0lzZzQ2THN3MHh3X3o0WjdNQjdMMkRaem5lSVBzLVpYeGlvQUUwcTJwZ292TEhsSTRscEszT1k0T1pUZUNtS01OZ0lDTUN6R0tZbmhpVnNzcDBXZk15am9lUk9pM1NhT19NdD...
-
-9. SpaceX привлекла $40 млрд на чипы для ИИ: условия сделки с Apollo, сроки и окупаемость - Финансы Mail
-   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNdHU2dkFDMFdUbE8xYVFtMkRxX1Y1OFFTM2Q0VG44cHNCdmVsUVkxanZTc0NiczhkRi1fd1lCRWNCLVJJM3ZQSV9IMWJraGFmMGlFTzVCcGpOb1VGSTlRU0I1c1FYY0toMGJlLUxYZVEtOG85TjNyNy13SVI2TFk5R296TjN4TVI0dUl4cklpbFVZX0tDeTV6N1JfaWVnWVJ3R1VaZzY4X2JzdkNSUnAw?oc=5
-   📅 26.10.2026 14:59
-   🏷️  Темы: ИИ
-   📝 <a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNdHU2dkFDMFdUbE8xYVFtMkRxX1Y1OFFTM2Q0VG44cHNCdmVsUVkxanZTc0NiczhkRi1fd1lCRWNCLVJJM3ZQSV9IMWJraGFmMGlFTzVCcGpOb1VGSTlRU0I1c1FYY0toMGJlLUxYZV...
-
-10. В МГУ пред­ло­жили учи­тывать раз­ногла­сия вра­чей при оцен­ке ме­дицин­ско­го ИИ - МГУ имени М.В. Ломоносова
-   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQZmpPVnQ5Q1BVaGU4Q1ZKbVZobk9mdFQ1RFlvSVB6UUNEYldac01zRU5GZ0lCTU5GR3BpSm9uTnlUQ1JRcldlNUFqUHNzbVNXMUYyakdsWDU0VERWUjJXSnpNTkVpa1A3RlV3U2NsZ1RzX2NxMG1NSVRLOXdLQkJjeTNTeV90Sml6MFdET2FlU2tfUFlpcmM5Zk01UEJ3dlMweTJOdGhXYW9xbERlaGRDclB2NHBJRkE?oc=5
-   📅 26.10.2026 14:49
-   🏷️  Темы: ИИ
-   📝 <a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQZmpPVnQ5Q1BVaGU4Q1ZKbVZobk9mdFQ1RFlvSVB6UUNEYldac01zRU5GZ0lCTU5GR3BpSm9uTnlUQ1JRcldlNUFqUHNzbVNXMUYyakdsWDU0VERWUjJXSnpNTkVpa1A3RlV3U2NsZ1...
-
-11. Как сэкономить 100к запретив ИИ - Хабр
-   🔗 https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYNzRNeTNuUktqenpSd0xFbzVtaEVCRE9LSXJzT2RNRTJWekdac3o4SElPNzY2bURHTUYzMG9rTHdicDEzS1d5UkJHTTJtUdIBWEFVX3lxTFBrU1BfTEdxTVlsOVVlc25PNEZwRG1GVnhMT3lVQXlfMXFQSGxrcFpWbmxRMHJkU1IwZF8zZklYUnplNmVCMU9oNy1BdU9rd24tS0Q1Ul9zVlI?oc=5
-   📅 26.10.2026 13:54
-   🏷️  Темы: ИИ
-   📝 <a href="https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYNzRNeTNuUktqenpSd0xFbzVtaEVCRE9LSXJzT2RNRTJWekdac3o4SElPNzY2bURHTUYzMG9rTHdicDEzS1d5UkJHTTJtUdIBWEFVX3lxTFBrU1BfTEdxTVlsOVVlc25PNEZwRG1GVn...
-
-12. Новые для русского языка слова в 2026 году описали сферу ИИ и типажи людей - N+1
+23. Новые для русского языка слова в 2026 году описали сферу ИИ и типажи людей - N+1
    🔗 https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yclBaR2xwa2NhQUtrcXNBdGdwUUh3eTUtV24yUDlfU18weXhQekQ4YVNSdEtUWlRIR3dTMEtDU25UUk13RHZ3Z0p2TV9fWkNyN1pMcktMYVJGeEFWWUJ3QtIBZkFVX3lxTE5SaVN6eTFKWlhjUGJoQUVNLWlRNWljTWozd1hiVm5EYjdWY1o2Rm5RT3hZXzlGTnc0WTItMjV4MnpsbHlwckR6RWxINVJHWG04SENnY0pSNzF4RVpPYXUyWTNfWFJadw?oc=5
    📅 26.10.2026 13:20
    🏷️  Темы: ИИ
    📝 <a href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yclBaR2xwa2NhQUtrcXNBdGdwUUh3eTUtV24yUDlfU18weXhQekQ4YVNSdEtUWlRIR3dTMEtDU25UUk13RHZ3Z0p2TV9fWkNyN1pMcktMYVJGeEFWWUJ3QtIBZkFVX3lxTE5SaVN6eT...
 
-13. Регулирование цен на лекарства требует комплексного подхода, охватывающего себестоимость сырья, импорт и розничную дистрибуцию. - Vietnam.vn
-   🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOM0J3MHVWUUU2M2pkbW9sMGIxSHBmNWZXeVoyVHU5MjBsS1hYMHM2cUFMWTJLZWFuUWVqSlBZTjM0eHByT3otRGVWZVNTT0Y0cENuNk1oOGlRcHNuNkN3cVp1YjRJYTJybEtxYXpYNGxzLURTaEV2aTVhOVhBVGIyaXhsVVFKNDRTaGluRkluY2hMbFFJN0kzemF5YXB4N3RtbXB6bXZR?oc=5
-   📅 26.10.2026 11:36
-   🏷️  Темы: регулирование
-   📝 <a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOM0J3MHVWUUU2M2pkbW9sMGIxSHBmNWZXeVoyVHU5MjBsS1hYMHM2cUFMWTJLZWFuUWVqSlBZTjM0eHByT3otRGVWZVNTT0Y0cENuNk1oOGlRcHNuNkN3cVp1YjRJYTJybEtxYXpYNG...
-
-14. В Госдуме прогнозируют использование ИИ к 2030 г. в 95% российских отраслей - Интерфакс
-   🔗 https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLeEZxbjg4S183V3VlV0hRT0lOZDNWbEdBWnNYLVNYNFVtZzNNc0ZMV1BuUFJjVmFZRUZkXy1sbmtRRW9JMG8zSGdLVUY3UmfSAUtBVV95cUxORTFwSmpqekV2VFFadndsSVFQOGtadlBLSW92R2hkN0E3ODc3OFRNdEcxMGJnTnBoOUtDQ0NyLUVJQW00RThJVFJSYlE?oc=5
-   📅 26.10.2026 11:24
-   🏷️  Темы: ИИ
-   📝 <a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLeEZxbjg4S183V3VlV0hRT0lOZDNWbEdBWnNYLVNYNFVtZzNNc0ZMV1BuUFJjVmFZRUZkXy1sbmtRRW9JMG8zSGdLVUY3UmfSAUtBVV95cUxORTFwSmpqekV2VFFadndsSVFQOGtadl...
-
-15. На Anthropic подали в суд, обвинив в использовании песен Элвиса Пресли для обучения ИИ - Meduza
-   🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPSWMyMXZkZjZucS1pZEl5X3FWZ09VSnpyWUhScVA1c3dDaUJWNjlOTXB5WmRzTnhtVDd5ejJESnVVWWJoN3hQSjR6VjQzYjZaaUt4bktKZkRfZlp1dTVpdVVQWHdVX1U3OEwwYWxKOGMzaTlFaXpwSjdoN2YxWU9IRVFOYXRVb3V5LWt0a0Zyc3FRanYxRkg5bEJENVUzcUpzdl9SNWduQ2tRci0wUDZSU0VaRDZ0YVA5WU5aTktB0gHDAUFVX3lxTE13OTlKZ29aUFlmUWVZV3lXUjMzek5SbDFUNjY4NVpXblpOeTBiaFBKcGhZTFluN3NIcUlkVl9NelBiVnd5UnhDNFRWTUFMR2NUR0VidTN5eF8wX0IzTFRGZzlQOHc1dm5obTN3YmVXVDNzYWt2Nl8tMzBVT2N0NzkzZUw1S0FYVGVrajB0RXlPbGdRMWRUSFNmanpwVnI5OVFTV0NzdGZ1ZmpjdVdpLVhaN004S2hmOUZ5UjJPcVFkMmVkZw?oc=5
-   📅 26.10.2026 11:19
-   🏷️  Темы: ИИ
-   📝 <a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPSWMyMXZkZjZucS1pZEl5X3FWZ09VSnpyWUhScVA1c3dDaUJWNjlOTXB5WmRzTnhtVDd5ejJESnVVWWJoN3hQSjR6VjQzYjZaaUt4bktKZkRfZlp1dTVpdVVQWHdVX1U3OEwwYWxKOG...
-
-16. Спрос на ИИ-инженеров в Китае взлетел на 1523 % — лучшие получают почти $150 тысяч в год - 3DNews
-   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQNXp2VTRBNlpWTFk5RGxYNzNtWmY1YzE3ZFctYUVxNy1fbEw3VE1WbFZ5SUhUMU9WQlRoUjA0SDFFeHVNcEJPYnE3TlJMRENMUWdHOVYxby05RmZKMk90SjlhZG02Rm1BZU5nV1FXYU11YXpXVk1jQkxNYmEtUjR4SGZMdGhsbXNrc2tIYlliNlczVmZoUVBOeTRMeEticG1IMDRWamVPYTYxWDBCWmZPbG9HNEhtQdIBuwFBVV95cUxPTGVmdzUtOTNCeG50Tnp4eC1GSzBnaUk3c2ZIXzJWOTZ0UFhyUlctQTZIUHJTSG5xamlhXzlQTUFGSkplVjRhOXJnMnRCWnFYX2VYWXNycEtBWjdwb0R5UC1DTE5xUlRiVTg5RG5aSFI3NXR0WWpkTXNDWlJzYmJJbkk1TXI2VTl6VWgtUGhuSTdOUjlxSVZRS0h6LVExd2FUVmNEZzF4Y1JCdW9YdnNNRklVUWplOXlrWC1N?oc=5
-   📅 26.10.2026 10:32
-   🏷️  Темы: ИИ
-   📝 <a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQNXp2VTRBNlpWTFk5RGxYNzNtWmY1YzE3ZFctYUVxNy1fbEw3VE1WbFZ5SUhUMU9WQlRoUjA0SDFFeHVNcEJPYnE3TlJMRENMUWdHOVYxby05RmZKMk90SjlhZG02Rm1BZU5nV1FXYU...
-
-17. Экологичное сельское хозяйство и конкурс ESG 2026: технологические решения и модели замкнутого цикла - Vietnam.vn
-   🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOLWZDVHo1RUlTNlRtbnoybS1UaUtxOXJadVR4djQ0R2lET0JkZ2lVeHIzUGRuUTlydXZTZDF5V3JtbkgyQ0ZlQUdkUEJJczFhTlFCdllDRHBEWFU1cEFvOEZMQ2otajZqRXUzMlc2SW8wX1ByVGI3THVaQTdreDF6VmZpY285YzBGSXJDRHo3YkRDR2U3WXBqQk1QenhHSl9uYmhFaGxBZw?oc=5
-   📅 26.10.2026 09:08
-   🏷️  Темы: ESG
-   📝 <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOLWZDVHo1RUlTNlRtbnoybS1UaUtxOXJadVR4djQ0R2lET0JkZ2lVeHIzUGRuUTlydXZTZDF5V3JtbkgyQ0ZlQUdkUEJJczFhTlFCdllDRHBEWFU1cEFvOEZMQ2otajZqRXUzMlc2SW...
-
-18. ChatGPT, Grok, Gemini и большинство других ИИ-моделей раскритиковали человечество — ModelCompare - Клуб DNS
-   🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPS1phS2tLSlgyaWtuemF6S21IUlBfU0VtQy1QakZTTzI4dzROUHBOd2k1a1BFNWxlaml2amdlNDR4UFZfNFhrSjZpZUowYzBNZFJOY2V4dFRlMDBWTi1NY2ZBclc0M014ekdxSUhDVWFLWjRzRHV2blZ4RmNpWWNfenJGOVNvNGYweXZuRE1KbHVQcUl0clJXQ1lhNzdaQU9STHF6MdIBqgFBVV95cUxNMFFNZlpWS200WUhScGxORV9KUkUwNVAxQk9CejVWanM1bWkzUGVUWkFTZ1lTZDBMcjY3YjVrdjh4U25EU09uZnRJTjJ0b3EyR3RMbkR6Q05Kb0RSVllCcnp5ZHNKOGFpdGNDNkxRVENZZnNINXhkUXo5a0xZTzhnS2xKX0hXS2ZNODljMGROVVEwTmhZcGNMdTlyZjV1Mk9RcWxud3BHZXY3QQ?oc=5
-   📅 26.10.2026 06:27
-   🏷️  Темы: ИИ
-   📝 <a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPS1phS2tLSlgyaWtuemF6S21IUlBfU0VtQy1QakZTTzI4dzROUHBOd2k1a1BFNWxlaml2amdlNDR4UFZfNFhrSjZpZUowYzBNZFJOY2V4dFRlMDBWTi1NY2ZBclc0M014ekdxSUhDVW...
-
 
 ──────────────────────────────────────────────────────────────────────
-📰 HABR_AI (30 статей)
+📰 HABR_AI (28 статей)
 ──────────────────────────────────────────────────────────────────────
 
-1. Компьютер начал подвисать, когда на нём заработали ИИ-агенты. Нашлись две причины
+1. Первый рабочий день джуниора Данилы. Часть1. Прайс из Китая
+   🔗 https://habr.com/ru/articles/1100038/?utm_campaign=1100038&utm_source=habrahabr&utm_medium=rss
+   📅 27.10.2026 10:59
+   🏷️  Темы: ИИ
+   📝 <img src="https://habrastorage.org/extt/9a/4b/08/9a4b08b1df868257bef2e3cf01515e09.jpg" /><p>Добро пожаловать в ИТ-отдел крупной компании “ИнвестБолт”, которая знает цену специфики ВЭД с Китаем. Сегодн...
+
+2. Как мы строим безопасную on-prem AI-платформу для корпоративных AI-агентов
+   🔗 https://habr.com/ru/companies/agima/articles/1100006/?utm_campaign=1100006&utm_source=habrahabr&utm_medium=rss
+   📅 27.10.2026 10:22
+   🏷️  Темы: AI
+   📝 <img src="https://habrastorage.org/extt/2a/8e/6c/2a8e6c25e48cd38ff090b87eb83516ec.png" /><p>Разбираем архитектуру корпоративной AI-платформы для безопасной работы AI-агентов с внутренними системами: о...
+
+3. [Перевод] За термином «нейрослоп» скрываются вопросы, которые мы должны обсудить
+   🔗 https://habr.com/ru/articles/1099802/?utm_campaign=1099802&utm_source=habrahabr&utm_medium=rss
+   📅 27.10.2026 10:11
+   🏷️  Темы: ИИ
+   📝 <img src="https://habrastorage.org/extt/0a/63/8a/0a638a64ce7b76f44c0942f932c9ef0f.png" /><p>Говоря «нейрослоп», мы замалчиваем вопросы, которые нужно обсудить. Когда мы называем что‑то нейрослопом, мы...
+
+4. Проходим тесты hh.ru с помощью локального ИИ
+   🔗 https://habr.com/ru/articles/1099994/?utm_campaign=1099994&utm_source=habrahabr&utm_medium=rss
+   📅 27.10.2026 10:03
+   🏷️  Темы: ИИ
+   📝 <img src="https://habrastorage.org/extt/17/96/8e/17968eaa6003f948d0db63f7fcff3c6f.png" /><p>На&nbsp;сайте Хэдхантер можно пройти тесты навыков, результаты которых должны выделять успешных кандидатов с...
+
+5. Как починить RAG
+   🔗 https://habr.com/ru/companies/kts/articles/1099956/?utm_campaign=1099956&utm_source=habrahabr&utm_medium=rss
+   📅 27.10.2026 09:48
+   🏷️  Темы: ИИ
+   📝 <img src="https://habrastorage.org/extt/39/97/34/39973426dd8f61b87450b0dce99ceb1a.png" /><p>Привет! Я Катя Пославская, занимаюсь RAG-системами и ИИ-агентами в <a href="https://kts.tech/">KTS</a>.</p><...
+
+6. Как я 2,5 года никому не нужный софт вайбкодил
+   🔗 https://habr.com/ru/companies/ruvds/articles/1097980/?utm_campaign=1097980&utm_source=habrahabr&utm_medium=rss
+   📅 27.10.2026 09:02
+   🏷️  Темы: ИИ
+   📝 <img src="https://habrastorage.org/extt/29/a3/18/29a318013b1ff56481c363cf7c24d597.png" /><p>По моим прошлым статьям «<a href="https://habr.com/ru/companies/ruvds/articles/1015648/">Искусство цифрового...
+
+7. Keystone 1.0: LLM-шлюз, который не хардкодит модели, держит свои GPU и не теряет ключи
+   🔗 https://habr.com/ru/articles/1099790/?utm_campaign=1099790&utm_source=habrahabr&utm_medium=rss
+   📅 27.10.2026 08:31
+   🏷️  Темы: AI
+   📝 <img src="https://habrastorage.org/extt/44/0a/4e/440a4e25a067a92578c9809b5399fe25.jpeg" /><p><strong>Имя модели в коде устаревает в день выхода следующей модели.</strong> Если у вас десять сервисов, в...
+
+8. [Перевод] Нужны ли нам теперь математики‑люди?
+   🔗 https://habr.com/ru/articles/1099684/?utm_campaign=1099684&utm_source=habrahabr&utm_medium=rss
+   📅 27.10.2026 08:12
+   🏷️  Темы: искусственный интеллект, AI, ИИ
+   📝 <p><em>Это гостевой пост от автора По-Шен Ло в блоге Теренса Тао, известного математика и лауреата Филдсовской премии</em></p><p>Момент экзистенциального кризиса, который искусственный интеллект уже в...
+
+9. AI-менеджер для WB, Ozon и Маркета: почему мы начали с регулярок, а не с агента
+   🔗 https://habr.com/ru/articles/1099778/?utm_campaign=1099778&utm_source=habrahabr&utm_medium=rss
+   📅 27.10.2026 07:11
+   🏷️  Темы: AI
+   📝 <img src="https://habrastorage.org/extt/40/70/5b/40705bdb0f27d56630a8e6ba7eb75fb7.jpg" /><p>Мы делаем AI-менеджера для селлеров на Wildberries, Ozon и Яндекс Маркете — сотрудника, у которого в руках ц...
+
+10. Я пришёл автоматизировать маркетплейсы из кровавого энтерпрайза, и вот что меня сильно удивило
+   🔗 https://habr.com/ru/articles/1099548/?utm_campaign=1099548&utm_source=habrahabr&utm_medium=rss
+   📅 27.10.2026 07:00
+   🏷️  Темы: ИИ
+   📝 <img src="https://habrastorage.org/extt/86/3e/e5/863ee57f84f71d85da126433fa72d822.jpg" /><p>Привет, Хабр! Я делаю ИИ-агентов для больших компаний. Раньше делал для кровавого энтерпрайза — крупных стра...
+
+11. Разобрал сейв Skyrim VR ИИ-агентами и сделал из него словарь для английского
+   🔗 https://habr.com/ru/articles/1099838/?utm_campaign=1099838&utm_source=habrahabr&utm_medium=rss
+   📅 27.10.2026 06:45
+   🏷️  Темы: ИИ
+   📝 <img src="https://habrastorage.org/extt/0a/40/b3/0a40b368bf9d85a6d09ba641de6a9d11.png" /><p>Английский я теперь учу по Skyrim, и да, это лучшее оправдание, чтобы играть больше. Словарь берётся прямо и...
+
+12. Few-shot: пристрелочная для ИИ-агента
+   🔗 https://habr.com/ru/articles/1099792/?utm_campaign=1099792&utm_source=habrahabr&utm_medium=rss
+   📅 27.10.2026 04:30
+   🏷️  Темы: ИИ
+   📝 <img src="https://habrastorage.org/extt/99/4e/1b/994e1b947a6f4c77c5ea117f21545484.png" /><p>Я использую GLM как «молотилку»: отдаю ей большой объём реализации. Модель хорошая, “рабочая лошадка”, но ин...
+
+13. Компьютер начал подвисать, когда на нём заработали ИИ-агенты. Нашлись две причины
    🔗 https://habr.com/ru/articles/1099768/?utm_campaign=1099768&utm_source=habrahabr&utm_medium=rss
    📅 26.10.2026 19:40
    🏷️  Темы: ИИ
    📝 <img src="https://habrastorage.org/extt/23/63/ba/2363bac25a1316478198d3f8ddf90225.jpg" /><p>Мой домашний компьютер начал подвисать, когда на нём почти круглосуточно заработали ИИ-агенты. Я спросил в ч...
 
-2. Как мы оценивали соответствие предсказаний LLM нормам профессиональных кодексов
+14. Как мы оценивали соответствие предсказаний LLM нормам профессиональных кодексов
    🔗 https://habr.com/ru/articles/1099714/?utm_campaign=1099714&utm_source=habrahabr&utm_medium=rss
    📅 26.10.2026 16:37
    🏷️  Темы: ИИ
    📝 <img src="https://habrastorage.org/extt/75/3f/8c/753f8cac59f5dbf712fbc1aafd28a692.png" /><p>Ответ большой языковой модели в составе ИИ-ассистента на рабочую просьбу может противоречить профессионально...
 
-3. Сказ от Anthropic о том, как рой ИИ-агентов может превратиться в сборище бюрократов
+15. Сказ от Anthropic о том, как рой ИИ-агентов может превратиться в сборище бюрократов
    🔗 https://habr.com/ru/articles/1099290/?utm_campaign=1099290&utm_source=habrahabr&utm_medium=rss
    📅 26.10.2026 16:30
    🏷️  Темы: ИИ
    📝 <img src="https://habrastorage.org/extt/d1/06/e4/d106e4c22285b6296af5126a36ba7601.jpg" /><p>В статье <a href="https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-mai...
 
-4. Как люди придумывали красоту: собрал атлас 195 визуальных стилей, от пещеры Ласко до уирдкора
+16. Как люди придумывали красоту: собрал атлас 195 визуальных стилей, от пещеры Ласко до уирдкора
    🔗 https://habr.com/ru/articles/1099688/?utm_campaign=1099688&utm_source=habrahabr&utm_medium=rss
    📅 26.10.2026 15:25
    🏷️  Темы: ИИ
    📝 <img src="https://habrastorage.org/extt/b6/e9/d4/b6e9d491a4c6c2573adc30264821217e.jpg" /><p>Нейросети дали всем суперсилу: любой человек может за минуту получить вполне красивую картинку. Но суперсила...
 
-5. Pydantic AI: типизированные агенты на своих моделях
+17. Pydantic AI: типизированные агенты на своих моделях
    🔗 https://habr.com/ru/companies/bothub/articles/1099642/?utm_campaign=1099642&utm_source=habrahabr&utm_medium=rss
    📅 26.10.2026 14:18
    🏷️  Темы: AI
    📝 <img src="https://habrastorage.org/extt/6a/de/52/6ade52b690041694cf34ca65ed70d583.jpeg" /><p>У типового проекта с LLM-агентом судьба примерно одна. Сначала это милые сорок строк: промпт, вызов openai-...
 
-6. ИИ‑спам и обновление Google: как найти у себя почти одинаковые страницы, если порога похожести Google не называет
+18. ИИ‑спам и обновление Google: как найти у себя почти одинаковые страницы, если порога похожести Google не называет
    🔗 https://habr.com/ru/articles/1099640/?utm_campaign=1099640&utm_source=habrahabr&utm_medium=rss
    📅 26.10.2026 14:14
    🏷️  Темы: ИИ
    📝 <img src="https://habrastorage.org/extt/a2/af/64/a2af64feec787d6233515d608bbf9a54.png" /><p>Сентябрьское обновление Google против спама шло с 24 сентября по 8 октября, почти 14 дней, для всех языков. ...
 
-7. Как мы учили нейросеть распознавать дипфейки и объяснять свой вердикт
+19. Как мы учили нейросеть распознавать дипфейки и объяснять свой вердикт
    🔗 https://habr.com/ru/companies/airi/articles/1096794/?utm_campaign=1096794&utm_source=habrahabr&utm_medium=rss
    📅 26.10.2026 13:51
    🏷️  Темы: ИИ
    📝 <img src="https://habrastorage.org/extt/65/6d/39/656d39a98517bc36818e24ab852afe11.png" /><p>Сегодня генеративный ИИ меняет жизнь даже тех людей, кто не&nbsp;знает, что&nbsp;такое «генеративный ИИ». И ...
 
-8. [Перевод] Как Codemode меняет работу ИИ‑агентов с инструментами — и что не так с MCP
+20. [Перевод] Как Codemode меняет работу ИИ‑агентов с инструментами — и что не так с MCP
    🔗 https://habr.com/ru/companies/otus/articles/1098056/?utm_campaign=1098056&utm_source=habrahabr&utm_medium=rss
    📅 26.10.2026 13:30
    🏷️  Темы: ИИ
    📝 <img src="https://habrastorage.org/extt/0e/b0/41/0eb0412ce0a437e92385275291e66800.png" /><p>Когда ИИ‑агенту нужно работать с&nbsp;десятками инструментов, каждый вызов и его результат могут создавать л...
 
-9. Code as Policy: как LLM управляет роботом через сгенерированный код
+21. Code as Policy: как LLM управляет роботом через сгенерированный код
    🔗 https://habr.com/ru/companies/ru_mts/articles/1097388/?utm_campaign=1097388&utm_source=habrahabr&utm_medium=rss
    📅 26.10.2026 13:02
    🏷️  Темы: policy
    📝 <img src="https://habrastorage.org/extt/45/1d/00/451d008e1bc70c55adb7754c4186da1d.png" /><p>Привет, Хабр! Сегодня мы поговорим о том, как нейросети могут эффективно управлять роботами, используя не са...
 
-10. Руководство по сборке локального AI‑стека. Часть 7. Финал. Офлайн‑развёртывание
+22. Руководство по сборке локального AI‑стека. Часть 7. Финал. Офлайн‑развёртывание
    🔗 https://habr.com/ru/articles/1099552/?utm_campaign=1099552&utm_source=habrahabr&utm_medium=rss
    📅 26.10.2026 12:21
    🏷️  Темы: AI
    📝 <p>Для работы стека нужен интернет только <strong>на этапе сборки</strong>. После того как все Python-пакеты будут скачаны в <code>offline_packages/</code>, проект можно перенести на машину без сети и...
 
-11. Руководство по сборке локального AI‑стека. Часть 6. Конвертация моделей Hugging Face в GGUF
+23. Руководство по сборке локального AI‑стека. Часть 6. Конвертация моделей Hugging Face в GGUF
    🔗 https://habr.com/ru/articles/1099540/?utm_campaign=1099540&utm_source=habrahabr&utm_medium=rss
    📅 26.10.2026 12:11
    🏷️  Темы: AI
    📝 <p>Не все модели существуют в готовом <code>.gguf</code>-формате. Иногда нужна модель, которую сообщество ещё не квантовало, или хочется получить конкретный квант (<code>Q4_K_M</code>, <code>Q5_K_M</c...
 
-12. Руководство по сборке локального AI‑стека. Часть 5. Open WebUI поверх llama.cpp
+24. Руководство по сборке локального AI‑стека. Часть 5. Open WebUI поверх llama.cpp
    🔗 https://habr.com/ru/articles/1099532/?utm_campaign=1099532&utm_source=habrahabr&utm_medium=rss
    📅 26.10.2026 12:03
    🏷️  Темы: AI
    📝 <p>На этом шаге мы добавляем <strong>Open WebUI</strong> — веб-интерфейс с аутентификацией, историей чатов и настройкой параметров моделей. Это финальный слой: <code>llama-server</code> продолжает раб...
 
-13. Как научить ИИ проверять поисковые запросы в Wordstat? Готовый MCP-сервер на Git
+25. Как научить ИИ проверять поисковые запросы в Wordstat? Готовый MCP-сервер на Git
    🔗 https://habr.com/ru/companies/infostart/articles/1099528/?utm_campaign=1099528&utm_source=habrahabr&utm_medium=rss
    📅 26.10.2026 12:01
    🏷️  Темы: AI, ИИ
    📝 <img src="https://habrastorage.org/extt/e3/1c/23/e31c234b3d32ff80438b52259a381014.png" /><p>Всё начиналось в отрыве от реальных данных. ИИ анализировал целевую аудиторию и предлагал поисковые запросы....
 
-14. Пиранези против ИИ: фотография или гравюра?
+26. Пиранези против ИИ: фотография или гравюра?
    🔗 https://habr.com/ru/articles/1099508/?utm_campaign=1099508&utm_source=habrahabr&utm_medium=rss
    📅 26.10.2026 11:34
    🏷️  Темы: ИИ
    📝 <img src="https://habrastorage.org/extt/2a/7c/c6/2a7cc6796d1339cdea3247b9b183c46e.jpg" /><p>На маленьком экране виды Рима у Пиранези легко принять за фотографии. При увеличении проступают штрихи. Можн...
 
-15. Руководство по сборке локального AI‑стека. Часть 4. Запуск сервера генерации изображений
+27. Руководство по сборке локального AI‑стека. Часть 4. Запуск сервера генерации изображений
    🔗 https://habr.com/ru/articles/1099504/?utm_campaign=1099504&utm_source=habrahabr&utm_medium=rss
    📅 26.10.2026 11:30
    🏷️  Темы: AI
    📝 <p>На этом шаге мы соберём <code>stable-diffusion.cpp</code>, разберёмся, почему для картинок нужен <strong>не один файл, а три</strong>, разложим компоненты по папкам и запустим <code>sd-server</code...
 
-16. Руководство по сборке локального AI‑стека. Часть 3. Наполнение моделями
+28. Руководство по сборке локального AI‑стека. Часть 3. Наполнение моделями
    🔗 https://habr.com/ru/articles/1099492/?utm_campaign=1099492&utm_source=habrahabr&utm_medium=rss
    📅 26.10.2026 11:09
    🏷️  Темы: AI
    📝 <p>На этом шаге мы наполняем папку <code>models/</code> моделями под разные задачи, раскладываем их по правилам (плоско vs подпапки с <code>mmproj</code>) и делаем <strong>HTML-шпаргалку</strong> — ст...
 
-17. Личный опыт публикации в магазинах приложений в России в 2026 году
-   🔗 https://habr.com/ru/articles/1099484/?utm_campaign=1099484&utm_source=habrahabr&utm_medium=rss
-   📅 26.10.2026 11:04
-   🏷️  Темы: ИИ
-   📝 <p>Доброго времени суток! Меня зовут Кирилл Андреев. Я занимаюсь разработкой мобильного приложения <a href="https://aisha24.ru/" rel="noopener nofollow">Aisha</a>, ИИ-репетитора английского языка для ...
-
-18. Руководство по сборке локального AI‑стека. Часть 2. Запуск llama‑cpp
-   🔗 https://habr.com/ru/articles/1099482/?utm_campaign=1099482&utm_source=habrahabr&utm_medium=rss
-   📅 26.10.2026 10:55
-   🏷️  Темы: AI
-   📝 <p>На этом шаге мы соберём <code>llama.cpp</code>, скачаем компактную модель для теста, разберёмся с ключевыми опциями (<code>mmap</code>, лимиты памяти, <code>mmproj</code>) и запустим сервер. После ...
-
-19. Руководство по сборке локального AI‑стека. Часть 1
-   🔗 https://habr.com/ru/articles/1099472/?utm_campaign=1099472&utm_source=habrahabr&utm_medium=rss
-   📅 26.10.2026 10:42
-   🏷️  Темы: AI
-   📝 <p>Часть 1. План реализации запуска локальных LLM моделей на CPU. Рассматриваем коротко весь стек технологий, которые будем использовать в следующих частях. Кейс.</p> <a href="https://habr.com/ru/arti...
-
-20. Критерии приемки AI/ML-проекта: как определить качество результата и что закрепить в договоре
-   🔗 https://habr.com/ru/companies/dalee_group/articles/1098404/?utm_campaign=1098404&utm_source=habrahabr&utm_medium=rss
-   📅 26.10.2026 10:08
-   🏷️  Темы: AI
-   📝 <img src="https://habrastorage.org/extt/2f/ef/75/2fef75b5bc5df8efd976fbd6e0c04854.png" /><p>В разработке большую часть функционала оценивают бинарно — либо кнопка работает, либо нет. А вот в алгоритма...
-
-21. Как вайбкодинг доводит до депрессии, как потом лечиться
-   🔗 https://habr.com/ru/articles/1099442/?utm_campaign=1099442&utm_source=habrahabr&utm_medium=rss
-   📅 26.10.2026 10:02
-   🏷️  Темы: AI
-   📝 <p>Кажется, у вайб-кодинга обнаружился довольно неожиданный побочный эффект. Он может лишить программиста удовольствия от программирования.</p><p>Причём самое обидное, что для этого AI-агенту даже не ...
-
-22. Как ИИ меняет разработку на 1С: практические эксперименты, ошибки и неожиданные результаты
-   🔗 https://habr.com/ru/companies/infostart/articles/1099398/?utm_campaign=1099398&utm_source=habrahabr&utm_medium=rss
-   📅 26.10.2026 08:47
-   🏷️  Темы: ИИ
-   📝 <img src="https://habrastorage.org/extt/19/42/ec/1942ecbda23eccb14d692816c95a2dc5.jpg" /><p><strong>Можно ли обучить нейросеть прямо на сервере 1С, настроить ИИ-агента без многочасовой отладки, ускори...
-
-23. Сбросить до заводских настроек: что нужно ИИ-агентам, чтобы пилот дошёл до тиражирования?
-   🔗 https://habr.com/ru/companies/tn_digital/articles/1099388/?utm_campaign=1099388&utm_source=habrahabr&utm_medium=rss
-   📅 26.10.2026 08:34
-   🏷️  Темы: ИИ
-   📝 <img src="https://habrastorage.org/extt/8e/3c/6e/8e3c6ed30460387f38343782eae38321.jpg" /><p>Сегодня хотим поговорить о том, почему большинство красивых ИИ-пилотов умирает, как только их пытаются вывес...
-
-24. Как слова и конструкция запроса меняют AI‑видимость бренда
-   🔗 https://habr.com/ru/articles/1099382/?utm_campaign=1099382&utm_source=habrahabr&utm_medium=rss
-   📅 26.10.2026 08:19
-   🏷️  Темы: AI
-   📝 <img src="https://habrastorage.org/extt/cd/0a/ee/cd0aee7801847f407ecf78d9b5f8febc.png" /><p>Речь о том, как собирать поисковые и коммерческие интенты, когда короткие ключи уступают естественному языку...
-
-25. ИИ ошибается и это хорошо
-   🔗 https://habr.com/ru/companies/selectel/articles/1095646/?utm_campaign=1095646&utm_source=habrahabr&utm_medium=rss
-   📅 26.10.2026 08:00
-   🏷️  Темы: искусственный интеллект, AI, ИИ
-   📝 <img src="https://habrastorage.org/extt/30/e0/db/30e0dbfc82bcc8ca29bfb238fe630a23.jpg" /><p>Любой писатель или ученый прошлых веков хотя бы раз задумывался о будущем. Как будут жить люди? Как изменитс...
-
-26. «Ты моя скотина…» и другие аэрогрильные песни: как нейросети различают звуки и генерируют музыку
-   🔗 https://habr.com/ru/companies/speshu_ai/articles/1099352/?utm_campaign=1099352&utm_source=habrahabr&utm_medium=rss
-   📅 26.10.2026 07:28
-   🏷️  Темы: ИИ
-   📝 <img src="https://habrastorage.org/extt/98/eb/aa/98ebaad593fdad25e5e08dd6d67df1ba.png" /><p>Всего за неделю трек DJ NARODNII «Ты моя…» взорвал интернет: под него сняли более 150 тыс. видео. Сам автор ...
-
-27. AI-агенты принесли 400 тысяч рублей за два месяца. Показываю расходы и окупаемость
-   🔗 https://habr.com/ru/articles/1099342/?utm_campaign=1099342&utm_source=habrahabr&utm_medium=rss
-   📅 26.10.2026 07:05
-   🏷️  Темы: AI
-   📝 <img src="https://habrastorage.org/extt/03/52/72/035272fe7483ded9eee04aacfca11781.png" /><p>В <a href="https://habr.com/ru/articles/1096818/" rel="noopener nofollow">предыдущей статье</a> я рассказал ...
-
-28. Лазерные пушки и автоматические турели
-   🔗 https://habr.com/ru/companies/ruvds/articles/1098280/?utm_campaign=1098280&utm_source=habrahabr&utm_medium=rss
-   📅 26.10.2026 07:01
-   🏷️  Темы: ИИ
-   📝 <img src="https://habrastorage.org/extt/73/d0/55/73d0553d2bd094cf9041a2df8a0dfc26.jpeg" /><p>По канонам киберпанка, в будущем у каждой IT-корпорации должна быть своя маленькая частная армия, включая в...
-
-29. Свежие научные работы про ИИ, агентов и все такое. Сентябрь 2026
-   🔗 https://habr.com/ru/companies/ru_mts/articles/1097732/?utm_campaign=1097732&utm_source=habrahabr&utm_medium=rss
-   📅 26.10.2026 07:00
-   🏷️  Темы: ИИ
-   📝 <img src="https://habrastorage.org/extt/cf/cb/2c/cfcb2ce815a9c62f35c60ebb305384e6.png" /><p>Привет, Хабр!&nbsp; Собрал сентябрьский дайджест из 22 свежих исследований про ИИ. Речь в них идет об обучен...
-
-30. Почему ИИ-боты и люди видят почти одну и ту же информацию на сайте и насколько критично это «почти»
-   🔗 https://habr.com/ru/articles/1099298/?utm_campaign=1099298&utm_source=habrahabr&utm_medium=rss
-   📅 26.10.2026 06:46
-   🏷️  Темы: ИИ
-   📝 <img src="https://habrastorage.org/extt/7d/37/ae/7d37ae9db68b028c674b2cae70d15839.jpg" /><p>Допустим, ваш сайт собирается в браузере скриптами, и ИИ-боты, которые скрипты не исполняют, видят на нём пу...
-
 
 ──────────────────────────────────────────────────────────────────────
-📰 HABR_ТОП_ДЕНЬ (1 статей)
+📰 THE CENTRE FOR THE GOVERNANCE OF AI BLOG (1 статей)
 ──────────────────────────────────────────────────────────────────────
 
-1. Лазерные пушки и автоматические турели
-   🔗 https://habr.com/ru/companies/ruvds/articles/1098280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098280
-   📅 26.10.2026 07:01
-   🏷️  Темы: ИИ
-   📝 <img src="https://habrastorage.org/extt/73/d0/55/73d0553d2bd094cf9041a2df8a0dfc26.jpeg" /><p>По канонам киберпанка, в будущем у каждой IT-корпорации должна быть своя маленькая частная армия, включая в...
+1. GovAI U.S. AI Policy Program | GovAI Blog
+   🔗 https://www.governance.ai/post/govai-u-s-ai-policy-program
+   📅 27.10.2026 10:52
+   🏷️  Темы: AI, policy
 
 
 ──────────────────────────────────────────────────────────────────────
 📰 VC_RU_ТЕХНОЛОГИИ (3 статей)
 ──────────────────────────────────────────────────────────────────────
 
-1. Пыталась заработать на миллионах пользователей и испортила продукт: платформа с ИИ-персонажами Character AI и её путь к банкротству
+1. Минцифры хочет ввести для виртуальных операторов связи минимальный тариф в 250 рублей и запретить им использовать сети больше чем одного оператора — «Ъ»
+   🔗 https://vc.ru/services/3218792-mincifry-vvodit-minimalnyj-tarif-dlya-virtualnyh-operatorov-svyazi?from=rss
+   📅 27.10.2026 10:11
+   🏷️  Темы: Минцифры
+   📝 Сами они с ограничениями не согласны, а вот МТС, «Мегафон», Т2 и «Билайн» ведомство поддерживают.                                                     <img alt="alt" height="900" src="https://leonardo....
+
+2. Пыталась заработать на миллионах пользователей и испортила продукт: платформа с ИИ-персонажами Character AI и её путь к банкротству
    🔗 https://vc.ru/money/3216814-character-ai-put-bankrotstvu-i-sdelka-s-disney?from=rss
    📅 26.10.2026 18:34
    🏷️  Темы: AI, ИИ
    📝 Она заключила сделку с Google, изменила подход к разработке, однако выйти на прибыль так и не смогла, хотя пользователи сидели в чатах часами. Теперь часть её активов может выкупить Disney, а вот судь...
 
-2. Минцифры предупредило о возможных ограничениях мобильного интернета в центре Москвы 27-29 октября 2026 года
+3. Минцифры предупредило о возможных ограничениях мобильного интернета в центре Москвы 27-29 октября 2026 года
    🔗 https://vc.ru/services/3217615-mintsifry-predupredilo-ob-ogranicheniyakh-mobilnogo-interneta-v-moskve?from=rss
    📅 26.10.2026 18:06
    🏷️  Темы: Минцифры
    📝 Доступны будут «белые списки», голосовая связь, домашний интернет и Wi-Fi....
-
-3. Банки попросили сделать обязательной предустановку сертификатов Минцифры на смартфоны в России
-   🔗 https://vc.ru/services/3215975-obyazatelnaya-predustanovka-sertifikatov-mintsifry-na-smartfony?from=rss
-   📅 26.10.2026 06:56
-   🏷️  Темы: Минцифры
-   📝 Это должно популяризовать и расширить их использование, считают они.                                                     <img alt="alt" height="900" src="https://leonardo.osnova.io/0e147fa5-0eac-5952-...
 
 
 ──────────────────────────────────────────────────────────────────────
 📰 ВЕДОМОСТИ (1 статей)
 ──────────────────────────────────────────────────────────────────────
 
-1. В Госдуме предложили сделать для ИИ-музыки отдельные чарты
-   🔗 https://www.vedomosti.ru/society/news/2026/10/26/1240134-ii-muziki-otdelnie
-   📅 26.10.2026 10:01
+1. МВД предупредило об обмане в ИИ-роликах со знаменитостями
+   🔗 https://www.vedomosti.ru/technology/news/2026/10/27/1240363-predupredilo-obmane
+   📅 27.10.2026 06:01
    🏷️  Темы: ИИ
 
 
 ──────────────────────────────────────────────────────────────────────
-📰 ИИ КОМПЛАЕНС И ЭТИКА (1 статей)
+📰 ИИ КОМПЛАЕНС И ЭТИКА (2 статей)
 ──────────────────────────────────────────────────────────────────────
 
-1. [Media] 🇺🇸💰 Банки США ограничили доступ ИИ-агентов к счетам клиентов
+1. [Media] 📖📥 Microsoft и NVIDIA опубликовали руководство по управлению рисками моделей ИИ с от [...]
+   🔗 https://t.me/ai_and_law_rus/1179
+   📅 27.10.2026 08:04
+   🏷️  Темы: aigovernance, ИИ
+   📝 <br />📖📥 <b>Microsoft и NVIDIA опубликовали руководство по управлению рисками моделей ИИ с открытыми весами</b><br /><br />Microsoft и NVIDIA совместно подготовили <a href="https://github.com/NVIDIA/O...
+
+2. [Media] 🇺🇸💰 Банки США ограничили доступ ИИ-агентов к счетам клиентов
    🔗 https://t.me/ai_and_law_rus/1178
    📅 26.10.2026 22:17
    🏷️  Темы: AI, aigovernance, ИИ
    📝 <br />🇺🇸💰 <b>Банки США ограничили доступ ИИ-агентов к счетам клиентов</b><br /><br /><a href="https://www.reuters.com/legal/government/us-banks-detect-unauthorized-ai-agents-customer-accounts-axios-re...
-
-
-──────────────────────────────────────────────────────────────────────
-📰 ИНТЕРФАКС (1 статей)
-──────────────────────────────────────────────────────────────────────
-
-1. В Москве 27-29 октября могут ограничивать мобильный интернет
-   🔗 https://www.interfax.ru/russia/1125107
-   📅 26.10.2026 17:54
-   🏷️  Темы: Минцифры
-   📝 В Москве 27-29 октября могут ограничивать работу мобильного интернета, чтобы обеспечить безопасность участникам форумов, которые будут проходить в городе, предупредило Минцифры. "Мера связана с обеспе...
-
-
-──────────────────────────────────────────────────────────────────────
-📰 ТАСС (1 статей)
-──────────────────────────────────────────────────────────────────────
-
-1. Дробыш призвал не ограничивать конкуренцию ИИ-музыки с живыми исполнителями
-   🔗 https://tass.ru/kultura/28255673
-   📅 26.10.2026 19:24
-   🏷️  Темы: ИИ
-   📝 Так музыкальный продюсер прокомментировал инициативу депутата Госдумы о выделении нейросетевой музыки в отдельные чарты...
 
 
 ======================================================================

@@ -1,113 +1,111 @@
 {
-  "timestamp": "2026-10-27_01-51",
-  "total_articles": 80,
+  "timestamp": "2026-10-27_14-03",
+  "total_articles": 78,
   "sources": {
-    "ТАСС": 1,
-    "Интерфакс": 1,
     "Ведомости": 1,
-    "Digital_Russia": 3,
-    "Habr_Топ_День": 1,
-    "Habr_AI": 30,
-    "CNews": 12,
-    "3DNews": 9,
+    "Digital_Russia": 5,
+    "Habr_AI": 28,
+    "CNews": 2,
+    "3DNews": 13,
     "VC_ru_Технологии": 3,
-    "ИИ комплаенс и этика": 1,
-    "Google News": 18
+    "The Centre for the Governance of AI Blog": 1,
+    "ИИ комплаенс и этика": 2,
+    "Google News": 23
   },
   "top_keywords": [
     [
       "ИИ",
-      57
+      55
     ],
     [
       "AI",
-      17
+      14
     ],
     [
       "Минцифры",
-      6
+      5
     ],
     [
       "искусственный интеллект",
+      4
+    ],
+    [
+      "ESG",
       3
+    ],
+    [
+      "policy",
+      2
+    ],
+    [
+      "aigovernance",
+      2
     ],
     [
       "регулирование",
       2
-    ],
-    [
-      "ESG",
-      2
-    ],
-    [
-      "policy",
-      1
-    ],
-    [
-      "aigovernance",
-      1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "[Media] 🇺🇸💰 Банки США ограничили доступ ИИ-агентов к счетам клиентов",
-      "source": "ИИ комплаенс и этика",
-      "url": "https://t.me/ai_and_law_rus/1178",
-      "published": "2026-10-26T22:17:42"
-    },
-    {
-      "title": "Microsoft предложила добровольно уволиться 60 000 сотрудникам — деньги нужны на ИИ",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150452",
-      "published": "2026-10-26T20:32:00"
-    },
-    {
-      "title": "Компьютер начал подвисать, когда на нём заработали ИИ-агенты. Нашлись две причины",
+      "title": "Первый рабочий день джуниора Данилы. Часть1. Прайс из Китая",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1099768/?utm_campaign=1099768&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-26T19:40:17"
+      "url": "https://habr.com/ru/articles/1100038/?utm_campaign=1100038&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-27T10:59:57"
     },
     {
-      "title": "Вдвое дешевле и умнее: новая нейросеть OpenAI уничтожила прошлые поколения ИИ - https://hightech.fm/sitemap",
+      "title": "GovAI U.S. AI Policy Program | GovAI Blog",
+      "source": "The Centre for the Governance of AI Blog",
+      "url": "https://www.governance.ai/post/govai-u-s-ai-policy-program",
+      "published": "2026-10-27T10:52:37"
+    },
+    {
+      "title": "РОМИР определил роль ИИ в исследованиях - РОМИР",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TaGVBUnpPeElNc2dzaGsxZDgwRlRyYk41eWhyNFlUZlFNMVlsQ0Z1VndPQmxlN3AyMlVqa0lPRzdjdVVfMXBVM1lhQ2J4eWw2dmJuZWpIV0lnTml6SEVHUi15ZDQxbVNmUFVZ?oc=5",
-      "published": "2026-10-26T19:39:44"
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ubGdfelZXYXJrdkhwUVkxOTduMXU2Z28xZXlJYUNHanc3NmtWMmNaT3ZwMnB1MlRpM1c0VEcwSVJSMFRGZXlvYV9jamlzMkdtRlNsWDdXTkhoUEt1Qkoyc3FhTTNYMW1aeGRxVXRHbw?oc=5",
+      "published": "2026-10-27T10:48:02"
     },
     {
-      "title": "Дробыш призвал не ограничивать конкуренцию ИИ-музыки с живыми исполнителями",
-      "source": "ТАСС",
-      "url": "https://tass.ru/kultura/28255673",
-      "published": "2026-10-26T19:24:25"
-    },
-    {
-      "title": "Заявка Anthropic на IPO раскрывает рост выручки и риски ИИ для человечества - Euronews.com",
+      "title": "Что собираются регулировать в сфере ИИ? - Amic.ru",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOU1IX0ZQeWNJNURnSEJ6TVQxYXNJM1hJNzJ4ZFFtZVFaaW1ONTl3Uk83T0NoUGpDM3E5a0NyLXFKM1JHTmJiZ21JUnZwclJHNVNJTHhsb1lEb1U5dFJvNHN4WEVIVVE4aVJzUVJwOEFKZVVnTnVIOWNpeGlaeDB6cC01MTNFZGR3ZWxiczh5Y0J2RWY1dHQ4NXpwZGJvX0JPZUtfcVk2R1ZvVDRTaEhwSHB1ZmwyX0ZqT2cySUZIa3FJWjQ?oc=5",
-      "published": "2026-10-26T18:56:41"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd09CMi12SXlUM1pyOGRtd1FXMXl3RkF4VXZPd0NKSXNITVVrNl93NElvSnV1V2N6YzJTbXVsakVZWF8tSEhlcHVxQXZxcGZET1V3LXMxdDNrajY4MHYyOU50Z0pUU3hBUU5YZzRfVUpmTm84TnJWbGVnWVdBLUN3SER0azFoLVMyeWNOTDRFbUZLMkNvZ2pjb9IBS0FVX3lxTFBUYjkzUHF6MUJxSXJxYVROWVltVEh5dHFTeW9Yb2N3VDZLQjY2eVQxS21CeWNCNTZIeEM1R0V0RHpTWG4wS1JwWjRwbw?oc=5",
+      "published": "2026-10-27T10:30:00"
     },
     {
-      "title": "Пыталась заработать на миллионах пользователей и испортила продукт: платформа с ИИ-персонажами Character AI и её путь к банкротству",
+      "title": "«МТС Exolve» показала новый Контакт-центр с ИИ-агентами и Co-Pilot для операторов - CNews.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42RktNQTF3UWhsLVZ5MUdYS2tpNTlESFJBdDBwWmg0SEkxMkYxNFdjdVhGUGcxNmVSSUl6dURpX0s0NUNWRWR1VjU5Z3paaHNYcGcxQmVteDU4a1lJUExsM0NkWFlkWk45bzhxQjI5OWpqZUxiQlE?oc=5",
+      "published": "2026-10-27T10:30:00"
+    },
+    {
+      "title": "Как мы строим безопасную on-prem AI-платформу для корпоративных AI-агентов",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/agima/articles/1100006/?utm_campaign=1100006&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-27T10:22:39"
+    },
+    {
+      "title": "[Перевод] За термином «нейрослоп» скрываются вопросы, которые мы должны обсудить",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1099802/?utm_campaign=1099802&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-27T10:11:45"
+    },
+    {
+      "title": "Минцифры хочет ввести для виртуальных операторов связи минимальный тариф в 250 рублей и запретить им использовать сети больше чем одного оператора — «Ъ»",
       "source": "VC_ru_Технологии",
-      "url": "https://vc.ru/money/3216814-character-ai-put-bankrotstvu-i-sdelka-s-disney?from=rss",
-      "published": "2026-10-26T18:34:31"
+      "url": "https://vc.ru/services/3218792-mincifry-vvodit-minimalnyj-tarif-dlya-virtualnyh-operatorov-svyazi?from=rss",
+      "published": "2026-10-27T10:11:32"
     },
     {
-      "title": "M**a хочет привлечь рекордные до $95 млрд на ИИ — Nvidia, AMD и Broadcom готовы вложиться",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150448",
-      "published": "2026-10-26T18:23:00"
+      "title": "Проходим тесты hh.ru с помощью локального ИИ",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1099994/?utm_campaign=1099994&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-27T10:03:12"
     },
     {
-      "title": "Шантаж, взломы и угроза человечеству: Anthropic предупредила об опасностях ИИ перед IPO",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150447",
-      "published": "2026-10-26T18:16:00"
-    },
-    {
-      "title": "Минцифры предупредило о возможных ограничениях мобильного интернета в центре Москвы 27-29 октября 2026 года",
-      "source": "VC_ru_Технологии",
-      "url": "https://vc.ru/services/3217615-mintsifry-predupredilo-ob-ogranicheniyakh-mobilnogo-interneta-v-moskve?from=rss",
-      "published": "2026-10-26T18:06:35"
+      "title": "МВД: признать потерянный паспорт недействительным теперь можно на портале госуслуг",
+      "source": "Digital_Russia",
+      "url": "https://d-russia.ru/mvd-priznat-poteryannyj-pasport-nedejstvitelnym-teper-mozhno-na-portale-gosuslug.html",
+      "published": "2026-10-27T09:58:53"
     }
   ]
 }
