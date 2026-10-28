@@ -1,52 +1,50 @@
 {
-  "timestamp": "2026-10-28_01-34",
-  "total_articles": 87,
+  "timestamp": "2026-10-28_14-40",
+  "total_articles": 79,
   "sources": {
-    "ТАСС": 2,
-    "Коммерсантъ": 2,
-    "Ведомости": 4,
-    "Digital_Russia": 3,
-    "Habr_Топ_День": 1,
-    "Habr_AI": 22,
-    "3DNews": 15,
-    "VC_ru_Технологии": 2,
+    "ТАСС": 1,
+    "Ведомости": 5,
+    "Digital_Russia": 1,
+    "Habr_AI": 25,
+    "3DNews": 16,
+    "VC_ru_Технологии": 1,
     "Montreal AI Ethics Institute": 1,
     "The Centre for the Governance of AI Blog": 5,
     "ИИ комплаенс и этика": 1,
-    "Google News": 29
+    "Google News": 23
   },
   "top_keywords": [
     [
       "ИИ",
-      55
+      54
     ],
     [
       "AI",
-      18
+      14
     ],
     [
       "ESG",
       7
     ],
     [
-      "регулирование",
-      5
-    ],
-    [
       "policy",
       5
     ],
     [
-      "искусственный интеллект",
+      "governance",
       4
     ],
     [
       "Минцифры",
-      4
+      3
     ],
     [
-      "governance",
-      4
+      "регулирование",
+      3
+    ],
+    [
+      "искусственный интеллект",
+      1
     ],
     [
       "ethics",
@@ -59,64 +57,64 @@
   ],
   "recent_headlines": [
     {
-      "title": "Akamai расширила платформу AI Cloud средами для инференса и работы ИИ-агентов - ServerNews",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9Nb2hCb1hIU3o4Tlh5NmZ1MUJ5bjlXb2NCdVVqZEZPdVYtcUd0RkFlTVY5emdCb2tCRDVrdnB5dURvTGs?oc=5",
-      "published": "2026-10-27T22:08:00"
-    },
-    {
-      "title": "Налог на родной язык: общение с ИИ не по-английски обходится до 17 раз дороже",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150524",
-      "published": "2026-10-27T22:06:00"
-    },
-    {
-      "title": "Opera представила WebAI — теперь браузер сможет запускать ИИ прямо на компьютере без облака",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150522",
-      "published": "2026-10-27T21:58:00"
-    },
-    {
-      "title": "Минцифры продвигает идею ограничить зарубежный интернет для всех россиян — но пока это труднореализуемо",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150525",
-      "published": "2026-10-27T21:52:00"
-    },
-    {
-      "title": "Компании рискуют потерять заказы, если не будут соответствовать требованиям ESG. - Vietnam.vn",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY3lpaWs1NjFzS0tOZnNhM21qdHc1UHB1TGdPOEJWQ0x4Sy1MZ0lnNnNEbjJJUC1uSXlwdlNsVlVzTEk0b3dPaG1KNWgwU2QxVTRVazVsRFcwZFp2bHl2cnpwa2JiV0NjZzNDa0pka3hwRjM3aUlsVGN2ZjZyZ3VmcUJST0U5V0hxdWdlOHU2ZER3TkdsZnFF?oc=5",
-      "published": "2026-10-27T21:24:46"
-    },
-    {
-      "title": "\"Эксперт РА\": объем портфеля ESG-кредитов за год вырос до 9,7 трлн рублей",
-      "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28259919",
-      "published": "2026-10-27T21:13:52"
-    },
-    {
-      "title": "«Эксперт РА»: рынок ESG-кредитования сбавил темпы роста - Ведомости",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLUh4THZXLVdocFpERU03V2R0aXE4NkhfNWxUUFJ6dDc1a1A2VWMwZ2VhZmd1c2NuS3pVQnVjalBId2VUSHIybWpLYjI1ME5HMno0SEdYN3J3NVdzbUVhRG4wQ3paOGoxOV9CaU5VM2dnR2w0Y1k5LXc5MENXSEtKSDJILUtQcDdEUkhTb0UwSENSTjY3M0hlLUxPaw?oc=5",
-      "published": "2026-10-27T21:00:00"
-    },
-    {
-      "title": "В Башкирии ИИ выявил патологии почти в половине из 600 тыс. радиоисследований",
-      "source": "ТАСС",
-      "url": "https://tass.ru/nauka/28259849",
-      "published": "2026-10-27T20:44:10"
-    },
-    {
-      "title": "ИИ не только пишет тесты: как ручной QA использовал агента для аудита автотестов",
+      "title": "Попросил ИИ научить меня общаться напрямую с железом",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1099782/?utm_campaign=1099782&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-27T19:45:45"
+      "url": "https://habr.com/ru/articles/1100420/?utm_campaign=1100420&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-28T11:37:54"
     },
     {
-      "title": "Условия, в которых рождаются системы. Средовой подход для ИИ‑агентов",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1100302/?utm_campaign=1100302&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-27T19:42:08"
+      "title": "На Ямале начали оценивать показатели здоровья с помощью ИИ",
+      "source": "ТАСС",
+      "url": "https://tass.ru/obschestvo/28262287",
+      "published": "2026-10-28T11:36:18"
+    },
+    {
+      "title": "Anthropic дала пользователям выключатель защитных механизмов Claude Code",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150554",
+      "published": "2026-10-28T11:03:00"
+    },
+    {
+      "title": "Первый китайский ИИ-фильм провалился в прокате — за неделю он собрал $181 тысячу при стоимости производства в $1,5 млн",
+      "source": "VC_ru_Технологии",
+      "url": "https://vc.ru/media/3221028-proval-pervogo-kitayskogo-ii-filma-sansindui-budushchee-i-proshloe?from=rss",
+      "published": "2026-10-28T11:01:32"
+    },
+    {
+      "title": "ИИ может взломать то, что десятилетиями защищало банковские счета и данные, предупредили математики",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150553",
+      "published": "2026-10-28T11:00:00"
+    },
+    {
+      "title": "Физик Михаил Гурвич — Forbes: «Мы все, гурьбой, уже вбежали в мышеловку ИИ» - Forbes.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTzFLeUh6TnJSY3pCcFp2RHUwV08yMU1odzZpSUN5bndNUU42N25URThJWlJJUERtVHlqN1YzVmRRVW1sLW10X1NyTE9SRlhtN2VidW9ST0t0bTN1RVBYZVFIVTFFcEFBcTQ0SHAzNTlGWUkxUVVtbFBpZ2JJbV8wcF9saHdUOHo4QjFpdVdVTWE2enFjV2F3TXBIQkMyTGF2Smg5LTNMNmtsQThJ?oc=5",
+      "published": "2026-10-28T11:00:00"
+    },
+    {
+      "title": "OpenAI собралась закупать ИИ-чипы Google, чтобы меньше зависеть от Nvidia",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150526",
+      "published": "2026-10-28T10:54:00"
+    },
+    {
+      "title": "Китай сравняется с США в ИИ-гонке уже к 2030 году — а в отдельных сферах даже обгонит",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150552",
+      "published": "2026-10-28T10:51:00"
+    },
+    {
+      "title": "Использование ИИ незаметно подрывает квалификацию специалистов - Наука Mail",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZERqYWk5a05SUHNNRlJjbENxMWFPTVAtdjhBRXVaWVY2dWdfWktWQkh0UldxdmN6NURiekl5aG42UHB0eVNJN2g5SFE1cWUzZnR4aUhhQVhuOGNObHhXS2xBM1pfRmc2ZEpucFhfOXdEbzZ2Z3BmZTlHZHRjNXVLVQ?oc=5",
+      "published": "2026-10-28T10:50:38"
+    },
+    {
+      "title": "Роскомнадзор заблокировал ИИ-трек «Ты моя мразота» - Meduza",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVDROQVZ6MlZnYUFMTXE0Vi1WUm5jbUxKUlpqLUFCRGl5Mmc1Qk4tMEl5OURQUUVpVzU2Tll0c1ZDV0JueE9oMVdlU0JNd0ZMQlJLeEdhVnFVVHYwOTNJYk9aTUlNd1A4MWVsUEJjZm9PRXZzajVtcUpkNFN4V2dKaS1IUktMUkl0SUcw0gGQAUFVX3lxTE13aTg3aThEYnljZm5hekh5VDhjaXRzeEpIdm1Wem5vRGdBdmJUSnVHd0dNVlc1ZDF1Q0R4STM1WC1DcHlqY1ppRndHU2hPT1JUaEo3bTJZaml1Slc5QWl0WmFHRl92bWpsMHBpZkxjVlpGRUtna2pkRURmSDhaNkR1X3ZHbTRzVzRiTWNiQUR5Nw?oc=5",
+      "published": "2026-10-28T10:47:00"
     }
   ]
 }
