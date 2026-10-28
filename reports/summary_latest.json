@@ -1,120 +1,107 @@
 {
-  "timestamp": "2026-10-28_14-40",
-  "total_articles": 79,
+  "timestamp": "2026-10-28_21-22",
+  "total_articles": 72,
   "sources": {
     "ТАСС": 1,
-    "Ведомости": 5,
+    "Коммерсантъ": 1,
+    "Ведомости": 2,
     "Digital_Russia": 1,
-    "Habr_AI": 25,
-    "3DNews": 16,
+    "Habr_AI": 23,
+    "3DNews": 14,
     "VC_ru_Технологии": 1,
-    "Montreal AI Ethics Institute": 1,
-    "The Centre for the Governance of AI Blog": 5,
     "ИИ комплаенс и этика": 1,
-    "Google News": 23
+    "Google News": 28
   },
   "top_keywords": [
     [
       "ИИ",
-      54
-    ],
-    [
-      "AI",
-      14
+      57
     ],
     [
       "ESG",
-      7
+      8
     ],
     [
-      "policy",
-      5
-    ],
-    [
-      "governance",
+      "AI",
       4
     ],
     [
       "Минцифры",
-      3
+      2
     ],
     [
       "регулирование",
-      3
-    ],
-    [
-      "искусственный интеллект",
-      1
-    ],
-    [
-      "ethics",
-      1
+      2
     ],
     [
       "aigovernance",
+      1
+    ],
+    [
+      "искусственный интеллект",
       1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Попросил ИИ научить меня общаться напрямую с железом",
+      "title": "От языка к действию: как устроены агентные ИИ‑системы",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1100420/?utm_campaign=1100420&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-28T11:37:54"
+      "url": "https://habr.com/ru/companies/otus/articles/1095784/?utm_campaign=1095784&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-28T18:16:45"
     },
     {
-      "title": "На Ямале начали оценивать показатели здоровья с помощью ИИ",
+      "title": "Учёные описали новый механизм передачи энергии от гравитации к веществу — подобно вспышкам на Солнце",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150572",
+      "published": "2026-10-28T18:16:00"
+    },
+    {
+      "title": "Российские школьники создавали ИИ-агентов, приложения и медиастратегии - spbdnevnik.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOGJEX2djTHZtNWVya055czFKUzU1bEFEQ2pkcmFCbjlzUzZOclBuV05QdDhDT1dFQ2pRMlRPN3FzaDY0V0hDUldJLXZNZmZ6LXN1YUM3d0h5a1VWYWNTNzJRZjFaOGdKb1c4S3kxSEk0dEdFZnhPNGpIWV8zdVpHbUhtT21Xa3dsaFRiRGg1WWh3Z1FVbVNrbjhGZng0alVpYlI5VHZna0Izekk?oc=5",
+      "published": "2026-10-28T17:51:14"
+    },
+    {
+      "title": "Steam не станет защищать разработчиков от ИИ-клонов  — это дело самих разработчиков",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150569",
+      "published": "2026-10-28T17:17:00"
+    },
+    {
+      "title": "Rutube хочет позволить подключать к платформе персональных ИИ-агентов - RB.RU",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObk9TeERQQmRrT3NpQWFHT0VmWnF6cVVJMTZBM3V3V2IwU085dlM0VEI5Tlg0MVItSzk2Yi0xalNYb21mOHN1X24tOFFQTGU2RGRiY0djSlZNTGFTZVQ1S01IekZlWWVoc2hBeTR4djE4eFdibHJmSmdjRzVnQUpIRndLQjlPOXRmQ3FhY0ctNWxRVFR5ZkVIVGMzY2FLVWVld2pDN1FiNDBveEotM0NvSE1iZUVaMnFUY3Y3alNGZmQzZGMzYWNJ?oc=5",
+      "published": "2026-10-28T17:15:00"
+    },
+    {
+      "title": "«Это не проблема одного игрока, а удар по всей отрасли» // Гендиректор Cloud.ru Михаил Лобоцкий об облачном рынке и центрах обработки данных",
+      "source": "Коммерсантъ",
+      "url": "https://www.kommersant.ru/doc/9063035",
+      "published": "2026-10-28T16:36:39"
+    },
+    {
+      "title": "Глава \"Газпром-медиа холдинга\" назвал медиатехнологии вопросом нацинтереса",
       "source": "ТАСС",
-      "url": "https://tass.ru/obschestvo/28262287",
-      "published": "2026-10-28T11:36:18"
+      "url": "https://tass.ru/ekonomika/28263747",
+      "published": "2026-10-28T16:26:52"
     },
     {
-      "title": "Anthropic дала пользователям выключатель защитных механизмов Claude Code",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150554",
-      "published": "2026-10-28T11:03:00"
+      "title": "13 релизов за неделю: OpenShift, алерты, фильтры и первые внешние контрибьюторы Sextant",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1100782/?utm_campaign=1100782&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-28T16:21:41"
     },
     {
-      "title": "Первый китайский ИИ-фильм провалился в прокате — за неделю он собрал $181 тысячу при стоимости производства в $1,5 млн",
-      "source": "VC_ru_Технологии",
-      "url": "https://vc.ru/media/3221028-proval-pervogo-kitayskogo-ii-filma-sansindui-budushchee-i-proshloe?from=rss",
-      "published": "2026-10-28T11:01:32"
-    },
-    {
-      "title": "ИИ может взломать то, что десятилетиями защищало банковские счета и данные, предупредили математики",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150553",
-      "published": "2026-10-28T11:00:00"
-    },
-    {
-      "title": "Физик Михаил Гурвич — Forbes: «Мы все, гурьбой, уже вбежали в мышеловку ИИ» - Forbes.ru",
+      "title": "Создатель ИИ-браузера от Perplexity перешел в Яндекс - Журнал «Код»",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTzFLeUh6TnJSY3pCcFp2RHUwV08yMU1odzZpSUN5bndNUU42N25URThJWlJJUERtVHlqN1YzVmRRVW1sLW10X1NyTE9SRlhtN2VidW9ST0t0bTN1RVBYZVFIVTFFcEFBcTQ0SHAzNTlGWUkxUVVtbFBpZ2JJbV8wcF9saHdUOHo4QjFpdVdVTWE2enFjV2F3TXBIQkMyTGF2Smg5LTNMNmtsQThJ?oc=5",
-      "published": "2026-10-28T11:00:00"
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNTVLU3RpSFdPUFVFOUxNSU5LbTZRN3EydE5kRGpoZm9OcXlFOENJX2VKWUd2UzRLRG9PX2VaSlF4dUFHbU1tbFB1YXVqRG1QaFYwLVZSbS1OUjRRVldpZHJ2QVQ4OFJPLU01blI2OVpBZThlRVBDdGZZWDdKcUdCVnRn0gGHAUFVX3lxTE5jZURjU1Z4ZFYxMktGTGJ3UEgyRjlPd3MyTXd1OVJHYTFfeGVhNmxra21DaDhKQ1RFaHdaS0czaUhfN0FWdXJkazQ4Y0NzT2h6Nng2Vk5SWElGbVp6STRWY1hRUWtVSlM0OVkxTmJEckRJSEpPV0hYQkQ0MXYxdUxMel9GWWExZw?oc=5",
+      "published": "2026-10-28T16:04:54"
     },
     {
-      "title": "OpenAI собралась закупать ИИ-чипы Google, чтобы меньше зависеть от Nvidia",
+      "title": "На eBay выставили б/у суперкомпьютер за $60 миллионов",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1150526",
-      "published": "2026-10-28T10:54:00"
-    },
-    {
-      "title": "Китай сравняется с США в ИИ-гонке уже к 2030 году — а в отдельных сферах даже обгонит",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150552",
-      "published": "2026-10-28T10:51:00"
-    },
-    {
-      "title": "Использование ИИ незаметно подрывает квалификацию специалистов - Наука Mail",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZERqYWk5a05SUHNNRlJjbENxMWFPTVAtdjhBRXVaWVY2dWdfWktWQkh0UldxdmN6NURiekl5aG42UHB0eVNJN2g5SFE1cWUzZnR4aUhhQVhuOGNObHhXS2xBM1pfRmc2ZEpucFhfOXdEbzZ2Z3BmZTlHZHRjNXVLVQ?oc=5",
-      "published": "2026-10-28T10:50:38"
-    },
-    {
-      "title": "Роскомнадзор заблокировал ИИ-трек «Ты моя мразота» - Meduza",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVDROQVZ6MlZnYUFMTXE0Vi1WUm5jbUxKUlpqLUFCRGl5Mmc1Qk4tMEl5OURQUUVpVzU2Tll0c1ZDV0JueE9oMVdlU0JNd0ZMQlJLeEdhVnFVVHYwOTNJYk9aTUlNd1A4MWVsUEJjZm9PRXZzajVtcUpkNFN4V2dKaS1IUktMUkl0SUcw0gGQAUFVX3lxTE13aTg3aThEYnljZm5hekh5VDhjaXRzeEpIdm1Wem5vRGdBdmJUSnVHd0dNVlc1ZDF1Q0R4STM1WC1DcHlqY1ppRndHU2hPT1JUaEo3bTJZaml1Slc5QWl0WmFHRl92bWpsMHBpZkxjVlpGRUtna2pkRURmSDhaNkR1X3ZHbTRzVzRiTWNiQUR5Nw?oc=5",
-      "published": "2026-10-28T10:47:00"
+      "url": "https://3dnews.ru/1150565",
+      "published": "2026-10-28T15:57:00"
     }
   ]
 }
