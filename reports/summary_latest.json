@@ -1,41 +1,42 @@
 {
-  "timestamp": "2026-10-29_01-48",
-  "total_articles": 90,
+  "timestamp": "2026-10-29_14-49",
+  "total_articles": 68,
   "sources": {
-    "ТАСС": 1,
-    "Коммерсантъ": 1,
-    "Ведомости": 2,
-    "Digital_Russia": 1,
-    "Habr_AI": 24,
-    "CNews": 15,
-    "3DNews": 15,
+    "Digital_Russia": 2,
+    "Habr_AI": 25,
+    "CNews": 4,
+    "3DNews": 11,
     "VC_ru_Технологии": 1,
-    "ИИ комплаенс и этика": 1,
-    "Google News": 29
+    "ИИ комплаенс и этика": 2,
+    "Google News": 23
   },
   "top_keywords": [
     [
       "ИИ",
-      76
+      53
     ],
     [
       "AI",
-      7
+      13
     ],
     [
       "ESG",
-      7
+      4
     ],
     [
       "регулирование",
       3
     ],
     [
+      "Минцифры",
+      2
+    ],
+    [
       "aigovernance",
       1
     ],
     [
-      "Минцифры",
+      "policy",
       1
     ],
     [
@@ -45,64 +46,64 @@
   ],
   "recent_headlines": [
     {
-      "title": "Конференция «ИИ в архитектурном образовании» - ArchiTime",
+      "title": "ГД приняла в первом чтении законы, направленные на регулирование рынка онлайн-торговли - ПЛН",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YbzJ2ZHFwYWpPYVRZTGZqdXJNR0hmaE1sVUl1dlRWbmN2azJ3YnJFRTAxNkhVdm9NWlJycndwVDRmcVAtMFkyWjBuNUVTSC1Ta3ZlaFQxUno4MjNyYjdkUlpuUUxtcnc?oc=5",
-      "published": "2026-10-28T21:52:06"
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kbElWdVh6VUtPMi1iMnBtTHRXS2EtOE96bEh2VEFIaU52b2cwMzV2NVQ2YVdaWUJGUzVydlRxdk1GRWNIcVNOeWxlekU1SUY4bjRv?oc=5",
+      "published": "2026-10-29T11:45:06"
     },
     {
-      "title": "Microsoft убьёт Copilot для смарт-ТВ до конца года — люди не захотели «дружить» с ИИ",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150583",
-      "published": "2026-10-28T21:27:00"
-    },
-    {
-      "title": "Nvidia представила открытую ИИ-модель для распознавания речи на 40 языках, включая русский",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150582",
-      "published": "2026-10-28T21:19:00"
-    },
-    {
-      "title": "Nvidia представила открытую ИИ-модель для распознавания речи на 40 языках, включая русский - 3DNews",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBQcnFvVWVBZUNKNmttYmVXTHp1LVllU3ZCbzM5YXhRMWRjbmdUS09FZmJQZzJQM2RqTnYzaDNR0gHDAUFVX3lxTE5LcEZ4QXJQdnpiMVY0MXZ5V1BiV2FBY0V6NTBmdFhBeHU1UEF0Ulo2X25Ebm9mQmFGaUNoY2laOG5WemhCU0d0Y01xbVRtbWdzQ3FTSEx5bkxLbU9TWDRsU2YzV2FYQVQ3aEFTRXFMTngweXBuZFZ5ODdncG5rR2FQX3NlUnpaSHZMZVh2bVRrWnpIbmlhdnhCWHhOVW9YR001c2hFa0FxY3FMbXotdDBJUnlwZkktdmZ2MGJyZU10YUpnVQ?oc=5",
-      "published": "2026-10-28T21:19:00"
-    },
-    {
-      "title": "Источники «Ведомостей»: «Сбер» поучит депутатов работе с ИИ - Ведомости",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZndGRDhwSTF6WFhsM0pLX2dBZGhaMHZFMm0ycUs1VHU2VTBOU2o3ZUZFXzVMQmZGTGNpUkxkVDNkVVBzYk1IeVNDNTBUMzFuVnFzYk1SN3lDOUMzeXMzRE56eF9nZml0M1l5U0stMVdMVGJWRUpRYjVfVmI5bldBSlZnYUJQWWYzazcxbnY4VWtHYldacnlscnBJOVA?oc=5",
-      "published": "2026-10-28T21:16:22"
-    },
-    {
-      "title": "Каждый таксист теперь может попробовать поуправлять крупной корпорацией",
+      "title": "От Word по почте до ИИ‑скиллов: обсудим эволюцию документации и зачем нейросетям бизнес‑контекст",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1100858/?utm_campaign=1100858&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-28T21:15:40"
+      "url": "https://habr.com/ru/articles/1101204/?utm_campaign=1101204&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-29T11:44:23"
     },
     {
-      "title": "Google представила Gemini 4 Carbon — свою самую мощную модель ИИ - Журнал Ситилинк",
+      "title": "Не давайте агенту docker.sock: как я сделал для ИИ отдельный вход в свой Docker-менеджер",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1101202/?utm_campaign=1101202&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-29T11:44:18"
+    },
+    {
+      "title": "Учителя на Ямале будут проверять тетради учеников с помощью ИИ - ВФокусе Mail",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYi1XazdvMm1LTENXdnZHTE9zdWRsN29wa1VwSTBjR0s0b2lMX2pBZTVSLXhURVE1ekZyOEhua1dlOUdvODVVT3BjaHpFTzdUMzd3dWM4czRGbDRGRTg4SDFrNFp4U0xlVFRhWnFESS1ENnFkdUl2MVFrNGtyM3lvQkJhcWJsNGlvTDhlT3dMb3U3SW9CU2lENndSRnJYaTFQWVI4S2RR?oc=5",
-      "published": "2026-10-28T20:34:59"
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaXNFRnJBVTZUU1FIeTctTGhZUmxLMDJQUENFMm1USVpsbFE1bXNRSHRfUE5TUkZxRTJQUHlzTWVoY0JqamxwV0MyWWk1Q2g1SVJaMDN0RzNyUUV6bEVVbXU0azl2eEdMUzFwX0pGdnNraTc4bVdBX0JBWEh5SUF3NTVBUWkwdllwdmxUTWZmR2NuMXkxbFdPaGJrbVp1ZmdiVGh1QVpDYzNEZw?oc=5",
+      "published": "2026-10-29T11:34:30"
     },
     {
-      "title": "Расширенное заседание Комитета Мособлдумы: контроль за выпасом животных, регулирование цен на топливо и защита потребителей - Официальный сайт КПРФ",
+      "title": "Минцифры готовит требование об обязательной регистрации IMEI для ввезённых в Россию «серых» смартфонов в течение двух недель — потом их перестанут обслуживать в сетях связи",
+      "source": "VC_ru_Технологии",
+      "url": "https://vc.ru/tech/3223517-obyazatelnaya-registratsiya-imei-dlya-serykh-smartfonov-v-rossii?from=rss",
+      "published": "2026-10-29T11:13:53"
+    },
+    {
+      "title": "Большая фича без бесконечных переделок: Spec driven development с AI, UML, C4 и OpenAPI",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1101186/?utm_campaign=1101186&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-29T11:11:52"
+    },
+    {
+      "title": "О вузовских ИИ‑детекторах: что они могут, а чего нет. Неочевидные результаты собственного тестирования",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1101184/?utm_campaign=1101184&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-29T11:03:38"
+    },
+    {
+      "title": "Локальные LLM в AppSec: что можно доверить открытым инструментам и моделям",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/codescoring/articles/1101180/?utm_campaign=1101180&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-29T10:51:16"
+    },
+    {
+      "title": "Что происходит с рынком ИИ-образования в России | Эксперт - Эксперт",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51S1hDOV9mMmI2eTNleUY5eVY1aTlZLWdMRFVHMHFsZFRCd0lIaVU5ejVfaFRPcXlhRUJPd2NXVUJyWUp6dkgzd0dYcw?oc=5",
-      "published": "2026-10-28T20:30:51"
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81dFdKMEFibTU5T1dNRWdWUlg0UlFJcnBCMHJmc2VBOGVNUGFPLS1BOTJWMjZRMGpLLW93NUxtd24taEtVR0tOZjdUYmZOT2I5dGFIMk9oLWFMb2lCM1JiUFZIUzJyR25QYWJmS0NR?oc=5",
+      "published": "2026-10-29T10:41:46"
     },
     {
-      "title": "Секретная ИИ-модель Anthropic выкачала фото с заблокированного Android-смартфона и сбежала из Chrome",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150578",
-      "published": "2026-10-28T20:01:00"
-    },
-    {
-      "title": "Bloomberg: возможности по кредитованию ИИ-индустрии близки к своему пределу",
-      "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28264165",
-      "published": "2026-10-28T20:00:57"
+      "title": "Масштабирование Discovery-платформы VK: 15 новых вертикалей, GPU-ранжирование и сквозная оптимизация",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/vk/articles/1101174/?utm_campaign=1101174&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-29T10:41:05"
     }
   ]
 }

@@ -1,0 +1,109 @@
+{
+  "timestamp": "2026-10-29_14-49",
+  "total_articles": 68,
+  "sources": {
+    "Digital_Russia": 2,
+    "Habr_AI": 25,
+    "CNews": 4,
+    "3DNews": 11,
+    "VC_ru_Технологии": 1,
+    "ИИ комплаенс и этика": 2,
+    "Google News": 23
+  },
+  "top_keywords": [
+    [
+      "ИИ",
+      53
+    ],
+    [
+      "AI",
+      13
+    ],
+    [
+      "ESG",
+      4
+    ],
+    [
+      "регулирование",
+      3
+    ],
+    [
+      "Минцифры",
+      2
+    ],
+    [
+      "aigovernance",
+      1
+    ],
+    [
+      "policy",
+      1
+    ],
+    [
+      "искусственный интеллект",
+      1
+    ]
+  ],
+  "recent_headlines": [
+    {
+      "title": "ГД приняла в первом чтении законы, направленные на регулирование рынка онлайн-торговли - ПЛН",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kbElWdVh6VUtPMi1iMnBtTHRXS2EtOE96bEh2VEFIaU52b2cwMzV2NVQ2YVdaWUJGUzVydlRxdk1GRWNIcVNOeWxlekU1SUY4bjRv?oc=5",
+      "published": "2026-10-29T11:45:06"
+    },
+    {
+      "title": "От Word по почте до ИИ‑скиллов: обсудим эволюцию документации и зачем нейросетям бизнес‑контекст",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1101204/?utm_campaign=1101204&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-29T11:44:23"
+    },
+    {
+      "title": "Не давайте агенту docker.sock: как я сделал для ИИ отдельный вход в свой Docker-менеджер",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1101202/?utm_campaign=1101202&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-29T11:44:18"
+    },
+    {
+      "title": "Учителя на Ямале будут проверять тетради учеников с помощью ИИ - ВФокусе Mail",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaXNFRnJBVTZUU1FIeTctTGhZUmxLMDJQUENFMm1USVpsbFE1bXNRSHRfUE5TUkZxRTJQUHlzTWVoY0JqamxwV0MyWWk1Q2g1SVJaMDN0RzNyUUV6bEVVbXU0azl2eEdMUzFwX0pGdnNraTc4bVdBX0JBWEh5SUF3NTVBUWkwdllwdmxUTWZmR2NuMXkxbFdPaGJrbVp1ZmdiVGh1QVpDYzNEZw?oc=5",
+      "published": "2026-10-29T11:34:30"
+    },
+    {
+      "title": "Минцифры готовит требование об обязательной регистрации IMEI для ввезённых в Россию «серых» смартфонов в течение двух недель — потом их перестанут обслуживать в сетях связи",
+      "source": "VC_ru_Технологии",
+      "url": "https://vc.ru/tech/3223517-obyazatelnaya-registratsiya-imei-dlya-serykh-smartfonov-v-rossii?from=rss",
+      "published": "2026-10-29T11:13:53"
+    },
+    {
+      "title": "Большая фича без бесконечных переделок: Spec driven development с AI, UML, C4 и OpenAPI",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1101186/?utm_campaign=1101186&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-29T11:11:52"
+    },
+    {
+      "title": "О вузовских ИИ‑детекторах: что они могут, а чего нет. Неочевидные результаты собственного тестирования",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1101184/?utm_campaign=1101184&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-29T11:03:38"
+    },
+    {
+      "title": "Локальные LLM в AppSec: что можно доверить открытым инструментам и моделям",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/codescoring/articles/1101180/?utm_campaign=1101180&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-29T10:51:16"
+    },
+    {
+      "title": "Что происходит с рынком ИИ-образования в России | Эксперт - Эксперт",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81dFdKMEFibTU5T1dNRWdWUlg0UlFJcnBCMHJmc2VBOGVNUGFPLS1BOTJWMjZRMGpLLW93NUxtd24taEtVR0tOZjdUYmZOT2I5dGFIMk9oLWFMb2lCM1JiUFZIUzJyR25QYWJmS0NR?oc=5",
+      "published": "2026-10-29T10:41:46"
+    },
+    {
+      "title": "Масштабирование Discovery-платформы VK: 15 новых вертикалей, GPU-ранжирование и сквозная оптимизация",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/vk/articles/1101174/?utm_campaign=1101174&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-29T10:41:05"
+    }
+  ]
+}
