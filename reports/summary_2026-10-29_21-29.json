@@ -1,0 +1,113 @@
+{
+  "timestamp": "2026-10-29_21-29",
+  "total_articles": 78,
+  "sources": {
+    "ТАСС": 1,
+    "Интерфакс": 1,
+    "Ведомости": 2,
+    "Digital_Russia": 4,
+    "Habr_Топ_День": 1,
+    "Habr_AI": 23,
+    "iXBT": 1,
+    "3DNews": 13,
+    "VC_ru_Технологии": 2,
+    "ИИ комплаенс и этика": 2,
+    "Google News": 28
+  },
+  "top_keywords": [
+    [
+      "ИИ",
+      55
+    ],
+    [
+      "AI",
+      17
+    ],
+    [
+      "ESG",
+      8
+    ],
+    [
+      "Минцифры",
+      7
+    ],
+    [
+      "регулирование",
+      3
+    ],
+    [
+      "машинное обучение",
+      1
+    ],
+    [
+      "aigovernance",
+      1
+    ],
+    [
+      "policy",
+      1
+    ]
+  ],
+  "recent_headlines": [
+    {
+      "title": "Почему нейросети описывают продукт общими словами, хотя на сайте он расписан подробно, и как от этого застраховаться",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1101396/?utm_campaign=1101396&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-29T18:22:46"
+    },
+    {
+      "title": "Samsung отчиталась о рекордной операционной прибыли в III квартале на фоне огромного спроса на память для ИИ - ServerNews",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1UQ0pSczRKN3NLeU1tZzh4Z1c1NWdkU0ZfbmlTTlBRWWR1ZDVBT0QybHBON3V5NHZGT1A2cmdWcDN5TGM?oc=5",
+      "published": "2026-10-29T18:15:00"
+    },
+    {
+      "title": "Найден полупроводник, который может помочь решить одну из главных проблем солнечных панелей",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150629",
+      "published": "2026-10-29T18:05:00"
+    },
+    {
+      "title": "Минцифры РФ предлагает блокировать сим-карты мошенников и ограничить оформление новых",
+      "source": "Интерфакс",
+      "url": "https://www.interfax.ru/russia/1125905",
+      "published": "2026-10-29T17:48:00"
+    },
+    {
+      "title": "ГД приняла в первом чтении законы, направленные на регулирование рынка онлайн-торговли - ПЛН",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kbElWdVh6VUtPMi1iMnBtTHRXS2EtOE96bEh2VEFIaU52b2cwMzV2NVQ2YVdaWUJGUzVydlRxdk1GRWNIcVNOeWxlekU1SUY4bjRv?oc=5",
+      "published": "2026-10-29T17:42:16"
+    },
+    {
+      "title": "ИИ-стратап Mistral AI открыл доступ к своей модели Large 4 - Финам",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV3JPU05tWDZ0UWIyWlFsdEV1MDBHcWVEUjlKN0ZncUxqOE0zREVlYndlQkJHWXlTOHY3SWJFQ3VBWDg4dnpiSUlZcms3RG5peTByamxfNlBQOEJNLU9wZEROV2dEeU9JX0tsRUZUdmMxa1ZsOXlGZ0p1U3ppc3ZzVXJqUTNFcVI0WTFNR0taUm5DbVMzTUQtODZkSGduZEZ3dXpLeFVUQURFQWxxVDFNMGNB?oc=5",
+      "published": "2026-10-29T17:40:55"
+    },
+    {
+      "title": "Минниханов: татарстанский ИИ-сервис для госслужащих помог в решении 6,5 млн задач",
+      "source": "ТАСС",
+      "url": "https://tass.ru/ekonomika/28268227",
+      "published": "2026-10-29T17:17:11"
+    },
+    {
+      "title": "Логика судебного акта и галлюцинации ИИ: судья ВС о приоритетах цифровизации - РАПСИ",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CT25LOUpsaFQyUlN5UVZ4Qnp3aHkwSlQwNk9wLXY4X0RYMG9CXzRQcXpoZy0zUm9sT2UxTUQ3RnYwZy04NGdNemFrellxSXY0VGxnTGYwVWpINFA5QkdsbVFxOEtWV2JzbHlfYjln?oc=5",
+      "published": "2026-10-29T17:03:18"
+    },
+    {
+      "title": "Банковский сектор – драйвер применения ИИ в России / Экономика - Независимая газета",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxb2NJSEs1c2pTdGsxbkRGcnNQYWs3U3lZSWRPSmV5WG1BNURmV0ZTYWVJODhkakJhU1BEbUY2eEtzRHZkQzd4dnlybFNRcnFVUDF0YnduaV9nWXh1aGU2My0wOA?oc=5",
+      "published": "2026-10-29T16:57:24"
+    },
+    {
+      "title": "Т-Банк представил методы для снижения затрат на генерации ответов у ИИ-моделей - Ведомости",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQURYOXlsUlo2YWxtN1BxaTI3SjMta08yV0d0ZDFyY2ZzN0dVRXhlNGtCX19zWS00NG5aNnF6VTJCX3diOThDeS1VbE82eGpZazBGRWVQUEVlRVBMOXlicjJyVF9YUnFfcHh3U2gxeC1LNkZwbl9aT3E3QThHczVvUXJ1UlVHTDVPUmpITC01clRPQ2xaSm1LcUVxcW9oU2JlTjlv?oc=5",
+      "published": "2026-10-29T16:52:00"
+    }
+  ]
+}
