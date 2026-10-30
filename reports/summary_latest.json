@@ -1,104 +1,98 @@
 {
-  "timestamp": "2026-10-30_01-57",
-  "total_articles": 49,
+  "timestamp": "2026-10-30_14-41",
+  "total_articles": 56,
   "sources": {
-    "ТАСС": 2,
-    "Коммерсантъ": 1,
+    "ТАСС": 1,
     "Ведомости": 2,
     "Digital_Russia": 4,
-    "Habr_Топ_День": 1,
-    "Habr_AI": 23,
+    "Habr_AI": 17,
     "iXBT": 1,
-    "3DNews": 11,
-    "VC_ru_Технологии": 2,
-    "ИИ комплаенс и этика": 2
+    "3DNews": 12,
+    "VC_ru_Технологии": 1,
+    "Google News": 18
   },
   "top_keywords": [
     [
       "ИИ",
-      37
+      42
     ],
     [
       "AI",
-      15
+      8
     ],
     [
       "Минцифры",
       6
     ],
     [
-      "машинное обучение",
-      1
+      "ESG",
+      4
     ],
     [
-      "aigovernance",
-      1
-    ],
-    [
-      "policy",
-      1
+      "регулирование",
+      2
     ]
   ],
   "recent_headlines": [
     {
-      "title": "OpenAI решила научить ИИ лучше понимать человеческие ценности",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150638",
-      "published": "2026-10-29T22:25:00"
-    },
-    {
-      "title": "DeepSeek и Moonshot AI использовали GPT-6 Astra для обучения своих ИИ-моделей",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150637",
-      "published": "2026-10-29T22:10:00"
-    },
-    {
-      "title": "Google запустит рекламу в ИИ-поиске по всему миру — обычная поисковая реклама растёт всё медленнее",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150636",
-      "published": "2026-10-29T21:28:00"
-    },
-    {
-      "title": "От каждого по коду, каждому по софту // Платформы для упрощенной разработки кода снова стали пользоваться спросом",
-      "source": "Коммерсантъ",
-      "url": "https://www.kommersant.ru/doc/9063954",
-      "published": "2026-10-29T21:00:15"
-    },
-    {
-      "title": "Bloomberg назвал Anthropic крупнейшим заказчиком SpaceX",
+      "title": "В Nvidia призвали Европу создать собственные ИИ-модели для независимости от США",
       "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28269065",
-      "published": "2026-10-29T20:58:35"
+      "url": "https://tass.ru/ekonomika/28271523",
+      "published": "2026-10-30T11:34:09"
     },
     {
-      "title": "РФ не видит оснований для дополнительных ограничений \"военного\" ИИ",
-      "source": "ТАСС",
-      "url": "https://tass.ru/politika/28268879",
-      "published": "2026-10-29T19:59:20"
+      "title": "Spotify запустит ИИ-сервис для создания музыкальных ремиксов - Incrussia",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOV9Pd1NUdzJjWFFtMTM0ZmdpcmNhTHNvMFdLaHRsbWFia0pXZ3JtdG15X0lwNzNyellNWlI5QUtlc3JKcHBWai1XYkJnaHBrRy1iNWpJTWg5VGx6TGFsUmkxV3EtLXZDRkEwaXMzcnhTSHNON1EzMFExRjJxWmkzYmdEOUh6RzhmYTBzbFlJUl9xZw?oc=5",
+      "published": "2026-10-30T11:23:47"
     },
     {
-      "title": "Почему нейросети описывают продукт общими словами, хотя на сайте он расписан подробно, и как от этого застраховаться",
+      "title": "Бенчмарк для робототехнических симуляторов на GPU",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1101396/?utm_campaign=1101396&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-29T18:22:46"
+      "url": "https://habr.com/ru/companies/airi/articles/1100322/?utm_campaign=1100322&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-30T11:20:02"
     },
     {
-      "title": "Найден полупроводник, который может помочь решить одну из главных проблем солнечных панелей",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150629",
-      "published": "2026-10-29T18:05:00"
+      "title": "От ИИ-агента в 1С до мотивации команды: семь коротких докладов на A&amp;PM EVENT 2026",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/infostart/articles/1101692/?utm_campaign=1101692&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-30T11:16:41"
     },
     {
-      "title": "Mistral открыла веса ИИ-модели Large 4 с триллионом параметров и удешевила доступ через API",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150622",
-      "published": "2026-10-29T16:12:00"
+      "title": "Неделя ручной работы за два дня: как я делегировала ИИ часть операционного процесса",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/rgs_it/articles/1101682/?utm_campaign=1101682&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-30T11:08:06"
     },
     {
-      "title": "Минцифры хочет блокировать все SIM-карты мошенников после блокировки в Max",
-      "source": "Ведомости",
-      "url": "https://www.vedomosti.ru/technology/news/2026/10/29/1241280-hochet-blokirovat",
-      "published": "2026-10-29T15:27:17"
+      "title": "Михаил Ширяев, НИЯУ МИФИ: «ИИ помощник, вуз физический, стажеру нужно учиться» - Атомная энергия 2.0",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XeENXd0hTMWJGYjBkdV9HZ25La1c3VXBYOG5WUWxuR1RQdVZFRUk2aWNUcVlWYzFyQ1hjTmhLVGRYVUhTMUV5QWhpeV9YQVpCcFp5WklnMndzaWpmd2M4Z2RsWVR2aXRM?oc=5",
+      "published": "2026-10-30T10:43:03"
+    },
+    {
+      "title": "Свердловские власти исключили массовые сокращения на предприятиях из-за ИИ - Областная газета | Свердловская область",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aQzhvU0lSLW11SnlmOVpyMDBpMUd0VDVIV3FNOXpMT093N195eVYwT2ZLOTY2RmdaZnRieFlnQ1AtMGNlTFVPWlZ1X0k3bVRoRGVj?oc=5",
+      "published": "2026-10-30T10:30:34"
+    },
+    {
+      "title": "Борьба за душу: Почему ИИ не сможет заменить будущим актерам мастера - Национальная Служба Новостей",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaXh4cjFzclFfLXpQMWswb3RnZUt4ZlU2SHR2b0pfNTB3eTNJRDFGY0F0UzZaaENwRFJRRXB5STQ2dVFzM0NjampEMWhwZTA3VXpXUW1tVVpGWVg3OGk2aUZpWldvVmx1d3pxaldHZjV5NGM5V3dVX3l6MjVHSlVFeGJXNldtR2t0blk0dTAxMHJzcDFteXZUN1dxSlU2M3Ff0gGmAUFVX3lxTFBuTHREbWxYVkIwcVFtYndmTUtFcnVSd3JwV2M2aFI2MWhIM1hoU3NHYVB6MjVfZ0I2cmQ1MklpdDJaaVNWcGxMbEJ6eVgyZDBnYzB6cEVmUDNLRG9VR3kyM2ZXSmFLZTJfbkI2NEcyNmtZaE90RU8tbDlrOEtNSXp2X2xiMWFlNHZhQmhWMUtHRHlncFJHUW9ZOVBiV1lBeDBFRmEweWc?oc=5",
+      "published": "2026-10-30T10:29:12"
+    },
+    {
+      "title": "Rutube Tech прогнозирует удорожание ПО из-за ИИ-разработки - RB.RU",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdEhXT1lQVGlvNC1ndHZxX1lvaEhLR256OEtjdnlzN19LcjlDUHdWZXRwTzdlTUtkVnVwRW9JYjNGa2ZzajkzUzBvVmEwaVJuZExOWEV6TWFQVEtzeGRKdnJ5MVhEd2ZOVTFneDZQQjBIRnZ3QVdvLUNQcXJWZ2dicWZxOXphczJIZWRlS3BndEJWRDBaMHRpbnF3NWpaREdNYUF0SkFlZFNfdXI2Y0RfMlNiQU9VMTdqbml5RjNsaE9ZT21ESlFnZg?oc=5",
+      "published": "2026-10-30T10:20:00"
+    },
+    {
+      "title": "Ужесточить регулирование деятельности в сфере недвижимости для защиты покупателей жилья. - Vietnam.vn",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdWVmRlloRjdzcS1FWW95OXBLRmlUcVhjMHNSdUlBQ1pScmdVblhfMWhieHJ1SkFva1JJWmpsWURsQU1aZW0tUjVjNGtiNlVQYzVYSkxMQ3ZSRTdpb25aWWY0cHJDRVl2cy1VZHpwbkJtUWxVWHlEQWJhRXRibnE4RUNzTlQzODF6dVd5S0lja0YzNTNEWFBpdQ?oc=5",
+      "published": "2026-10-30T09:44:08"
     }
   ]
 }
