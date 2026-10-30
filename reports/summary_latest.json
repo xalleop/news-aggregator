@@ -1,13 +1,12 @@
 {
-  "timestamp": "2026-10-30_21-01",
-  "total_articles": 50,
+  "timestamp": "2026-10-31_01-37",
+  "total_articles": 48,
   "sources": {
-    "ТАСС": 1,
-    "Интерфакс": 1,
     "Digital_Russia": 3,
     "Habr_AI": 13,
-    "3DNews": 11,
-    "Google News": 21
+    "3DNews": 12,
+    "ИИ комплаенс и этика": 2,
+    "Google News": 18
   },
   "top_keywords": [
     [
@@ -15,19 +14,15 @@
       39
     ],
     [
-      "Минцифры",
-      4
-    ],
-    [
-      "AI",
-      4
-    ],
-    [
       "ESG",
       3
     ],
     [
-      "регулирование",
+      "Минцифры",
+      2
+    ],
+    [
+      "AI",
       2
     ],
     [
@@ -35,70 +30,74 @@
       1
     ],
     [
-      "машинное обучение",
+      "aigovernance",
+      1
+    ],
+    [
+      "регулирование",
       1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Новая формула расчёта урона, переработка навыков и усиление ИИ: авторы Heroes of Might & Magic: Olden Era выпустили крупнейшее обновление баланса",
+      "title": "Альтман: наличие оперативной памяти в ПК «довольно ужасно» — в ИИ ЦОД она была бы полезнее",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1150681",
-      "published": "2026-10-30T17:52:00"
+      "url": "https://3dnews.ru/1150695",
+      "published": "2026-10-30T22:22:00"
     },
     {
-      "title": "VI Конференция по математическому моделированию и ИИ представила новые технологические подходы к анализу промышленных объектов - Атомная энергия 2.0",
+      "title": "Neuralink подключила Grok к мозгу человека — искусственный разум помог живому вернуть общение с людьми",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150691",
+      "published": "2026-10-30T20:25:00"
+    },
+    {
+      "title": "Внедряем ИИ. Между увольнением и ненавистью",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1101946/?utm_campaign=1101946&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-30T20:23:20"
+    },
+    {
+      "title": "Внедряем ИИ. Между увольнением и ненавистью - Хабр",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZY2JkSU93azZ5eGFDLVo5QXZOMnlTY2JCdWN0RDdQWjc3alZmZnUtQ2xCdDNtbm8xeW11X0xaY0JldTg0eTdoQWFoMnlSNC0waXZyNDdwTGg0ZTFLcFFnaA?oc=5",
-      "published": "2026-10-30T17:39:44"
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90WmIwa04yUlB5Mmx3RkpBb3RvRWRVc21xeUZjRGl0bXloRTZycnRkOFdMd056SnNENExNZklJdmE0Qzc1V0F6eERITmsyZ9IBWEFVX3lxTE1GdlJvMk1PdlNJTHliUmJKSGJNaUREc184RFBwa29jMS1sQWZtYVBwSWRLcFNfUUgzaFFRYlFmY3Fla3MwVTR0ZGMtTGQ2SFBzcnpfelAyZFo?oc=5",
+      "published": "2026-10-30T20:23:20"
     },
     {
-      "title": "ИИ в медицине начинается с данных - Ведомости",
+      "title": "«ИИ даёт нам много возможностей, но не заменит человека» - Новый компаньон",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaU5fZkdSREp4RF9RVFZDTFBicXY1eTFLczNqMGRLLWM2bElVQ21pWFlIZHlIdnRsNXAyc2FxcVJPX29pTGN5WUdmTlgtS0RoM3FWV3NYOGFyMXcwQkw1cE5OelVGWkcxeVRMUzdLWHh4RkxlM0s5MUwtWHk4RnBjYlA1Yy1QMEY2ZmNnS2dzM09WTWlwWDA2eEZCaEd1dw?oc=5",
-      "published": "2026-10-30T17:21:59"
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jNHgzWHBhY2VWaHlCbWpyNFdyc0Q5VzFTZjlacUVNcnJqZmpCZmFlMGNuTWNseWJTVU52aEtXeHBfdUtlUF9xRDdIcDg5d3ZXTXJja3lYUzRTUQ?oc=5",
+      "published": "2026-10-30T20:10:21"
     },
     {
-      "title": "Минцифры предложило возводить новостройки под трех провайдеров интернета",
-      "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28272873",
-      "published": "2026-10-30T17:10:28"
+      "title": "Представлена отвёртка с ИИ — она сама найдёт нужную биту и поможет её найти",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150690",
+      "published": "2026-10-30T20:09:00"
     },
     {
-      "title": "Минфин предложил оптимизировать досудебное регулирование налоговых споров - новости Право.ру - ПРАВО.Ru",
+      "title": "[Media] 📎 Уважаемые коллеги, представляем вам новую папку каналов, посвященных искусственному [...]",
+      "source": "ИИ комплаенс и этика",
+      "url": "https://t.me/ai_and_law_rus/1184",
+      "published": "2026-10-30T19:41:56"
+    },
+    {
+      "title": "Ничто не предвещало: Foxconn собралась стать крупнейшим в мире производителем квантовых компьютеров",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150686",
+      "published": "2026-10-30T19:40:00"
+    },
+    {
+      "title": "Глава Anthropic призывал замедлить развитие ИИ, но сам не собирается сбавлять обороты",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150685",
+      "published": "2026-10-30T19:37:00"
+    },
+    {
+      "title": "Глава Anthropic призывал замедлить развитие ИИ, но сам не собирается сбавлять обороты - 3DNews",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1yMGZyTDBqTGFUcWU5YlVla0w3ZHlqcHRnLTIzWHMxQzBzNzRNUTliQXJxcFlUQmtHUkt1SENabDhWWWfSAUhBVV95cUxNYlZOSFBZU1YtNHkzREF0RW9YUGRRUDhOVkRJbVh1TkY4RXZDN0xqdGlheGxYR19nR2huRFhWODU4dmZRZXJjRHc?oc=5",
-      "published": "2026-10-30T17:03:31"
-    },
-    {
-      "title": "Нейробиолог Дэвид Рок: вопрос не в том, что ИИ делает для нас, а в том, что он делает с нами - UN News",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9seG41VlhhN3dJWVJsbDVnMnB0NWRoMDlNUWVGTi1TVVdmUDhwM18xRmdQTy1zZGItd3BKa1NKNmloWUxHcHROYy1jWndkM1dYLW03ZFZYRQ?oc=5",
-      "published": "2026-10-30T16:58:01"
-    },
-    {
-      "title": "Минцифры предложило строить дома с инфраструктурой для минимум трех операторов связи",
-      "source": "Интерфакс",
-      "url": "https://www.interfax.ru/russia/1126185",
-      "published": "2026-10-30T16:43:00"
-    },
-    {
-      "title": "Иена растет после решения ЦБ Японии, распродажа в секторе ИИ давит на доллар - Русская служба The Moscow Times",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVXBOZU9fV3RDWEJNMzJvUUZxRXlGTWFYa0F0SGoyYmE5QWtGMXhDTWJ1N0w5RHpWcXlqNndJTGdPN3ZyYTB1NGVxZkhpemZXTGxKOENKVnJneGdfdTVnbEZyUlU5Tjl2cDNObFByZzZFeVZvbktZUnVLeUlxN05pV0lWaEh5dzZlZXBpUXNnY1dicS1qNWExSmY0RkVsV3NzUUJHeGVnS2dSV3lvem50ZVRXOWpGSHBCY1I1WE9sbXFnR1pXNThxbDJvNHVWQQ?oc=5",
-      "published": "2026-10-30T15:57:48"
-    },
-    {
-      "title": "Россиянам назвали варианты смены профессии в случае сокращения из-за ИИ - Национальная Служба Новостей",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN0xiSm9TTENBMXNiSldzSFhwQlRkdnpxV0llRFA0TVNSWWwwSjFKZGZ4eDE5bkRBX1pMTVNvQlBadWRab1MwLXBqUHFzaDBRUjJRMVFqcWtXSWxFNWR3NS1FQ1hERFlxdFJWUTFXQ3F2OWVkU2xYZXVULTF0ZEl5WTZLMVg1blZGYTdFSjMwMDVTSVg0cWp3UmZ5WG5wSXRP0gGmAUFVX3lxTE1HTERGbmhlVEs2Q3ZlV2s1WVJDVVNLcDlVQk95a0FwaDdxOXNKZWtwNl9FYTF2REx6RFI5ZjZBX2tNN0JQcVZoQzJrRHJ0WERDMGVycnA1eGdtSkVkSGoySDV3RmNKTENjOWJUOXBQUmF4aHRRTlFlWlpJSk9wTTRmMFZ3QU10TWFleGdUQ1QxcEJIYUxQZGczNVlPQkdxeDhUTEpMUUE?oc=5",
-      "published": "2026-10-30T15:47:03"
-    },
-    {
-      "title": "«Погружение в машинное обучение — 2026»: от фундаментальных исследований до дискуссий о будущем ИИ - Высшая школа экономики",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yZUY0WGRiWkxSbURwOE1xOTRIMDQ2RGtxNk1kVjF3RVBOYV9udkZPWGlaVndKMXpRQ0sxdndZWlpIY0hrbS1pZjh1cGxXV0lsVkI3cTJuamVHTFdIUXc?oc=5",
-      "published": "2026-10-30T15:27:30"
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9lekE2LVdTWWRJSkN6Yy12ZnI0dE0ydG1pVHZmTmt6ZHNzbGxteW9YX3ljYWtCV2FIWGxROXdR0gG0AUFVX3lxTE9ONGd1eTRjUFFkU3BaQmtVS1FTUTVCMWtIMzhuN1U0V2UyTTlCbFBMVmhkaUQ4NGFDeWEwQml5aTNFZlY5NktKa0xwdjBkMVBGb0xhcmdibFNBaXgyTldqOWR0TjNoVnc3ckNrdllyRnQ2clNxTW9lcmNoNWpwWFFJejZkREc2TVBTU1ZsN0VHcWJ5ZjlDZW8wYWR3aFB1RXRIYy0zYTh6QkctRzFEWkxHVFBCWA?oc=5",
+      "published": "2026-10-30T19:37:00"
     }
   ]
 }
