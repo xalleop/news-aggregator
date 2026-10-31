@@ -1,30 +1,28 @@
 {
-  "timestamp": "2026-10-31_14-15",
-  "total_articles": 52,
+  "timestamp": "2026-10-31_20-15",
+  "total_articles": 49,
   "sources": {
-    "ТАСС": 1,
-    "Digital_Russia": 1,
-    "Habr_AI": 15,
-    "3DNews": 11,
+    "Habr_AI": 13,
+    "3DNews": 12,
     "ИИ комплаенс и этика": 3,
     "Google News": 21
   },
   "top_keywords": [
     [
       "ИИ",
-      45
+      43
     ],
     [
       "AI",
-      6
+      5
     ],
     [
       "ESG",
-      2
+      3
     ],
     [
-      "цифровая трансформация",
-      1
+      "искусственный интеллект",
+      2
     ],
     [
       "машинное обучение",
@@ -33,72 +31,68 @@
     [
       "aigovernance",
       1
-    ],
-    [
-      "регулирование",
-      1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Мошенничество с поддельными документами стало системной угрозой для бизнеса: дайджест недели Smart Engines, отчет",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/smartengines/articles/1098368/?utm_campaign=1098368&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-31T11:01:03"
-    },
-    {
-      "title": "Пентест AI-компонентов: какие уязвимости искать и что с ними делать CISO",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/abp2b/articles/1102046/?utm_campaign=1102046&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-31T10:39:19"
-    },
-    {
-      "title": "С такими технологиями вам можно все. Что дальше?",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/ru_mts/articles/1101704/?utm_campaign=1101704&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-31T10:39:01"
-    },
-    {
-      "title": "В Татарстане Университет Иннополис и Минтранс будут внедрять ИИ-системы",
-      "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28274435",
-      "published": "2026-10-31T10:28:53"
-    },
-    {
-      "title": "Таджикистан планирует сотрудничать с российскими компаниями в сфере ИИ - Реальное время",
+      "title": "ChatGPT убил девушку: главные ИИ-глюки октября - Ведомости",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa1Zod3B3R2lnb2VRaURlWV9aNHpPQ3ZqdGRVVlFVXzR4NnZUNTRqRFpoaEl6ZmVlV3JmZXRmRlA1NzdSbFBiWUVadTJOd01vU1NwbTFVcmtuV0FjVzBvYW9kWjFZLWo3cVh6UDhqWWU1N2ttN01GbEVwUjFIalJja0ZPd2ZQSzNJY3VtYURFU0tfejNuNndzTElQVUVHNnAxZEJhenZSOXZLMnNrSVE?oc=5",
-      "published": "2026-10-31T10:25:00"
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN3F3elpxeGxXODBkTTZtTG5wdjdNV2lEd2dxTFVGdnFtX0VuWTZGcDM4U0F4dFM5VmE4eDU4TU1VaFFOempudEZJS2hSM3BZS2NQQ1NZZEUwdHRrTUlPQ1gtanNCbG5FZEQxaHZnallSZHM1STVseDFFQW0zX3d3MjN6ZFpTQ21ONjFR?oc=5",
+      "published": "2026-10-31T16:41:05"
     },
     {
-      "title": "Зеленский в панике, сотрудничество в сфере ИИ и «искусственный остров»: дайджест СМИ Китая - ВФокусе Mail",
+      "title": "ИИ вместо учителей: что показал эксперимент со школьниками - АБН24",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYnloaEtLMzVuVXMyd2FCLUhTelRpSTVtQURrdUF2R1FXOVR2OThiakpUNWZOU3REZ3BVLTN3Njg3OWRHVmZNOWRaM3dzYklRa1N2UDFxemlWTHVkSFhKaURjUWRrMWgxZmdXZ19ZdTRzYzhMUUJKRlYyUWluU3lEODhyX1hVUHdkQjY0Y2VnRGVtNlMwNGd1SHc5MEJkSVAzT0FBbWlVU3JuWl9YZHpiYV9sazBldEhEUWx2RktzZWl4RG1hYzBqYlRn?oc=5",
-      "published": "2026-10-31T09:57:02"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVHMtOGdOVFZSNXg2NXdnTTIxVno0M3oxbEYzTVB5Ry1fNy1KVjljQm9zSmE3UXBJaXRVa2ZNQldaNW5vdldWLXoxeE1qWkZQeEJSQVRJOUU2RU13N2VCUjNMcVh1R3RjUDJlLTM2VHg5elpZNEFlamZKOTUyV016VVpxSEhsdXBIa0tVQWI3MmZjcEVReG1YbQ?oc=5",
+      "published": "2026-10-31T16:03:01"
     },
     {
-      "title": "Лев XIV: никогда нельзя доверять ИИ решения о жизни и смерти - Vatican News",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdjRaSDloRjRfVjYza0VMTDJtd21Rc3NQZzJpRUF0UG41bHQ5Q0pjSlBqQTBfSHZrNEhRelZheXVIWFQyd3pNUmFGZFZ6Z05WVDQ2Yi00eUhKNTdKRkRYcGRNV2FndHR0VWVJdG9NMnRKWHpFdVdzMklua0dMNGZydVNBMHg4ekJ0UW9ERm9BUnFXbW1PZHBEWXR3N1VzdExERWdoWG5jV2F5YkZYaW1hR1RTMWp3Zw?oc=5",
-      "published": "2026-10-31T09:32:51"
-    },
-    {
-      "title": "Более 60 учителей школ Адыгеи приняли участие в апробации единого ИИ-ассистента учителя в Дневник.ру - Советская Адыгея",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcm5fWmdfNHlYRmtvWUd5bG5IYzNRaUlWUFk5eE1mUzBjdlh6b2tGUEZSYUUycE9RYVZvRGl4LXpZM1NtV2c2Z2k2MktadUNENjFqVGhnbktKTlQtU2hxSk9RYW5aeFZHRG5VZlBSQXJNYVVaNXlRcTVyQUFReFJaQXliNlE2dGFkVnZVWGltUXFZaE5xUWRpVV9BeE5oMTYyZlVLaGw2aEFLLTFoSmRKLWxxNlNIZ0lxZmhPcnJnWGd5N2JaWnI0aUpYaUxGVHJSQ3BDNTNUUWpqQmgwVDFXX3RR?oc=5",
-      "published": "2026-10-31T09:07:21"
-    },
-    {
-      "title": "[Photo] Как финтех и энтерпрайз внедряют ИИ в ИБ. Кейсы из-под NDA",
-      "source": "ИИ комплаенс и этика",
-      "url": "https://t.me/ai_and_law_rus/1186",
-      "published": "2026-10-31T09:07:03"
-    },
-    {
-      "title": "Бесплатные курсы и материалы: с чего начать знакомство с ИИ и нейросетями",
+      "title": "Как я первый раз в жизни написал научную статью в LaTeX с помощью ИИ-Агента за полдня",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/yandex_praktikum/articles/1088518/?utm_campaign=1088518&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-31T09:05:53"
+      "url": "https://habr.com/ru/articles/1102114/?utm_campaign=1102114&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-31T15:48:56"
+    },
+    {
+      "title": "ИИ-Стоматолог 2",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1102110/?utm_campaign=1102110&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-31T15:17:35"
+    },
+    {
+      "title": "Конвейер ИИ-мультсериала: сценарий по секундам, опоры, Kling и автоматическая проверка серии",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1102098/?utm_campaign=1102098&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-31T14:55:39"
+    },
+    {
+      "title": "Cisco предоставила своему инженеру неограниченный доступ к ИИ-токенам для переписывания легаси-кода - Хабр",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2MHBCMER0Vm9mSlVNdlF6RkhyT1BQazZfWTdfN21xUzF4OWVMbFhEQlpaYnF1VUdpV3VJOFlzMkIybDVndnQ3bNIBWEFVX3lxTE1HQWJuanNkaEVZQjNLYWVQWEtYS3dKZzVuMlVuYmJtQjdMTGx0Sk8zM2dnbXNJd1d2MU40X2ZZd0c4V0RCQ2pGWFZubkFRZmhtdVZJLUEzZS0?oc=5",
+      "published": "2026-10-31T14:37:17"
+    },
+    {
+      "title": "ИИ-агент Anthropic Claude самостоятельно провёл операцию на мозге живой мыши",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150708",
+      "published": "2026-10-31T14:36:00"
+    },
+    {
+      "title": "Искусственный интеллект в Минфине: как ИИ применят в управлении госфинансами, сроки, задачи - Финансы Mail",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcWE0NlNueXBYU2p5dVF2LWNjSXZYRW1sTkUzanNIdm5hY1VtR1hBdm40N3RuWmNyd0tQZ09lMWFkMWswRW9QdWhyeVZLTkVhZjVHUEtHX041Qk43a3RBQVF5SjB4ZFdfc3kybnNVckxLVVFxZVBoUS1BMGJWQzlJd0NqX002aVBPUWx0UGFTdXhkSUpoOXJKcTBPTmIteGVGWHNr?oc=5",
+      "published": "2026-10-31T14:15:51"
+    },
+    {
+      "title": "ИИ учится проектировать: как нейросети меняют работу инженеров - yamal1.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcXJiYTZUazY2WFQzZkRJY21rVG1IZThfVXV3YkJsSXN0WDlfcHBUcjJ4cEdFd0J3NUQzZ3d3UVVESERtdkYzbDlsLTRjNmpSb3BDUE9tQXJLbkFZaW1WLXIwbVNrbDdEbnBYUUY3STJtc3dOQmdyZ3doQnJrbzF1bVFLSXNaNEJLdHE4R2FROGtneS1LNkxGc2k3YVdqMU13WFl6enl3?oc=5",
+      "published": "2026-10-31T13:57:48"
+    },
+    {
+      "title": "Альтман приехал к Samsung выпрашивать память для ИИ на фоне усиления дефицита",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150707",
+      "published": "2026-10-31T13:56:00"
     }
   ]
 }
