@@ -1,0 +1,104 @@
+{
+  "timestamp": "2026-10-31_14-15",
+  "total_articles": 52,
+  "sources": {
+    "ТАСС": 1,
+    "Digital_Russia": 1,
+    "Habr_AI": 15,
+    "3DNews": 11,
+    "ИИ комплаенс и этика": 3,
+    "Google News": 21
+  },
+  "top_keywords": [
+    [
+      "ИИ",
+      45
+    ],
+    [
+      "AI",
+      6
+    ],
+    [
+      "ESG",
+      2
+    ],
+    [
+      "цифровая трансформация",
+      1
+    ],
+    [
+      "машинное обучение",
+      1
+    ],
+    [
+      "aigovernance",
+      1
+    ],
+    [
+      "регулирование",
+      1
+    ]
+  ],
+  "recent_headlines": [
+    {
+      "title": "Мошенничество с поддельными документами стало системной угрозой для бизнеса: дайджест недели Smart Engines, отчет",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/smartengines/articles/1098368/?utm_campaign=1098368&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-31T11:01:03"
+    },
+    {
+      "title": "Пентест AI-компонентов: какие уязвимости искать и что с ними делать CISO",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/abp2b/articles/1102046/?utm_campaign=1102046&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-31T10:39:19"
+    },
+    {
+      "title": "С такими технологиями вам можно все. Что дальше?",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/ru_mts/articles/1101704/?utm_campaign=1101704&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-31T10:39:01"
+    },
+    {
+      "title": "В Татарстане Университет Иннополис и Минтранс будут внедрять ИИ-системы",
+      "source": "ТАСС",
+      "url": "https://tass.ru/ekonomika/28274435",
+      "published": "2026-10-31T10:28:53"
+    },
+    {
+      "title": "Таджикистан планирует сотрудничать с российскими компаниями в сфере ИИ - Реальное время",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa1Zod3B3R2lnb2VRaURlWV9aNHpPQ3ZqdGRVVlFVXzR4NnZUNTRqRFpoaEl6ZmVlV3JmZXRmRlA1NzdSbFBiWUVadTJOd01vU1NwbTFVcmtuV0FjVzBvYW9kWjFZLWo3cVh6UDhqWWU1N2ttN01GbEVwUjFIalJja0ZPd2ZQSzNJY3VtYURFU0tfejNuNndzTElQVUVHNnAxZEJhenZSOXZLMnNrSVE?oc=5",
+      "published": "2026-10-31T10:25:00"
+    },
+    {
+      "title": "Зеленский в панике, сотрудничество в сфере ИИ и «искусственный остров»: дайджест СМИ Китая - ВФокусе Mail",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYnloaEtLMzVuVXMyd2FCLUhTelRpSTVtQURrdUF2R1FXOVR2OThiakpUNWZOU3REZ3BVLTN3Njg3OWRHVmZNOWRaM3dzYklRa1N2UDFxemlWTHVkSFhKaURjUWRrMWgxZmdXZ19ZdTRzYzhMUUJKRlYyUWluU3lEODhyX1hVUHdkQjY0Y2VnRGVtNlMwNGd1SHc5MEJkSVAzT0FBbWlVU3JuWl9YZHpiYV9sazBldEhEUWx2RktzZWl4RG1hYzBqYlRn?oc=5",
+      "published": "2026-10-31T09:57:02"
+    },
+    {
+      "title": "Лев XIV: никогда нельзя доверять ИИ решения о жизни и смерти - Vatican News",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdjRaSDloRjRfVjYza0VMTDJtd21Rc3NQZzJpRUF0UG41bHQ5Q0pjSlBqQTBfSHZrNEhRelZheXVIWFQyd3pNUmFGZFZ6Z05WVDQ2Yi00eUhKNTdKRkRYcGRNV2FndHR0VWVJdG9NMnRKWHpFdVdzMklua0dMNGZydVNBMHg4ekJ0UW9ERm9BUnFXbW1PZHBEWXR3N1VzdExERWdoWG5jV2F5YkZYaW1hR1RTMWp3Zw?oc=5",
+      "published": "2026-10-31T09:32:51"
+    },
+    {
+      "title": "Более 60 учителей школ Адыгеи приняли участие в апробации единого ИИ-ассистента учителя в Дневник.ру - Советская Адыгея",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcm5fWmdfNHlYRmtvWUd5bG5IYzNRaUlWUFk5eE1mUzBjdlh6b2tGUEZSYUUycE9RYVZvRGl4LXpZM1NtV2c2Z2k2MktadUNENjFqVGhnbktKTlQtU2hxSk9RYW5aeFZHRG5VZlBSQXJNYVVaNXlRcTVyQUFReFJaQXliNlE2dGFkVnZVWGltUXFZaE5xUWRpVV9BeE5oMTYyZlVLaGw2aEFLLTFoSmRKLWxxNlNIZ0lxZmhPcnJnWGd5N2JaWnI0aUpYaUxGVHJSQ3BDNTNUUWpqQmgwVDFXX3RR?oc=5",
+      "published": "2026-10-31T09:07:21"
+    },
+    {
+      "title": "[Photo] Как финтех и энтерпрайз внедряют ИИ в ИБ. Кейсы из-под NDA",
+      "source": "ИИ комплаенс и этика",
+      "url": "https://t.me/ai_and_law_rus/1186",
+      "published": "2026-10-31T09:07:03"
+    },
+    {
+      "title": "Бесплатные курсы и материалы: с чего начать знакомство с ИИ и нейросетями",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/yandex_praktikum/articles/1088518/?utm_campaign=1088518&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-10-31T09:05:53"
+    }
+  ]
+}
