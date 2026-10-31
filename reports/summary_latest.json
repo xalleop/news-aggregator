@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-31_20-15",
-  "total_articles": 49,
+  "timestamp": "2026-11-01_00-50",
+  "total_articles": 37,
   "sources": {
-    "Habr_AI": 13,
-    "3DNews": 12,
-    "ИИ комплаенс и этика": 3,
-    "Google News": 21
+    "Habr_AI": 11,
+    "3DNews": 6,
+    "ИИ комплаенс и этика": 2,
+    "Google News": 18
   },
   "top_keywords": [
     [
       "ИИ",
-      43
+      32
     ],
     [
       "AI",
@@ -35,22 +35,22 @@
   ],
   "recent_headlines": [
     {
+      "title": "B2B-Конференция по промышленной интеграции ИИ в крупный бизнес Top AI - Интерфакс",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yV2lBR2VLaGsxaFFLTWhfLUlYakZXbTdmQ3BJaWcxaC1DMmM2Qnc1UDNJZmJoa3ZEeXlxLWpVZ2YyWmlJdGs1REdfNA?oc=5",
+      "published": "2026-10-31T21:03:19"
+    },
+    {
+      "title": "Западные компании начали возвращать уволенных из-за ИИ сотрудников - BFM.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE05Tkdqb2pGWTVKQWxBZ1ZfRWdWMVg1N2lkeVBybDYzcXdZcDdSQ1dvYnNHNUVEN3dldWxsa05UemU2UXQy?oc=5",
+      "published": "2026-10-31T18:49:32"
+    },
+    {
       "title": "ChatGPT убил девушку: главные ИИ-глюки октября - Ведомости",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN3F3elpxeGxXODBkTTZtTG5wdjdNV2lEd2dxTFVGdnFtX0VuWTZGcDM4U0F4dFM5VmE4eDU4TU1VaFFOempudEZJS2hSM3BZS2NQQ1NZZEUwdHRrTUlPQ1gtanNCbG5FZEQxaHZnallSZHM1STVseDFFQW0zX3d3MjN6ZFpTQ21ONjFR?oc=5",
       "published": "2026-10-31T16:41:05"
-    },
-    {
-      "title": "ИИ вместо учителей: что показал эксперимент со школьниками - АБН24",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVHMtOGdOVFZSNXg2NXdnTTIxVno0M3oxbEYzTVB5Ry1fNy1KVjljQm9zSmE3UXBJaXRVa2ZNQldaNW5vdldWLXoxeE1qWkZQeEJSQVRJOUU2RU13N2VCUjNMcVh1R3RjUDJlLTM2VHg5elpZNEFlamZKOTUyV016VVpxSEhsdXBIa0tVQWI3MmZjcEVReG1YbQ?oc=5",
-      "published": "2026-10-31T16:03:01"
-    },
-    {
-      "title": "Как я первый раз в жизни написал научную статью в LaTeX с помощью ИИ-Агента за полдня",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1102114/?utm_campaign=1102114&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-31T15:48:56"
     },
     {
       "title": "ИИ-Стоматолог 2",

@@ -1,22 +1,7 @@
 {
-  "timestamp": "2026-10-31_20-15",
-  "total_articles": 49,
+  "timestamp": "2026-11-01_00-50",
+  "total_articles": 37,
   "articles": [
-    {
-      "title": "Как я первый раз в жизни написал научную статью в LaTeX с помощью ИИ-Агента за полдня",
-      "url": "https://habr.com/ru/articles/1102114/?utm_campaign=1102114&utm_source=habrahabr&utm_medium=rss",
-      "source": "Habr_AI",
-      "published": "2026-10-31T15:48:56",
-      "description": "<img src=\"https://habrastorage.org/extt/1c/76/58/1c76587ee8fab0f749268b863b571566.jpg\" /><p>Анонс для ленты Хабра</p><p><strong>Как я первый раз в жизни написал научную статью в LaTeX по всем строгим правилам с помощью ИИ-Агента в GigaCode за полдня</strong></p><p>Если вы когда-нибудь пытались оформить научную статью — знаете: самое сложное это не идеи, а вёрстка. LaTeX выглядит как портал в другой мир: консоль, компиляция, <code>.aux</code> файлы, ошибки на латыни.</p><p>У меня была теория обобщённой физики, но всё лежало в HTML и <code>.doc</code> файлах. За полдня с помощью ИИ-Агента в GigaCode я:</p><p>Установил LaTeX с нуля</p><p>Преобразовал черновики в <code>.tex</code> по стандартам «Письма в ЖЭТФ»</p><p>Получил готовый PDF</p><p>Всё — без VS Code, без LaTeX Workshop. GigaCode взял на себя компиляцию, я только правил текст и давал промты.</p><p>📖 <a href=\"https://%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0\" rel=\"noopener nofollow\">Читать статью →</a></p><p>Всё развитие проекта — от первого коммита до готовой статьи — в открытом репозитории: <a href=\"https://gitverse.ru/icreator/ermolaev_physics/commits/branch\" rel=\"noopener nofollow\">gitverse.ru/icreator/ermolaev_physics</a></p><p>#LaTeX #GigaCode #научныестатьи #ИИ #физика</p> <a href=\"https://habr.com/ru/articles/1102114/?utm_campaign=1102114&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
-      "tags": [
-        "ai",
-        "ml"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
     {
       "title": "ИИ-Стоматолог 2",
       "url": "https://habr.com/ru/articles/1102110/?utm_campaign=1102110&utm_source=habrahabr&utm_medium=rss",
@@ -185,21 +170,6 @@
       ]
     },
     {
-      "title": "Внедряем ИИ. Между увольнением и ненавистью",
-      "url": "https://habr.com/ru/articles/1101946/?utm_campaign=1101946&utm_source=habrahabr&utm_medium=rss",
-      "source": "Habr_AI",
-      "published": "2026-10-30T20:23:20",
-      "description": "<img src=\"https://habrastorage.org/extt/d6/62/eb/d662eb97b3a2a19ce59e623f714056f7.jpg\" /><p>Внедренца ИИ ждёт молот руководства сверху и вилы сотрудников снизу. Почему инструкции и тулзы не работают, пока не продана сама идея перемен — и при чём тут конвейер зарабатывания денег?</p> <a href=\"https://habr.com/ru/articles/1101946/?utm_campaign=1101946&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
-      "tags": [
-        "ai",
-        "ml"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
       "title": "ИИ-агент Anthropic Claude самостоятельно провёл операцию на мозге живой мыши",
       "url": "https://3dnews.ru/1150708",
       "source": "3DNews",
@@ -260,51 +230,6 @@
       ]
     },
     {
-      "title": "ИИ-пузырь надорвался: акции Intel рухнули более чем на 30 %, потянув за собой других бигтехов",
-      "url": "https://3dnews.ru/1150684",
-      "source": "3DNews",
-      "published": "2026-10-30T19:33:00",
-      "description": "Индекс Nasdaq опустился до минимума почти за последние три месяца на фоне опасений инвесторов по поводу растущих расходов на ИИ-инфраструктуру. Поводом для усиления, по сообщению Reuters, опасений стали планы Amazon увеличить капитальные затраты и предупреждение Intel об оттоке денежных средств по итогам года. Источник изображения: wikipedia.org",
-      "tags": [
-        "tech",
-        "hardware"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Новая формула расчёта урона, переработка навыков и усиление ИИ: авторы Heroes of Might & Magic: Olden Era выпустили крупнейшее обновление баланса",
-      "url": "https://3dnews.ru/1150681",
-      "source": "3DNews",
-      "published": "2026-10-30T17:52:00",
-      "description": "Находящаяся в раннем доступе фэнтезийная тактическая стратегия Heroes of Might &amp; Magic: Olden Era от разработчиков из кипрской студии с российскими корнями Unfrozen получила крупнейшее с момента премьеры обновление баланса.   Источник изображений: Unfrozen",
-      "tags": [
-        "tech",
-        "hardware"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Глава Anthropic призывал замедлить развитие ИИ, но сам не собирается сбавлять обороты",
-      "url": "https://3dnews.ru/1150685",
-      "source": "3DNews",
-      "published": "2026-10-30T19:37:00",
-      "description": "Глава Anthropic ранее призвал участников индустрии искусственного интеллекта замедлить разработку технологий, чтобы снизить вероятность непредсказуемых последствий. Однако спустя шесть недель после того, как руководители OpenAI и SpaceX публично поддержали эту инициативу, гонка продолжилась с новой силой. Источник изображения: Anthropic",
-      "tags": [
-        "tech",
-        "hardware"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
       "title": "Инвесторы отрезали OpenAI от денег — компания не собрала и половины от $30 млрд, на которые рассчитывала",
       "url": "https://3dnews.ru/1150704",
       "source": "3DNews",
@@ -325,51 +250,6 @@
       "source": "3DNews",
       "published": "2026-10-31T06:42:00",
       "description": "Apple вновь стала самой дорогой публичной компанией мира, обойдя Nvidia на фоне распродажи технологических акций. Инвесторов привлекают сравнительно сдержанные расходы Apple на ИИ-инфраструктуру: компания меньше конкурентов подвержена рискам, связанным с окупаемостью таких вложений. Источник изображения: Apple",
-      "tags": [
-        "tech",
-        "hardware"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Neuralink подключила Grok к мозгу человека — искусственный разум помог живому вернуть общение с людьми",
-      "url": "https://3dnews.ru/1150691",
-      "source": "3DNews",
-      "published": "2026-10-30T20:25:00",
-      "description": "Neuralink продемонстрировала новые возможности мозгового нейроинтерфейса N1, которые позволили человеку с тяжёлыми нарушениями речи &laquo;силой мысли&raquo; управлять ИИ-агентом Grok, совершать телефонные звонки и набирать текст на iPhone. Раньше для выполнения этих операций пациенту приходилось совершать определённые действия, что требовало усилий и было доступно не всем. Теперь для этого достаточно подумать: &laquo;Привет, Neuralink!&raquo;. Источник изображения: ИИ-генерация ChatGPT/3DNews",
-      "tags": [
-        "tech",
-        "hardware"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Представлена отвёртка с ИИ — она сама найдёт нужную биту и поможет её найти",
-      "url": "https://3dnews.ru/1150690",
-      "source": "3DNews",
-      "published": "2026-10-30T20:09:00",
-      "description": "Компания Arrowmax представила на краудфандинговой платформе Kickstarter умную отвёртку Arrowspace S1, которая с помощью встроенной камеры и искусственного интеллекта определяет необходимую насадку и вдобавок указывает, где именно она находится в специальном умном кейсе, предлагаемом в качестве опции. Источник изображения: Arrowmax/The Verge",
-      "tags": [
-        "tech",
-        "hardware"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Ничто не предвещало: Foxconn собралась стать крупнейшим в мире производителем квантовых компьютеров",
-      "url": "https://3dnews.ru/1150686",
-      "source": "3DNews",
-      "published": "2026-10-30T19:40:00",
-      "description": "В свежем интервью CNBC председатель совета директоров Foxconn Янг Лю (Young Liu) заявил, что к 2030 году компания станет крупнейшим в мире производителем квантовых компьютеров. Для этого Foxconn не нужны собственные квантовые технологии, в новой для себя области она воспользуется прежним опытом контрактного производителя электроники. Источник изображения: ИИ-генерация ChatGPT/3DNews",
       "tags": [
         "tech",
         "hardware"
@@ -415,24 +295,6 @@
         "AI",
         "aigovernance",
         "ИИ"
-      ]
-    },
-    {
-      "title": "[Media] 📎 Уважаемые коллеги, представляем вам новую папку каналов, посвященных искусственному [...]",
-      "url": "https://t.me/ai_and_law_rus/1184",
-      "source": "ИИ комплаенс и этика",
-      "published": "2026-10-30T19:41:56",
-      "description": "<br />📎 Уважаемые коллеги, представляем вам новую папку каналов, посвященных искусственному интеллекту <a href=\"https://t.me/addlist/XpAvCn1gb8k3M2Ji\"><b>папку</b></a> каналов, посвященную искусственному интеллекту ⭐️<br /><br /><b>Специализация у всех разная:</b><br /><blockquote>🔴жесткая разработка, внедрение LLM в продукты и настройка серверов;<br />🔴генерация медиа, маркетинговые связки и автоматизация повседневных процессов.</blockquote><br /><br />Никакой воды и базовых инструкций. Только<b> </b>живые тесты<b> </b>и рабочая внутрянка.<br /><br />🖥 <a href=\"https://t.me/addlist/XpAvCn1gb8k3M2Ji\"><b>Сохраняйте себе в один клик.</b></a><br /><br /><blockquote cite=\"https://t.me/addlist/XpAvCn1gb8k3M2Ji\"><cite><b>Telegram</b></cite><b>Ai</b>MediaBoost | Олег invites you to add the folder “Ai”, which includes 18 chats.</blockquote>",
-      "tags": [
-        "ai",
-        "ethic",
-        "law",
-        "regulation",
-        "governance"
-      ],
-      "category": "telegram_channels",
-      "matched_keywords": [
-        "AI"
       ]
     },
     {
@@ -482,11 +344,27 @@
       ]
     },
     {
-      "title": "ChatGPT убил девушку: главные ИИ-глюки октября - Ведомости",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN3F3elpxeGxXODBkTTZtTG5wdjdNV2lEd2dxTFVGdnFtX0VuWTZGcDM4U0F4dFM5VmE4eDU4TU1VaFFOempudEZJS2hSM3BZS2NQQ1NZZEUwdHRrTUlPQ1gtanNCbG5FZEQxaHZnallSZHM1STVseDFFQW0zX3d3MjN6ZFpTQ21ONjFR?oc=5",
+      "title": "B2B-Конференция по промышленной интеграции ИИ в крупный бизнес Top AI - Интерфакс",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yV2lBR2VLaGsxaFFLTWhfLUlYakZXbTdmQ3BJaWcxaC1DMmM2Qnc1UDNJZmJoa3ZEeXlxLWpVZ2YyWmlJdGs1REdfNA?oc=5",
       "source": "Google News",
-      "published": "2026-10-31T16:41:05",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN3F3elpxeGxXODBkTTZtTG5wdjdNV2lEd2dxTFVGdnFtX0VuWTZGcDM4U0F4dFM5VmE4eDU4TU1VaFFOempudEZJS2hSM3BZS2NQQ1NZZEUwdHRrTUlPQ1gtanNCbG5FZEQxaHZnallSZHM1STVseDFFQW0zX3d3MjN6ZFpTQ21ONjFR?oc=5\" target=\"_blank\">ChatGPT убил девушку: главные ИИ-глюки октября</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ведомости</font>",
+      "published": "2026-10-31T21:03:19",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yV2lBR2VLaGsxaFFLTWhfLUlYakZXbTdmQ3BJaWcxaC1DMmM2Qnc1UDNJZmJoa3ZEeXlxLWpVZ2YyWmlJdGs1REdfNA?oc=5\" target=\"_blank\">B2B-Конференция по промышленной интеграции ИИ в крупный бизнес Top AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Интерфакс</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "AI",
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Зеленский в панике, сотрудничество в сфере ИИ и «искусственный остров»: дайджест СМИ Китая - ВФокусе Mail",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYnloaEtLMzVuVXMyd2FCLUhTelRpSTVtQURrdUF2R1FXOVR2OThiakpUNWZOU3REZ3BVLTN3Njg3OWRHVmZNOWRaM3dzYklRa1N2UDFxemlWTHVkSFhKaURjUWRrMWgxZmdXZ19ZdTRzYzhMUUJKRlYyUWluU3lEODhyX1hVUHdkQjY0Y2VnRGVtNlMwNGd1SHc5MEJkSVAzT0FBbWlVU3JuWl9YZHpiYV9sazBldEhEUWx2RktzZWl4RG1hYzBqYlRn?oc=5",
+      "source": "Google News",
+      "published": "2026-10-31T09:57:02",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNYnloaEtLMzVuVXMyd2FCLUhTelRpSTVtQURrdUF2R1FXOVR2OThiakpUNWZOU3REZ3BVLTN3Njg3OWRHVmZNOWRaM3dzYklRa1N2UDFxemlWTHVkSFhKaURjUWRrMWgxZmdXZ19ZdTRzYzhMUUJKRlYyUWluU3lEODhyX1hVUHdkQjY0Y2VnRGVtNlMwNGd1SHc5MEJkSVAzT0FBbWlVU3JuWl9YZHpiYV9sazBldEhEUWx2RktzZWl4RG1hYzBqYlRn?oc=5\" target=\"_blank\">Зеленский в панике, сотрудничество в сфере ИИ и «искусственный остров»: дайджест СМИ Китая</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ВФокусе Mail</font>",
       "tags": [
         "google_news"
       ],
@@ -512,27 +390,26 @@
       ]
     },
     {
-      "title": "Искусственный интеллект в Минфине: как ИИ применят в управлении госфинансами, сроки, задачи - Финансы Mail",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcWE0NlNueXBYU2p5dVF2LWNjSXZYRW1sTkUzanNIdm5hY1VtR1hBdm40N3RuWmNyd0tQZ09lMWFkMWswRW9QdWhyeVZLTkVhZjVHUEtHX041Qk43a3RBQVF5SjB4ZFdfc3kybnNVckxLVVFxZVBoUS1BMGJWQzlJd0NqX002aVBPUWx0UGFTdXhkSUpoOXJKcTBPTmIteGVGWHNr?oc=5",
+      "title": "Cisco предоставила своему инженеру неограниченный доступ к ИИ-токенам для переписывания легаси-кода - Хабр",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2MHBCMER0Vm9mSlVNdlF6RkhyT1BQazZfWTdfN21xUzF4OWVMbFhEQlpaYnF1VUdpV3VJOFlzMkIybDVndnQ3bNIBWEFVX3lxTE1HQWJuanNkaEVZQjNLYWVQWEtYS3dKZzVuMlVuYmJtQjdMTGx0Sk8zM2dnbXNJd1d2MU40X2ZZd0c4V0RCQ2pGWFZubkFRZmhtdVZJLUEzZS0?oc=5",
       "source": "Google News",
-      "published": "2026-10-31T14:15:51",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOcWE0NlNueXBYU2p5dVF2LWNjSXZYRW1sTkUzanNIdm5hY1VtR1hBdm40N3RuWmNyd0tQZ09lMWFkMWswRW9QdWhyeVZLTkVhZjVHUEtHX041Qk43a3RBQVF5SjB4ZFdfc3kybnNVckxLVVFxZVBoUS1BMGJWQzlJd0NqX002aVBPUWx0UGFTdXhkSUpoOXJKcTBPTmIteGVGWHNr?oc=5\" target=\"_blank\">Искусственный интеллект в Минфине: как ИИ применят в управлении госфинансами, сроки, задачи</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Финансы Mail</font>",
+      "published": "2026-10-31T14:37:17",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2MHBCMER0Vm9mSlVNdlF6RkhyT1BQazZfWTdfN21xUzF4OWVMbFhEQlpaYnF1VUdpV3VJOFlzMkIybDVndnQ3bNIBWEFVX3lxTE1HQWJuanNkaEVZQjNLYWVQWEtYS3dKZzVuMlVuYmJtQjdMTGx0Sk8zM2dnbXNJd1d2MU40X2ZZd0c4V0RCQ2pGWFZubkFRZmhtdVZJLUEzZS0?oc=5\" target=\"_blank\">Cisco предоставила своему инженеру неограниченный доступ к ИИ-токенам для переписывания легаси-кода</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Хабр</font>",
       "tags": [
         "google_news"
       ],
       "category": "google_news",
       "search_topic": "ИИ",
       "matched_keywords": [
-        "искусственный интеллект",
         "ИИ"
       ]
     },
     {
-      "title": "Альтман: наличие оперативной памяти в ПК «довольно ужасно» — в ИИ ЦОД она была бы полезнее - 3DNews",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNzRneW1QaEQtVHVnSWNRVHRTMWZ4TXc2bFJNM1Utb0Jta0ZXYlFJei1lVGYxc2ROU2xyMk1JTFZ5WXdfU3NOOVlnZW5oaWU5dS1STmhvRXF4OTRUeHpFSFRVb2FVQWlQZnpIanJWUmhNd1V2WjZLMHA5YXl4X0R6MGhqbDQxWUQ3Vy1heTNTNDVldDB2a2l1WDNlWVVjUk12VE9OSnQ0VnBvYV9aZTk3Rmdn0gG3AUFVX3lxTE1KaGFkQXFxR2NONHRtTmU2RjJaY2lXM0dfeDRfd2g3c21Yc3hxYnI1WFIwcWhGbEM2aVJzYjF3a0lGaE5fYWZDWnV6VC0wV0ZDWFNmQ3hycmo0bmpVNm5mWUZHUDdzNVQ0cklBQTZyeWwyMEExWVdtWjJaRTgzbU1KVERQa2ZpSVMzckxSU01sZ3E2Znp0bm1lWlZ6NEF0TFRYV0FsZzdHWUc5S3VzZ0ZFSDZOSTRTQQ?oc=5",
+      "title": "ChatGPT убил девушку: главные ИИ-глюки октября - Ведомости",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN3F3elpxeGxXODBkTTZtTG5wdjdNV2lEd2dxTFVGdnFtX0VuWTZGcDM4U0F4dFM5VmE4eDU4TU1VaFFOempudEZJS2hSM3BZS2NQQ1NZZEUwdHRrTUlPQ1gtanNCbG5FZEQxaHZnallSZHM1STVseDFFQW0zX3d3MjN6ZFpTQ21ONjFR?oc=5",
       "source": "Google News",
-      "published": "2026-10-30T22:22:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQNzRneW1QaEQtVHVnSWNRVHRTMWZ4TXc2bFJNM1Utb0Jta0ZXYlFJei1lVGYxc2ROU2xyMk1JTFZ5WXdfU3NOOVlnZW5oaWU5dS1STmhvRXF4OTRUeHpFSFRVb2FVQWlQZnpIanJWUmhNd1V2WjZLMHA5YXl4X0R6MGhqbDQxWUQ3Vy1heTNTNDVldDB2a2l1WDNlWVVjUk12VE9OSnQ0VnBvYV9aZTk3Rmdn0gG3AUFVX3lxTE1KaGFkQXFxR2NONHRtTmU2RjJaY2lXM0dfeDRfd2g3c21Yc3hxYnI1WFIwcWhGbEM2aVJzYjF3a0lGaE5fYWZDWnV6VC0wV0ZDWFNmQ3hycmo0bmpVNm5mWUZHUDdzNVQ0cklBQTZyeWwyMEExWVdtWjJaRTgzbU1KVERQa2ZpSVMzckxSU01sZ3E2Znp0bm1lWlZ6NEF0TFRYV0FsZzdHWUc5S3VzZ0ZFSDZOSTRTQQ?oc=5\" target=\"_blank\">Альтман: наличие оперативной памяти в ПК «довольно ужасно» — в ИИ ЦОД она была бы полезнее</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">3DNews</font>",
+      "published": "2026-10-31T16:41:05",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN3F3elpxeGxXODBkTTZtTG5wdjdNV2lEd2dxTFVGdnFtX0VuWTZGcDM4U0F4dFM5VmE4eDU4TU1VaFFOempudEZJS2hSM3BZS2NQQ1NZZEUwdHRrTUlPQ1gtanNCbG5FZEQxaHZnallSZHM1STVseDFFQW0zX3d3MjN6ZFpTQ21ONjFR?oc=5\" target=\"_blank\">ChatGPT убил девушку: главные ИИ-глюки октября</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ведомости</font>",
       "tags": [
         "google_news"
       ],
@@ -558,11 +435,11 @@
       ]
     },
     {
-      "title": "Cisco предоставила своему инженеру неограниченный доступ к ИИ-токенам для переписывания легаси-кода - Хабр",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2MHBCMER0Vm9mSlVNdlF6RkhyT1BQazZfWTdfN21xUzF4OWVMbFhEQlpaYnF1VUdpV3VJOFlzMkIybDVndnQ3bNIBWEFVX3lxTE1HQWJuanNkaEVZQjNLYWVQWEtYS3dKZzVuMlVuYmJtQjdMTGx0Sk8zM2dnbXNJd1d2MU40X2ZZd0c4V0RCQ2pGWFZubkFRZmhtdVZJLUEzZS0?oc=5",
+      "title": "Западные компании начали возвращать уволенных из-за ИИ сотрудников - BFM.ru",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE05Tkdqb2pGWTVKQWxBZ1ZfRWdWMVg1N2lkeVBybDYzcXdZcDdSQ1dvYnNHNUVEN3dldWxsa05UemU2UXQy?oc=5",
       "source": "Google News",
-      "published": "2026-10-31T14:37:17",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2MHBCMER0Vm9mSlVNdlF6RkhyT1BQazZfWTdfN21xUzF4OWVMbFhEQlpaYnF1VUdpV3VJOFlzMkIybDVndnQ3bNIBWEFVX3lxTE1HQWJuanNkaEVZQjNLYWVQWEtYS3dKZzVuMlVuYmJtQjdMTGx0Sk8zM2dnbXNJd1d2MU40X2ZZd0c4V0RCQ2pGWFZubkFRZmhtdVZJLUEzZS0?oc=5\" target=\"_blank\">Cisco предоставила своему инженеру неограниченный доступ к ИИ-токенам для переписывания легаси-кода</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Хабр</font>",
+      "published": "2026-10-31T18:49:32",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE05Tkdqb2pGWTVKQWxBZ1ZfRWdWMVg1N2lkeVBybDYzcXdZcDdSQ1dvYnNHNUVEN3dldWxsa05UemU2UXQy?oc=5\" target=\"_blank\">Западные компании начали возвращать уволенных из-за ИИ сотрудников</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BFM.ru</font>",
       "tags": [
         "google_news"
       ],
@@ -570,6 +447,36 @@
       "search_topic": "ИИ",
       "matched_keywords": [
         "ИИ"
+      ]
+    },
+    {
+      "title": "Будущие обязательства пяти техногигантов превысили $3 трлн — ставка на ИИ становится всё дороже - 3DNews",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORFF0UGVSRmotMUMwbHY4cEg5ZFVFTEhBZzhvY3RUYWJ1RmRDSHp1LUxGMXNNVm5nU1M1Z1ZBeGxndWVrdTlzb2MyeHlkMWRXSzJvYTJRa1JHTHVUVE9wZHVHbnBPVE1jQ1dqWWFNMWtZdExyRVUyQ1NQU1pETUkwWW1jb19LSE5DTm03V2VoSlVucWFBRExVZXNxRFlSOWNxQU5SMUdZdnNjMS1vbVY4QXB6OWhjcWwyZDE5SXk0YmNhUdIBxwFBVV95cUxPQVI2NGYtRXJuR3ZXUUVBSW9yYlhZcUw0RTZ3U1Y0RmxqSjJwX0ZmZG0wVlNRY0hjZnV5dUEzdFBRR3Ryd2NGOW16M3ZfbS1YaUk3ai1tRkk3M09GTnYzRk54VjZYQWl0VUk4NnpLVm84NUZJLVlGN2JLTDRaUjZZMUFIYWtQUWNJUWlEdWpYTTF2Njk0V0l5cnlYeVRXTjRjVERzRE1FbmliUlBKZ29KY3dISlM4OU5ZaVNCei1yTW8tc2FQTVRr?oc=5",
+      "source": "Google News",
+      "published": "2026-10-31T07:18:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxORFF0UGVSRmotMUMwbHY4cEg5ZFVFTEhBZzhvY3RUYWJ1RmRDSHp1LUxGMXNNVm5nU1M1Z1ZBeGxndWVrdTlzb2MyeHlkMWRXSzJvYTJRa1JHTHVUVE9wZHVHbnBPVE1jQ1dqWWFNMWtZdExyRVUyQ1NQU1pETUkwWW1jb19LSE5DTm03V2VoSlVucWFBRExVZXNxRFlSOWNxQU5SMUdZdnNjMS1vbVY4QXB6OWhjcWwyZDE5SXk0YmNhUdIBxwFBVV95cUxPQVI2NGYtRXJuR3ZXUUVBSW9yYlhZcUw0RTZ3U1Y0RmxqSjJwX0ZmZG0wVlNRY0hjZnV5dUEzdFBRR3Ryd2NGOW16M3ZfbS1YaUk3ai1tRkk3M09GTnYzRk54VjZYQWl0VUk4NnpLVm84NUZJLVlGN2JLTDRaUjZZMUFIYWtQUWNJUWlEdWpYTTF2Njk0V0l5cnlYeVRXTjRjVERzRE1FbmliUlBKZ29KY3dISlM4OU5ZaVNCei1yTW8tc2FQTVRr?oc=5\" target=\"_blank\">Будущие обязательства пяти техногигантов превысили $3 трлн — ставка на ИИ становится всё дороже</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">3DNews</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Бизнес, образование и искусственный интеллект: ИТИС на Kazan Digital Week - Казанский (Приволжский) федеральный университет",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVJjVGFyTGxDaFdoT3dXaEJJQlZmdC00MU9XcDJRVXNjekZ6ZTJtNTBvcFZEY1pnVWszeWF6TFprYTJYbWZXaWs1MWRGRllOZ0t6X0NPWlRMSnRKcHpSaE1pSnA5U29uaHZGSUhXZFprY28zdGNDdmxjYXpYNGtzVEJUTUpKOW1EdVhqdzUybzNucWxncXpWUzlFejV1S0U?oc=5",
+      "source": "Google News",
+      "published": "2026-10-31T13:12:06",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVJjVGFyTGxDaFdoT3dXaEJJQlZmdC00MU9XcDJRVXNjekZ6ZTJtNTBvcFZEY1pnVWszeWF6TFprYTJYbWZXaWs1MWRGRllOZ0t6X0NPWlRMSnRKcHpSaE1pSnA5U29uaHZGSUhXZFprY28zdGNDdmxjYXpYNGtzVEJUTUpKOW1EdVhqdzUybzNucWxncXpWUzlFejV1S0U?oc=5\" target=\"_blank\">Бизнес, образование и искусственный интеллект: ИТИС на Kazan Digital Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Казанский (Приволжский) федеральный университет</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "искусственный интеллект"
       ]
     },
     {
@@ -585,51 +492,6 @@
       "search_topic": "ИИ",
       "matched_keywords": [
         "ИИ"
-      ]
-    },
-    {
-      "title": "Россиянам назвали варианты работы после сокращения из-за ИИ - БИЗНЕС Online",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ncGxpRmVIcWJaVEpPanlablY3WENDUENaT1Y5WFRoaDlqN1ZkaVZoUWdCWW56Z1JnNGZkc0FJMXV6TzA1SXFmdE1kLXVZRXBGMi16OdIBU0FVX3lxTE82SEhkU05GZkNDTG9qckM0ZmtBWXM4UlY5dVg4VEtXdUE0YXl3WldTU1hoZ1h2cEs0eFlJWncxeFNFaE04MVh3UlJuNkNOY1QwS2tV?oc=5",
-      "source": "Google News",
-      "published": "2026-10-30T19:35:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ncGxpRmVIcWJaVEpPanlablY3WENDUENaT1Y5WFRoaDlqN1ZkaVZoUWdCWW56Z1JnNGZkc0FJMXV6TzA1SXFmdE1kLXVZRXBGMi16OdIBU0FVX3lxTE82SEhkU05GZkNDTG9qckM0ZmtBWXM4UlY5dVg4VEtXdUE0YXl3WldTU1hoZ1h2cEs0eFlJWncxeFNFaE04MVh3UlJuNkNOY1QwS2tV?oc=5\" target=\"_blank\">Россиянам назвали варианты работы после сокращения из-за ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">БИЗНЕС Online</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Американские компании потеряли $2 трлн на страхах вокруг расходов на ИИ - Код.ру",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fTmVsR3JMam4zMDhnWlVsUHl5aGNjLWdBc0syV2hzYkxIU19jUU9iOUlfTVltMWdJSkE0RG84a2M1N2xWbjU0OWRjaTNxYW9ubXfSAVdBVV95cUxNNHoyRWwzNGc2MDFyeFNqSXFEaDR1dkp6bEk5NzlhWWoxUnl6NDJVTVRHRlkxSndHb2JuTTI2Q0JiS056MGpUMk9NdHJMWWVjQ3cwSlFrRWc?oc=5",
-      "source": "Google News",
-      "published": "2026-10-30T19:20:45",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fTmVsR3JMam4zMDhnWlVsUHl5aGNjLWdBc0syV2hzYkxIU19jUU9iOUlfTVltMWdJSkE0RG84a2M1N2xWbjU0OWRjaTNxYW9ubXfSAVdBVV95cUxNNHoyRWwzNGc2MDFyeFNqSXFEaDR1dkp6bEk5NzlhWWoxUnl6NDJVTVRHRlkxSndHb2JuTTI2Q0JiS056MGpUMk9NdHJMWWVjQ3cwSlFrRWc?oc=5\" target=\"_blank\">Американские компании потеряли $2 трлн на страхах вокруг расходов на ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Код.ру</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Бизнес, образование и искусственный интеллект: ИТИС на Kazan Digital Week - Казанский (Приволжский) федеральный университет",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVJjVGFyTGxDaFdoT3dXaEJJQlZmdC00MU9XcDJRVXNjekZ6ZTJtNTBvcFZEY1pnVWszeWF6TFprYTJYbWZXaWs1MWRGRllOZ0t6X0NPWlRMSnRKcHpSaE1pSnA5U29uaHZGSUhXZFprY28zdGNDdmxjYXpYNGtzVEJUTUpKOW1EdVhqdzUybzNucWxncXpWUzlFejV1S0U?oc=5",
-      "source": "Google News",
-      "published": "2026-10-31T13:12:10",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVJjVGFyTGxDaFdoT3dXaEJJQlZmdC00MU9XcDJRVXNjekZ6ZTJtNTBvcFZEY1pnVWszeWF6TFprYTJYbWZXaWs1MWRGRllOZ0t6X0NPWlRMSnRKcHpSaE1pSnA5U29uaHZGSUhXZFprY28zdGNDdmxjYXpYNGtzVEJUTUpKOW1EdVhqdzUybzNucWxncXpWUzlFejV1S0U?oc=5\" target=\"_blank\">Бизнес, образование и искусственный интеллект: ИТИС на Kazan Digital Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Казанский (Приволжский) федеральный университет</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "искусственный интеллект"
       ]
     },
     {
@@ -678,11 +540,11 @@
       ]
     },
     {
-      "title": "Глава Proton потребовал от разработчиков больше ИИ‑кода - Хабр",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBVNEp5bDlQZXlXLVVhUk5lZVJDUGJLTVVNYmd6Nk5CUGs4cXV6Z21GM0lXVjhDWGE0LUViaXNFUGZIZHVLckFtNdIBWEFVX3lxTE1uWFZYbkFSeUctRUY3NjBtb0NMUE5MRkJqQy1fWEtwN3FTa2lIVThpZk5qZWJqSklZUmcxTUpmbFM5QUFUT1V1c3ZuRXJ4MEV2QUJ3bEhDbjI?oc=5",
+      "title": "RuStore: установки игр выросли вдвое после запуска ИИ-рекомендаций - Реальное время",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMGJwNTFEamZaM1d2bGhQcGlwNEhtRjV6cnZVaU0waVJHdEUxdE00R0QwT0xkTmZmeHF5dHhKQUcyNV9Na1hKQ1M0ZWtnQ21IaFdJT3JDck9ZYmZhVEgxNVJkWklGVWJsaFBQbndJY1lWZjlTMTV5TU9yZnUwVUt6TTVIOTUwUUFiRGx0N0kzWVVZcDNnU2t5RS1RVHkzdGNUdWJhdw?oc=5",
       "source": "Google News",
-      "published": "2026-10-31T06:37:41",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBVNEp5bDlQZXlXLVVhUk5lZVJDUGJLTVVNYmd6Nk5CUGs4cXV6Z21GM0lXVjhDWGE0LUViaXNFUGZIZHVLckFtNdIBWEFVX3lxTE1uWFZYbkFSeUctRUY3NjBtb0NMUE5MRkJqQy1fWEtwN3FTa2lIVThpZk5qZWJqSklZUmcxTUpmbFM5QUFUT1V1c3ZuRXJ4MEV2QUJ3bEhDbjI?oc=5\" target=\"_blank\">Глава Proton потребовал от разработчиков больше ИИ‑кода</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Хабр</font>",
+      "published": "2026-10-31T12:16:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQMGJwNTFEamZaM1d2bGhQcGlwNEhtRjV6cnZVaU0waVJHdEUxdE00R0QwT0xkTmZmeHF5dHhKQUcyNV9Na1hKQ1M0ZWtnQ21IaFdJT3JDck9ZYmZhVEgxNVJkWklGVWJsaFBQbndJY1lWZjlTMTV5TU9yZnUwVUt6TTVIOTUwUUFiRGx0N0kzWVVZcDNnU2t5RS1RVHkzdGNUdWJhdw?oc=5\" target=\"_blank\">RuStore: установки игр выросли вдвое после запуска ИИ-рекомендаций</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Реальное время</font>",
       "tags": [
         "google_news"
       ],
@@ -693,80 +555,36 @@
       ]
     },
     {
-      "title": "Таджикистан планирует сотрудничать с российскими компаниями в сфере ИИ - Реальное время",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa1Zod3B3R2lnb2VRaURlWV9aNHpPQ3ZqdGRVVlFVXzR4NnZUNTRqRFpoaEl6ZmVlV3JmZXRmRlA1NzdSbFBiWUVadTJOd01vU1NwbTFVcmtuV0FjVzBvYW9kWjFZLWo3cVh6UDhqWWU1N2ttN01GbEVwUjFIalJja0ZPd2ZQSzNJY3VtYURFU0tfejNuNndzTElQVUVHNnAxZEJhenZSOXZLMnNrSVE?oc=5",
+      "title": "Искусственный интеллект в Минфине: как ИИ применят в управлении госфинансами, сроки, задачи - Финансы Mail",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcWE0NlNueXBYU2p5dVF2LWNjSXZYRW1sTkUzanNIdm5hY1VtR1hBdm40N3RuWmNyd0tQZ09lMWFkMWswRW9QdWhyeVZLTkVhZjVHUEtHX041Qk43a3RBQVF5SjB4ZFdfc3kybnNVckxLVVFxZVBoUS1BMGJWQzlJd0NqX002aVBPUWx0UGFTdXhkSUpoOXJKcTBPTmIteGVGWHNr?oc=5",
       "source": "Google News",
-      "published": "2026-10-31T10:25:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOa1Zod3B3R2lnb2VRaURlWV9aNHpPQ3ZqdGRVVlFVXzR4NnZUNTRqRFpoaEl6ZmVlV3JmZXRmRlA1NzdSbFBiWUVadTJOd01vU1NwbTFVcmtuV0FjVzBvYW9kWjFZLWo3cVh6UDhqWWU1N2ttN01GbEVwUjFIalJja0ZPd2ZQSzNJY3VtYURFU0tfejNuNndzTElQVUVHNnAxZEJhenZSOXZLMnNrSVE?oc=5\" target=\"_blank\">Таджикистан планирует сотрудничать с российскими компаниями в сфере ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Реальное время</font>",
+      "published": "2026-10-31T14:15:51",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOcWE0NlNueXBYU2p5dVF2LWNjSXZYRW1sTkUzanNIdm5hY1VtR1hBdm40N3RuWmNyd0tQZ09lMWFkMWswRW9QdWhyeVZLTkVhZjVHUEtHX041Qk43a3RBQVF5SjB4ZFdfc3kybnNVckxLVVFxZVBoUS1BMGJWQzlJd0NqX002aVBPUWx0UGFTdXhkSUpoOXJKcTBPTmIteGVGWHNr?oc=5\" target=\"_blank\">Искусственный интеллект в Минфине: как ИИ применят в управлении госфинансами, сроки, задачи</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Финансы Mail</font>",
       "tags": [
         "google_news"
       ],
       "category": "google_news",
       "search_topic": "ИИ",
       "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Лев XIV: никогда нельзя доверять ИИ решения о жизни и смерти - Vatican News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdjRaSDloRjRfVjYza0VMTDJtd21Rc3NQZzJpRUF0UG41bHQ5Q0pjSlBqQTBfSHZrNEhRelZheXVIWFQyd3pNUmFGZFZ6Z05WVDQ2Yi00eUhKNTdKRkRYcGRNV2FndHR0VWVJdG9NMnRKWHpFdVdzMklua0dMNGZydVNBMHg4ekJ0UW9ERm9BUnFXbW1PZHBEWXR3N1VzdExERWdoWG5jV2F5YkZYaW1hR1RTMWp3Zw?oc=5",
-      "source": "Google News",
-      "published": "2026-10-31T09:32:51",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOdjRaSDloRjRfVjYza0VMTDJtd21Rc3NQZzJpRUF0UG41bHQ5Q0pjSlBqQTBfSHZrNEhRelZheXVIWFQyd3pNUmFGZFZ6Z05WVDQ2Yi00eUhKNTdKRkRYcGRNV2FndHR0VWVJdG9NMnRKWHpFdVdzMklua0dMNGZydVNBMHg4ekJ0UW9ERm9BUnFXbW1PZHBEWXR3N1VzdExERWdoWG5jV2F5YkZYaW1hR1RTMWp3Zw?oc=5\" target=\"_blank\">Лев XIV: никогда нельзя доверять ИИ решения о жизни и смерти</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vatican News</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "ИИ вместо учителей: что показал эксперимент со школьниками - АБН24",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVHMtOGdOVFZSNXg2NXdnTTIxVno0M3oxbEYzTVB5Ry1fNy1KVjljQm9zSmE3UXBJaXRVa2ZNQldaNW5vdldWLXoxeE1qWkZQeEJSQVRJOUU2RU13N2VCUjNMcVh1R3RjUDJlLTM2VHg5elpZNEFlamZKOTUyV016VVpxSEhsdXBIa0tVQWI3MmZjcEVReG1YbQ?oc=5",
-      "source": "Google News",
-      "published": "2026-10-31T16:03:01",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQVHMtOGdOVFZSNXg2NXdnTTIxVno0M3oxbEYzTVB5Ry1fNy1KVjljQm9zSmE3UXBJaXRVa2ZNQldaNW5vdldWLXoxeE1qWkZQeEJSQVRJOUU2RU13N2VCUjNMcVh1R3RjUDJlLTM2VHg5elpZNEFlamZKOTUyV016VVpxSEhsdXBIa0tVQWI3MmZjcEVReG1YbQ?oc=5\" target=\"_blank\">ИИ вместо учителей: что показал эксперимент со школьниками</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">АБН24</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Исследование: в каких случаях студенты глупеют из-за использования ИИ - Нож — Интеллектуальный журнал о культуре и обществе.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYjNtRFh3OFpNdi1JSUt2dmVjQVNSby1PYUtKRzdreFRTNlRvSmRUZFZoTTZURk42VEtOSTVJaG9hSHF4ZDk4SHdndkZncEpXSjNTd1FkZ0tCSlY0cGp6bzRvd3dzUWhVRUxZdnNncVdLaHVxNko4dFB4d2J5a1cxM1k2bjViRGY3bVladlFVekFIcl9KNjhr?oc=5",
-      "source": "Google News",
-      "published": "2026-10-31T09:25:50",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNYjNtRFh3OFpNdi1JSUt2dmVjQVNSby1PYUtKRzdreFRTNlRvSmRUZFZoTTZURk42VEtOSTVJaG9hSHF4ZDk4SHdndkZncEpXSjNTd1FkZ0tCSlY0cGp6bzRvd3dzUWhVRUxZdnNncVdLaHVxNko4dFB4d2J5a1cxM1k2bjViRGY3bVladlFVekFIcl9KNjhr?oc=5\" target=\"_blank\">Исследование: в каких случаях студенты глупеют из-за использования ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Нож — Интеллектуальный журнал о культуре и обществе.</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
+        "искусственный интеллект",
         "ИИ"
       ]
     }
   ],
   "groups": {
     "by_source": {
-      "Habr_AI": 13,
-      "3DNews": 12,
-      "ИИ комплаенс и этика": 3,
-      "Google News": 21
+      "Habr_AI": 11,
+      "3DNews": 6,
+      "ИИ комплаенс и этика": 2,
+      "Google News": 18
     },
     "by_category": {
-      "tech_news": 25,
-      "telegram_channels": 3,
-      "google_news": 21
+      "tech_news": 17,
+      "telegram_channels": 2,
+      "google_news": 18
     },
     "by_keyword": {
-      "ИИ": 43,
+      "ИИ": 32,
       "AI": 5,
       "машинное обучение": 1,
       "aigovernance": 1,
