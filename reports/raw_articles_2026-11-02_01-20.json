@@ -1,0 +1,548 @@
+{
+  "timestamp": "2026-11-02_01-20",
+  "total_articles": 35,
+  "articles": [
+    {
+      "title": "День партийного единства // Как депутаты Госдумы отметят 4 ноября",
+      "url": "https://www.kommersant.ru/doc/9078608",
+      "source": "Коммерсантъ",
+      "published": "2026-11-01T22:03:00",
+      "description": "Предстоящую неделю депутаты Госдумы проведут в регионах, где будут работать с избирателями. Главным событием для них станет День народного единства, который представители парламентских партий отпразднуют с разными акцентами. Единороссы будут выстраивать параллели между преодолением Смуты и победой в спецоперации, либерал-демократы организуют турнир по армрестлингу, а «Новые люди» используют искусственный интеллект для «переодевания» в национальные костюмы. Коммунисты же дату традиционно проигнорируют.",
+      "tags": [],
+      "category": "general_news",
+      "matched_keywords": [
+        "искусственный интеллект"
+      ]
+    },
+    {
+      "title": "AP: бизнес начал возвращать уволенных из-за ИИ сотрудников",
+      "url": "https://www.vedomosti.ru/business/news/2026/11/01/1241835-biznes-nachal-vozvraschat",
+      "source": "Ведомости",
+      "published": "2026-11-01T12:32:31",
+      "description": "",
+      "tags": [],
+      "category": "general_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Замена Claude: Kimi набрала 96% в моем тесте работы с 1С",
+      "url": "https://habr.com/ru/articles/1102396/?utm_campaign=1102396&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-01T19:42:25",
+      "description": "<p><strong>Блокировка Клауд</strong></p><p>Меня зовут Новиков Александр. Я занимаюсь программированием на 1С. Задачи типовые- разработка нового функционала. Также довольно часто просят вытащить аналитику из 1С, если штатный отчет не справляется. Много задач по интеграции всего и со всем.<br /><br />ИИ я освоил, как и многие из коллег. Но использую его не вслепую, а стараюсь использовать его точечно и под контролем. Из нейросетей это GPT, Клауд.<br /><br />На днях прилетело НЛО от Клауд в виде блокировки. Пытался возражать, но внеземной разум не вошел в положение и отправил лесом. Попутно не вернув остаток средств. А между прочим была середина периода использования. В общем чистой воды разбой.<br /><br />Стал задумываться, что не за горами тот день, когда GPT тоже присоединится к шайке благородных разбойников и тогда будут сложности с разработкой. Нет, код писать руками я не разучился. Вопрос в скорости разработки. Когда рядом все бегают как страусы, быть черепахой на их фоне будет иметь последствия для новых заказов.<br /><br />Стал рассматривать китайские нейросети, так как альтернативу западным в части работы с 1С. <br />Первой на тестирование взял kimi, так как можно заплатить с карты мир рублями, да и впн не нужен.<br /><br />Сразу предупрежу, что тестировал kimi как инструмент аналитика, так как такие работы у меня отнимают много времени. И чуть меньше уделил внимания как инструменту разработки.Но забегая вперед, скажу, что пишет нормально.<br /><br /><strong>Оплата</strong></p><p>Подписку Kimi картой \"Мир\". Платеж прошел штатно. По сумме получилось 3300 руб. за тариф ПРО. Замечу от себя, что в рунете много разных ссылок на посредников. Поэтому убедитесь, что ссылка ведет на официальный сайт.<br /><br /><strong>Среда для тестирования</strong><br /><br />Скачал приложение kimi для windows. Интерфейс английский. Лично для меня это не проблема, но кому-то может показаться чуть неудобным, хотя пиши в чат и получай ответы. Авторизация прошла через сайт, связал приложение и аккаунт.</p> <a href=\"https://habr.com/ru/articles/1102396/?utm_campaign=1102396&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Как попасть в ответы нейросетей: почему ответа в первом абзаце мало и как проверить начало страницы",
+      "url": "https://habr.com/ru/articles/1102378/?utm_campaign=1102378&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-01T17:56:13",
+      "description": "<img src=\"https://habrastorage.org/extt/7d/3e/47/7d3e47657ae2098acb6a7c407ef908d5.jpg\" /><p>Как попасть в ответы нейросетей? Первым делом вам посоветуют дать ответ в первых строках страницы, а это значит браться за начало каждой страницы на сайте. <a href=\"https://www.searchenginejournal.com/ai-cited-pages-more-often-got-straight-to-the-answer/594781/\" rel=\"noopener nofollow\">Search Engine Journal</a> пересказал анализ TJ Robertson из агентства TJ Digital на 193 507 ответах ChatGPT и ИИ-ответов Google (AI Mode и AI Overviews): процитированные страницы и правда чаще начинались с прямого ответа. Но против страниц, которые ИИ нашёл и не стал цитировать, разрыв небольшой, а сам Robertson считает это связью и причиной не называет. Переписывать весь сайт рано: сначала стоит проверить начало важных страниц, каждую по её целевому вопросу. Я опираюсь на логи замера ответов ИИ-моделей и аудит цитируемости страниц, так что для меня это рабочая задача.</p> <a href=\"https://habr.com/ru/articles/1102378/?utm_campaign=1102378&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI",
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Ты не бойся, это Goose",
+      "url": "https://habr.com/ru/articles/1102376/?utm_campaign=1102376&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-01T17:51:51",
+      "description": "<img src=\"https://habrastorage.org/extt/2d/b9/70/2db9707086e99c9ad3fa6483f2342b06.png\" /><p>Есть вещи посильнее “Фауста” Гёте. Есть вещи побыстрее Rust – новый ЯП Goose. Он же и помедленнее. Зависит от контекста.</p><p>В типичных публикациях феномен подаётся так: “ИИ написал язык Goose – быстрее C++ и Rust”. Под катом – магия в деталях с частичным последующим разоблачением.</p> <a href=\"https://habr.com/ru/articles/1102376/?utm_campaign=1102376&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Личные AI-ассистенты и угроза приватности. Детальные профили на друзей и семью",
+      "url": "https://habr.com/ru/companies/globalsign/articles/1102364/?utm_campaign=1102364&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-01T17:05:05",
+      "description": "<img src=\"https://habrastorage.org/extt/06/d0/b1/06d0b10b65b5a304318cb8a1fe3e70e8.png\" /><p>Новейший тренд в технологиях машинного обучения — так называемые «персональные ассистенты», AI-агенты вроде <a href=\"https://muse.ai/\">Muse</a> от Meta* и <a href=\"https://openai.com/ru-RU/index/introducing-dots/\">Dots</a> от OpenAI. Это вторая волна подобных программ, после первой волны ассистентов, включая <a href=\"https://openclaw.ai/\">OpenClaw</a>, <a href=\"https://instinct.com/\">Instinct</a> и проч. Агенты нового поколения приходят на смену чатботам прошлого, не имеющим продвинутой памяти и доступа к персональным данным пользователя.</p><p>К сожалению, сбор данных со стороны крупных IT-корпораций увеличивает риски для приватности пользователей. И первый мониторинг активности AI-агентов <a href=\"https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/\">подтвердил худшие опасения</a>.</p> <a href=\"https://habr.com/ru/articles/1102364/?utm_campaign=1102364&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Я нанял ИИ искать мне работу. Дневник эксперимента, неделя первая",
+      "url": "https://habr.com/ru/articles/1102362/?utm_campaign=1102362&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-01T16:41:12",
+      "description": "<img src=\"https://habrastorage.org/extt/d7/2d/0d/d72d0d9264fe59d176f718540319df12.png\" /><p>Я тимлид, который умеет нанимать, но не умеет искать работу. Поэтому я нанял для этого ИИ-агента: он живёт в моём браузере, мониторит вакансии, пишет сопроводительные письма и пинает меня по расписанию. Дневник первой недели эксперимента — что получилось, где агент сел в лужу и почему финальное «отправить» всё равно остаётся за человеком.</p> <a href=\"https://habr.com/ru/articles/1102362/?utm_campaign=1102362&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "От промпта до продакшна за два часа: всё, что нужно знать о Claude Code",
+      "url": "https://habr.com/ru/companies/bothub/articles/1102356/?utm_campaign=1102356&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-01T15:48:49",
+      "description": "<img src=\"https://habrastorage.org/extt/35/a1/40/35a140aa1d71646f27b7de12cff7014f.jpeg\" /><p>К концу 2026 года Claude Code перестал быть экзотикой: CLI-агент от Anthropic генерирует всё на свете — видео, сайты, приложения, скрипты, статьи — и закрывает заметную часть инженерной рутины. Одни называют его лучшим, что случилось с разработкой за последние годы; другие указывают на лимиты, которые заканчиваются быстрее, чем ожидалось, жалуются на решения, которые агент принимает без спроса, и на очередную волну блокировок аккаунтов.</p><p>Статья для тех, кто не сразу нырнул в ИИ-сферу и до сих пор копирует код из браузера в IDE, а теперь хочет понять, что за зверь такой Claude Code.</p><p>В этой статье я расскажу как им пользоваться, почему пара часов вместо пары дней — на самом деле реальный сценарий, но только для небольшой фичи или сервиса, оговорю это сразу. Разберём, что настроить до первого запуска, как описать проект, чтобы агент не угадывал команды, и в какой момент пора остановиться и проверить всё руками. А также разберем конкретные инструменты и нововведения Claude Code - скиллы, агенты и MCP. Они распространяются и на другие альтернативы, будь то Codex или OpenCode, но Claude Code остается эталоном, на его примере и разберем.</p> <a href=\"https://habr.com/ru/articles/1102356/?utm_campaign=1102356&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Агентский поиск на open‑source моделях: 7 поисковых инструментов, 16 моделей и одна компания",
+      "url": "https://habr.com/ru/articles/1102340/?utm_campaign=1102340&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-01T15:26:46",
+      "description": "<img src=\"https://habrastorage.org/extt/62/1c/cd/621ccda9e7105ab119c00445e06e526d.png\" /><p>У меня было 16 моделей, 7 поисковых инструментов, 2 провайдера ai моделей, одна компания и целая куча вопросов о том, как же ИИ модели ищут информацию о компаниях в интернете. Что находят, как обрабатывают найденное, какие делают выводы и как на это повлиять.</p> <a href=\"https://habr.com/ru/articles/1102340/?utm_campaign=1102340&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI",
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Айтишка перестала быть чит-кодом в хорошую жизнь",
+      "url": "https://habr.com/ru/articles/1102140/?utm_campaign=1102140&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-01T12:39:24",
+      "description": "<img src=\"https://habrastorage.org/extt/6f/4a/c3/6f4ac3dd6e05a179d1b026f6b693e45a.png\" /><p>Все обсуждают, заменит ли ИИ программистов, но почти никто не обсуждает, что будет, если не заменит</p><p>Чтобы объяснить почему, сначала придется честно поговорить о том, за что нам вообще платили</p> <a href=\"https://habr.com/ru/articles/1102140/?utm_campaign=1102140&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">за что</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Можно ли отказаться от Opus и Codex? Проверил MacBook, игровой ноутбук и DGX Spark на одной задаче с ловушками",
+      "url": "https://habr.com/ru/articles/1100830/?utm_campaign=1100830&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-01T11:43:24",
+      "description": "<img src=\"https://habrastorage.org/extt/2c/4e/be/2c4ebe7afcc24ee413418aac242d845d.png\" /><p>В моём пет-проекте&nbsp;<a href=\"https://github.com/NGirchev/open-daimon\" rel=\"noopener nofollow\">open-daimon</a>&nbsp;давно есть роутинг между локальными моделями и облаком.</p><p>Сразу оговорюсь: публично open-daimon не обновляется, потому что разработку я веду локально, так быстрее. А на его основе у меня уже есть отдельный закрытый проект, который расширяет его возможности, — студия управления агентами. В ней я всё это и тестировал.</p><p>Всерьёз захотелось по простой причине: в облаке правила чужие, и меняются они без спроса.</p><p>В октябре снова всплыло, что в&nbsp;<a href=\"https://www.anthropic.com/legal/consumer-terms\" rel=\"noopener nofollow\">потребительских условиях Anthropic</a>&nbsp;для жителей ЕЭЗ и Швейцарии прямо написано: не использовать сервисы «в коммерческих или деловых целях». Под эти условия попадают <a href=\"http://Claude.ai\" rel=\"noopener nofollow\">Claude.ai</a> и подписки Pro и Max. То есть разработчик в Европе, который пишет рабочий код в Claude Code по подписке Max, формально их нарушает. Для работы нужен API, Team или Enterprise, а это уже совсем другие деньги.</p><p>Вторая история про то, что тебе разрешат делать со своим же железом. Автор Decrypt&nbsp;<a href=\"https://decrypt.co/381717/how-vibe-coded-my-smart-tv-claude-killed-it\" rel=\"noopener nofollow\">попросил Claude Opus 5.5</a>&nbsp;помочь заново получить root на собственном телевизоре LG. Защита модели оборвала запрос и предложила переключиться на Opus 4.8. А исследователь, известный находкой с постоянно включённым микрофоном в телевизорах Samsung, пишет, что OpenAI&nbsp;<a href=\"https://pasqualepillitteri.it/en/news/27102/hugging-face-bans-uncensored-models-kimi-k27-code\" rel=\"noopener nofollow\">заблокировала его аккаунт</a>&nbsp;за «Cyber Abuse» после анализа прошивки через ChatGPT. Вместе с аккаунтом пропали примерно $500 на балансе API. OpenAI это не комментировала, так что пока это только его слова.</p><p>Направление понятное: ковырять чужое ПО будут запрещать всё чаще, а что считать злоупотреблением, решает производитель.</p> <a href=\"https://habr.com/ru/articles/1100830/?utm_campaign=1100830&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Вайбкодинг против старой школы: что делать дизайнерам в эпоху ИИ?",
+      "url": "https://habr.com/ru/articles/1101468/?utm_campaign=1101468&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-01T10:00:32",
+      "description": "<img src=\"https://habrastorage.org/extt/64/10/0a/64100a13bcb997f522b4729477af71db.jpg\" /><p>Недавно ко мне пришел начинающий дизайнер с неожиданным вопросом: стоит ли учить WordPress для создания сайтов с нуля? Поначалу я уходила от темы, предлагая посмотреть на что-то посвежее, типа Tilda или Webflow. Сравнивала с ситуацией в 2014, когда альтернатив собрать сайт без знания кода было немного.</p><p>Но потом решилась. И сказала то, в чем сама себе боялась признаться: <em>«Есть нешуточная вероятность, что нашей профессии скоро не будет». </em></p><p>Почему тогда курсы до сих пор обещают легкий вход в индустрию, удаленную работу из любой точки мира, а лиды бигтехов зарабатывают на консультациях — и к ним идут?</p><p>А потому что, по моим наблюдениям, индустрия раскололась на два лагеря. Они живут в параллельных вселенных, в одной из которых новички идут за советом к старшим, уверенным в своей незаменимости. Во второй — те, кто без знаний базы веб-дизайна идут и вайбкодят сайты, блистая <abbr class=\"habraabbr\" title=\"Когнитивное искажение, при котором люди с низким уровнем квалификации в какой-либо области склонны переоценивать свои способности.\">эффектом Даннинга-Крюгера</abbr>, за что получают по шапке от «старичков».</p><p>Покупая билет в первую, новичок вынужден перейти во вторую, потому что работодатели все чаще требуют владеть нейросетями. А параллельно дизайнеры-сеньоры кошмарят в комментариях работы, сделанные через ИИ: «Невозможно без опыта сгенерировать сайт, решающий задачи бизнеса». </p><p>Совсем недавно я тоже считала, что вот с моим-то огромным опытом бояться нечего. Ага)</p> <a href=\"https://habr.com/ru/articles/1101468/?utm_campaign=1101468&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "DeepSeek создала «ИИ-суперагента» — конкурент Claude Code сам читает чаты разработчиков и предлагает решения задач",
+      "url": "https://3dnews.ru/1150724",
+      "source": "3DNews",
+      "published": "2026-11-01T17:35:00",
+      "description": "Компания DeepSeek представила прототип автономного ИИ-агента для программирования, стремясь составить конкуренцию популярному инструменту Claude Code от компании Anthropic. Источник изображения: DeepSeek",
+      "tags": [
+        "tech",
+        "hardware"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Кадровый бумеранг ИИ: работодатели массово возвращают тех, кого недавно заменили нейросетями",
+      "url": "https://3dnews.ru/1150722",
+      "source": "3DNews",
+      "published": "2026-11-01T14:10:00",
+      "description": "Массовые сокращения штата, обусловленные внедрением искусственного интеллекта, привели к возникновению новой категории &laquo;сотрудников-бумерангов&raquo;. Согласно исследованию консалтинговой компании Challenger, Gray &amp; Christmas, в мае 2026 года работодатели назвали ИИ главной причиной почти 40 % объявленных увольнений в США. Однако сейчас зафиксирована обратная тенденция, которую эксперты называют &laquo;ИИ-отскоком&raquo;. Источник изображения: Milad Fakurian / Unsplash.com",
+      "tags": [
+        "tech",
+        "hardware"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Память стала золотой жилой ИИ: Samsung, SK hynix и Micron заработали больше Apple, Microsoft и Amazon",
+      "url": "https://3dnews.ru/1150718",
+      "source": "3DNews",
+      "published": "2026-11-01T09:53:00",
+      "description": "Пять крупнейших поставщиков чипов памяти в прошлом квартале впервые зафиксировали более высокую суммарную операционную и чистую прибыль, чем пять крупнейших американских IT-гигантов. Этому способствовал бум в сфере ИИ, где спрос на чипы памяти продолжает опережать предложение. Источник изображений: asia.nikkei.com",
+      "tags": [
+        "tech",
+        "hardware"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Александр Шелковой: Развитие ИИ должно сопровождаться продуманным регулированием - Единая Россия",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRS05M01HX3huTVJZZmlZak1ISDdZZmc1d3pvaXBLRU14U180S3JZa3BXVlhZVUZvR09wbzhPN2wybWdoTTN5Tl9jUExFRlpvOVRyUVl4UDFpel82QWJQZXU2ZEVaWEQ3eGYyWjh4bFl0alllejFKaUFQb0FsbDBrRXNNNk80YTQ1Vm9QajFTNEcyQ3g2ZTRLay1iRmlhUWFGUWNpcENoLVVFdUlXaFY1RUlTRTdBanVM?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T13:08:52",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRS05M01HX3huTVJZZmlZak1ISDdZZmc1d3pvaXBLRU14U180S3JZa3BXVlhZVUZvR09wbzhPN2wybWdoTTN5Tl9jUExFRlpvOVRyUVl4UDFpel82QWJQZXU2ZEVaWEQ3eGYyWjh4bFl0alllejFKaUFQb0FsbDBrRXNNNk80YTQ1Vm9QajFTNEcyQ3g2ZTRLay1iRmlhUWFGUWNpcENoLVVFdUlXaFY1RUlTRTdBanVM?oc=5\" target=\"_blank\">Александр Шелковой: Развитие ИИ должно сопровождаться продуманным регулированием</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Единая Россия</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "регулирование",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Россия и Китай против подхода США к регулированию ИИ - KazanFirst",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMEJwZGxQbDRzMzdqR1h2eW00WWY3RlVralZ5Y3FRWlFXQmxwRkVWQjR5a1cycFRTXzZnc2hySWdWSl9DOWV2YTM0RmRaeGRCSEhhMHA4NHdZd0k1TTNDY1dqS1F3RUl2b0VIY0lkYUFlZnR5ektjYXhhVE42TTdVYXhIM3pTUThaVnfSAZIBQVVfeXFMTWRtYS1RRG5VQ0RnX1Q1MGJ4SGFXeWlsNGh4RkRUZFBTcXo3eFkyU0podWZWOHJzdGNjMFM1dW5IQ1lZVVh3MUpQN0VMVHIzOURSTXNjWWVDc0hMUFg2LW4zRHRTSUhMT19qN2xuNExCNDZKNVpiRjhxSmhTOUpzaFpva05BeWh4ZFdEbEV1VDE2c1E?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T19:04:20",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMEJwZGxQbDRzMzdqR1h2eW00WWY3RlVralZ5Y3FRWlFXQmxwRkVWQjR5a1cycFRTXzZnc2hySWdWSl9DOWV2YTM0RmRaeGRCSEhhMHA4NHdZd0k1TTNDY1dqS1F3RUl2b0VIY0lkYUFlZnR5ektjYXhhVE42TTdVYXhIM3pTUThaVnfSAZIBQVVfeXFMTWRtYS1RRG5VQ0RnX1Q1MGJ4SGFXeWlsNGh4RkRUZFBTcXo3eFkyU0podWZWOHJzdGNjMFM1dW5IQ1lZVVh3MUpQN0VMVHIzOURSTXNjWWVDc0hMUFg2LW4zRHRTSUhMT19qN2xuNExCNDZKNVpiRjhxSmhTOUpzaFpva05BeWh4ZFdEbEV1VDE2c1E?oc=5\" target=\"_blank\">Россия и Китай против подхода США к регулированию ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KazanFirst</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "регулирование",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Российские сенаторы обсудят в Пекине регулирование искусственного интеллекта, санкции и демографию - Marketpower.pro",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRlBsdXlXc1EzQlNxLWxmeUhyVVFBOXJXMm44Q0txZWQzWHBEVVVZaGt0RTYyTFlMelJvcXR1SDRVMVlLQmI3Tk5YaEJ2cW81aDZxTHcybnViRmR3QnJCd2JkXzFrVzY4cXVzakNEUlMyTkRVdGpyc1dHVXVtTWlOMnNBSXJHMktVRk8zcEZ6cHNDTl81ZHJyZmVzNmxYLUVXaldqOW1FX3g0TlVPSnFpb3gyMGREUmJvVktHLVNsRnFnMjQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T15:17:05",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRlBsdXlXc1EzQlNxLWxmeUhyVVFBOXJXMm44Q0txZWQzWHBEVVVZaGt0RTYyTFlMelJvcXR1SDRVMVlLQmI3Tk5YaEJ2cW81aDZxTHcybnViRmR3QnJCd2JkXzFrVzY4cXVzakNEUlMyTkRVdGpyc1dHVXVtTWlOMnNBSXJHMktVRk8zcEZ6cHNDTl81ZHJyZmVzNmxYLUVXaldqOW1FX3g0TlVPSnFpb3gyMGREUmJvVktHLVNsRnFnMjQ?oc=5\" target=\"_blank\">Российские сенаторы обсудят в Пекине регулирование искусственного интеллекта, санкции и демографию</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marketpower.pro</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "регулирование",
+      "matched_keywords": [
+        "регулирование"
+      ]
+    },
+    {
+      "title": "Денисов заявил о разногласиях России и Китая с США по регулированию ИИ - Росбалт",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbERWN21zbkhvOW5SaERTc0VFSXdmc3ZrUmlnT1FsYzA3a09EeHp4RHdCMDB0ZUR3dFZwa0Rzbm5URVdzV1JvQkY0a19SQ3NvVi1WNmRGMVVCbm8zLWRpT09hXzNpdktXaGtNTlVuMUJKRkxkUUd5eTVENk10Tmhxak5OeUdlalhCNUVWWWUxUnY0RFR5WE5XOGdDVW9iVU1mZHpJa1ZMZS0tMXZ5VjFnQ3FZbUFSWHZSaUY2RTFEYw?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T16:10:45",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPbERWN21zbkhvOW5SaERTc0VFSXdmc3ZrUmlnT1FsYzA3a09EeHp4RHdCMDB0ZUR3dFZwa0Rzbm5URVdzV1JvQkY0a19SQ3NvVi1WNmRGMVVCbm8zLWRpT09hXzNpdktXaGtNTlVuMUJKRkxkUUd5eTVENk10Tmhxak5OeUdlalhCNUVWWWUxUnY0RFR5WE5XOGdDVW9iVU1mZHpJa1ZMZS0tMXZ5VjFnQ3FZbUFSWHZSaUY2RTFEYw?oc=5\" target=\"_blank\">Денисов заявил о разногласиях России и Китая с США по регулированию ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Росбалт</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "регулирование",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ESG в отношении кофе Lam Dong: снижение затрат, сохранение доли рынка, повышение ценности. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOck9kUkVpcEd4ZnkwNTRBQ3k0MVNJSXBQVGt4YmZ3Zlc4TWdsSHR1cW5MbFdrNk5oOGdrRFpldHZiTHVxRjgxTkRrTE1hcFZETk1maHJzSWtHenN5LXBsRWc1M2h4Y2J5R3hQUkdQWlBCeVVHTUkxU3ZnY3hiYUNXLURiUkRqa0Y5VmtjZVJnT2NUNXQ0?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T10:49:51",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOck9kUkVpcEd4ZnkwNTRBQ3k0MVNJSXBQVGt4YmZ3Zlc4TWdsSHR1cW5MbFdrNk5oOGdrRFpldHZiTHVxRjgxTkRrTE1hcFZETk1maHJzSWtHenN5LXBsRWc1M2h4Y2J5R3hQUkdQWlBCeVVHTUkxU3ZnY3hiYUNXLURiUkRqa0Y5VmtjZVJnT2NUNXQ0?oc=5\" target=\"_blank\">ESG в отношении кофе Lam Dong: снижение затрат, сохранение доли рынка, повышение ценности.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ESG",
+      "matched_keywords": [
+        "ESG"
+      ]
+    },
+    {
+      "title": "Андрей Карпаты представил ИИ‑проект HackerTube — клон витрины YouTube только с видео с рекомендациями из Hacker News - Хабр",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9XSFo5NnZEUE4tS2pDeGxzX1czVDRibjJOZEFLUVFvRHdIYXV2aW5SWGZodVpUWFZJLXhsbnh2Q3VTTXZOeEZzX9IBWEFVX3lxTE04NGF3QnBwRWZHR3NhYjlWdFFzOU5PU3hFVEptSFAzX2JCdFQ0VEh0YjFuZXIxTzdEZGNMVzRVZ3E4MU1sakt3MHdiSm1IdGFiYWthVEMyWUs?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T13:54:30",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9XSFo5NnZEUE4tS2pDeGxzX1czVDRibjJOZEFLUVFvRHdIYXV2aW5SWGZodVpUWFZJLXhsbnh2Q3VTTXZOeEZzX9IBWEFVX3lxTE04NGF3QnBwRWZHR3NhYjlWdFFzOU5PU3hFVEptSFAzX2JCdFQ0VEh0YjFuZXIxTzdEZGNMVzRVZ3E4MU1sakt3MHdiSm1IdGFiYWthVEMyWUs?oc=5\" target=\"_blank\">Андрей Карпаты представил ИИ‑проект HackerTube — клон витрины YouTube только с видео с рекомендациями из Hacker News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Хабр</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "AP: бизнес начал возвращать уволенных из-за ИИ сотрудников - Ведомости",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN1Vhd294VGROMFBfbjdQd2RUcmdsSE5EdmRHNnY5YTdyLXJUeGZsQVIzZ3BkOEpOcVVWYW53UWN6a29fR0F0Z3BYU1lfUlJfSjBMX20tMTd1OVo0NzJlaXVwczVBTmhiLVJvOE1nQm5sMTZiWFZ0NGYyVkFNWWhiNmI1ai1LRXVtNHNz?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T12:32:31",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN1Vhd294VGROMFBfbjdQd2RUcmdsSE5EdmRHNnY5YTdyLXJUeGZsQVIzZ3BkOEpOcVVWYW53UWN6a29fR0F0Z3BYU1lfUlJfSjBMX20tMTd1OVo0NzJlaXVwczVBTmhiLVJvOE1nQm5sMTZiWFZ0NGYyVkFNWWhiNmI1ai1LRXVtNHNz?oc=5\" target=\"_blank\">AP: бизнес начал возвращать уволенных из-за ИИ сотрудников</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ведомости</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "DeepSeek представил ИИ-агента для конкуренции с Claude Code - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4X09ldkJaVVBsemM2Sk5oVFhqUE5mZU11aUhobmN4RTJqNGh0WlE1Vmc4ZmFWR1Nyb3lTTGQ3YUxFd0ppck96ZlFLaTBGZ1NNUW5aYkJkakRxWElpOGxyQ0pSUmZ0cHJ6T1E?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T05:45:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB4X09ldkJaVVBsemM2Sk5oVFhqUE5mZU11aUhobmN4RTJqNGh0WlE1Vmc4ZmFWR1Nyb3lTTGQ3YUxFd0ppck96ZlFLaTBGZ1NNUW5aYkJkakRxWElpOGxyQ0pSUmZ0cHJ6T1E?oc=5\" target=\"_blank\">DeepSeek представил ИИ-агента для конкуренции с Claude Code</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Россия и Китай выступили против «вольницы» для ИИ - Клопс - новости Калининград",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMG8zVDBXSjRVeEI5WGJzak5mOUdKdXhvcElPeFl1b0txakJCMFBKUnZxWXp0dDU0Zl8xMlRHdG9mMnU1M0p0Mmd0QVhpZmVVMEFDcDFCaHRNY1ctMmlyYkswWjhvSkJvc285MGxUX2xYZXNkOHhQYWRIX2xERVE2aTBZZDh3NTZvaEx0bWF5TXdzYVVt?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T19:17:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPMG8zVDBXSjRVeEI5WGJzak5mOUdKdXhvcElPeFl1b0txakJCMFBKUnZxWXp0dDU0Zl8xMlRHdG9mMnU1M0p0Mmd0QVhpZmVVMEFDcDFCaHRNY1ctMmlyYkswWjhvSkJvc285MGxUX2xYZXNkOHhQYWRIX2xERVE2aTBZZDh3NTZvaEx0bWF5TXdzYVVt?oc=5\" target=\"_blank\">Россия и Китай выступили против «вольницы» для ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Клопс - новости Калининград</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Кадровый бумеранг ИИ: работодатели массово возвращают тех, кого недавно заменили нейросетями - 3DNews",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWTI1YWY3Q1ZFWlhQRzZUR2FnLXdNdllEX2JOQzZXdG5DTDNDQkZJUVo5TFRlZnRrN1RVY25XM3IxODczbHh5Tnh3aF9nUUV3QUxTdElhU3BmcnJ5TE1TaEFjcXl0Rk1FQjFfLW1Ddk95RTZyZEQydXQ1VlkxZGs5S0dSTjN3R1hjNkx3dFZORVR6ckJuUGlweUJWR21fUzB5YzBicXpyVnQxQnc3OGFlZUVWa0ktT3l5RXNxMUR30gHDAUFVX3lxTFA4VlhrZ3haS3ZFbjBiVTFNQVctTDFPYzlwRlNzTkZWbU1ZOHNKdVhFRXZhWFdBZllpR0t6aUlzMlF6YlpSSUFKRzhUZVlVZDl1VVo5bHVOVEtycl9EWlZYbzRlQm10MEU0X1E3Sjhyd2N5OWlWU0tkN0ZYRjJYZ2pUaTNMWThhbnFMeUdGZkwwbDlvRGozalZLbW5kb2RWcEUyTndmQWo2RXJuVk04OEFhUWYwcmtwRWdSaHI3V3l0VEcwYw?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T14:10:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQWTI1YWY3Q1ZFWlhQRzZUR2FnLXdNdllEX2JOQzZXdG5DTDNDQkZJUVo5TFRlZnRrN1RVY25XM3IxODczbHh5Tnh3aF9nUUV3QUxTdElhU3BmcnJ5TE1TaEFjcXl0Rk1FQjFfLW1Ddk95RTZyZEQydXQ1VlkxZGs5S0dSTjN3R1hjNkx3dFZORVR6ckJuUGlweUJWR21fUzB5YzBicXpyVnQxQnc3OGFlZUVWa0ktT3l5RXNxMUR30gHDAUFVX3lxTFA4VlhrZ3haS3ZFbjBiVTFNQVctTDFPYzlwRlNzTkZWbU1ZOHNKdVhFRXZhWFdBZllpR0t6aUlzMlF6YlpSSUFKRzhUZVlVZDl1VVo5bHVOVEtycl9EWlZYbzRlQm10MEU0X1E3Sjhyd2N5OWlWU0tkN0ZYRjJYZ2pUaTNMWThhbnFMeUdGZkwwbDlvRGozalZLbW5kb2RWcEUyTndmQWo2RXJuVk04OEFhUWYwcmtwRWdSaHI3V3l0VEcwYw?oc=5\" target=\"_blank\">Кадровый бумеранг ИИ: работодатели массово возвращают тех, кого недавно заменили нейросетями</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">3DNews</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Anthropic стала крупнейшим клиентом SpaceX — ИИ-стартап принёс компании Илона Маска 35% выручки - RB.RU",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObVEwdzZONkEyYl8tTWhUYXNSaGswZTNOQnNlclA3eWxLdHhEMjNVOTZzQkpkQWZreHFkZFpfQU9VSUtqUzRTTDgwMGMyUlp5S2R6RGtJRGVvX1F4U21ZVkpacVRfV240cm5JQXJCZTNYQzJsRU1EVWViM3F1QjJXSmtyZTRLaUNJSmZtR05YUU5scnVQNXFlQW1uZ0ItRUI5OTVxRW8zd29CMzNCT1BUNGNFQVRVdw?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T16:00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxObVEwdzZONkEyYl8tTWhUYXNSaGswZTNOQnNlclA3eWxLdHhEMjNVOTZzQkpkQWZreHFkZFpfQU9VSUtqUzRTTDgwMGMyUlp5S2R6RGtJRGVvX1F4U21ZVkpacVRfV240cm5JQXJCZTNYQzJsRU1EVWViM3F1QjJXSmtyZTRLaUNJSmZtR05YUU5scnVQNXFlQW1uZ0ItRUI5OTVxRW8zd29CMzNCT1BUNGNFQVRVdw?oc=5\" target=\"_blank\">Anthropic стала крупнейшим клиентом SpaceX — ИИ-стартап принёс компании Илона Маска 35% выручки</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RB.RU</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Я нанял ИИ искать мне работу. Дневник эксперимента, неделя первая - Хабр",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5odWNVb3otU1dDdDlOYVR1Z3B6X0FtN0hBQ3JuY3M1anRTQktmc2lERFNlWW9Ld2xGU2xzQ291QWxZWmdIQXRkSFJaUFZtd9IBWEFVX3lxTE1odHE5bXBFa1RYdGFpNkQtb1M2aW5PbnV3Y1ZmdmJ1UFBtTno4dFZpT3lBUFB4NWdVei1EZlg4UWJxSUVRbmJCdE9qNEJ3bjdGOVcwRXZNYV8?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T16:41:12",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5odWNVb3otU1dDdDlOYVR1Z3B6X0FtN0hBQ3JuY3M1anRTQktmc2lERFNlWW9Ld2xGU2xzQ291QWxZWmdIQXRkSFJaUFZtd9IBWEFVX3lxTE1odHE5bXBFa1RYdGFpNkQtb1M2aW5PbnV3Y1ZmdmJ1UFBtTno4dFZpT3lBUFB4NWdVei1EZlg4UWJxSUVRbmJCdE9qNEJ3bjdGOVcwRXZNYV8?oc=5\" target=\"_blank\">Я нанял ИИ искать мне работу. Дневник эксперимента, неделя первая</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Хабр</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "AP: компании начали обратно нанимать уволенных из-за ИИ сотрудников - Эксперт",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSDlyTDRHRXZFd0FkUDZCVnpSaTV4Y3F2b2trazhVU1lFdDRwaWZpczZVVFpNNHlNWTYyRVdnaXZSTERZQ3R4QjlsRXVhSi1yZ3ZDbEl4LUt0M3NDVVZvd0tLbHc4YnhyMEpib0piZGUwMnl3cDYtRDBSM2E2eW5XMnRTUXNVTTB2eE9WakpBVQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T15:03:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPSDlyTDRHRXZFd0FkUDZCVnpSaTV4Y3F2b2trazhVU1lFdDRwaWZpczZVVFpNNHlNWTYyRVdnaXZSTERZQ3R4QjlsRXVhSi1yZ3ZDbEl4LUt0M3NDVVZvd0tLbHc4YnhyMEpib0piZGUwMnl3cDYtRDBSM2E2eW5XMnRTUXNVTTB2eE9WakpBVQ?oc=5\" target=\"_blank\">AP: компании начали обратно нанимать уволенных из-за ИИ сотрудников</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Эксперт</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Инвестиционный риск и личная ответственность в ИИ-стартапе: кто ответит за убытки? - zakon.ru",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2ZJS1VGZzUxMTJvVFZpN05aSG9ONWI2b1g3dVdYYW9OM3ZSelQwWUhRVjE2QkRPQ1p4aGdCOEdlejRMeU1WWjJxa08yV3N4dVNXRVdtTlk3U2g1UzJqMHNJb2dlTFktZlpsMlNnc0R3QmxNLUdqdWt6b2hVTXdnUkF5M3IxT1NCNGU3R01YN0Yxb1JQazNobmFXY0g0Sm1aWUcyU3RZQ3lVZHdKc2VtNUlTSG4?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T21:52:02",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2ZJS1VGZzUxMTJvVFZpN05aSG9ONWI2b1g3dVdYYW9OM3ZSelQwWUhRVjE2QkRPQ1p4aGdCOEdlejRMeU1WWjJxa08yV3N4dVNXRVdtTlk3U2g1UzJqMHNJb2dlTFktZlpsMlNnc0R3QmxNLUdqdWt6b2hVTXdnUkF5M3IxT1NCNGU3R01YN0Yxb1JQazNobmFXY0g0Sm1aWUcyU3RZQ3lVZHdKc2VtNUlTSG4?oc=5\" target=\"_blank\">Инвестиционный риск и личная ответственность в ИИ-стартапе: кто ответит за убытки?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">zakon.ru</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Эксперты предлагают ввести обязательное страхование для владельцев систем ИИ - ГАРАНТ",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iTzY1OHFOd2JlVFk5UHl4WlVrWGJKbG04Z04xLWxXd29XcjM5eHc5N29LOEU1eGZSVXFxb3p4YzQ0eUhpVXFxZ2FCSQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T07:00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iTzY1OHFOd2JlVFk5UHl4WlVrWGJKbG04Z04xLWxXd29XcjM5eHc5N29LOEU1eGZSVXFxb3p4YzQ0eUhpVXFxZ2FCSQ?oc=5\" target=\"_blank\">Эксперты предлагают ввести обязательное страхование для владельцев систем ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ГАРАНТ</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Пузырь ИИ начал сдуваться: когда ждать краха и что будет с акциями технологических компаний - Финансы Mail",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUV8wZXROZndsQWRVUUVNMmZTUlZKcFByeDZyZThMUEFLc2hWekdPXzdiaU9zbHoyWVJiSWNZTkZMRGljOG1pWEpOTDNDU3ByMnNhN2FDcWNCNFNHajFQYk83aGJjQkp3RDJUTks4TmlfRGdKLWx0SVRFd3U3TWczejZfc1ZhUFlOLVRza2pubUJ3b19VQURCbllFZXA?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T17:16:50",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQUV8wZXROZndsQWRVUUVNMmZTUlZKcFByeDZyZThMUEFLc2hWekdPXzdiaU9zbHoyWVJiSWNZTkZMRGljOG1pWEpOTDNDU3ByMnNhN2FDcWNCNFNHajFQYk83aGJjQkp3RDJUTks4TmlfRGdKLWx0SVRFd3U3TWczejZfc1ZhUFlOLVRza2pubUJ3b19VQURCbllFZXA?oc=5\" target=\"_blank\">Пузырь ИИ начал сдуваться: когда ждать краха и что будет с акциями технологических компаний</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Финансы Mail</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Искусственный интеллект может сократить сроки рассмотрения дел в российских судах на 30% - TKS.RU",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY1JhbDAtSjNVbWg3RWFLUGNqNXJqcU5GU2xiMUg2UVpMSXQ2SEZQcVJmdnhtank5MkZvQm1tMVRQQnpNWUlxUkI3YlRURVVJR3l5dXdzcGJhWEdKaDRXcHZEYlZ4YWdwbS05elpabFBOcVgtY3UzVWkySUhBb0tjcnFTak5ybEZmUzYwUUZidVZPbkU4WUZNZFJhc2ZSVlh0Q3JWWVNub05zR0FpM19VR1VKWXV6N1ZISlYzUG84dG1lUE9vLWlhMzRwR2JHc2FpbE14TlBFRmZxREVC?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T11:21:41",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY1JhbDAtSjNVbWg3RWFLUGNqNXJqcU5GU2xiMUg2UVpMSXQ2SEZQcVJmdnhtank5MkZvQm1tMVRQQnpNWUlxUkI3YlRURVVJR3l5dXdzcGJhWEdKaDRXcHZEYlZ4YWdwbS05elpabFBOcVgtY3UzVWkySUhBb0tjcnFTak5ybEZmUzYwUUZidVZPbkU4WUZNZFJhc2ZSVlh0Q3JWWVNub05zR0FpM19VR1VKWXV6N1ZISlYzUG84dG1lUE9vLWlhMzRwR2JHc2FpbE14TlBFRmZxREVC?oc=5\" target=\"_blank\">Искусственный интеллект может сократить сроки рассмотрения дел в российских судах на 30%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TKS.RU</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "искусственный интеллект"
+      ]
+    },
+    {
+      "title": "Денисов заявил о разногласиях России и Китая с США по регулированию ИИ - Росбалт",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbERWN21zbkhvOW5SaERTc0VFSXdmc3ZrUmlnT1FsYzA3a09EeHp4RHdCMDB0ZUR3dFZwa0Rzbm5URVdzV1JvQkY0a19SQ3NvVi1WNmRGMVVCbm8zLWRpT09hXzNpdktXaGtNTlVuMUJKRkxkUUd5eTVENk10Tmhxak5OeUdlalhCNUVWWWUxUnY0RFR5WE5XOGdDVW9iVU1mZHpJa1ZMZS0tMXZ5VjFnQ3FZbUFSWHZSaUY2RTFEYw?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T16:10:45",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPbERWN21zbkhvOW5SaERTc0VFSXdmc3ZrUmlnT1FsYzA3a09EeHp4RHdCMDB0ZUR3dFZwa0Rzbm5URVdzV1JvQkY0a19SQ3NvVi1WNmRGMVVCbm8zLWRpT09hXzNpdktXaGtNTlVuMUJKRkxkUUd5eTVENk10Tmhxak5OeUdlalhCNUVWWWUxUnY0RFR5WE5XOGdDVW9iVU1mZHpJa1ZMZS0tMXZ5VjFnQ3FZbUFSWHZSaUY2RTFEYw?oc=5\" target=\"_blank\">Денисов заявил о разногласиях России и Китая с США по регулированию ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Росбалт</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Александр Шелковой: Развитие ИИ должно сопровождаться продуманным регулированием - Единая Россия",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRS05M01HX3huTVJZZmlZak1ISDdZZmc1d3pvaXBLRU14U180S3JZa3BXVlhZVUZvR09wbzhPN2wybWdoTTN5Tl9jUExFRlpvOVRyUVl4UDFpel82QWJQZXU2ZEVaWEQ3eGYyWjh4bFl0alllejFKaUFQb0FsbDBrRXNNNk80YTQ1Vm9QajFTNEcyQ3g2ZTRLay1iRmlhUWFGUWNpcENoLVVFdUlXaFY1RUlTRTdBanVM?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T13:08:52",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRS05M01HX3huTVJZZmlZak1ISDdZZmc1d3pvaXBLRU14U180S3JZa3BXVlhZVUZvR09wbzhPN2wybWdoTTN5Tl9jUExFRlpvOVRyUVl4UDFpel82QWJQZXU2ZEVaWEQ3eGYyWjh4bFl0alllejFKaUFQb0FsbDBrRXNNNk80YTQ1Vm9QajFTNEcyQ3g2ZTRLay1iRmlhUWFGUWNpcENoLVVFdUlXaFY1RUlTRTdBanVM?oc=5\" target=\"_blank\">Александр Шелковой: Развитие ИИ должно сопровождаться продуманным регулированием</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Единая Россия</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "AP: компании начали возвращать сотрудников, уволенных из-за ИИ - БИЗНЕС Online",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sS1JJdHpIM0lnazVCS094cFRlbV81ZW1iVThDZVpRNVlMLWRNRmR0MmtKdXhJXzE4M1VoYXdKdmRNbXplUTFGMUIxc0FwSUtSV0dwStIBU0FVX3lxTE9vd29WZHg0YnM3NVFweTdBU2RDRjdlR0x6VUlxU1ZSOEFBUWtPaHBra1d2YTI3YURzMVlQaUlmc1dUX3dMTkNtM1B2NjJYamJCRmF3?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T11:33:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sS1JJdHpIM0lnazVCS094cFRlbV81ZW1iVThDZVpRNVlMLWRNRmR0MmtKdXhJXzE4M1VoYXdKdmRNbXplUTFGMUIxc0FwSUtSV0dwStIBU0FVX3lxTE9vd29WZHg0YnM3NVFweTdBU2RDRjdlR0x6VUlxU1ZSOEFBUWtPaHBra1d2YTI3YURzMVlQaUlmc1dUX3dMTkNtM1B2NjJYamJCRmF3?oc=5\" target=\"_blank\">AP: компании начали возвращать сотрудников, уволенных из-за ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">БИЗНЕС Online</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    }
+  ],
+  "groups": {
+    "by_source": {
+      "Коммерсантъ": 1,
+      "Ведомости": 1,
+      "Habr_AI": 10,
+      "3DNews": 3,
+      "Google News": 20
+    },
+    "by_category": {
+      "general_news": 2,
+      "tech_news": 13,
+      "google_news": 20
+    },
+    "by_keyword": {
+      "искусственный интеллект": 2,
+      "ИИ": 29,
+      "AI": 4,
+      "регулирование": 1,
+      "ESG": 1
+    }
+  }
+}
