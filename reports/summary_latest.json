@@ -1,90 +1,96 @@
 {
-  "timestamp": "2026-11-01_15-03",
-  "total_articles": 23,
+  "timestamp": "2026-11-01_20-56",
+  "total_articles": 32,
   "sources": {
+    "ТАСС": 1,
+    "Ведомости": 1,
     "Habr_Топ_День": 1,
-    "Habr_AI": 4,
+    "Habr_AI": 7,
     "3DNews": 3,
-    "Google News": 15
+    "Google News": 19
   },
   "top_keywords": [
     [
       "ИИ",
-      19
+      26
     ],
     [
       "AI",
-      2
-    ],
-    [
-      "ESG",
-      1
+      4
     ],
     [
       "искусственный интеллект",
+      2
+    ],
+    [
+      "регулирование",
+      1
+    ],
+    [
+      "ESG",
       1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Можно ли отказаться от Opus и Codex? Проверил MacBook, игровой ноутбук и DGX Spark на одной задаче с ловушками",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1100830/?utm_campaign=1100830&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-01T11:43:24"
-    },
-    {
-      "title": "AP: компании начали возвращать сотрудников, уволенных из-за ИИ - БИЗНЕС Online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sS1JJdHpIM0lnazVCS094cFRlbV81ZW1iVThDZVpRNVlMLWRNRmR0MmtKdXhJXzE4M1VoYXdKdmRNbXplUTFGMUIxc0FwSUtSV0dwStIBU0FVX3lxTE9vd29WZHg0YnM3NVFweTdBU2RDRjdlR0x6VUlxU1ZSOEFBUWtPaHBra1d2YTI3YURzMVlQaUlmc1dUX3dMTkNtM1B2NjJYamJCRmF3?oc=5",
-      "published": "2026-11-01T11:33:00"
-    },
-    {
-      "title": "Совет ЕС одобрил поправки, разрешающие использование персональных данных для ИИ - PLUSworld",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BV1hXRkJIcmJzSGRzOU4wRFU2M2FwRUhiRFV5emItZXhpYjVrdXZ4MEZydnN2blA0NFpXczNQVVVUMmhoRDR5RF9zdlQ?oc=5",
-      "published": "2026-11-01T11:29:06"
-    },
-    {
-      "title": "Искусственный интеллект может сократить сроки рассмотрения дел в российских судах на 30% - TKS.RU",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY1JhbDAtSjNVbWg3RWFLUGNqNXJqcU5GU2xiMUg2UVpMSXQ2SEZQcVJmdnhtank5MkZvQm1tMVRQQnpNWUlxUkI3YlRURVVJR3l5dXdzcGJhWEdKaDRXcHZEYlZ4YWdwbS05elpabFBOcVgtY3UzVWkySUhBb0tjcnFTak5ybEZmUzYwUUZidVZPbkU4WUZNZFJhc2ZSVlh0Q3JWWVNub05zR0FpM19VR1VKWXV6N1ZISlYzUG84dG1lUE9vLWlhMzRwR2JHc2FpbE14TlBFRmZxREVC?oc=5",
-      "published": "2026-11-01T11:21:41"
-    },
-    {
-      "title": "Росконгресс прогнозирует схлопывание пузыря ИИ в 2027 году - Национальная Служба Новостей",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa29qOG05Y0JkZzcyTmxOT0wxTXRNbmQwWjR1VjQxZ1lWR1NqRFBaNWYzX1hjbzVMTTRSQkxGTU1XSklpZ1hoZUVIVm4xUGtpRHZpYTk0MHpxeFQyMUZuZDlnUDRFWVVNck50QWduSTNIcHZQZjBDQ2JGeTZwVDllRWxfNkRmdU84dEN4LUgwWjnSAZYBQVVfeXFMTnYtR2djS0NjaWZJRENlYkZSVjhaOEZOZDFuMlZqdjQ3alpGc3pIRUJYQ2ZsUU01MDVLLW1YLV8tYWR2d1NCaVFlX1prb0lUS1NmQlZ1VkJORXhTSlR6cTFXdW9YWnBLNDVLMmRHcE91RkpDeElHclZDR2RuNTdCSzlFU1d1UDVwLWNTbkRhZkpUTEg5dGt3?oc=5",
-      "published": "2026-11-01T11:05:52"
-    },
-    {
-      "title": "Во ФСИН объяснили, почему в российских СИЗО и тюрьмах нет ИИ - URA.RU",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5RWU5IbGRRTTNpNDVqd0p0TG4yUUJfM25IUmFMZnp4RzczaUZ4LWM1QnMtbHM4bThUdndadDU0Ykx5TnJUb3Jj?oc=5",
-      "published": "2026-11-01T10:26:00"
-    },
-    {
-      "title": "ИИ-пузырь лопнул, американские технологические гиганты потеряли до 30 % капитализации — Seeking Alpha - Клуб DNS",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPam1xVjYyOVBvM194WHhxTTQxRjVVQndldFFjSjd2UDZrcmR4X3Q1YzNodzE2SkZNeWtiZjA3OVdtbG9Xd0dwNEFkSnpfQTYzdkxWWXVoRWktQnpBRDNYX0tQRjVoSFVTSzdhdk1HOVpjSGhjR0c3eW16Nl80ZldtMXV2OU4zLXpyMHRQWkkxblcxN1poZ1M1RzZXVFhISUJBWFNzN1BNdm0?oc=5",
-      "published": "2026-11-01T10:11:12"
-    },
-    {
-      "title": "Вайбкодинг против старой школы: что делать дизайнерам в эпоху ИИ?",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1101468/?utm_campaign=1101468&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-01T10:00:32"
-    },
-    {
-      "title": "Память стала золотой жилой ИИ: Samsung, SK hynix и Micron заработали больше Apple, Microsoft и Amazon",
+      "title": "DeepSeek создала «ИИ-суперагента» — конкурент Claude Code сам читает чаты разработчиков и предлагает решения задач",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1150718",
-      "published": "2026-11-01T09:53:00"
+      "url": "https://3dnews.ru/1150724",
+      "published": "2026-11-01T17:35:00"
     },
     {
-      "title": "ИИ-доказательства под прицелом суда - zakon.ru",
+      "title": "DeepSeek создала «ИИ-суперагента» — конкурент Claude Code сам читает чаты разработчиков и предлагает решения задач - 3DNews",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKTHdySHJpN2Q4SGFTT3d5TjBDR1ZpQjFqUUs1R2szOHpsYk9ESVZ2My02aWFCT0ZKeENzT0dhemR3ZnNxRzFzLU96WjNVOWgyd2hZZ3VLREFsYWh3U1ZQZ2FJQUZTUG9ucWRoVHRhb043SDBIUVE?oc=5",
-      "published": "2026-11-01T09:45:00"
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE94d1lMQ1BsVUpFdGk4V1NvSUduUmZPVEF1b0Zxam9ldWtrbjR6NjFUTHZiWDFGaWJCcDNDTWJB?oc=5",
+      "published": "2026-11-01T17:35:00"
+    },
+    {
+      "title": "Пузырь ИИ начал сдуваться: когда ждать краха и что будет с акциями технологических компаний - Финансы Mail",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUV8wZXROZndsQWRVUUVNMmZTUlZKcFByeDZyZThMUEFLc2hWekdPXzdiaU9zbHoyWVJiSWNZTkZMRGljOG1pWEpOTDNDU3ByMnNhN2FDcWNCNFNHajFQYk83aGJjQkp3RDJUTks4TmlfRGdKLWx0SVRFd3U3TWczejZfc1ZhUFlOLVRza2pubUJ3b19VQURCbllFZXA?oc=5",
+      "published": "2026-11-01T17:16:50"
+    },
+    {
+      "title": "В Свердловской области рассказали о применении театрами ИИ в художественной деятельности",
+      "source": "ТАСС",
+      "url": "https://tass.ru/kultura/28276499",
+      "published": "2026-11-01T17:08:07"
+    },
+    {
+      "title": "Личные AI-ассистенты и угроза приватности. Детальные профили на друзей и семью",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/globalsign/articles/1102364/?utm_campaign=1102364&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-01T17:05:05"
+    },
+    {
+      "title": "Мировые корпорации отчитались о первых крупных доходах от внедрения ИИ - Финансы Mail",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNnZ1dGwybURKM2RmeHBRVkpfcHMzM3BvVGlydFhqU2ZCSzJsdHBsbHkxdkltSGpJbnJwTmIzNl9CY0dOWG0yNC13TEhNVUpzUGRJVUp0TlRVNFh6V1A2bXl6V2RaOXFpbDFobWxsTHNxR1NZaDFXTUpLR0N1VVA3cjlNaEJ5NklIRmk0Um95UFFaaEhiazJvTk5WYm1ic0pKU3hkN01QMjVuaFVUazRHQ0hDU2pUMy16?oc=5",
+      "published": "2026-11-01T17:00:19"
+    },
+    {
+      "title": "Я нанял ИИ искать мне работу. Дневник эксперимента, неделя первая",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1102362/?utm_campaign=1102362&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-01T16:41:12"
+    },
+    {
+      "title": "Я нанял ИИ искать мне работу. Дневник эксперимента, неделя первая - Хабр",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5odWNVb3otU1dDdDlOYVR1Z3B6X0FtN0hBQ3JuY3M1anRTQktmc2lERFNlWW9Ld2xGU2xzQ291QWxZWmdIQXRkSFJaUFZtd9IBWEFVX3lxTE1odHE5bXBFa1RYdGFpNkQtb1M2aW5PbnV3Y1ZmdmJ1UFBtTno4dFZpT3lBUFB4NWdVei1EZlg4UWJxSUVRbmJCdE9qNEJ3bjdGOVcwRXZNYV8?oc=5",
+      "published": "2026-11-01T16:41:12"
+    },
+    {
+      "title": "Денисов заявил о разногласиях России и Китая с США по регулированию ИИ - Росбалт",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbERWN21zbkhvOW5SaERTc0VFSXdmc3ZrUmlnT1FsYzA3a09EeHp4RHdCMDB0ZUR3dFZwa0Rzbm5URVdzV1JvQkY0a19SQ3NvVi1WNmRGMVVCbm8zLWRpT09hXzNpdktXaGtNTlVuMUJKRkxkUUd5eTVENk10Tmhxak5OeUdlalhCNUVWWWUxUnY0RFR5WE5XOGdDVW9iVU1mZHpJa1ZMZS0tMXZ5VjFnQ3FZbUFSWHZSaUY2RTFEYw?oc=5",
+      "published": "2026-11-01T16:10:45"
+    },
+    {
+      "title": "Денисов заявил о разногласиях России и Китая с США по регулированию ИИ - Росбалт",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbERWN21zbkhvOW5SaERTc0VFSXdmc3ZrUmlnT1FsYzA3a09EeHp4RHdCMDB0ZUR3dFZwa0Rzbm5URVdzV1JvQkY0a19SQ3NvVi1WNmRGMVVCbm8zLWRpT09hXzNpdktXaGtNTlVuMUJKRkxkUUd5eTVENk10Tmhxak5OeUdlalhCNUVWWWUxUnY0RFR5WE5XOGdDVW9iVU1mZHpJa1ZMZS0tMXZ5VjFnQ3FZbUFSWHZSaUY2RTFEYw?oc=5",
+      "published": "2026-11-01T16:10:45"
     }
   ]
 }
