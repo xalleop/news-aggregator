@@ -1,0 +1,369 @@
+{
+  "timestamp": "2026-11-01_15-03",
+  "total_articles": 23,
+  "articles": [
+    {
+      "title": "Amnezia на Mikrotik: полгода спустя",
+      "url": "https://habr.com/ru/articles/1102150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102150",
+      "source": "Habr_Топ_День",
+      "published": "2026-10-31T19:48:35",
+      "description": "<img src=\"https://habrastorage.org/extt/e4/cb/ab/e4cbabc2fd734982467f0643c4eb2fdb.jpg\" /><p>В начале года я разработал <a href=\"https://habr.com/ru/articles/1002824/\" rel=\"noopener nofollow\">AmneziaWG контейнер для Mikrotik</a>. С тех пор произошло довольно много изменений, и судя по тому, как на хабре часто выходят разного рода статьи, <a href=\"https://habr.com/ru/articles/1100854/\" rel=\"noopener nofollow\">где то один</a>, <a href=\"https://habr.com/ru/articles/1058404/\" rel=\"noopener nofollow\">то другой</a> придумывает и вайбкодит какой-то новый впн-клиент, то складывается впечатление, что о Amnezia уже все забыли, хотя она очень даже помогает решать <abbr class=\"habraabbr\" title=\"Лично мне такой контейнер помогает в работе с зарубежными AI-агентами, которые забанили все РУ-адреса, так-что без него никак.\">рабочие задачи</abbr>.</p> <a href=\"https://habr.com/ru/articles/1102150/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102150#habracut\">Читать далее</a>",
+      "tags": [
+        "tech",
+        "dev"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Можно ли отказаться от Opus и Codex? Проверил MacBook, игровой ноутбук и DGX Spark на одной задаче с ловушками",
+      "url": "https://habr.com/ru/articles/1100830/?utm_campaign=1100830&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-01T11:43:24",
+      "description": "<img src=\"https://habrastorage.org/extt/2c/4e/be/2c4ebe7afcc24ee413418aac242d845d.png\" /><p>В моём пет-проекте&nbsp;<a href=\"https://github.com/NGirchev/open-daimon\" rel=\"noopener nofollow\">open-daimon</a>&nbsp;давно есть роутинг между локальными моделями и облаком.</p><p>Сразу оговорюсь: публично open-daimon не обновляется, потому что разработку я веду локально, так быстрее. А на его основе у меня уже есть отдельный закрытый проект, который расширяет его возможности, — студия управления агентами. В ней я всё это и тестировал.</p><p>Всерьёз захотелось по простой причине: в облаке правила чужие, и меняются они без спроса.</p><p>В октябре снова всплыло, что в&nbsp;<a href=\"https://www.anthropic.com/legal/consumer-terms\" rel=\"noopener nofollow\">потребительских условиях Anthropic</a>&nbsp;для жителей ЕЭЗ и Швейцарии прямо написано: не использовать сервисы «в коммерческих или деловых целях». Под эти условия попадают <a href=\"http://Claude.ai\" rel=\"noopener nofollow\">Claude.ai</a> и подписки Pro и Max. То есть разработчик в Европе, который пишет рабочий код в Claude Code по подписке Max, формально их нарушает. Для работы нужен API, Team или Enterprise, а это уже совсем другие деньги.</p><p>Вторая история про то, что тебе разрешат делать со своим же железом. Автор Decrypt&nbsp;<a href=\"https://decrypt.co/381717/how-vibe-coded-my-smart-tv-claude-killed-it\" rel=\"noopener nofollow\">попросил Claude Opus 5.5</a>&nbsp;помочь заново получить root на собственном телевизоре LG. Защита модели оборвала запрос и предложила переключиться на Opus 4.8. А исследователь, известный находкой с постоянно включённым микрофоном в телевизорах Samsung, пишет, что OpenAI&nbsp;<a href=\"https://pasqualepillitteri.it/en/news/27102/hugging-face-bans-uncensored-models-kimi-k27-code\" rel=\"noopener nofollow\">заблокировала его аккаунт</a>&nbsp;за «Cyber Abuse» после анализа прошивки через ChatGPT. Вместе с аккаунтом пропали примерно $500 на балансе API. OpenAI это не комментировала, так что пока это только его слова.</p><p>Направление понятное: ковырять чужое ПО будут запрещать всё чаще, а что считать злоупотреблением, решает производитель.</p> <a href=\"https://habr.com/ru/articles/1100830/?utm_campaign=1100830&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Вайбкодинг против старой школы: что делать дизайнерам в эпоху ИИ?",
+      "url": "https://habr.com/ru/articles/1101468/?utm_campaign=1101468&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-01T10:00:32",
+      "description": "<img src=\"https://habrastorage.org/extt/64/10/0a/64100a13bcb997f522b4729477af71db.jpg\" /><p>Недавно ко мне пришел начинающий дизайнер с неожиданным вопросом: стоит ли учить WordPress для создания сайтов с нуля? Поначалу я уходила от темы, предлагая посмотреть на что-то посвежее, типа Tilda или Webflow. Сравнивала с ситуацией в 2014, когда альтернатив собрать сайт без знания кода было немного.</p><p>Но потом решилась. И сказала то, в чем сама себе боялась признаться: <em>«Есть нешуточная вероятность, что нашей профессии скоро не будет». </em></p><p>Почему тогда курсы до сих пор обещают легкий вход в индустрию, удаленную работу из любой точки мира, а лиды бигтехов зарабатывают на консультациях — и к ним идут?</p><p>А потому что, по моим наблюдениям, индустрия раскололась на два лагеря. Они живут в параллельных вселенных, в одной из которых новички идут за советом к старшим, уверенным в своей незаменимости. Во второй — те, кто без знаний базы веб-дизайна идут и вайбкодят сайты, блистая <abbr class=\"habraabbr\" title=\"Когнитивное искажение, при котором люди с низким уровнем квалификации в какой-либо области склонны переоценивать свои способности.\">эффектом Даннинга-Крюгера</abbr>, за что получают по шапке от «старичков».</p><p>Покупая билет в первую, новичок вынужден перейти во вторую, потому что работодатели все чаще требуют владеть нейросетями. А параллельно дизайнеры-сеньоры кошмарят в комментариях работы, сделанные через ИИ: «Невозможно без опыта сгенерировать сайт, решающий задачи бизнеса». </p><p>Совсем недавно я тоже считала, что вот с моим-то огромным опытом бояться нечего. Ага)</p> <a href=\"https://habr.com/ru/articles/1101468/?utm_campaign=1101468&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ИИ-Стоматолог 2",
+      "url": "https://habr.com/ru/articles/1102110/?utm_campaign=1102110&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-10-31T15:17:35",
+      "description": "<img src=\"https://habrastorage.org/extt/54/1e/c8/541ec86494e79a912b74fe5347f0697e.PNG\" /><p>Продолжение моей разработки ИИ-рентгенолог челюсти модели читает снимки и находит патологии(кариес, глубокий кариес, ретинированные зубы , апикальные </p> <a href=\"https://habr.com/ru/articles/1102110/?utm_campaign=1102110&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Конвейер ИИ-мультсериала: сценарий по секундам, опоры, Kling и автоматическая проверка серии",
+      "url": "https://habr.com/ru/articles/1102098/?utm_campaign=1102098&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-10-31T14:55:39",
+      "description": "<img src=\"https://habrastorage.org/extt/9e/7f/5e/9e7f5ed4865d16d09be97f7c7186fdda.jpg\" /><p>Слева Seedance поставил двух Зин; в центре опорный лист; справа выбранный кадр Kling с одной Зиной.</p><p>Мы собираем вертикальный мультсериал «Лесная улица» из облачных моделей: в этой пробе серия на 24 секунды, постоянные герои, русская речь. За 29–31 октября 2026 года одну серию пересобрали примерно десятью способами на Wan, Kling, Veo, Seedance, GPT Image и Nano Banana Pro. Ниже — порядок шагов, который сложился после испытаний, таблица расходов, пары «брак / исправление» и список того, что мы так и не починили. Ограничение одно: зрительских чисел по этому способу пока нет, речь только о производстве. На 31 октября опубликованы «А телефон куда?» и «Подменишь?». «Агитация запрещена» и «Посидеть потом» ниже — производственные пробы.</p> <a href=\"https://habr.com/ru/articles/1102098/?utm_campaign=1102098&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Память стала золотой жилой ИИ: Samsung, SK hynix и Micron заработали больше Apple, Microsoft и Amazon",
+      "url": "https://3dnews.ru/1150718",
+      "source": "3DNews",
+      "published": "2026-11-01T09:53:00",
+      "description": "Пять крупнейших поставщиков чипов памяти в прошлом квартале впервые зафиксировали более высокую суммарную операционную и чистую прибыль, чем пять крупнейших американских IT-гигантов. Этому способствовал бум в сфере ИИ, где спрос на чипы памяти продолжает опережать предложение. Источник изображений: asia.nikkei.com",
+      "tags": [
+        "tech",
+        "hardware"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ИИ-агент Anthropic Claude самостоятельно провёл операцию на мозге живой мыши",
+      "url": "https://3dnews.ru/1150708",
+      "source": "3DNews",
+      "published": "2026-10-31T14:36:00",
+      "description": "Биотехнологический стартап Exin Therapeutics, специализирующийся на нейротерапевтических методах нового поколения, сообщил об успешном проведении операции на головном мозге мыши, которую провёл агент искусственного интеллекта. Он самостоятельно выбрал вектор для генной терапии, определил дозировку и участок мозга, в который следовало ввести препарат. ИИ управлял роботизированными манипуляторами, которые выполнили инъекцию. Операция прошла успешно: подопытная мышь хорошо перенесла вмешательство и активно передвигается в стеклянном террариуме.   Источник изображений: x.com/OcanaSantero",
+      "tags": [
+        "tech",
+        "hardware"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Альтман приехал к Samsung выпрашивать память для ИИ на фоне усиления дефицита",
+      "url": "https://3dnews.ru/1150707",
+      "source": "3DNews",
+      "published": "2026-10-31T13:56:00",
+      "description": "Глава OpenAI Сэм Альтман приехал в Южную Корею и встретился примерно с 50 руководителями компаний, входящих в Samsung Group. Стороны обсудили, как ИИ изменит бизнес в ближайшее десятилетие на фоне развития долгосрочного сотрудничества в сфере памяти и вычислительной инфраструктуры. Его основой стали планы поставок чипов для проекта Stargate и совместной разработки ИИ-ЦОД, включая плавучие дата-центры. Источник изображения: Zulfugar Karimov/unsplash.com",
+      "tags": [
+        "tech",
+        "hardware"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Прозрачность данных и стандарты ESG помогают компаниям получить доступ к рынкам капитала. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMkZmTGNxOW8wY25QLWoyVjRjZUkwZkhkbm9fZDZqS0V3NXNMX0tFdWIzOHZWQ3liNFpJaWhJdEVocVVKRnNSVHFGZlRiU1Badm54VU90ZnlWdTRVb3dZVmJCU1liSDBQNURxaEtBRG5Zbmg3TUt6RlVzbGg5bEVhSWFMdkZCeDd5QWZzRVluNmg4MW94d0lpUlloNldLVVk?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T06:18:27",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPMkZmTGNxOW8wY25QLWoyVjRjZUkwZkhkbm9fZDZqS0V3NXNMX0tFdWIzOHZWQ3liNFpJaWhJdEVocVVKRnNSVHFGZlRiU1Badm54VU90ZnlWdTRVb3dZVmJCU1liSDBQNURxaEtBRG5Zbmg3TUt6RlVzbGg5bEVhSWFMdkZCeDd5QWZzRVluNmg4MW94d0lpUlloNldLVVk?oc=5\" target=\"_blank\">Прозрачность данных и стандарты ESG помогают компаниям получить доступ к рынкам капитала.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ESG",
+      "matched_keywords": [
+        "ESG"
+      ]
+    },
+    {
+      "title": "DeepSeek представил ИИ-агента для конкуренции с Claude Code - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4X09ldkJaVVBsemM2Sk5oVFhqUE5mZU11aUhobmN4RTJqNGh0WlE1Vmc4ZmFWR1Nyb3lTTGQ3YUxFd0ppck96ZlFLaTBGZ1NNUW5aYkJkakRxWElpOGxyQ0pSUmZ0cHJ6T1E?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T05:45:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB4X09ldkJaVVBsemM2Sk5oVFhqUE5mZU11aUhobmN4RTJqNGh0WlE1Vmc4ZmFWR1Nyb3lTTGQ3YUxFd0ppck96ZlFLaTBGZ1NNUW5aYkJkakRxWElpOGxyQ0pSUmZ0cHJ6T1E?oc=5\" target=\"_blank\">DeepSeek представил ИИ-агента для конкуренции с Claude Code</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Росконгресс прогнозирует схлопывание пузыря ИИ в 2027 году - Национальная Служба Новостей",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa29qOG05Y0JkZzcyTmxOT0wxTXRNbmQwWjR1VjQxZ1lWR1NqRFBaNWYzX1hjbzVMTTRSQkxGTU1XSklpZ1hoZUVIVm4xUGtpRHZpYTk0MHpxeFQyMUZuZDlnUDRFWVVNck50QWduSTNIcHZQZjBDQ2JGeTZwVDllRWxfNkRmdU84dEN4LUgwWjnSAZYBQVVfeXFMTnYtR2djS0NjaWZJRENlYkZSVjhaOEZOZDFuMlZqdjQ3alpGc3pIRUJYQ2ZsUU01MDVLLW1YLV8tYWR2d1NCaVFlX1prb0lUS1NmQlZ1VkJORXhTSlR6cTFXdW9YWnBLNDVLMmRHcE91RkpDeElHclZDR2RuNTdCSzlFU1d1UDVwLWNTbkRhZkpUTEg5dGt3?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T11:05:52",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPa29qOG05Y0JkZzcyTmxOT0wxTXRNbmQwWjR1VjQxZ1lWR1NqRFBaNWYzX1hjbzVMTTRSQkxGTU1XSklpZ1hoZUVIVm4xUGtpRHZpYTk0MHpxeFQyMUZuZDlnUDRFWVVNck50QWduSTNIcHZQZjBDQ2JGeTZwVDllRWxfNkRmdU84dEN4LUgwWjnSAZYBQVVfeXFMTnYtR2djS0NjaWZJRENlYkZSVjhaOEZOZDFuMlZqdjQ3alpGc3pIRUJYQ2ZsUU01MDVLLW1YLV8tYWR2d1NCaVFlX1prb0lUS1NmQlZ1VkJORXhTSlR6cTFXdW9YWnBLNDVLMmRHcE91RkpDeElHclZDR2RuNTdCSzlFU1d1UDVwLWNTbkRhZkpUTEg5dGt3?oc=5\" target=\"_blank\">Росконгресс прогнозирует схлопывание пузыря ИИ в 2027 году</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Национальная Служба Новостей</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Росконгресс: пузырь ИИ в мире начал сдуваться - ВФокусе Mail",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPalRiX2FFOFQ5S0xKMm1GbkstUnBRalFVT3BxbGM1Sjkwd1VBVWo0aGo4OW0tMFljc0FQV09SelNyMnd6dHhzMzZOQjhQU3FuWG1XR2xKVmVkNHowbC1XY0VZcGxUUjVIVy16OWpjbFpkbWxGWWxPV0lISG1sS2xKal9HWEdVNFQzaS14RG1pcUI?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T06:48:05",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPalRiX2FFOFQ5S0xKMm1GbkstUnBRalFVT3BxbGM1Sjkwd1VBVWo0aGo4OW0tMFljc0FQV09SelNyMnd6dHhzMzZOQjhQU3FuWG1XR2xKVmVkNHowbC1XY0VZcGxUUjVIVy16OWpjbFpkbWxGWWxPV0lISG1sS2xKal9HWEdVNFQzaS14RG1pcUI?oc=5\" target=\"_blank\">Росконгресс: пузырь ИИ в мире начал сдуваться</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ВФокусе Mail</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Росконгресс: Ажиотаж вокруг ИИ может обернуться обвалом рынка - Росбалт",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPel9XRENBV1NnX09rVVQzVUVfQWdMM2Fpd2plX1Fad1A4VERKX04xaGY2TzlCN1RDSndGRnBrUng2WWFvLWZSRWtCXzBNbXdhejcwZzZsSXk5WHZhMGo1cVJucnVRaE1rcG9PZGN0aVU2Y3NQSFpGbVZpdWRKbXJ0VHRoNU9fQWdsNmVZR3ExMXBCaUd4dDR2NVBpUTIyRFJTWDBsYnBTYV91S0hYU1JN?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T07:44:25",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPel9XRENBV1NnX09rVVQzVUVfQWdMM2Fpd2plX1Fad1A4VERKX04xaGY2TzlCN1RDSndGRnBrUng2WWFvLWZSRWtCXzBNbXdhejcwZzZsSXk5WHZhMGo1cVJucnVRaE1rcG9PZGN0aVU2Y3NQSFpGbVZpdWRKbXJ0VHRoNU9fQWdsNmVZR3ExMXBCaUd4dDR2NVBpUTIyRFJTWDBsYnBTYV91S0hYU1JN?oc=5\" target=\"_blank\">Росконгресс: Ажиотаж вокруг ИИ может обернуться обвалом рынка</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Росбалт</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ChatGPT убил девушку: главные ИИ-глюки октября - Ведомости",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN3F3elpxeGxXODBkTTZtTG5wdjdNV2lEd2dxTFVGdnFtX0VuWTZGcDM4U0F4dFM5VmE4eDU4TU1VaFFOempudEZJS2hSM3BZS2NQQ1NZZEUwdHRrTUlPQ1gtanNCbG5FZEQxaHZnallSZHM1STVseDFFQW0zX3d3MjN6ZFpTQ21ONjFR?oc=5",
+      "source": "Google News",
+      "published": "2026-10-31T16:41:05",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN3F3elpxeGxXODBkTTZtTG5wdjdNV2lEd2dxTFVGdnFtX0VuWTZGcDM4U0F4dFM5VmE4eDU4TU1VaFFOempudEZJS2hSM3BZS2NQQ1NZZEUwdHRrTUlPQ1gtanNCbG5FZEQxaHZnallSZHM1STVseDFFQW0zX3d3MjN6ZFpTQ21ONjFR?oc=5\" target=\"_blank\">ChatGPT убил девушку: главные ИИ-глюки октября</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ведомости</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ИИ-агент Anthropic Claude самостоятельно провёл операцию на мозге живой мыши - 3DNews",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkYxaWtkUDZuNXRTTm1YX01LS29ydjN5a0k1MHFKWWEtWlI0dm1DbTlkMEhwLVhQbXdkVmxkR284NE1wbEhpRjJ4MlFObnJ4VFFkYV9Uczd0S1hzTGhqTVBVTi1tbHpDNmlWcXBiYllfQVZXQWRFMmhmMjh4V19zSFNOZG5yMHZob0NyZ2NqLUp4YUFNbGNzMmdwQmdzSkgtbnNBbGM1MHrSAa4BQVVfeXFMTlBuTHRDUTdfekc1Sld3Um1DWUZuWERpcmtMYVd5WEtOWmNtcXFQOGRFWTlTQzFYVkdYRGNLY2R6NjZFSUdNMGY4N2h6THVNWXhab0JzMGlPWXFpQmdOTjdYbE1xcndXRm9PSDRDLVJtX1VMVktRRF8tN1ktSk1fVnFRQlVDYUlqLU9YTnl5Z01PRXR1LWxyc2s1bTdsWkpwcEVTbFpxMldNN0VsRGpB?oc=5",
+      "source": "Google News",
+      "published": "2026-10-31T14:36:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkYxaWtkUDZuNXRTTm1YX01LS29ydjN5a0k1MHFKWWEtWlI0dm1DbTlkMEhwLVhQbXdkVmxkR284NE1wbEhpRjJ4MlFObnJ4VFFkYV9Uczd0S1hzTGhqTVBVTi1tbHpDNmlWcXBiYllfQVZXQWRFMmhmMjh4V19zSFNOZG5yMHZob0NyZ2NqLUp4YUFNbGNzMmdwQmdzSkgtbnNBbGM1MHrSAa4BQVVfeXFMTlBuTHRDUTdfekc1Sld3Um1DWUZuWERpcmtMYVd5WEtOWmNtcXFQOGRFWTlTQzFYVkdYRGNLY2R6NjZFSUdNMGY4N2h6THVNWXhab0JzMGlPWXFpQmdOTjdYbE1xcndXRm9PSDRDLVJtX1VMVktRRF8tN1ktSk1fVnFRQlVDYUlqLU9YTnl5Z01PRXR1LWxyc2s1bTdsWkpwcEVTbFpxMldNN0VsRGpB?oc=5\" target=\"_blank\">ИИ-агент Anthropic Claude самостоятельно провёл операцию на мозге живой мыши</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">3DNews</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Москва против Петербурга: кто может стать столицей ИИ в России - dp.ru",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12Yzkta054X3IxaHVwNDZwMVZjV3E0NEZYc09UNjZjOTdqODNMWFFManJXM2FGNWdRd0ZJdktsT3V5UURrSDF6VVpMV0UxbzJyZDhvemkwMlc3TFB0WXNIWmVvNVVKZ9IBcEFVX3lxTFBDanlVNEo4NTZ3S0tDT01YUGNiT2pZcGtPWG5EQlk2RWdCdG8tZ3RmVXVFbVF4MFlZM0FOMjk0ekZyemNqM1Q2b3JBZ3dsRVJSdmFaZnhfVWNjV2c5ZldQMXAtbm9UNk5FdUIxRnFiN0Y?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T04:00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE12Yzkta054X3IxaHVwNDZwMVZjV3E0NEZYc09UNjZjOTdqODNMWFFManJXM2FGNWdRd0ZJdktsT3V5UURrSDF6VVpMV0UxbzJyZDhvemkwMlc3TFB0WXNIWmVvNVVKZ9IBcEFVX3lxTFBDanlVNEo4NTZ3S0tDT01YUGNiT2pZcGtPWG5EQlk2RWdCdG8tZ3RmVXVFbVF4MFlZM0FOMjk0ekZyemNqM1Q2b3JBZ3dsRVJSdmFaZnhfVWNjV2c5ZldQMXAtbm9UNk5FdUIxRnFiN0Y?oc=5\" target=\"_blank\">Москва против Петербурга: кто может стать столицей ИИ в России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dp.ru</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ИИ-пузырь лопнул, американские технологические гиганты потеряли до 30 % капитализации — Seeking Alpha - Клуб DNS",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPam1xVjYyOVBvM194WHhxTTQxRjVVQndldFFjSjd2UDZrcmR4X3Q1YzNodzE2SkZNeWtiZjA3OVdtbG9Xd0dwNEFkSnpfQTYzdkxWWXVoRWktQnpBRDNYX0tQRjVoSFVTSzdhdk1HOVpjSGhjR0c3eW16Nl80ZldtMXV2OU4zLXpyMHRQWkkxblcxN1poZ1M1RzZXVFhISUJBWFNzN1BNdm0?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T10:11:12",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPam1xVjYyOVBvM194WHhxTTQxRjVVQndldFFjSjd2UDZrcmR4X3Q1YzNodzE2SkZNeWtiZjA3OVdtbG9Xd0dwNEFkSnpfQTYzdkxWWXVoRWktQnpBRDNYX0tQRjVoSFVTSzdhdk1HOVpjSGhjR0c3eW16Nl80ZldtMXV2OU4zLXpyMHRQWkkxblcxN1poZ1M1RzZXVFhISUJBWFNzN1BNdm0?oc=5\" target=\"_blank\">ИИ-пузырь лопнул, американские технологические гиганты потеряли до 30 % капитализации — Seeking Alpha</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Клуб DNS</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Эксперты предлагают ввести обязательное страхование для владельцев систем ИИ - ГАРАНТ",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iTzY1OHFOd2JlVFk5UHl4WlVrWGJKbG04Z04xLWxXd29XcjM5eHc5N29LOEU1eGZSVXFxb3p4YzQ0eUhpVXFxZ2FCSQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T07:00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iTzY1OHFOd2JlVFk5UHl4WlVrWGJKbG04Z04xLWxXd29XcjM5eHc5N29LOEU1eGZSVXFxb3p4YzQ0eUhpVXFxZ2FCSQ?oc=5\" target=\"_blank\">Эксперты предлагают ввести обязательное страхование для владельцев систем ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ГАРАНТ</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Искусственный интеллект может сократить сроки рассмотрения дел в российских судах на 30% - TKS.RU",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY1JhbDAtSjNVbWg3RWFLUGNqNXJqcU5GU2xiMUg2UVpMSXQ2SEZQcVJmdnhtank5MkZvQm1tMVRQQnpNWUlxUkI3YlRURVVJR3l5dXdzcGJhWEdKaDRXcHZEYlZ4YWdwbS05elpabFBOcVgtY3UzVWkySUhBb0tjcnFTak5ybEZmUzYwUUZidVZPbkU4WUZNZFJhc2ZSVlh0Q3JWWVNub05zR0FpM19VR1VKWXV6N1ZISlYzUG84dG1lUE9vLWlhMzRwR2JHc2FpbE14TlBFRmZxREVC?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T11:21:41",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY1JhbDAtSjNVbWg3RWFLUGNqNXJqcU5GU2xiMUg2UVpMSXQ2SEZQcVJmdnhtank5MkZvQm1tMVRQQnpNWUlxUkI3YlRURVVJR3l5dXdzcGJhWEdKaDRXcHZEYlZ4YWdwbS05elpabFBOcVgtY3UzVWkySUhBb0tjcnFTak5ybEZmUzYwUUZidVZPbkU4WUZNZFJhc2ZSVlh0Q3JWWVNub05zR0FpM19VR1VKWXV6N1ZISlYzUG84dG1lUE9vLWlhMzRwR2JHc2FpbE14TlBFRmZxREVC?oc=5\" target=\"_blank\">Искусственный интеллект может сократить сроки рассмотрения дел в российских судах на 30%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TKS.RU</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "искусственный интеллект"
+      ]
+    },
+    {
+      "title": "Во ФСИН объяснили, почему в российских СИЗО и тюрьмах нет ИИ - URA.RU",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5RWU5IbGRRTTNpNDVqd0p0TG4yUUJfM25IUmFMZnp4RzczaUZ4LWM1QnMtbHM4bThUdndadDU0Ykx5TnJUb3Jj?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T10:26:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE5RWU5IbGRRTTNpNDVqd0p0TG4yUUJfM25IUmFMZnp4RzczaUZ4LWM1QnMtbHM4bThUdndadDU0Ykx5TnJUb3Jj?oc=5\" target=\"_blank\">Во ФСИН объяснили, почему в российских СИЗО и тюрьмах нет ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">URA.RU</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ИИ-доказательства под прицелом суда - zakon.ru",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKTHdySHJpN2Q4SGFTT3d5TjBDR1ZpQjFqUUs1R2szOHpsYk9ESVZ2My02aWFCT0ZKeENzT0dhemR3ZnNxRzFzLU96WjNVOWgyd2hZZ3VLREFsYWh3U1ZQZ2FJQUZTUG9ucWRoVHRhb043SDBIUVE?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T09:45:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBKTHdySHJpN2Q4SGFTT3d5TjBDR1ZpQjFqUUs1R2szOHpsYk9ESVZ2My02aWFCT0ZKeENzT0dhemR3ZnNxRzFzLU96WjNVOWgyd2hZZ3VLREFsYWh3U1ZQZ2FJQUZTUG9ucWRoVHRhb043SDBIUVE?oc=5\" target=\"_blank\">ИИ-доказательства под прицелом суда</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">zakon.ru</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Совет ЕС одобрил поправки, разрешающие использование персональных данных для ИИ - PLUSworld",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BV1hXRkJIcmJzSGRzOU4wRFU2M2FwRUhiRFV5emItZXhpYjVrdXZ4MEZydnN2blA0NFpXczNQVVVUMmhoRDR5RF9zdlQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T11:29:06",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BV1hXRkJIcmJzSGRzOU4wRFU2M2FwRUhiRFV5emItZXhpYjVrdXZ4MEZydnN2blA0NFpXczNQVVVUMmhoRDR5RF9zdlQ?oc=5\" target=\"_blank\">Совет ЕС одобрил поправки, разрешающие использование персональных данных для ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PLUSworld</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "AP: компании начали возвращать сотрудников, уволенных из-за ИИ - БИЗНЕС Online",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sS1JJdHpIM0lnazVCS094cFRlbV81ZW1iVThDZVpRNVlMLWRNRmR0MmtKdXhJXzE4M1VoYXdKdmRNbXplUTFGMUIxc0FwSUtSV0dwStIBU0FVX3lxTE9vd29WZHg0YnM3NVFweTdBU2RDRjdlR0x6VUlxU1ZSOEFBUWtPaHBra1d2YTI3YURzMVlQaUlmc1dUX3dMTkNtM1B2NjJYamJCRmF3?oc=5",
+      "source": "Google News",
+      "published": "2026-11-01T11:33:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sS1JJdHpIM0lnazVCS094cFRlbV81ZW1iVThDZVpRNVlMLWRNRmR0MmtKdXhJXzE4M1VoYXdKdmRNbXplUTFGMUIxc0FwSUtSV0dwStIBU0FVX3lxTE9vd29WZHg0YnM3NVFweTdBU2RDRjdlR0x6VUlxU1ZSOEFBUWtPaHBra1d2YTI3YURzMVlQaUlmc1dUX3dMTkNtM1B2NjJYamJCRmF3?oc=5\" target=\"_blank\">AP: компании начали возвращать сотрудников, уволенных из-за ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">БИЗНЕС Online</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    }
+  ],
+  "groups": {
+    "by_source": {
+      "Habr_Топ_День": 1,
+      "Habr_AI": 4,
+      "3DNews": 3,
+      "Google News": 15
+    },
+    "by_category": {
+      "tech_news": 8,
+      "google_news": 15
+    },
+    "by_keyword": {
+      "AI": 2,
+      "ИИ": 19,
+      "ESG": 1,
+      "искусственный интеллект": 1
+    }
+  }
+}

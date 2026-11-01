@@ -1,98 +1,90 @@
 {
-  "timestamp": "2026-11-01_00-50",
-  "total_articles": 37,
+  "timestamp": "2026-11-01_15-03",
+  "total_articles": 23,
   "sources": {
-    "Habr_AI": 11,
-    "3DNews": 6,
-    "ИИ комплаенс и этика": 2,
-    "Google News": 18
+    "Habr_Топ_День": 1,
+    "Habr_AI": 4,
+    "3DNews": 3,
+    "Google News": 15
   },
   "top_keywords": [
     [
       "ИИ",
-      32
+      19
     ],
     [
       "AI",
-      5
-    ],
-    [
-      "ESG",
-      3
-    ],
-    [
-      "искусственный интеллект",
       2
     ],
     [
-      "машинное обучение",
+      "ESG",
       1
     ],
     [
-      "aigovernance",
+      "искусственный интеллект",
       1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "B2B-Конференция по промышленной интеграции ИИ в крупный бизнес Top AI - Интерфакс",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yV2lBR2VLaGsxaFFLTWhfLUlYakZXbTdmQ3BJaWcxaC1DMmM2Qnc1UDNJZmJoa3ZEeXlxLWpVZ2YyWmlJdGs1REdfNA?oc=5",
-      "published": "2026-10-31T21:03:19"
-    },
-    {
-      "title": "Западные компании начали возвращать уволенных из-за ИИ сотрудников - BFM.ru",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE05Tkdqb2pGWTVKQWxBZ1ZfRWdWMVg1N2lkeVBybDYzcXdZcDdSQ1dvYnNHNUVEN3dldWxsa05UemU2UXQy?oc=5",
-      "published": "2026-10-31T18:49:32"
-    },
-    {
-      "title": "ChatGPT убил девушку: главные ИИ-глюки октября - Ведомости",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN3F3elpxeGxXODBkTTZtTG5wdjdNV2lEd2dxTFVGdnFtX0VuWTZGcDM4U0F4dFM5VmE4eDU4TU1VaFFOempudEZJS2hSM3BZS2NQQ1NZZEUwdHRrTUlPQ1gtanNCbG5FZEQxaHZnallSZHM1STVseDFFQW0zX3d3MjN6ZFpTQ21ONjFR?oc=5",
-      "published": "2026-10-31T16:41:05"
-    },
-    {
-      "title": "ИИ-Стоматолог 2",
+      "title": "Можно ли отказаться от Opus и Codex? Проверил MacBook, игровой ноутбук и DGX Spark на одной задаче с ловушками",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1102110/?utm_campaign=1102110&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-31T15:17:35"
+      "url": "https://habr.com/ru/articles/1100830/?utm_campaign=1100830&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-01T11:43:24"
     },
     {
-      "title": "Конвейер ИИ-мультсериала: сценарий по секундам, опоры, Kling и автоматическая проверка серии",
+      "title": "AP: компании начали возвращать сотрудников, уволенных из-за ИИ - БИЗНЕС Online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sS1JJdHpIM0lnazVCS094cFRlbV81ZW1iVThDZVpRNVlMLWRNRmR0MmtKdXhJXzE4M1VoYXdKdmRNbXplUTFGMUIxc0FwSUtSV0dwStIBU0FVX3lxTE9vd29WZHg0YnM3NVFweTdBU2RDRjdlR0x6VUlxU1ZSOEFBUWtPaHBra1d2YTI3YURzMVlQaUlmc1dUX3dMTkNtM1B2NjJYamJCRmF3?oc=5",
+      "published": "2026-11-01T11:33:00"
+    },
+    {
+      "title": "Совет ЕС одобрил поправки, разрешающие использование персональных данных для ИИ - PLUSworld",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BV1hXRkJIcmJzSGRzOU4wRFU2M2FwRUhiRFV5emItZXhpYjVrdXZ4MEZydnN2blA0NFpXczNQVVVUMmhoRDR5RF9zdlQ?oc=5",
+      "published": "2026-11-01T11:29:06"
+    },
+    {
+      "title": "Искусственный интеллект может сократить сроки рассмотрения дел в российских судах на 30% - TKS.RU",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY1JhbDAtSjNVbWg3RWFLUGNqNXJqcU5GU2xiMUg2UVpMSXQ2SEZQcVJmdnhtank5MkZvQm1tMVRQQnpNWUlxUkI3YlRURVVJR3l5dXdzcGJhWEdKaDRXcHZEYlZ4YWdwbS05elpabFBOcVgtY3UzVWkySUhBb0tjcnFTak5ybEZmUzYwUUZidVZPbkU4WUZNZFJhc2ZSVlh0Q3JWWVNub05zR0FpM19VR1VKWXV6N1ZISlYzUG84dG1lUE9vLWlhMzRwR2JHc2FpbE14TlBFRmZxREVC?oc=5",
+      "published": "2026-11-01T11:21:41"
+    },
+    {
+      "title": "Росконгресс прогнозирует схлопывание пузыря ИИ в 2027 году - Национальная Служба Новостей",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa29qOG05Y0JkZzcyTmxOT0wxTXRNbmQwWjR1VjQxZ1lWR1NqRFBaNWYzX1hjbzVMTTRSQkxGTU1XSklpZ1hoZUVIVm4xUGtpRHZpYTk0MHpxeFQyMUZuZDlnUDRFWVVNck50QWduSTNIcHZQZjBDQ2JGeTZwVDllRWxfNkRmdU84dEN4LUgwWjnSAZYBQVVfeXFMTnYtR2djS0NjaWZJRENlYkZSVjhaOEZOZDFuMlZqdjQ3alpGc3pIRUJYQ2ZsUU01MDVLLW1YLV8tYWR2d1NCaVFlX1prb0lUS1NmQlZ1VkJORXhTSlR6cTFXdW9YWnBLNDVLMmRHcE91RkpDeElHclZDR2RuNTdCSzlFU1d1UDVwLWNTbkRhZkpUTEg5dGt3?oc=5",
+      "published": "2026-11-01T11:05:52"
+    },
+    {
+      "title": "Во ФСИН объяснили, почему в российских СИЗО и тюрьмах нет ИИ - URA.RU",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5RWU5IbGRRTTNpNDVqd0p0TG4yUUJfM25IUmFMZnp4RzczaUZ4LWM1QnMtbHM4bThUdndadDU0Ykx5TnJUb3Jj?oc=5",
+      "published": "2026-11-01T10:26:00"
+    },
+    {
+      "title": "ИИ-пузырь лопнул, американские технологические гиганты потеряли до 30 % капитализации — Seeking Alpha - Клуб DNS",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPam1xVjYyOVBvM194WHhxTTQxRjVVQndldFFjSjd2UDZrcmR4X3Q1YzNodzE2SkZNeWtiZjA3OVdtbG9Xd0dwNEFkSnpfQTYzdkxWWXVoRWktQnpBRDNYX0tQRjVoSFVTSzdhdk1HOVpjSGhjR0c3eW16Nl80ZldtMXV2OU4zLXpyMHRQWkkxblcxN1poZ1M1RzZXVFhISUJBWFNzN1BNdm0?oc=5",
+      "published": "2026-11-01T10:11:12"
+    },
+    {
+      "title": "Вайбкодинг против старой школы: что делать дизайнерам в эпоху ИИ?",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1102098/?utm_campaign=1102098&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-10-31T14:55:39"
+      "url": "https://habr.com/ru/articles/1101468/?utm_campaign=1101468&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-01T10:00:32"
     },
     {
-      "title": "Cisco предоставила своему инженеру неограниченный доступ к ИИ-токенам для переписывания легаси-кода - Хабр",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2MHBCMER0Vm9mSlVNdlF6RkhyT1BQazZfWTdfN21xUzF4OWVMbFhEQlpaYnF1VUdpV3VJOFlzMkIybDVndnQ3bNIBWEFVX3lxTE1HQWJuanNkaEVZQjNLYWVQWEtYS3dKZzVuMlVuYmJtQjdMTGx0Sk8zM2dnbXNJd1d2MU40X2ZZd0c4V0RCQ2pGWFZubkFRZmhtdVZJLUEzZS0?oc=5",
-      "published": "2026-10-31T14:37:17"
-    },
-    {
-      "title": "ИИ-агент Anthropic Claude самостоятельно провёл операцию на мозге живой мыши",
+      "title": "Память стала золотой жилой ИИ: Samsung, SK hynix и Micron заработали больше Apple, Microsoft и Amazon",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1150708",
-      "published": "2026-10-31T14:36:00"
+      "url": "https://3dnews.ru/1150718",
+      "published": "2026-11-01T09:53:00"
     },
     {
-      "title": "Искусственный интеллект в Минфине: как ИИ применят в управлении госфинансами, сроки, задачи - Финансы Mail",
+      "title": "ИИ-доказательства под прицелом суда - zakon.ru",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcWE0NlNueXBYU2p5dVF2LWNjSXZYRW1sTkUzanNIdm5hY1VtR1hBdm40N3RuWmNyd0tQZ09lMWFkMWswRW9QdWhyeVZLTkVhZjVHUEtHX041Qk43a3RBQVF5SjB4ZFdfc3kybnNVckxLVVFxZVBoUS1BMGJWQzlJd0NqX002aVBPUWx0UGFTdXhkSUpoOXJKcTBPTmIteGVGWHNr?oc=5",
-      "published": "2026-10-31T14:15:51"
-    },
-    {
-      "title": "ИИ учится проектировать: как нейросети меняют работу инженеров - yamal1.ru",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcXJiYTZUazY2WFQzZkRJY21rVG1IZThfVXV3YkJsSXN0WDlfcHBUcjJ4cEdFd0J3NUQzZ3d3UVVESERtdkYzbDlsLTRjNmpSb3BDUE9tQXJLbkFZaW1WLXIwbVNrbDdEbnBYUUY3STJtc3dOQmdyZ3doQnJrbzF1bVFLSXNaNEJLdHE4R2FROGtneS1LNkxGc2k3YVdqMU13WFl6enl3?oc=5",
-      "published": "2026-10-31T13:57:48"
-    },
-    {
-      "title": "Альтман приехал к Samsung выпрашивать память для ИИ на фоне усиления дефицита",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150707",
-      "published": "2026-10-31T13:56:00"
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKTHdySHJpN2Q4SGFTT3d5TjBDR1ZpQjFqUUs1R2szOHpsYk9ESVZ2My02aWFCT0ZKeENzT0dhemR3ZnNxRzFzLU96WjNVOWgyd2hZZ3VLREFsYWh3U1ZQZ2FJQUZTUG9ucWRoVHRhb043SDBIUVE?oc=5",
+      "published": "2026-11-01T09:45:00"
     }
   ]
 }
