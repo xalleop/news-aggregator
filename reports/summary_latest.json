@@ -1,38 +1,39 @@
 {
-  "timestamp": "2026-11-02_16-52",
-  "total_articles": 73,
+  "timestamp": "2026-11-03_00-43",
+  "total_articles": 64,
   "sources": {
-    "ТАСС": 3,
+    "ТАСС": 1,
     "Ведомости": 1,
-    "Digital_Russia": 2,
-    "Habr_AI": 31,
-    "3DNews": 3,
+    "Digital_Russia": 3,
+    "Habr_AI": 25,
+    "3DNews": 9,
+    "VC_ru_Технологии": 1,
     "ИИ комплаенс и этика": 1,
-    "Google News": 32
+    "Google News": 23
   },
   "top_keywords": [
     [
       "ИИ",
-      54
+      46
     ],
     [
       "AI",
-      12
-    ],
-    [
-      "регулирование",
-      7
+      11
     ],
     [
       "ESG",
-      7
+      5
+    ],
+    [
+      "Минцифры",
+      4
     ],
     [
       "искусственный интеллект",
       3
     ],
     [
-      "Минцифры",
+      "регулирование",
       3
     ],
     [
@@ -46,64 +47,64 @@
   ],
   "recent_headlines": [
     {
-      "title": "В НИУ ВШЭ провели пилотирование ИИ-системы для оценки математической грамотности - Высшая школа экономики",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TSHlFdmN4dWFIZzBOVEF2Q2U4MV9POWFLVWpYSDZ2YVY2TUdsYndFbEdhdFhVTlU3Yk9Fd1ZVbnYwSTNsVFZ1cGR3ZmhoQWZyclg2Y0hR?oc=5",
-      "published": "2026-11-02T13:36:51"
-    },
-    {
-      "title": "OpenAI договорилась о внедрении ИИ в крупнейшую нефтяную компанию Абу-Даби - Incrussia",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPODNpRXBJOGxNQlZKc0JBS2NvdFF4WUJtSVhidXpTaG4xWDR1RHFFVl9qODduTDZEUmJ2VWdWRW1ZQ0RSbjE4ZXZBMUNrSzdIclFHR2dvbVNyeEVNZUJqbWVVSUZsdXdqbmdSYnNVZ0s5TU14dHFaQ3dockZMbHNBaVVycWt0NEx0SjFUYXFQMzdqX3pwM01icmZBNkpOejF3cVM4ZXZXR28?oc=5",
-      "published": "2026-11-02T13:28:56"
-    },
-    {
-      "title": "Великобритания и Германия планируют объединить усилия по созданию военного ИИ - Euronews.com",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbGpCLTlzQk8xV3hYcUN6U1FUSzloR1YyZ3VSa1VSTDUzOUxnQlluR0pvWUlpU2hIZ3h5dUUzRjl4WTB4dHJTZHhhbldtbWdsUjhRZXFnRUhiZ05vOU5kajZmMkpsSzVpaTR4bV9ZcnRsaHBlSlJfZE9vUkZUZjlQcHRLOW5GakRqNkgxa3p0WDRGX1hnNG5nOWF3?oc=5",
-      "published": "2026-11-02T13:24:11"
-    },
-    {
-      "title": "Агентство RAEX провело ESG-оценку «Уралкалия» - «Интернет – газета «Звезда",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3cmg2RHNhQTNnNUlIbk96Nml0VFBMTi1vT1NVc3ZRb25NQXBoc1JHQk5DYUUyVDRHZ3MwSW9oaUtQZEFqMUlIS0JESEhneTE2UTF4aXNHNWthcmtGNVpJVUdMdWZsUmE2Snc4cEY4SmhWWTFk?oc=5",
-      "published": "2026-11-02T13:12:54"
-    },
-    {
-      "title": "В \"Калашникове\" рассказали о системе защиты от дронов на основе ИИ",
-      "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28279273",
-      "published": "2026-11-02T13:10:14"
-    },
-    {
-      "title": "Глава \"Калашникова\" пообещал внедрить ИИ в автомат",
-      "source": "ТАСС",
-      "url": "https://tass.ru/armiya-i-opk/28279259",
-      "published": "2026-11-02T13:07:37"
-    },
-    {
-      "title": "Турция начала антимонопольное расследование против Google: ИИ-обзоры и доходы СМИ - Финансы Mail",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcUc4b3VucE9jZVpmeVQ4ZVc0REMzQ0FjaXpwMUVnb0toODJwOEVEMmlRZjlGLTFyN1dpelFMbEExc3M4cUthRzJwN3pJVHRweWEtT1RnYVNSbWpFVFppMERoUTMyQ091Q0NpMnFOSEdwbmlrWnYwR0NNaDZNNUpwU2xsUkR2ZWktQTV4U1A0WTJwS211LWFjRklybnRrQkhvTGs1aTAydFI1bXM?oc=5",
-      "published": "2026-11-02T12:52:44"
-    },
-    {
-      "title": "Программный робот vs «Умный» программный робот vs Интеллектуальный агент: первый взгляд",
+      "title": "GateRook: Как я дал ИИ доступ к базам и логам, сохранив контроль над изменениями",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/rosatom/articles/1102772/?utm_campaign=1102772&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-02T12:46:43"
+      "url": "https://habr.com/ru/articles/1102946/?utm_campaign=1102946&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-02T21:34:10"
     },
     {
-      "title": "Свежие научные работы про ИИ, агентов и все такое. Сентябрь-2026: мультимодальный ИИ и робототехника",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/ru_mts/articles/1097740/?utm_campaign=1097740&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-02T12:46:33"
+      "title": "ИИ устроил ядерный ренессанс — число строящихся АЭС достигло максимума за 40 лет",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150766",
+      "published": "2026-11-02T21:10:00"
     },
     {
-      "title": "Антон Силуанов: Минфин начнет полноценно применять ИИ к новому бюджетному циклу - Эксперт",
+      "title": "Правительство обсудит внедрение ИИ и аттестацию медиков",
+      "source": "ТАСС",
+      "url": "https://tass.ru/politika/28280125",
+      "published": "2026-11-02T21:03:13"
+    },
+    {
+      "title": "Новая статья: Компьютер месяца — ноябрь 2026 года",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150696",
+      "published": "2026-11-02T21:00:01"
+    },
+    {
+      "title": "Apple может выпустить настольного робота с ИИ уже в 2027 году — он сможет включать свет и помогать искать предметы",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150761",
+      "published": "2026-11-02T20:47:00"
+    },
+    {
+      "title": "Apple может выпустить настольного робота с ИИ уже в 2027 году — он сможет включать свет и помогать искать предметы - 3DNews",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeHVONXQwSkdQd2FkSkNITEZPT0pUeXRVY1oxV3VqcEVsekFTaXM4ZWpxTUJLWHBITjlwbG95aU4xcEQ5UHBhNTVsZFVxRFlNM0tuM3M3ZW50ak83S2RqMlhIaTVTNVlnWUR6MUt2ZVhxQUc2Wm5DMHQzMURVS1NpR0x1U2xpc2Jwdl8temRJWnhLYmNVT0FkWFBfeHlYVXNmVUVLYk1FNU8xZw?oc=5",
-      "published": "2026-11-02T12:43:00"
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFA4TFdmSjR4UGRMcDlwaFVvR0ZoY2pnc3p2Mmc4ay1XY05Pa2pTTkN3Tm4zZ3RTT1hkZkNuU3dB0gHWAUFVX3lxTFBBR0lRME1EWk9PT2twX3VYekR0cURiVFJlZXFkTlZfUS1aRDVvNVA0UmJ2WkRlYUlMZWRDaU5aUzFLWDN0Wm9UcFR2ZEJwanpYMS1OeDdXVUVQejZTb1dvbnlHeVN4UWhSNFFMSVp0VGU1NDk1R0djQk9NdV8tNk5maDJ2UGthNjk3UEotc05NUENTOVBCZlZwSEVFNUVQU3RRalZQM1VWMnE5bWhBekNyTS00el9MVWpUNmdhX3dTZEtjMERnTml6aDNhSjdjVEhheXlzOVE?oc=5",
+      "published": "2026-11-02T20:47:00"
+    },
+    {
+      "title": "Майнинг на видеокартах неожиданно вернулся — но ИИ не оставил шансов на новый бум",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150765",
+      "published": "2026-11-02T20:41:00"
+    },
+    {
+      "title": "Майнинг на видеокартах неожиданно вернулся — но ИИ не оставил шансов на новый бум - 3DNews",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE1sSkdqdEhSWmRNR1J0dk9uckh5eUh5Wkkyc0dobHhqUnNPZ0w4Mjl2eTJxYk92WVZjSXdiQm9R0gGwAUFVX3lxTE15NnRlbXo2OC1ianhOWnk2Vk9UX0RQT0NOUUVxcFlOT0gtZlh1MEpuMnJSM3JZdmZTRVpCeV9kLUtLNE92RlZfYmd6Q090NERlN0s4aXZsOEFGWHFoU2g4ZFZKTG5DX29JanNVYklnSnVFZnd2Y1FaZ1hBNDR6Z0pwVGtWclc4OXBqQmVOSmZOdDJVQ3dCUFRqcGEtaWVQSzVJbnBhOHQ5RkNib05OUEJn?oc=5",
+      "published": "2026-11-02T20:41:00"
+    },
+    {
+      "title": "Anthropic набрала долговых обязательств почти на $900 млрд ради ИИ — и снова ушла в убыток",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150760",
+      "published": "2026-11-02T19:27:00"
+    },
+    {
+      "title": "[Перевод] Что ИИ незаметно сломал в моей команде разработки",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/otus/articles/1101862/?utm_campaign=1101862&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-02T17:40:53"
     }
   ]
 }
