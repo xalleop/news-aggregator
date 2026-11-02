@@ -1,95 +1,109 @@
 {
-  "timestamp": "2026-11-02_01-20",
-  "total_articles": 35,
+  "timestamp": "2026-11-02_16-52",
+  "total_articles": 73,
   "sources": {
-    "Коммерсантъ": 1,
+    "ТАСС": 3,
     "Ведомости": 1,
-    "Habr_AI": 10,
+    "Digital_Russia": 2,
+    "Habr_AI": 31,
     "3DNews": 3,
-    "Google News": 20
+    "ИИ комплаенс и этика": 1,
+    "Google News": 32
   },
   "top_keywords": [
     [
       "ИИ",
-      29
+      54
     ],
     [
       "AI",
-      4
-    ],
-    [
-      "искусственный интеллект",
-      2
+      12
     ],
     [
       "регулирование",
-      1
+      7
     ],
     [
       "ESG",
+      7
+    ],
+    [
+      "искусственный интеллект",
+      3
+    ],
+    [
+      "Минцифры",
+      3
+    ],
+    [
+      "машинное обучение",
+      1
+    ],
+    [
+      "policy",
       1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "День партийного единства // Как депутаты Госдумы отметят 4 ноября",
-      "source": "Коммерсантъ",
-      "url": "https://www.kommersant.ru/doc/9078608",
-      "published": "2026-11-01T22:03:00"
-    },
-    {
-      "title": "Инвестиционный риск и личная ответственность в ИИ-стартапе: кто ответит за убытки? - zakon.ru",
+      "title": "В НИУ ВШЭ провели пилотирование ИИ-системы для оценки математической грамотности - Высшая школа экономики",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2ZJS1VGZzUxMTJvVFZpN05aSG9ONWI2b1g3dVdYYW9OM3ZSelQwWUhRVjE2QkRPQ1p4aGdCOEdlejRMeU1WWjJxa08yV3N4dVNXRVdtTlk3U2g1UzJqMHNJb2dlTFktZlpsMlNnc0R3QmxNLUdqdWt6b2hVTXdnUkF5M3IxT1NCNGU3R01YN0Yxb1JQazNobmFXY0g0Sm1aWUcyU3RZQ3lVZHdKc2VtNUlTSG4?oc=5",
-      "published": "2026-11-01T21:52:02"
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TSHlFdmN4dWFIZzBOVEF2Q2U4MV9POWFLVWpYSDZ2YVY2TUdsYndFbEdhdFhVTlU3Yk9Fd1ZVbnYwSTNsVFZ1cGR3ZmhoQWZyclg2Y0hR?oc=5",
+      "published": "2026-11-02T13:36:51"
     },
     {
-      "title": "Замена Claude: Kimi набрала 96% в моем тесте работы с 1С",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1102396/?utm_campaign=1102396&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-01T19:42:25"
-    },
-    {
-      "title": "Россия и Китай выступили против «вольницы» для ИИ - Клопс - новости Калининград",
+      "title": "OpenAI договорилась о внедрении ИИ в крупнейшую нефтяную компанию Абу-Даби - Incrussia",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMG8zVDBXSjRVeEI5WGJzak5mOUdKdXhvcElPeFl1b0txakJCMFBKUnZxWXp0dDU0Zl8xMlRHdG9mMnU1M0p0Mmd0QVhpZmVVMEFDcDFCaHRNY1ctMmlyYkswWjhvSkJvc285MGxUX2xYZXNkOHhQYWRIX2xERVE2aTBZZDh3NTZvaEx0bWF5TXdzYVVt?oc=5",
-      "published": "2026-11-01T19:17:00"
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPODNpRXBJOGxNQlZKc0JBS2NvdFF4WUJtSVhidXpTaG4xWDR1RHFFVl9qODduTDZEUmJ2VWdWRW1ZQ0RSbjE4ZXZBMUNrSzdIclFHR2dvbVNyeEVNZUJqbWVVSUZsdXdqbmdSYnNVZ0s5TU14dHFaQ3dockZMbHNBaVVycWt0NEx0SjFUYXFQMzdqX3pwM01icmZBNkpOejF3cVM4ZXZXR28?oc=5",
+      "published": "2026-11-02T13:28:56"
     },
     {
-      "title": "Россия и Китай против подхода США к регулированию ИИ - KazanFirst",
+      "title": "Великобритания и Германия планируют объединить усилия по созданию военного ИИ - Euronews.com",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMEJwZGxQbDRzMzdqR1h2eW00WWY3RlVralZ5Y3FRWlFXQmxwRkVWQjR5a1cycFRTXzZnc2hySWdWSl9DOWV2YTM0RmRaeGRCSEhhMHA4NHdZd0k1TTNDY1dqS1F3RUl2b0VIY0lkYUFlZnR5ektjYXhhVE42TTdVYXhIM3pTUThaVnfSAZIBQVVfeXFMTWRtYS1RRG5VQ0RnX1Q1MGJ4SGFXeWlsNGh4RkRUZFBTcXo3eFkyU0podWZWOHJzdGNjMFM1dW5IQ1lZVVh3MUpQN0VMVHIzOURSTXNjWWVDc0hMUFg2LW4zRHRTSUhMT19qN2xuNExCNDZKNVpiRjhxSmhTOUpzaFpva05BeWh4ZFdEbEV1VDE2c1E?oc=5",
-      "published": "2026-11-01T19:04:20"
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbGpCLTlzQk8xV3hYcUN6U1FUSzloR1YyZ3VSa1VSTDUzOUxnQlluR0pvWUlpU2hIZ3h5dUUzRjl4WTB4dHJTZHhhbldtbWdsUjhRZXFnRUhiZ05vOU5kajZmMkpsSzVpaTR4bV9ZcnRsaHBlSlJfZE9vUkZUZjlQcHRLOW5GakRqNkgxa3p0WDRGX1hnNG5nOWF3?oc=5",
+      "published": "2026-11-02T13:24:11"
     },
     {
-      "title": "Как попасть в ответы нейросетей: почему ответа в первом абзаце мало и как проверить начало страницы",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1102378/?utm_campaign=1102378&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-01T17:56:13"
-    },
-    {
-      "title": "Ты не бойся, это Goose",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1102376/?utm_campaign=1102376&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-01T17:51:51"
-    },
-    {
-      "title": "DeepSeek создала «ИИ-суперагента» — конкурент Claude Code сам читает чаты разработчиков и предлагает решения задач",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150724",
-      "published": "2026-11-01T17:35:00"
-    },
-    {
-      "title": "Пузырь ИИ начал сдуваться: когда ждать краха и что будет с акциями технологических компаний - Финансы Mail",
+      "title": "Агентство RAEX провело ESG-оценку «Уралкалия» - «Интернет – газета «Звезда",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUV8wZXROZndsQWRVUUVNMmZTUlZKcFByeDZyZThMUEFLc2hWekdPXzdiaU9zbHoyWVJiSWNZTkZMRGljOG1pWEpOTDNDU3ByMnNhN2FDcWNCNFNHajFQYk83aGJjQkp3RDJUTks4TmlfRGdKLWx0SVRFd3U3TWczejZfc1ZhUFlOLVRza2pubUJ3b19VQURCbllFZXA?oc=5",
-      "published": "2026-11-01T17:16:50"
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3cmg2RHNhQTNnNUlIbk96Nml0VFBMTi1vT1NVc3ZRb25NQXBoc1JHQk5DYUUyVDRHZ3MwSW9oaUtQZEFqMUlIS0JESEhneTE2UTF4aXNHNWthcmtGNVpJVUdMdWZsUmE2Snc4cEY4SmhWWTFk?oc=5",
+      "published": "2026-11-02T13:12:54"
     },
     {
-      "title": "Личные AI-ассистенты и угроза приватности. Детальные профили на друзей и семью",
+      "title": "В \"Калашникове\" рассказали о системе защиты от дронов на основе ИИ",
+      "source": "ТАСС",
+      "url": "https://tass.ru/ekonomika/28279273",
+      "published": "2026-11-02T13:10:14"
+    },
+    {
+      "title": "Глава \"Калашникова\" пообещал внедрить ИИ в автомат",
+      "source": "ТАСС",
+      "url": "https://tass.ru/armiya-i-opk/28279259",
+      "published": "2026-11-02T13:07:37"
+    },
+    {
+      "title": "Турция начала антимонопольное расследование против Google: ИИ-обзоры и доходы СМИ - Финансы Mail",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcUc4b3VucE9jZVpmeVQ4ZVc0REMzQ0FjaXpwMUVnb0toODJwOEVEMmlRZjlGLTFyN1dpelFMbEExc3M4cUthRzJwN3pJVHRweWEtT1RnYVNSbWpFVFppMERoUTMyQ091Q0NpMnFOSEdwbmlrWnYwR0NNaDZNNUpwU2xsUkR2ZWktQTV4U1A0WTJwS211LWFjRklybnRrQkhvTGs1aTAydFI1bXM?oc=5",
+      "published": "2026-11-02T12:52:44"
+    },
+    {
+      "title": "Программный робот vs «Умный» программный робот vs Интеллектуальный агент: первый взгляд",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/globalsign/articles/1102364/?utm_campaign=1102364&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-01T17:05:05"
+      "url": "https://habr.com/ru/companies/rosatom/articles/1102772/?utm_campaign=1102772&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-02T12:46:43"
+    },
+    {
+      "title": "Свежие научные работы про ИИ, агентов и все такое. Сентябрь-2026: мультимодальный ИИ и робототехника",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/ru_mts/articles/1097740/?utm_campaign=1097740&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-02T12:46:33"
+    },
+    {
+      "title": "Антон Силуанов: Минфин начнет полноценно применять ИИ к новому бюджетному циклу - Эксперт",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeHVONXQwSkdQd2FkSkNITEZPT0pUeXRVY1oxV3VqcEVsekFTaXM4ZWpxTUJLWHBITjlwbG95aU4xcEQ5UHBhNTVsZFVxRFlNM0tuM3M3ZW50ak83S2RqMlhIaTVTNVlnWUR6MUt2ZVhxQUc2Wm5DMHQzMURVS1NpR0x1U2xpc2Jwdl8temRJWnhLYmNVT0FkWFBfeHlYVXNmVUVLYk1FNU8xZw?oc=5",
+      "published": "2026-11-02T12:43:00"
     }
   ]
 }
