@@ -1,12 +1,14 @@
 {
-  "timestamp": "2026-11-03_00-43",
-  "total_articles": 64,
+  "timestamp": "2026-11-03_04-11",
+  "total_articles": 66,
   "sources": {
     "ТАСС": 1,
+    "Интерфакс": 1,
     "Ведомости": 1,
     "Digital_Russia": 3,
-    "Habr_AI": 25,
-    "3DNews": 9,
+    "Habr_Топ_День": 1,
+    "Habr_AI": 24,
+    "3DNews": 10,
     "VC_ru_Технологии": 1,
     "ИИ комплаенс и этика": 1,
     "Google News": 23
@@ -14,18 +16,18 @@
   "top_keywords": [
     [
       "ИИ",
-      46
+      51
     ],
     [
       "AI",
-      11
-    ],
-    [
-      "ESG",
-      5
+      10
     ],
     [
       "Минцифры",
+      6
+    ],
+    [
+      "ESG",
       4
     ],
     [
@@ -34,7 +36,7 @@
     ],
     [
       "регулирование",
-      3
+      2
     ],
     [
       "машинное обучение",
@@ -47,7 +49,25 @@
   ],
   "recent_headlines": [
     {
-      "title": "GateRook: Как я дал ИИ доступ к базам и логам, сохранив контроль над изменениями",
+      "title": "Правительство рассмотрит вопрос о наделении Минцифры координацией внедрения ИИ",
+      "source": "Интерфакс",
+      "url": "https://www.interfax.ru/russia/1126654",
+      "published": "2026-11-02T22:48:00"
+    },
+    {
+      "title": "Правительство рассмотрит вопрос о наделении Минцифры координацией внедрения ИИ - Интерфакс",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mQmlVS0JtTEFFMWtXQVdCOTg1UlJNbExHQlZRVkZieVpJQnZrLVNMNTZ2RDlWWjBEUFc0bGg4WDc5Sjhjc044Rjdkalc3NkXSAUtBVV95cUxOZThWWVJycEktZ1d3STRHUDZyS0g1RnJXSzlxV2t4SWxuMWhnVHN2bDF5Mk9oYzUzVHhKVGhEbnhuMUZrQTRFVDhzRmc?oc=5",
+      "published": "2026-11-02T22:48:00"
+    },
+    {
+      "title": "«Лаборатория Касперского» представила технический анализ реальной атаки с помощью ИИ - Telecom Daily",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNejBXRXIzYmtzVks4YVppMU84ek1hcVpVSnVaUmp1dUdUdE5GazExNnNxSUFfUW5nc3JzckQzR0Nva1d5QU01TVhjWHRSWVV1NHlEclJ0OThNMTNzNXIydnNyalNVcmthZFhzYm45MXhwZk1UTmEtR3JQUlRTSUZnZFZsMzlQZ2FZOEZXdFBfYm5EbGk5azlvSDJKZkE3Z0g3NV9DU3RYc2d5Tm50SWFCdGhDWVN1b0xfMHZxZ093U3hTNWpx?oc=5",
+      "published": "2026-11-02T21:36:54"
+    },
+    {
+      "title": "GateRook: Как я дал ИИ доступ к базам и логам, сохранив контроль над изменениями",
       "source": "Habr_AI",
       "url": "https://habr.com/ru/articles/1102946/?utm_campaign=1102946&utm_source=habrahabr&utm_medium=rss",
       "published": "2026-11-02T21:34:10"
@@ -65,6 +85,12 @@
       "published": "2026-11-02T21:03:13"
     },
     {
+      "title": "Новая статья: Мастерская локальных ИИ: первый подход к FLUX 3 Image Klein",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150520",
+      "published": "2026-11-02T21:00:05"
+    },
+    {
       "title": "Новая статья: Компьютер месяца — ноябрь 2026 года",
       "source": "3DNews",
       "url": "https://3dnews.ru/1150696",
@@ -77,34 +103,10 @@
       "published": "2026-11-02T20:47:00"
     },
     {
-      "title": "Apple может выпустить настольного робота с ИИ уже в 2027 году — он сможет включать свет и помогать искать предметы - 3DNews",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFA4TFdmSjR4UGRMcDlwaFVvR0ZoY2pnc3p2Mmc4ay1XY05Pa2pTTkN3Tm4zZ3RTT1hkZkNuU3dB0gHWAUFVX3lxTFBBR0lRME1EWk9PT2twX3VYekR0cURiVFJlZXFkTlZfUS1aRDVvNVA0UmJ2WkRlYUlMZWRDaU5aUzFLWDN0Wm9UcFR2ZEJwanpYMS1OeDdXVUVQejZTb1dvbnlHeVN4UWhSNFFMSVp0VGU1NDk1R0djQk9NdV8tNk5maDJ2UGthNjk3UEotc05NUENTOVBCZlZwSEVFNUVQU3RRalZQM1VWMnE5bWhBekNyTS00el9MVWpUNmdhX3dTZEtjMERnTml6aDNhSjdjVEhheXlzOVE?oc=5",
-      "published": "2026-11-02T20:47:00"
-    },
-    {
       "title": "Майнинг на видеокартах неожиданно вернулся — но ИИ не оставил шансов на новый бум",
       "source": "3DNews",
       "url": "https://3dnews.ru/1150765",
       "published": "2026-11-02T20:41:00"
-    },
-    {
-      "title": "Майнинг на видеокартах неожиданно вернулся — но ИИ не оставил шансов на новый бум - 3DNews",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE1sSkdqdEhSWmRNR1J0dk9uckh5eUh5Wkkyc0dobHhqUnNPZ0w4Mjl2eTJxYk92WVZjSXdiQm9R0gGwAUFVX3lxTE15NnRlbXo2OC1ianhOWnk2Vk9UX0RQT0NOUUVxcFlOT0gtZlh1MEpuMnJSM3JZdmZTRVpCeV9kLUtLNE92RlZfYmd6Q090NERlN0s4aXZsOEFGWHFoU2g4ZFZKTG5DX29JanNVYklnSnVFZnd2Y1FaZ1hBNDR6Z0pwVGtWclc4OXBqQmVOSmZOdDJVQ3dCUFRqcGEtaWVQSzVJbnBhOHQ5RkNib05OUEJn?oc=5",
-      "published": "2026-11-02T20:41:00"
-    },
-    {
-      "title": "Anthropic набрала долговых обязательств почти на $900 млрд ради ИИ — и снова ушла в убыток",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150760",
-      "published": "2026-11-02T19:27:00"
-    },
-    {
-      "title": "[Перевод] Что ИИ незаметно сломал в моей команде разработки",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/otus/articles/1101862/?utm_campaign=1101862&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-02T17:40:53"
     }
   ]
 }
