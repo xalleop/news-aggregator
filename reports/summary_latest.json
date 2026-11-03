@@ -1,112 +1,112 @@
 {
-  "timestamp": "2026-11-03_04-11",
-  "total_articles": 66,
+  "timestamp": "2026-11-03_16-01",
+  "total_articles": 87,
   "sources": {
     "ТАСС": 1,
     "Интерфакс": 1,
-    "Ведомости": 1,
     "Digital_Russia": 3,
-    "Habr_Топ_День": 1,
-    "Habr_AI": 24,
-    "3DNews": 10,
+    "Habr_AI": 19,
+    "CNews": 22,
+    "3DNews": 15,
     "VC_ru_Технологии": 1,
+    "The Centre for the Governance of AI Blog": 2,
     "ИИ комплаенс и этика": 1,
-    "Google News": 23
+    "Google News": 22
   },
   "top_keywords": [
     [
       "ИИ",
-      51
+      70
     ],
     [
       "AI",
-      10
+      13
     ],
     [
       "Минцифры",
       6
     ],
     [
-      "ESG",
-      4
+      "искусственный интеллект",
+      5
     ],
     [
-      "искусственный интеллект",
-      3
+      "governance",
+      2
+    ],
+    [
+      "policy",
+      2
     ],
     [
       "регулирование",
       2
     ],
     [
-      "машинное обучение",
-      1
-    ],
-    [
-      "policy",
-      1
+      "ESG",
+      2
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Правительство рассмотрит вопрос о наделении Минцифры координацией внедрения ИИ",
-      "source": "Интерфакс",
-      "url": "https://www.interfax.ru/russia/1126654",
-      "published": "2026-11-02T22:48:00"
-    },
-    {
-      "title": "Правительство рассмотрит вопрос о наделении Минцифры координацией внедрения ИИ - Интерфакс",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mQmlVS0JtTEFFMWtXQVdCOTg1UlJNbExHQlZRVkZieVpJQnZrLVNMNTZ2RDlWWjBEUFc0bGg4WDc5Sjhjc044Rjdkalc3NkXSAUtBVV95cUxOZThWWVJycEktZ1d3STRHUDZyS0g1RnJXSzlxV2t4SWxuMWhnVHN2bDF5Mk9oYzUzVHhKVGhEbnhuMUZrQTRFVDhzRmc?oc=5",
-      "published": "2026-11-02T22:48:00"
-    },
-    {
-      "title": "«Лаборатория Касперского» представила технический анализ реальной атаки с помощью ИИ - Telecom Daily",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNejBXRXIzYmtzVks4YVppMU84ek1hcVpVSnVaUmp1dUdUdE5GazExNnNxSUFfUW5nc3JzckQzR0Nva1d5QU01TVhjWHRSWVV1NHlEclJ0OThNMTNzNXIydnNyalNVcmthZFhzYm45MXhwZk1UTmEtR3JQUlRTSUZnZFZsMzlQZ2FZOEZXdFBfYm5EbGk5azlvSDJKZkE3Z0g3NV9DU3RYc2d5Tm50SWFCdGhDWVN1b0xfMHZxZ093U3hTNWpx?oc=5",
-      "published": "2026-11-02T21:36:54"
-    },
-    {
-      "title": "GateRook: Как я дал ИИ доступ к базам и логам, сохранив контроль над изменениями",
+      "title": "Как проводить технические собеседования в эпоху ИИ-суфлёров и агентной разработки",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1102946/?utm_campaign=1102946&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-02T21:34:10"
+      "url": "https://habr.com/ru/articles/1103212/?utm_campaign=1103212&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-03T12:53:54"
     },
     {
-      "title": "ИИ устроил ядерный ренессанс — число строящихся АЭС достигло максимума за 40 лет",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150766",
-      "published": "2026-11-02T21:10:00"
+      "title": "10 бит в секунду и триллионы долларов долга: где предел развития ИИ - Наука Mail",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWFZcU1YVWRZY2dfc3JFQkp1VGIybFdhdEpnUTBMVnBVWlBtMElwZlUyVkdsd3NpVTF3blBwS2JDcjhFMElVaXB5anFCdHJndk0tVWtMYUZEVzNUY2lBbG9jMEVfX2JGSEN5Qy1HRlM0WXFwX2ludVF0a08xaG5ISjMzYTd3QQ?oc=5",
+      "published": "2026-11-03T12:51:46"
     },
     {
-      "title": "Правительство обсудит внедрение ИИ и аттестацию медиков",
+      "title": "Знают все, доверяют выборочно: как петербуржцы встраивают ИИ в повседневную жизнь - CNews.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5heEx5S0dkMkZoMEt1ZkRIWnVwN0RrSVllQUlrcXR1d1VBakJkLU13WVJWRDRCWTFJczBQeGFtRUpISzZXNUEwdXB0NDJUM19mbjYwMHFwR21nOHZxWVVHWTFVVHY3LUJPUkFRRkh6WlVtcFFlTDYzdWc2NE9lZw?oc=5",
+      "published": "2026-11-03T12:49:03"
+    },
+    {
+      "title": "На ЕПГУ заработала услуга смены оператора мобильной связи с сохранением номера",
+      "source": "Digital_Russia",
+      "url": "https://d-russia.ru/na-epgu-zarabotala-usluga-smeny-operatora-mobilnoj-svyazi-s-sohraneniem-nomera.html",
+      "published": "2026-11-03T12:48:03"
+    },
+    {
+      "title": "Знают все, доверяют выборочно: как петербуржцы встраивают ИИ в повседневную жизнь",
+      "source": "CNews",
+      "url": "https://www.cnews.ru/news/line/2026-11-03_znayut_vsedoveryayut_vyborochno",
+      "published": "2026-11-03T12:41:00"
+    },
+    {
+      "title": "В США создали ИИ, который предупреждает врачей о сомнительных научных данных - Incrussia",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORFdLVDJTMlliaWJhbGNRdkFFeVJfQmlmaXc1M2tweGMxMDh4cFcxaE05czA2RUhleXFHbTNCRzB3OGpFZDhPMDdOZFZFT1pBbkR6QlB6R1BONFNBYjFmWVFoUDJiNFBNSDZPVlFXcnNhSVJaOUNUOGJDY1pxWXlETFV0cE8yQjdld1FRQmRLRVByUzZOVm4xM1BLQ0cyOGNMS0RhZmRVcHQ?oc=5",
+      "published": "2026-11-03T12:37:18"
+    },
+    {
+      "title": "Исследование: расходы бизнеса и госсектора на ИИ в Липецкой области выросли на 15% - Gorod48",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1ZUUNlUERTdGtSMXlJYzlMbkFlR0gyTDBaWXNwZUJCeV9ySzI0SzZIR2xVNnJ5U3FKMlU1Szd3aEw5WHpvUkNv?oc=5",
+      "published": "2026-11-03T12:29:12"
+    },
+    {
+      "title": "UK Summer Fellowship 2027, Applied Track | GovAI Blog",
+      "source": "The Centre for the Governance of AI Blog",
+      "url": "https://www.governance.ai/post/uk-summer-fellowship-2027-applied-track",
+      "published": "2026-11-03T12:14:16"
+    },
+    {
+      "title": "UK Summer Fellowship 2027, Research Track  | GovAI Blog",
+      "source": "The Centre for the Governance of AI Blog",
+      "url": "https://www.governance.ai/post/uk-summer-fellowship-2027-research-track",
+      "published": "2026-11-03T12:13:42"
+    },
+    {
+      "title": "Эксперт Бушуева объяснила притягательность нового ИИ-мема \"Румпель\"",
       "source": "ТАСС",
-      "url": "https://tass.ru/politika/28280125",
-      "published": "2026-11-02T21:03:13"
-    },
-    {
-      "title": "Новая статья: Мастерская локальных ИИ: первый подход к FLUX 3 Image Klein",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150520",
-      "published": "2026-11-02T21:00:05"
-    },
-    {
-      "title": "Новая статья: Компьютер месяца — ноябрь 2026 года",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150696",
-      "published": "2026-11-02T21:00:01"
-    },
-    {
-      "title": "Apple может выпустить настольного робота с ИИ уже в 2027 году — он сможет включать свет и помогать искать предметы",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150761",
-      "published": "2026-11-02T20:47:00"
-    },
-    {
-      "title": "Майнинг на видеокартах неожиданно вернулся — но ИИ не оставил шансов на новый бум",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150765",
-      "published": "2026-11-02T20:41:00"
+      "url": "https://tass.ru/obschestvo/28280609",
+      "published": "2026-11-03T12:11:37"
     }
   ]
 }
