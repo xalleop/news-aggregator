@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-11-03_22-31",
-  "total_articles": 90,
+  "timestamp": "2026-11-04_02-38",
+  "total_articles": 87,
   "sources": {
-    "ТАСС": 1,
     "Интерфакс": 1,
     "Digital_Russia": 2,
-    "Habr_AI": 20,
+    "Habr_AI": 19,
     "CNews": 23,
-    "3DNews": 15,
+    "3DNews": 13,
     "VC_ru_Технологии": 1,
     "The Centre for the Governance of AI Blog": 2,
+    "ИИ комплаенс и этика": 1,
     "Google News": 25
   },
   "top_keywords": [
     [
       "ИИ",
-      67
+      65
     ],
     [
       "AI",
@@ -26,11 +26,11 @@
       6
     ],
     [
-      "регулирование",
-      5
+      "искусственный интеллект",
+      4
     ],
     [
-      "искусственный интеллект",
+      "регулирование",
       3
     ],
     [
@@ -48,16 +48,34 @@
   ],
   "recent_headlines": [
     {
-      "title": "NYT: крупные ИИ-компании противодействуют дезинформации на выборах в США",
-      "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28284053",
-      "published": "2026-11-03T19:11:13"
+      "title": "Новая статья: ИИтоги октября 2026 г.: Альтман просит потерпеть",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150759",
+      "published": "2026-11-03T21:00:00"
     },
     {
-      "title": "Четыре крупнейших гиперскейлера займут ещё $131 млрд на развитие ИИ-инфраструктуры - ServerNews",
+      "title": "ИИтоги октября 2026 г.: Альтман просит потерпеть / Искусственный интеллект - 3DNews",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5GOERvNFd1d2tCVGZILUMtTElyc3llRW04UlZ6eE52aFFmYlFvU205Z3h0OE81T19KOWV0MVh6WXVNWmM?oc=5",
-      "published": "2026-11-03T19:04:00"
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1cHkxLW0xWEVVRUVWdWl0Wm9fNEtYbWZhcFVBZHU2aFZ2Tm1FTEdlV2lTUWxzVEpkMXpPRUh3aUhjU3l4UjVMUDU2MTgxUVhOdEVhSUpVQ1JCR0E?oc=5",
+      "published": "2026-11-03T21:00:00"
+    },
+    {
+      "title": "PMDA представило принципы применения ИИ при разработке и регулировании лекарственных препаратов - ФАРМПРОМ",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYXNIcEozVHhKREJLbkJ0Ty16bDhFTHpJb1J6WWZkdnJKaGh3LVdQUFJOY3JTSTZqVUtJSVhqcHBicWpoOTZyaTBYLXE0NVlCQTBUd2F3M3NCQVoyWXFHWDBpMkNpTWNSLUZvbnNPT0cxbWRSY3ZudC1XTXlsUnpKVVNkcUxIdlVMWUpDNm5CcHJxSG1WcFczbC1NMkQyQlhsNThTZV9ZcEZ6cVdNTThrYnp1LWkzQjJFUDJCWQ?oc=5",
+      "published": "2026-11-03T20:29:55"
+    },
+    {
+      "title": "Samsung построит в США фабрику чипов для AMD и Nvidia — она будет выпускать логику для HBM4",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150820",
+      "published": "2026-11-03T19:57:00"
+    },
+    {
+      "title": "Чэнь Цюфань, футуролог: три сценария развития ИИ-моделей - Telecom Daily",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUHhNc0sxUi1tYktoN284NC1uZ2ZZSVZwRHNSaW1KcUtDZUtlbktzSDhncEIwTnVLLTBRcVNNOFdJU09KZHZMekFkVmx6VVBCb25hU1RXWGRfS1Y4b1NxNTRGaFRFN29iTW1sZW9sc0RiQ0V6R0E4XzlTdTRrT20wdUNxQ2gwcWdOWVJuMkFiNzFBVnUwc1lvMHh3WEQ?oc=5",
+      "published": "2026-11-03T19:17:06"
     },
     {
       "title": "Учёные заставили бактерии размножаться ради решения сложных задач",
@@ -84,28 +102,10 @@
       "published": "2026-11-03T17:17:26"
     },
     {
-      "title": "Для российских сертификатов безопасности создадут ГИС \"Национальный удостоверяющий центр\"",
-      "source": "Интерфакс",
-      "url": "https://www.interfax.ru/russia/1126849",
-      "published": "2026-11-03T17:06:00"
-    },
-    {
-      "title": "Kodacode 1.3: агент умеет работать с приложениями и получил свой браузер",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/koda/articles/1103280/?utm_campaign=1103280&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-03T16:02:05"
-    },
-    {
-      "title": "Как мы сократили Т2М контента с 7 дней до 1 часа, применив подход на основе данных и вывернув известный мем наизнанку",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/sberbank/articles/1103056/?utm_campaign=1103056&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-03T16:00:24"
-    },
-    {
-      "title": "Apple ограничит доступ детей к дейтинговым приложениям и романтическим ИИ-ботам",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150798",
-      "published": "2026-11-03T15:37:00"
+      "title": "Вчетверо больше стартапов и ИИ в 90% ведомств: ФРГ решила стать «ИИ-нацией» к 2030 году - RTVI",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObEdoTUh3eXFYNXpqTG9saWFfbl9NZXpqNHdNSUpUdVNZUEpsbVdWUjNnZEZ2aXgzN19VV3dLNU12aTM0cU5nNG8xTFhvZTRPVUpNSy1PcExMSTJwWlRxeWdhbjhGQ1dsZjYwUkdTcHJCX2RUeEdxa0l1eEVPQXc4dnJjUE8wTUZjSGdsT3o5aGllMk43eG9sQWg2OTZBWk93TTUtcmZ4NVVYdHZO?oc=5",
+      "published": "2026-11-03T17:15:00"
     }
   ]
 }
