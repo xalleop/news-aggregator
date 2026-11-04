@@ -1,0 +1,110 @@
+{
+  "timestamp": "2026-11-04_16-17",
+  "total_articles": 57,
+  "sources": {
+    "ТАСС": 3,
+    "Habr_Топ_День": 1,
+    "Habr_AI": 13,
+    "CNews": 2,
+    "3DNews": 13,
+    "VC_ru_Технологии": 1,
+    "ИИ комплаенс и этика": 1,
+    "Google News": 23
+  },
+  "top_keywords": [
+    [
+      "ИИ",
+      42
+    ],
+    [
+      "AI",
+      9
+    ],
+    [
+      "искусственный интеллект",
+      4
+    ],
+    [
+      "регулирование",
+      4
+    ],
+    [
+      "ESG",
+      2
+    ],
+    [
+      "машинное обучение",
+      1
+    ],
+    [
+      "Минцифры",
+      1
+    ],
+    [
+      "aigovernance",
+      1
+    ]
+  ],
+  "recent_headlines": [
+    {
+      "title": "Китайская Tencent бросила вызов DeepSeek и Kimi — открытая ИИ-модель Hy4 умеет видеть и рассуждать",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150848",
+      "published": "2026-11-04T13:17:00"
+    },
+    {
+      "title": "«Богатство агентов»: масштабирование ИИ без увеличения модели",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/ru_mts/articles/1103346/?utm_campaign=1103346&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-04T13:16:17"
+    },
+    {
+      "title": "Жизнь после Claude Code: как я переехал на Codex и сохранил историю проектов",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1103528/?utm_campaign=1103528&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-04T13:13:27"
+    },
+    {
+      "title": "Референдум о будущем ИИ: результаты выборов в США поставили под угрозу бум дата-центров",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150847",
+      "published": "2026-11-04T13:01:00"
+    },
+    {
+      "title": "Референдум о будущем ИИ: результаты выборов в США поставили под угрозу бум дата-центров - 3DNews",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBtRGNFRG9DcGt1S2hneHYtM2x2Njk2aWhCWC1sN0g2TUowNTJHRGVOcW5HalpQMnBuQ0hBYy1R0gG7AUFVX3lxTFB6VmdkUHBUTjhyZTZ1dWFhQ0JIT0hsQ1loa2Y3Si1hOWViWnJXQXNCbExsbUZ2YVY1UFM4R2kzWlpDZU15anpxdnNPNm9peGozWG5oaXk2emtZVDh1OWVjWGpydGNhVHA3N3FsbkdGeTkzdTNzYk51U29PZlJhdTY3SlVDWFZTXzFHR25OeHYwR05zQzllaV9RNG1PQTUzU2FfWVRUQWRHb3NFalAwUTAyREJrUTBDaGRpeEU?oc=5",
+      "published": "2026-11-04T13:01:00"
+    },
+    {
+      "title": "Рынок воплощенного ИИ в Китае достиг 915 млрд юаней: данные доклада, рост ИИ-агентов - Финансы Mail",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd19rV1U5a1B4dVdiX2dGM0UzaTZwTk95amlvOTdxRC1TdGxKYXM4eDFpSGFsaWlwdnJxeXJITGNiZFJCN1dvYzJBTkd2b0RVUm9ZZEJrR2NYRUVzdjEyb2Q3WlRWOENKbW14Wl9IcjVPNlBIajlqNXcyRVBXdk9RRjlnTFRaT1JqU2hPRHpfVFpRSkhjOFItcHctaW5VNVBSb3c?oc=5",
+      "published": "2026-11-04T12:56:25"
+    },
+    {
+      "title": "Как заставить модель gemma-4-12B-it QAT почти «летать» на ноутбучной RTX 2000 Ada, сохранив холод и тишину",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1103522/?utm_campaign=1103522&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-04T12:52:59"
+    },
+    {
+      "title": "После атаки на Binance в США запускают \"выключатель\" для бесконтрольных ИИ-агентов - Финам",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOXzlHM2JzVTdWa01jRlRyU1BLaUVlWW56QUxvQVpOZW9rMzU0bmN1a041czlaSEcyLXBXbmFCZjVZLWdVV1BUV0FScktVZ1JWUGhxZHhQbVlQNDZrV2RqNGZwSHUyUUNiOGtQcUN2ZWVKNktvUU1Ec2tJdDR2dEJ4WXpVTG1yVVJHQzYtSFhCaVhTRXF4bTN6b1lzeGRQT2xmVUVqSjB4QUt0ejBfaDk2SmNPZllnWG04QldPcGxVR283dklrYlg5bUZ6OHlXM3RXdjM1Qw?oc=5",
+      "published": "2026-11-04T12:45:00"
+    },
+    {
+      "title": "Сотрудники, использующие ИИ, работают до 90 минут дольше каждый день — ActivTrak - Клуб DNS",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY1R4S0hhc2tmVHNVTDYtQWlPMldVNllpVkU3Y3ZZMVRsYmxlbm5fTkJCakJsZVV1M29MS2tUb0xmNTFGdXpRZjhXRjJvdU1GLVcyZjByT05QWmF4bmN0VGF1SFg3eWI5MWFsUlhsTU1kUl9kaVNFNFhOVXlmSHFOVlhPTk1FQWVTN3NfbDd4TmZhZ2hmd2JPWmtTbWdIOVJwUUtfd3hn0gGrAUFVX3lxTE40eFgxY2RFQjNXZWlkVmZIWHpNNFJUczVacW15TnRXVFB5ZnZtMkg4ZEdQOW8zNFpTZkVqTkZCMHIwMnlmWXdJU0NUTXA3ZjhJRHBDT2tUV3Y2dzNRTDdzQXZlaHI3anFDZjloazlqdXB6Tl90MHRFMTRndlpDQV83SXMxemg2ZUVMWi16TktfM0U0QkJDbmx1MmpUWjh2RF9TbG1PaVh3VHk0WQ?oc=5",
+      "published": "2026-11-04T12:36:41"
+    },
+    {
+      "title": "ИИ в судейской мантии. Может ли машина навязать свое решение человеку? - Санкт-Петербургские ведомости",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSjljVkEwMHNrcV9hZ1drUFhRZ2JTdzZ4cTd1RkpXaTNMQ3owNEtXdy1ncm9fcUN2ZVBPLWUtdFp2aUpRTkd2NnM0cy1MUzF3b2p2TkFmQmxCamhRSlptSVNLVFE0Q3UyTjJtY280UUxSbmxRR0N4NXYycWZVdEpwYnlwQkVxUG9nZUJXYnFQME5LRkhzellKV09CdnFIN2htRUxOQmtSZnJaS0RJakN4Z0Vn?oc=5",
+      "published": "2026-11-04T12:12:05"
+    }
+  ]
+}
