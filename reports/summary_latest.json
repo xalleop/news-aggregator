@@ -1,100 +1,108 @@
 {
-  "timestamp": "2026-11-05_02-54",
-  "total_articles": 46,
+  "timestamp": "2026-11-05_16-31",
+  "total_articles": 73,
   "sources": {
-    "ТАСС": 1,
-    "Habr_AI": 12,
-    "3DNews": 12,
+    "Ведомости": 1,
+    "Digital_Russia": 2,
+    "Habr_Топ_День": 1,
+    "Habr_AI": 21,
+    "CNews": 15,
+    "3DNews": 9,
     "VC_ru_Технологии": 1,
+    "AI Policy Perspectives": 1,
     "ИИ комплаенс и этика": 1,
-    "Google News": 19
+    "Google News": 21
   },
   "top_keywords": [
     [
       "ИИ",
-      39
-    ],
-    [
-      "AI",
-      7
+      58
     ],
     [
       "искусственный интеллект",
-      3
+      6
+    ],
+    [
+      "AI",
+      5
     ],
     [
       "регулирование",
+      3
+    ],
+    [
+      "Минцифры",
       2
     ],
     [
-      "машинное обучение",
-      1
+      "ESG",
+      2
     ],
     [
-      "aigovernance",
+      "governance",
       1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Разработка под контролем ИИ: \"Ирактис\" вошел в состав \"Экспанты\" - ComNews.ru",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMEpRQ19BcFRLcGlxRndSendiclR2TEF3bUxsSGhMLWRsaXF0MFZOZ0R5cFFBOUVrUlE3b2RnaXJ6ZW5jd3UyTjRLRk1ncWJpTXdJbmpjWldLdEtCRVF0Nm5LTkdVc1lONUIyRG5lWVc0eWRfWFZtU2tnZndyNzkyV1lwS19xbHZReUFDZ2VMMWo2ckE0TlBYYUlxelRaRVJPZXBETkgzQXJJcVdRRHZXU24xY1Ixam5mSlM3VFNB?oc=5",
-      "published": "2026-11-04T23:33:51"
-    },
-    {
-      "title": "В НИИ военной истории рассказали, сможет ли ИИ заменить историка",
-      "source": "ТАСС",
-      "url": "https://tass.ru/obschestvo/28287057",
-      "published": "2026-11-04T22:08:18"
-    },
-    {
-      "title": "Оркестрация ИИ‑агентов: когда нужно поправить в одном месте и не сломать всё остальное",
+      "title": "Как я чуть не спалил MacBook, пытаясь развернуть ИИ-агента локально",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1103656/?utm_campaign=1103656&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-04T21:50:23"
+      "url": "https://habr.com/ru/companies/it_sense/articles/1104018/?utm_campaign=1104018&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-05T13:19:42"
     },
     {
-      "title": "Китайские ИИ-гиганты выстроились за видеокартами Nvidia, но получат лишь 1 % от заказанного",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150874",
-      "published": "2026-11-04T21:35:00"
+      "title": "Рукожопатие Linux",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/h3llo_cloud/articles/1103976/?utm_campaign=1103976&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-05T13:08:32"
     },
     {
-      "title": "Серый доступ к зарубежным ИИ-моделям оценили в 100–150 млн рублей в месяц - Ведомости",
+      "title": "Мэр Нью-Йорка заявил, что из-за галлюцинаций ИИ США чуть не начали войну с Китаем - ВФокусе Mail",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc251dTFuV0hBdzZVeXZndWh2MVpjdWhGR0VpT2tEWWc5Y0h6S0h6ZW5KVVhURUY3dkVzRmFJRDBDRXEzclZ5eWFVWjVQdThRdDczd2RlNGZTUnYwUENacmdoaDQyY3R3YnlhZEZLc3lSenlEOWlJVzZScHZnbnhnRWdDajBzeXhDdjRPb3pTd1h4SG5S?oc=5",
-      "published": "2026-11-04T21:12:16"
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcUM1b1p1MlVRNENXeGdtLTN3VWgtNE5RcXhvbFJmVmVPb3RNWVkzLU1lVWdSbUhvbnJOaTI1d2JnRFNUOWJHSWI5d1RwTTBsbFFFcl9TT3lBbkRfUzRBZVFlSzlwRmVKLVFwRGJwRXZXNXFUODNxdXlZc20zZnplam9uOVFUX1JnQ0dSUTMwWldVR0RPbkFLcENGR1JfVjVyZHp5VExNQXVJLXZfcmIxQWdyZWFWME5XNTRzbk85dGxiZw?oc=5",
+      "published": "2026-11-05T12:58:34"
     },
     {
-      "title": "Акции бигтехов подскочили после выборов в США — инвесторы увидели спасительный тормоз для ИИ-гонки",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150872",
-      "published": "2026-11-04T21:10:00"
-    },
-    {
-      "title": "ИИ-бум исподтишка ударил Nintendo — поставщик памяти для картриджей Switch переключается на серверные чипы",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150869",
-      "published": "2026-11-04T19:55:00"
-    },
-    {
-      "title": "Nothing готовит загадочное безэкранное ИИ-устройство — его представят уже в декабре",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150867",
-      "published": "2026-11-04T19:42:00"
-    },
-    {
-      "title": "Эксперт: сотрудники боятся потерять работу и не доверяют результатам ИИ - БИЗНЕС Online — Новости Казани",
+      "title": "Исследование: старшеклассники об ИИ-трансформации будущего - Telecom Daily",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CRWZHNjVBT1ZXVEcwN01pSVVLSERHb2QzWlhGR2NFdUIzVGJvdWhnQVRJWGJtcUpaMkNicE9paG1ERHNaTjVRSUx6UF83WE4zM2pyUNIBU0FVX3lxTE45TXRsTVpScGVVUzRfMnVMMlRfVmpwQjhaX3M3M19nY0owVWJ3NTVGUXJvMGVYNmJsb2xTVXNwdDN2UC1ZY1VMRGVjamhJQUp2ZkFj?oc=5",
-      "published": "2026-11-04T19:33:00"
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd1hsR0hWY1hjQkRzc09ZcFp3Qm02YWN1b1N6U2JTNWY1M0RvdHY1M0lSMzlTcHcyUTlKeDdvUzJLZnRnbWhCZ2s5dC02bVhYQk9fRkdHa0NBWG1SZkZkWng0Y2NlUzdHeVdEYm1PMXlJdnlnd2JDWUN0T2hLMWJyWUtCLU5ycEZJNzA0U0pVV3JxbGVRc0RZRWdFUXBCWndJSFRF?oc=5",
+      "published": "2026-11-05T12:38:24"
     },
     {
-      "title": "Apple предупредила инвесторов: ИИ-агенты могут выйти из-под контроля и навредить бизнесу",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150861",
-      "published": "2026-11-04T19:19:00"
+      "title": "Goldman: «синее цунами» усилит регулирование ИИ и дата-центров - Investing.com",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51SG05M0k1c3l5Nk5rUEg2SG84TElJV2ZfanQzVGgxRkhzZHVDUG1ydVZVMjVUSG1IMXZNc0tMN1lLdVZCWXVRVTFfSTVFaHpWQ3lUSUIwX3laX1FNWWlWRHVjbUpZZGFZUTFWUk44RWk?oc=5",
+      "published": "2026-11-05T12:31:00"
+    },
+    {
+      "title": "В Астане состоялся второй ежегодный Астанинский ESG-форум – 2026 - Жайық Пресс",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSTVaSEM4TTFrOExyOUc4ckMwYWN2YWxlbGVlazBuU3MtaC1CcWRnd21NLUpGN2F6OEtUaWVmMmw2S20zbTVWZXItcFFGaU85VHRVN1N1SFB3U0ZfWmMzZ0xFQklYV3ZGOWJPdkNQZG1qT2RJUW55VEVqZmVMRnp2ZWxCUEp1czY5SUxCdjFxUzhjSEtNODFDcXBTLU0?oc=5",
+      "published": "2026-11-05T12:30:24"
+    },
+    {
+      "title": "«Золотое Яблоко» запустило ИИ-сервис для подбора парфюма по эмоциям и ассоциациям - RB.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdXFQb0RJSUVKa0VzckNfQVhuaDRHRzBna3I0eDFBY0Mtbmh6YmZzbkNkUE80bU9qVEttWTVYbjY4elFENU5SYlZlbVA0ZU1LN2JYcjJfQW1xRk00STdkY192QzJXV2lTUVE0S0F2TF9pbXN4LVM5RkI3NENQNU1zZ2xzZ29jQ2s4cVBiVktfYURnVjUycjF2WTdjZFh1MnBCa0p1a2N3eEF6UFd4eUNaNDZSTm42QTVIVTVEei0teEVsTnB1akFmckZiRHM?oc=5",
+      "published": "2026-11-05T12:20:00"
+    },
+    {
+      "title": "Как перестать узнавать о проблемах последним: 7 правил управления проектами с ИИ",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/yougile/articles/1103954/?utm_campaign=1103954&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-05T12:02:29"
+    },
+    {
+      "title": "22 страницы за один рабочий день: как я сделала редизайн сайта с ИИ, не будучи дизайнером",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1103800/?utm_campaign=1103800&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-05T11:56:37"
+    },
+    {
+      "title": "Apple ограничила для своих сотрудников использование ИИ-сервисов",
+      "source": "Digital_Russia",
+      "url": "https://d-russia.ru/apple-ogranichila-dlya-svoih-sotrudnikov-ispolzovanie-ii-servisov.html",
+      "published": "2026-11-05T11:53:34"
     }
   ]
 }

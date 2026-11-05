@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-11-05_16-31",
+  "total_articles": 73,
+  "sources": {
+    "Ведомости": 1,
+    "Digital_Russia": 2,
+    "Habr_Топ_День": 1,
+    "Habr_AI": 21,
+    "CNews": 15,
+    "3DNews": 9,
+    "VC_ru_Технологии": 1,
+    "AI Policy Perspectives": 1,
+    "ИИ комплаенс и этика": 1,
+    "Google News": 21
+  },
+  "top_keywords": [
+    [
+      "ИИ",
+      58
+    ],
+    [
+      "искусственный интеллект",
+      6
+    ],
+    [
+      "AI",
+      5
+    ],
+    [
+      "регулирование",
+      3
+    ],
+    [
+      "Минцифры",
+      2
+    ],
+    [
+      "ESG",
+      2
+    ],
+    [
+      "governance",
+      1
+    ]
+  ],
+  "recent_headlines": [
+    {
+      "title": "Как я чуть не спалил MacBook, пытаясь развернуть ИИ-агента локально",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/it_sense/articles/1104018/?utm_campaign=1104018&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-05T13:19:42"
+    },
+    {
+      "title": "Рукожопатие Linux",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/h3llo_cloud/articles/1103976/?utm_campaign=1103976&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-05T13:08:32"
+    },
+    {
+      "title": "Мэр Нью-Йорка заявил, что из-за галлюцинаций ИИ США чуть не начали войну с Китаем - ВФокусе Mail",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcUM1b1p1MlVRNENXeGdtLTN3VWgtNE5RcXhvbFJmVmVPb3RNWVkzLU1lVWdSbUhvbnJOaTI1d2JnRFNUOWJHSWI5d1RwTTBsbFFFcl9TT3lBbkRfUzRBZVFlSzlwRmVKLVFwRGJwRXZXNXFUODNxdXlZc20zZnplam9uOVFUX1JnQ0dSUTMwWldVR0RPbkFLcENGR1JfVjVyZHp5VExNQXVJLXZfcmIxQWdyZWFWME5XNTRzbk85dGxiZw?oc=5",
+      "published": "2026-11-05T12:58:34"
+    },
+    {
+      "title": "Исследование: старшеклассники об ИИ-трансформации будущего - Telecom Daily",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd1hsR0hWY1hjQkRzc09ZcFp3Qm02YWN1b1N6U2JTNWY1M0RvdHY1M0lSMzlTcHcyUTlKeDdvUzJLZnRnbWhCZ2s5dC02bVhYQk9fRkdHa0NBWG1SZkZkWng0Y2NlUzdHeVdEYm1PMXlJdnlnd2JDWUN0T2hLMWJyWUtCLU5ycEZJNzA0U0pVV3JxbGVRc0RZRWdFUXBCWndJSFRF?oc=5",
+      "published": "2026-11-05T12:38:24"
+    },
+    {
+      "title": "Goldman: «синее цунами» усилит регулирование ИИ и дата-центров - Investing.com",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51SG05M0k1c3l5Nk5rUEg2SG84TElJV2ZfanQzVGgxRkhzZHVDUG1ydVZVMjVUSG1IMXZNc0tMN1lLdVZCWXVRVTFfSTVFaHpWQ3lUSUIwX3laX1FNWWlWRHVjbUpZZGFZUTFWUk44RWk?oc=5",
+      "published": "2026-11-05T12:31:00"
+    },
+    {
+      "title": "В Астане состоялся второй ежегодный Астанинский ESG-форум – 2026 - Жайық Пресс",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSTVaSEM4TTFrOExyOUc4ckMwYWN2YWxlbGVlazBuU3MtaC1CcWRnd21NLUpGN2F6OEtUaWVmMmw2S20zbTVWZXItcFFGaU85VHRVN1N1SFB3U0ZfWmMzZ0xFQklYV3ZGOWJPdkNQZG1qT2RJUW55VEVqZmVMRnp2ZWxCUEp1czY5SUxCdjFxUzhjSEtNODFDcXBTLU0?oc=5",
+      "published": "2026-11-05T12:30:24"
+    },
+    {
+      "title": "«Золотое Яблоко» запустило ИИ-сервис для подбора парфюма по эмоциям и ассоциациям - RB.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdXFQb0RJSUVKa0VzckNfQVhuaDRHRzBna3I0eDFBY0Mtbmh6YmZzbkNkUE80bU9qVEttWTVYbjY4elFENU5SYlZlbVA0ZU1LN2JYcjJfQW1xRk00STdkY192QzJXV2lTUVE0S0F2TF9pbXN4LVM5RkI3NENQNU1zZ2xzZ29jQ2s4cVBiVktfYURnVjUycjF2WTdjZFh1MnBCa0p1a2N3eEF6UFd4eUNaNDZSTm42QTVIVTVEei0teEVsTnB1akFmckZiRHM?oc=5",
+      "published": "2026-11-05T12:20:00"
+    },
+    {
+      "title": "Как перестать узнавать о проблемах последним: 7 правил управления проектами с ИИ",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/yougile/articles/1103954/?utm_campaign=1103954&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-05T12:02:29"
+    },
+    {
+      "title": "22 страницы за один рабочий день: как я сделала редизайн сайта с ИИ, не будучи дизайнером",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1103800/?utm_campaign=1103800&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-05T11:56:37"
+    },
+    {
+      "title": "Apple ограничила для своих сотрудников использование ИИ-сервисов",
+      "source": "Digital_Russia",
+      "url": "https://d-russia.ru/apple-ogranichila-dlya-svoih-sotrudnikov-ispolzovanie-ii-servisov.html",
+      "published": "2026-11-05T11:53:34"
+    }
+  ]
+}
