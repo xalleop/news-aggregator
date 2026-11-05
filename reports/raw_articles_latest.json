@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-11-05_22-58",
-  "total_articles": 92,
+  "timestamp": "2026-11-06_02-49",
+  "total_articles": 93,
   "articles": [
     {
       "title": "Греф: ИИ ускорил обработку обращений к Путину на прямой линии",
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "title": "Вайбкодинг кончается хаосом: 637 мест, где ИИ сделал по-своему. Что такое архитектурный дрифт и чем я его вылечил",
+      "title": "Вайбкодинг кончается хаосом: 637 мест, где ИИ сделал по‑своему. Что такое архитектурный дрифт и чем я его вылечил",
       "url": "https://habr.com/ru/articles/1103890/?utm_campaign=1103890&utm_source=habrahabr&utm_medium=rss",
       "source": "Habr_AI",
       "published": "2026-11-05T16:44:41",
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "title": "Управление рассуждением LRM в юридическом домене: адаптация архитектуры TG-RAG (часть 1)",
+      "title": "Управление рассуждением LRM в юридическом домене: адаптация архитектуры TG‑RAG (часть 1)",
       "url": "https://habr.com/ru/articles/1104056/?utm_campaign=1104056&utm_source=habrahabr&utm_medium=rss",
       "source": "Habr_AI",
       "published": "2026-11-05T16:43:46",
@@ -166,7 +166,7 @@
       "url": "https://habr.com/ru/articles/1104120/?utm_campaign=1104120&utm_source=habrahabr&utm_medium=rss",
       "source": "Habr_AI",
       "published": "2026-11-05T15:48:39",
-      "description": "<p><em>О том, как мы получили суперсилу, но продаём свою душу и почему это так приятно. </em></p><p><em>Когда я писал эту статью, вы не поверите, мне попалось видео, которое идеально показывает то, о чём я пишу в этой статье. Совпадение? Видео прикрепил</em></p> <a href=\"https://habr.com/ru/articles/1104120/?utm_campaign=1104120&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "description": "<p>О том, как мы получили суперсилу, но продаём свою душу и почему это так приятно. </p><p>Когда я писал эту статью, вы не поверите, мне попалось видео, которое идеально показывает то, о чём я пишу в этой статье. Совпадение? Видео прикрепил.</p> <a href=\"https://habr.com/ru/articles/1104120/?utm_campaign=1104120&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
       "tags": [
         "ai",
         "ml"
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "title": "Из чего состоит ваш ИИ: разбираемся, что такое AIBOM и MLBOM",
+      "title": "Из чего состоит ваш ИИ: разбираемся, что такое AIBOM и MLBOM",
       "url": "https://habr.com/ru/companies/codescoring/articles/1104096/?utm_campaign=1104096&utm_source=habrahabr&utm_medium=rss",
       "source": "Habr_AI",
       "published": "2026-11-05T15:14:26",
@@ -460,21 +460,6 @@
       "category": "tech_news",
       "matched_keywords": [
         "искусственный интеллект",
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Оркестрация ИИ‑агентов: когда нужно поправить в одном месте и не сломать всё остальное",
-      "url": "https://habr.com/ru/articles/1103656/?utm_campaign=1103656&utm_source=habrahabr&utm_medium=rss",
-      "source": "Habr_AI",
-      "published": "2026-11-04T21:50:23",
-      "description": "<img src=\"https://habrastorage.org/extt/53/5c/e8/535ce8c6b465f65f1bd334287a19ec02.png\" /><p>MVP с ИИ-агентом сегодня делает каждый. Сложности начинаются, когда задача меняет код сразу в нескольких модулях или репозиториях: правим в одном месте, ломаем в другом, а спецификация целиком не помещается в контекст одной сессии. Рассказываю, как устроен наш плагин pepper-orchestrator для Claude Code и Codex: цель становится программой и пакетами работ, части идут параллельно у разных агентов, а каждое \"готово\" проходит независимую проверку. И показываю всё это на реальном кейсе от первой команды до сдачи.</p> <a href=\"https://habr.com/ru/articles/1103656/?utm_campaign=1103656&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
-      "tags": [
-        "ai",
-        "ml"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
         "ИИ"
       ]
     },
@@ -765,6 +750,21 @@
       ]
     },
     {
+      "title": "Акции чипмейкеров и операторов дата-центров обрушились после победы демократов на выборах в США",
+      "url": "https://3dnews.ru/1150927",
+      "source": "3DNews",
+      "published": "2026-11-05T19:33:00",
+      "description": "Американский технологический сектор столкнулся с масштабной распродажей акций на фоне опасений, что победа демократов на промежуточных выборах в США приведёт к ужесточению контроля за строительством дата-центров и замедлит развитие ИИ-инфраструктуры. Инвесторы также стали сомневаться, насколько оправданными окажутся огромные расходы технологических компаний на развитие ИИ. Источник изображения: Winston Chen/Unsplash",
+      "tags": [
+        "tech",
+        "hardware"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
       "title": "OpenAI представила GPT-6 Cyber — свою лучшую ИИ-модель для защиты от киберугроз",
       "url": "https://3dnews.ru/1150926",
       "source": "3DNews",
@@ -810,11 +810,11 @@
       ]
     },
     {
-      "title": "Китайские ИИ-гиганты выстроились за видеокартами Nvidia, но получат лишь 1 % от заказанного",
-      "url": "https://3dnews.ru/1150874",
+      "title": "Рабочие и Micron не поделили будущие сверхприбыли от бума ИИ — строительство передовой фабрики памяти под угрозой",
+      "url": "https://3dnews.ru/1150933",
       "source": "3DNews",
-      "published": "2026-11-04T21:35:00",
-      "description": "Китайские ИИ-разработчики ожидают получить лишь небольшую долю от общего объёма заказанных ими ускорителей Nvidia в течение следующих нескольких месяцев. Это связано с тем, что американская компания сосредоточена на расширении производства передовых ускорителей, а высокий спрос на них не позволяет увеличить поставки менее мощных видеокарт в КНР. Источник изображения: Nvidia",
+      "published": "2026-11-05T21:19:00",
+      "description": "Конфликт с профсоюзом заставил Micron остановить строительство завода по выпуску памяти на Тайване. Поводом стали взлетающие ракетой цены на память, которые озолотили производителей и отчасти простых рабочих. Местный профсоюз потребовал пересмотра зарплат и бонусов, с чем не согласилась Micron и якобы остановила проект. Источник изображения: Micron",
       "tags": [
         "tech",
         "hardware"
@@ -825,11 +825,11 @@
       ]
     },
     {
-      "title": "Акции чипмейкеров и операторов дата-центров обрушились после победы демократов на выборах в США",
-      "url": "https://3dnews.ru/1150927",
+      "title": "Aina представила массивный умный перстень с экраном, джойстиком и микрофоном для ИИ",
+      "url": "https://3dnews.ru/1150931",
       "source": "3DNews",
-      "published": "2026-11-05T19:33:00",
-      "description": "Американский технологический сектор столкнулся с масштабной распродажей акций на фоне опасений, что победа демократов на промежуточных выборах в США приведёт к ужесточению контроля за строительством дата-центров и замедлит развитие ИИ-инфраструктуры. Инвесторы также стали сомневаться, насколько оправданными окажутся огромные расходы технологических компаний на развитие ИИ. Источник изображения: Winston Chen/Unsplash",
+      "published": "2026-11-05T21:06:00",
+      "description": "Стартап Aina представил необычное умное кольцо, предназначенное для взаимодействия с ИИ-агентами и управления цифровыми устройствами. В отличие от большинства подобных гаджетов, ориентированных на отслеживание физической активности, новинка получила собственный экран, джойстик, микрофон и динамик. Источник изображений: Aina",
       "tags": [
         "tech",
         "hardware"
@@ -901,11 +901,11 @@
       ]
     },
     {
-      "title": "Акции бигтехов подскочили после выборов в США — инвесторы увидели спасительный тормоз для ИИ-гонки",
-      "url": "https://3dnews.ru/1150872",
+      "title": "Claude научился следить за деньгами пользователей: теперь ИИ-чат-бот можно подключить к банковским счетам",
+      "url": "https://3dnews.ru/1150934",
       "source": "3DNews",
-      "published": "2026-11-04T21:10:00",
-      "description": "Сегодня, 4 ноября 2026 года, акции крупнейших американских технологических компаний резко выросли на фоне результатов промежуточных выборов в Конгресс США. Инвесторы рассчитывают, что переход обеих палат Конгресса под контроль Демократической партии приведёт к замедлению расходов на ИИ и остановит бесконечное кредитование строительства новых ЦОД. Источник изображения: ИИ-генерация ChatGPT/3DNews",
+      "published": "2026-11-05T22:20:00",
+      "description": "Компания Anthropic добавила в чат-бот Claude новый инструмент &laquo;Личные финансы&raquo; (Personal Finance). Функция призвана помочь пользователям следить за своими деньгами. С её помощью можно подключить банковские счета и кредитные карты через сервис Plaid, а затем задавать Claude вопросы о своих финансах. В Anthropic подчеркивают, что доступ предоставляется только в режиме чтения. Иными словами, инструмент не может перемещать средства, управлять ими или инвестировать их. Источник изображения: Anthropic",
       "tags": [
         "tech",
         "hardware"
@@ -1134,26 +1134,11 @@
       ]
     },
     {
-      "title": "Индустрию ИИ может ждать замедление из-за победы демократов на выборах в США - BFM.ru",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8zNVhrbWsxWi1qUGVFQXB5anpsSkpjX25xejVNcEY0WURRWUVkdXdwUG84bXppQ3Nya3RlMGRYRS1IYzJP?oc=5",
+      "title": "Мэр Нью-Йорка заявил, что из-за галлюцинаций ИИ США чуть не начали войну с Китаем - ВФокусе Mail",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcUM1b1p1MlVRNENXeGdtLTN3VWgtNE5RcXhvbFJmVmVPb3RNWVkzLU1lVWdSbUhvbnJOaTI1d2JnRFNUOWJHSWI5d1RwTTBsbFFFcl9TT3lBbkRfUzRBZVFlSzlwRmVKLVFwRGJwRXZXNXFUODNxdXlZc20zZnplam9uOVFUX1JnQ0dSUTMwWldVR0RPbkFLcENGR1JfVjVyZHp5VExNQXVJLXZfcmIxQWdyZWFWME5XNTRzbk85dGxiZw?oc=5",
       "source": "Google News",
-      "published": "2026-11-05T19:40:03",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE8zNVhrbWsxWi1qUGVFQXB5anpsSkpjX25xejVNcEY0WURRWUVkdXdwUG84bXppQ3Nya3RlMGRYRS1IYzJP?oc=5\" target=\"_blank\">Индустрию ИИ может ждать замедление из-за победы демократов на выборах в США</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BFM.ru</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "ЕС планирует ввести сертификат ИИ‑грамотности для 15‑летних школьников с 2027 года - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNak54SDA1NEI2ZjBVMkRuRmxYWTdPYXcwQ3N2aEtwd3NnLXZkUnpRcFl0S1JUVHd3b2llNkRnN3VjN3VQbUxYQ1pUTjNQeWhsWTJ1SXBvMUlTOUlYMHltMUJyUVE4WEZsdFZGVmFMM243R1QzTWtYS0hwUWdvSkV4R1VQLWFkZFplNTllQTUzS29VYWpNUmhwdw?oc=5",
-      "source": "Google News",
-      "published": "2026-11-05T19:19:56",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNak54SDA1NEI2ZjBVMkRuRmxYWTdPYXcwQ3N2aEtwd3NnLXZkUnpRcFl0S1JUVHd3b2llNkRnN3VjN3VQbUxYQ1pUTjNQeWhsWTJ1SXBvMUlTOUlYMHltMUJyUVE4WEZsdFZGVmFMM243R1QzTWtYS0hwUWdvSkV4R1VQLWFkZFplNTllQTUzS29VYWpNUmhwdw?oc=5\" target=\"_blank\">ЕС планирует ввести сертификат ИИ‑грамотности для 15‑летних школьников с 2027 года</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
+      "published": "2026-11-05T12:58:34",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcUM1b1p1MlVRNENXeGdtLTN3VWgtNE5RcXhvbFJmVmVPb3RNWVkzLU1lVWdSbUhvbnJOaTI1d2JnRFNUOWJHSWI5d1RwTTBsbFFFcl9TT3lBbkRfUzRBZVFlSzlwRmVKLVFwRGJwRXZXNXFUODNxdXlZc20zZnplam9uOVFUX1JnQ0dSUTMwWldVR0RPbkFLcENGR1JfVjVyZHp5VExNQXVJLXZfcmIxQWdyZWFWME5XNTRzbk85dGxiZw?oc=5\" target=\"_blank\">Мэр Нью-Йорка заявил, что из-за галлюцинаций ИИ США чуть не начали войну с Китаем</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ВФокусе Mail</font>",
       "tags": [
         "google_news"
       ],
@@ -1179,21 +1164,6 @@
       ]
     },
     {
-      "title": "Мэр Нью-Йорка заявил, что из-за галлюцинаций ИИ США чуть не начали войну с Китаем - ВФокусе Mail",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcUM1b1p1MlVRNENXeGdtLTN3VWgtNE5RcXhvbFJmVmVPb3RNWVkzLU1lVWdSbUhvbnJOaTI1d2JnRFNUOWJHSWI5d1RwTTBsbFFFcl9TT3lBbkRfUzRBZVFlSzlwRmVKLVFwRGJwRXZXNXFUODNxdXlZc20zZnplam9uOVFUX1JnQ0dSUTMwWldVR0RPbkFLcENGR1JfVjVyZHp5VExNQXVJLXZfcmIxQWdyZWFWME5XNTRzbk85dGxiZw?oc=5",
-      "source": "Google News",
-      "published": "2026-11-05T12:58:34",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcUM1b1p1MlVRNENXeGdtLTN3VWgtNE5RcXhvbFJmVmVPb3RNWVkzLU1lVWdSbUhvbnJOaTI1d2JnRFNUOWJHSWI5d1RwTTBsbFFFcl9TT3lBbkRfUzRBZVFlSzlwRmVKLVFwRGJwRXZXNXFUODNxdXlZc20zZnplam9uOVFUX1JnQ0dSUTMwWldVR0RPbkFLcENGR1JfVjVyZHp5VExNQXVJLXZfcmIxQWdyZWFWME5XNTRzbk85dGxiZw?oc=5\" target=\"_blank\">Мэр Нью-Йорка заявил, что из-за галлюцинаций ИИ США чуть не начали войну с Китаем</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ВФокусе Mail</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
       "title": "Подсказка будет впереди: МТС выводит на рынок ИИ-решение для контакт-центров - Forbes.ru",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON3YzZjFYSEkyb3VlcmdReXdsNzJXSm1xWUlRdG94NVhHX3NhVDR6ZnR6MFViNk9TNGZxR2dXWF9nLVloY2ljRGxpeHRiVmRBcVpVSkp4UU43bWgwYkhKTkVjSTJZT3lmTkZjVmItSUFzVlJVTUVUbGtrb1JWM0tZbndadF9udkM4Mmo5RHRZbmExeldQY3UySG1VT1ExVGFIMU5LZ0ZjV0lPOGdYdXdyRjhGTFFMMVE?oc=5",
       "source": "Google News",
@@ -1209,41 +1179,11 @@
       ]
     },
     {
-      "title": "Nasdaq заметно падает, опасения вокруг ИИ нарастают - Финам",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzNNMGhVZVhNakZWcFAtSVEtTGNTODRjV2ZXWDhnekdEVzhmNU4yYzhNbDQ5YmI1dzZ1c0NCcFZPUmdUTEREMUk1QjZJN2lndU5mbmo5MEYtMDVuMGVlNmhsVF9HNWZWdDZTUV9JMDM0MmM5ZHFyeWZ6eHp1ejA1d3AxTWFZT0g3UXR3blRKRXlYUVl3R3YtT3Jsb2tQbHVIR1IxeGZ1X2VPUQ?oc=5",
+      "title": "ИИ-агенты в бизнесе: где уже есть эффект и что мешает масштабированию - Ведомости",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVTFiWVd5Z2hzNG9iMkMybHpPeUJ0QU9DcXEzRU92VmtMazYwTkJQOVVLejlwOUlMR3ZGRzBIWlNoc0RFbG9VQVJoOHZGd0xXX1IxeEE3ODdreWM2eFBfTkoyMGN6TWNfdnM4VzhKeGRveWFQODVvejd1R3NVQjY0Nmw4Y2J5dkRSM2dhLUJpTDR3dkZxMWVISFROTlZ1RUdYYXFwbEhmQmtMZ3ZITEVsUmJtX1EyZzdRVFZhb3ZTajh2Qk9DOFhqdXJVd1RLYzFnbEVsNEtFM2s3RTNZRFAw?oc=5",
       "source": "Google News",
-      "published": "2026-11-05T16:54:16",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzNNMGhVZVhNakZWcFAtSVEtTGNTODRjV2ZXWDhnekdEVzhmNU4yYzhNbDQ5YmI1dzZ1c0NCcFZPUmdUTEREMUk1QjZJN2lndU5mbmo5MEYtMDVuMGVlNmhsVF9HNWZWdDZTUV9JMDM0MmM5ZHFyeWZ6eHp1ejA1d3AxTWFZT0g3UXR3blRKRXlYUVl3R3YtT3Jsb2tQbHVIR1IxeGZ1X2VPUQ?oc=5\" target=\"_blank\">Nasdaq заметно падает, опасения вокруг ИИ нарастают</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Финам</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Brand Analytics полностью автоматизировала обработку потока сообщений с помощью ИИ и представила ИИ-агента BrandGPT 2.0 - CNews.ru",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM19qN0d2aEVIaGI3dUhmSmlySkNyTHlNWmRFMnlWY1dLV1ZuYWJhZEJocTJUNlltV213bUFmNlE1endXeVc5WE14dU1mU1FnRTFzbGYwbTFYblc1UGxuaGoxbXhUS2VwOWhCQTQ1ek1XTXkxOUtxaGdTdmkzX3ozb1RKc252d0VfazRRVQ?oc=5",
-      "source": "Google News",
-      "published": "2026-11-05T16:52:30",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPM19qN0d2aEVIaGI3dUhmSmlySkNyTHlNWmRFMnlWY1dLV1ZuYWJhZEJocTJUNlltV213bUFmNlE1endXeVc5WE14dU1mU1FnRTFzbGYwbTFYblc1UGxuaGoxbXhUS2VwOWhCQTQ1ek1XTXkxOUtxaGdTdmkzX3ozb1RKc252d0VfazRRVQ?oc=5\" target=\"_blank\">Brand Analytics полностью автоматизировала обработку потока сообщений с помощью ИИ и представила ИИ-агента BrandGPT 2.0</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNews.ru</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "«Норникель» представил в Китае ИИ-лабораторию новых материалов - Ведомости",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbzNwcHdNM1E2eGZGZmxnNkVpekZVdjYyQWQxU01Sa2VvbU1CZ2VjbkszZ3R1NzVFWEV5TkpnNTd6V0Z6MU5vdTZmTDlrb1B2YlBRaWRibTA1cDZMM2pGcXZtQUVJQ01ManRRMWdNYWVkNEQ2TG00VnVQaEFXdVhVZTQwMVJDeG9vUm1aSUQyekpxQ3ptZ2xTQmlmY0R6WGUxOFhUTmdwUklhWjFqUzFWZg?oc=5",
-      "source": "Google News",
-      "published": "2026-11-05T10:47:42",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQbzNwcHdNM1E2eGZGZmxnNkVpekZVdjYyQWQxU01Sa2VvbU1CZ2VjbkszZ3R1NzVFWEV5TkpnNTd6V0Z6MU5vdTZmTDlrb1B2YlBRaWRibTA1cDZMM2pGcXZtQUVJQ01ManRRMWdNYWVkNEQ2TG00VnVQaEFXdVhVZTQwMVJDeG9vUm1aSUQyekpxQ3ptZ2xTQmlmY0R6WGUxOFhUTmdwUklhWjFqUzFWZg?oc=5\" target=\"_blank\">«Норникель» представил в Китае ИИ-лабораторию новых материалов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ведомости</font>",
+      "published": "2026-11-05T13:31:03",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVTFiWVd5Z2hzNG9iMkMybHpPeUJ0QU9DcXEzRU92VmtMazYwTkJQOVVLejlwOUlMR3ZGRzBIWlNoc0RFbG9VQVJoOHZGd0xXX1IxeEE3ODdreWM2eFBfTkoyMGN6TWNfdnM4VzhKeGRveWFQODVvejd1R3NVQjY0Nmw4Y2J5dkRSM2dhLUJpTDR3dkZxMWVISFROTlZ1RUdYYXFwbEhmQmtMZ3ZITEVsUmJtX1EyZzdRVFZhb3ZTajh2Qk9DOFhqdXJVd1RLYzFnbEVsNEtFM2s3RTNZRFAw?oc=5\" target=\"_blank\">ИИ-агенты в бизнесе: где уже есть эффект и что мешает масштабированию</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ведомости</font>",
       "tags": [
         "google_news"
       ],
@@ -1269,26 +1209,11 @@
       ]
     },
     {
-      "title": "Япония будет развивать физический искусственный интеллект на основе опыта ликвидации последствий стихийных бедствий - Атомная энергия 2.0",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92YVJWRV9tX25Ma2NHdXotNm1XWENoWkpSS1Q0TWd5WHBWVXpfS2JseWpHYXJaYXpNMnZMUzlhNWRYV3FINnJoWUxkRXduRFBIdVRqRjV4dXVqVXJJTFMzWA?oc=5",
+      "title": "Регионы Дальнего Востока поддержали создание ИИ-ЦОД в Якутии - CNews.ru",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Jby01UEdVQ3h6NDdoUV8wUV81Q2d5MlVRblh4cGpudHZXX3JjSVdSX19Wc2xhNmtzQ2E0ZTE1dlBQMnAtOVA2TnpCY1V1RGw5TFFudUxULWtYbzNXc3RkTm0tREpjV01NQm5TbS1pNzVVZlU?oc=5",
       "source": "Google News",
-      "published": "2026-11-05T11:43:51",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE92YVJWRV9tX25Ma2NHdXotNm1XWENoWkpSS1Q0TWd5WHBWVXpfS2JseWpHYXJaYXpNMnZMUzlhNWRYV3FINnJoWUxkRXduRFBIdVRqRjV4dXVqVXJJTFMzWA?oc=5\" target=\"_blank\">Япония будет развивать физический искусственный интеллект на основе опыта ликвидации последствий стихийных бедствий</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Атомная энергия 2.0</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "искусственный интеллект"
-      ]
-    },
-    {
-      "title": "Новый выпуск «В ритме ИИ» о разработках и технологических прорывах в мировой кардиологии - Сеченовский Университет",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWXhTVmRCeExEcU9rbllBZmRQb1JialRBRS1FNmtiTnpQeWY5WW9BV2VkMUdxeVN1dkFQanBDZU0tRW1lQTJndGcta0xtTWNuV0VxcUxuNjFyM2tUUGhUX2N1aGI1UGxieF9oYi1XRkdWZ0lUcUR6NG9OMVhLWVZQZGdTOVlCX2w1RTkwU0k5RWNzVnREbk1TZmkxR1g1eEt6QTM5Z1ppZjB2Z0ViWGtxY3pSOXd6andST3ZRMmZCMmFuek1t?oc=5",
-      "source": "Google News",
-      "published": "2026-11-05T14:47:29",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQWXhTVmRCeExEcU9rbllBZmRQb1JialRBRS1FNmtiTnpQeWY5WW9BV2VkMUdxeVN1dkFQanBDZU0tRW1lQTJndGcta0xtTWNuV0VxcUxuNjFyM2tUUGhUX2N1aGI1UGxieF9oYi1XRkdWZ0lUcUR6NG9OMVhLWVZQZGdTOVlCX2w1RTkwU0k5RWNzVnREbk1TZmkxR1g1eEt6QTM5Z1ppZjB2Z0ViWGtxY3pSOXd6andST3ZRMmZCMmFuek1t?oc=5\" target=\"_blank\">Новый выпуск «В ритме ИИ» о разработках и технологических прорывах в мировой кардиологии</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Сеченовский Университет</font>",
+      "published": "2026-11-05T16:09:35",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5Jby01UEdVQ3h6NDdoUV8wUV81Q2d5MlVRblh4cGpudHZXX3JjSVdSX19Wc2xhNmtzQ2E0ZTE1dlBQMnAtOVA2TnpCY1V1RGw5TFFudUxULWtYbzNXc3RkTm0tREpjV01NQm5TbS1pNzVVZlU?oc=5\" target=\"_blank\">Регионы Дальнего Востока поддержали создание ИИ-ЦОД в Якутии</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNews.ru</font>",
       "tags": [
         "google_news"
       ],
@@ -1299,11 +1224,86 @@
       ]
     },
     {
-      "title": "Как я чуть не спалил MacBook, пытаясь развернуть ИИ-агента локально - Хабр",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UV0hMQ3JoaEdlVTZtbHFjcHp6czZWbDJ4dGdHWE5VNGV6Qm1LUTdMcEo0QmxCd2VOeW5PM040MExzdGNhdXhxaVpJdDMwWF82YThyU25WbTUzc3BOb014ZTdiTTU4LVnSAVhBVV95cUxQMlpNTDRwWkI5UXd2ZDdyNzJiMDhNSlBQMlluVVh5cS1wYk5RZW1PVFljdmRCQlczVXBZcWFhLVAwczR1UElXVkJISG1hMHpLc0J4UzNob2FJ?oc=5",
+      "title": "OpenAI выпустила ИИ-модель для кибербезопасности GPT-6 Cyber, без участия человека находящую уязвимости в критически важных системах - The Insider",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5Wd2U5TU9QdFFQTnJTYXJTclQ3eVBqdEdmc0xfNnYwYUlnem1QTDVDdDZhbUpFUXFSOWZYUmJHU1NSYnM?oc=5",
       "source": "Google News",
-      "published": "2026-11-05T13:19:42",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UV0hMQ3JoaEdlVTZtbHFjcHp6czZWbDJ4dGdHWE5VNGV6Qm1LUTdMcEo0QmxCd2VOeW5PM040MExzdGNhdXhxaVpJdDMwWF82YThyU25WbTUzc3BOb014ZTdiTTU4LVnSAVhBVV95cUxQMlpNTDRwWkI5UXd2ZDdyNzJiMDhNSlBQMlluVVh5cS1wYk5RZW1PVFljdmRCQlczVXBZcWFhLVAwczR1UElXVkJISG1hMHpLc0J4UzNob2FJ?oc=5\" target=\"_blank\">Как я чуть не спалил MacBook, пытаясь развернуть ИИ-агента локально</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Хабр</font>",
+      "published": "2026-11-05T17:43:30",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5Wd2U5TU9QdFFQTnJTYXJTclQ3eVBqdEdmc0xfNnYwYUlnem1QTDVDdDZhbUpFUXFSOWZYUmJHU1NSYnM?oc=5\" target=\"_blank\">OpenAI выпустила ИИ-модель для кибербезопасности GPT-6 Cyber, без участия человека находящую уязвимости в критически важных системах</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Insider</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ИИ-агенты OpenAI выявили почти 1000 уязвимостей в ядре Linux - 3DNews",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTRzalg1Vk1OczhDMDZLLXVQQ2VXTGhTNnIyNXV0WXRoU1BlQUxjd294QTlKNTYxc1BMdjVzYTNWeGwtbjVQZ1ZJV0x1U050UmpIdEkyajZ2VHB2NmVqTFdWNE1QcVdFVHdMMDI3MnVWZFBleTBYU0JPWjdhbVdRTVNXZDdlcEthZkMzNHVNbUwtR2vSAZgBQVVfeXFMTUpBRUZJUkZHWGo2YWdyVXBTNkc3ZjlqSHRmSV9BaUVGb2k2ZGVWUnJndjZEVTFpZ1FtQ3RWdXhxbWdWREtMMXNxUWRUUVV0UXBKSGctZFRhWC1qLTVlUTQtN2FKMjVuLTBSTExGaVhvdXBJOW1pNEJBbm9tTm5UUDI2YWFneE9yX0l6RTMxMXhZcUY3WVJxVm0?oc=5",
+      "source": "Google News",
+      "published": "2026-11-05T19:30:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTRzalg1Vk1OczhDMDZLLXVQQ2VXTGhTNnIyNXV0WXRoU1BlQUxjd294QTlKNTYxc1BMdjVzYTNWeGwtbjVQZ1ZJV0x1U050UmpIdEkyajZ2VHB2NmVqTFdWNE1QcVdFVHdMMDI3MnVWZFBleTBYU0JPWjdhbVdRTVNXZDdlcEthZkMzNHVNbUwtR2vSAZgBQVVfeXFMTUpBRUZJUkZHWGo2YWdyVXBTNkc3ZjlqSHRmSV9BaUVGb2k2ZGVWUnJndjZEVTFpZ1FtQ3RWdXhxbWdWREtMMXNxUWRUUVV0UXBKSGctZFRhWC1qLTVlUTQtN2FKMjVuLTBSTExGaVhvdXBJOW1pNEJBbm9tTm5UUDI2YWFneE9yX0l6RTMxMXhZcUY3WVJxVm0?oc=5\" target=\"_blank\">ИИ-агенты OpenAI выявили почти 1000 уязвимостей в ядре Linux</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">3DNews</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "OpenAI представила GPT-6 Cyber — флагманскую ИИ-модель для поиска и устранения уязвимостей в ПО - Rozetked.me",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX0RKMmQxOUJTMHFxZUVLQ3pTczVvZ19jeXdmRWlsZW1UWTBfQUhLV01hWGx2YXEzdEZNSTB3SDUxdVdabXNTdV9LRDdqSlY4WkU5d09IT29LSTBOX1RwTmdGY0xudVp5RThSWjJzMWhaWVlrMXFPUGdLc1I2Y0FQaDd0YVFGMEUtX2duMnY2bzdqQWNOOUtNLXBjZUpLMXFZTHhnUmIyNEJXbVl6MThfZ3ZqcUpvaUhEQXhRSjgyMTFLQQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-05T19:14:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX0RKMmQxOUJTMHFxZUVLQ3pTczVvZ19jeXdmRWlsZW1UWTBfQUhLV01hWGx2YXEzdEZNSTB3SDUxdVdabXNTdV9LRDdqSlY4WkU5d09IT29LSTBOX1RwTmdGY0xudVp5RThSWjJzMWhaWVlrMXFPUGdLc1I2Y0FQaDd0YVFGMEUtX2duMnY2bzdqQWNOOUtNLXBjZUpLMXFZTHhnUmIyNEJXbVl6MThfZ3ZqcUpvaUhEQXhRSjgyMTFLQQ?oc=5\" target=\"_blank\">OpenAI представила GPT-6 Cyber — флагманскую ИИ-модель для поиска и устранения уязвимостей в ПО</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rozetked.me</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ЕС планирует ввести сертификат ИИ‑грамотности для 15‑летних школьников с 2027 года - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNak54SDA1NEI2ZjBVMkRuRmxYWTdPYXcwQ3N2aEtwd3NnLXZkUnpRcFl0S1JUVHd3b2llNkRnN3VjN3VQbUxYQ1pUTjNQeWhsWTJ1SXBvMUlTOUlYMHltMUJyUVE4WEZsdFZGVmFMM243R1QzTWtYS0hwUWdvSkV4R1VQLWFkZFplNTllQTUzS29VYWpNUmhwdw?oc=5",
+      "source": "Google News",
+      "published": "2026-11-05T19:19:56",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNak54SDA1NEI2ZjBVMkRuRmxYWTdPYXcwQ3N2aEtwd3NnLXZkUnpRcFl0S1JUVHd3b2llNkRnN3VjN3VQbUxYQ1pUTjNQeWhsWTJ1SXBvMUlTOUlYMHltMUJyUVE4WEZsdFZGVmFMM243R1QzTWtYS0hwUWdvSkV4R1VQLWFkZFplNTllQTUzS29VYWpNUmhwdw?oc=5\" target=\"_blank\">ЕС планирует ввести сертификат ИИ‑грамотности для 15‑летних школьников с 2027 года</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Индустрию ИИ может ждать замедление из-за победы демократов на выборах в США - BFM.ru",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8zNVhrbWsxWi1qUGVFQXB5anpsSkpjX25xejVNcEY0WURRWUVkdXdwUG84bXppQ3Nya3RlMGRYRS1IYzJP?oc=5",
+      "source": "Google News",
+      "published": "2026-11-05T19:40:03",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE8zNVhrbWsxWi1qUGVFQXB5anpsSkpjX25xejVNcEY0WURRWUVkdXdwUG84bXppQ3Nya3RlMGRYRS1IYzJP?oc=5\" target=\"_blank\">Индустрию ИИ может ждать замедление из-за победы демократов на выборах в США</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BFM.ru</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Apple сокращает расходы на использование ИИ — лимиты для части сотрудников могут снизить до $25 в день - RB.RU",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFZYd3JTV0V4NUNXS0pZUGZtajktUklpRTJQMllZVGQ2TThYNlFuVm40OXRsaHdzaWtxay1MX2dVWGZ0bVVDQzdzelB1Wk9DYWVHQl9uMEw0T0JHc3JIbTM5ZkVndUlraG1PZDFkUzhwaEF0bVlnbVZkbWtGRUVGV1VDcWE3T2ZvTFJjbEp3OEx1UTJhSlNUZ2I5UjluRFBCUTdUeWJfR3czRklfX0g0dVVLNWI3Y3lVYTYw?oc=5",
+      "source": "Google News",
+      "published": "2026-11-05T15:20:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFZYd3JTV0V4NUNXS0pZUGZtajktUklpRTJQMllZVGQ2TThYNlFuVm40OXRsaHdzaWtxay1MX2dVWGZ0bVVDQzdzelB1Wk9DYWVHQl9uMEw0T0JHc3JIbTM5ZkVndUlraG1PZDFkUzhwaEF0bVlnbVZkbWtGRUVGV1VDcWE3T2ZvTFJjbEp3OEx1UTJhSlNUZ2I5UjluRFBCUTdUeWJfR3czRklfX0g0dVVLNWI3Y3lVYTYw?oc=5\" target=\"_blank\">Apple сокращает расходы на использование ИИ — лимиты для части сотрудников могут снизить до $25 в день</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RB.RU</font>",
       "tags": [
         "google_news"
       ],
@@ -1329,11 +1329,11 @@
       ]
     },
     {
-      "title": "Apple сокращает расходы на использование ИИ — лимиты для части сотрудников могут снизить до $25 в день - RB.ru",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFZYd3JTV0V4NUNXS0pZUGZtajktUklpRTJQMllZVGQ2TThYNlFuVm40OXRsaHdzaWtxay1MX2dVWGZ0bVVDQzdzelB1Wk9DYWVHQl9uMEw0T0JHc3JIbTM5ZkVndUlraG1PZDFkUzhwaEF0bVlnbVZkbWtGRUVGV1VDcWE3T2ZvTFJjbEp3OEx1UTJhSlNUZ2I5UjluRFBCUTdUeWJfR3czRklfX0g0dVVLNWI3Y3lVYTYw?oc=5",
+      "title": "Новый выпуск «В ритме ИИ» о разработках и технологических прорывах в мировой кардиологии - Сеченовский Университет",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWXhTVmRCeExEcU9rbllBZmRQb1JialRBRS1FNmtiTnpQeWY5WW9BV2VkMUdxeVN1dkFQanBDZU0tRW1lQTJndGcta0xtTWNuV0VxcUxuNjFyM2tUUGhUX2N1aGI1UGxieF9oYi1XRkdWZ0lUcUR6NG9OMVhLWVZQZGdTOVlCX2w1RTkwU0k5RWNzVnREbk1TZmkxR1g1eEt6QTM5Z1ppZjB2Z0ViWGtxY3pSOXd6andST3ZRMmZCMmFuek1t?oc=5",
       "source": "Google News",
-      "published": "2026-11-05T15:20:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFZYd3JTV0V4NUNXS0pZUGZtajktUklpRTJQMllZVGQ2TThYNlFuVm40OXRsaHdzaWtxay1MX2dVWGZ0bVVDQzdzelB1Wk9DYWVHQl9uMEw0T0JHc3JIbTM5ZkVndUlraG1PZDFkUzhwaEF0bVlnbVZkbWtGRUVGV1VDcWE3T2ZvTFJjbEp3OEx1UTJhSlNUZ2I5UjluRFBCUTdUeWJfR3czRklfX0g0dVVLNWI3Y3lVYTYw?oc=5\" target=\"_blank\">Apple сокращает расходы на использование ИИ — лимиты для части сотрудников могут снизить до $25 в день</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RB.ru</font>",
+      "published": "2026-11-05T14:47:29",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQWXhTVmRCeExEcU9rbllBZmRQb1JialRBRS1FNmtiTnpQeWY5WW9BV2VkMUdxeVN1dkFQanBDZU0tRW1lQTJndGcta0xtTWNuV0VxcUxuNjFyM2tUUGhUX2N1aGI1UGxieF9oYi1XRkdWZ0lUcUR6NG9OMVhLWVZQZGdTOVlCX2w1RTkwU0k5RWNzVnREbk1TZmkxR1g1eEt6QTM5Z1ppZjB2Z0ViWGtxY3pSOXd6andST3ZRMmZCMmFuek1t?oc=5\" target=\"_blank\">Новый выпуск «В ритме ИИ» о разработках и технологических прорывах в мировой кардиологии</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Сеченовский Университет</font>",
       "tags": [
         "google_news"
       ],
@@ -1344,11 +1344,11 @@
       ]
     },
     {
-      "title": "Ученые: точность и экономия времени не гарантируют безопасного внедрения генеративного ИИ в клиниках - Vademec.ru",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSDI4djBsYmR4TkpoZ2RFRWhVOThlaTV5Yk1DUHdhaW5zOUpGZzdNUXg4X3hBVWgxOXZrNURmdUtQZkFfQjdwTG5ZaGdYUlNEekVqanVoWnRYQlZmOVExUEVDV0lpTllNN2tyMFpqaTUzdVFEMHlWbnpQVzVOdDFtc3R6MWlzbUUxaGx4Wk5HYndqcTdVeFRZREt1eURtT2twWTRMTEQ1RFpvb3FsSFlPaFRlZW9Pb2ZrNHh4Z3I5LTJuMklwek1jSUxlbVIwMXYtTFVkODg5bw?oc=5",
+      "title": "В декабре пройдёт конференция Conversations-2026 о применении ИИ в бизнесе - skillbox.ru",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUkFkdC1VXy00VjQwTHFHVXRXWHpqc3UwbU02ZFNDVDVTY0czWGJLaURlNGpzNGFnc25QTWJOVVVjQlR4N0NEUGZ5ZjZITWNfNERmMl9fTTBrSlB3VU83eTlLSjRHdVg2Nl9EWDVLSnUyUDhwSXFSaml2TlgxZ0JfRVA1VzZFWnhOU0o0OEROdTVIaE9aaHJJdWtsc1NNeGthZU56MkN4OVlDbTZwMlZ2eQ?oc=5",
       "source": "Google News",
-      "published": "2026-11-05T14:17:49",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSDI4djBsYmR4TkpoZ2RFRWhVOThlaTV5Yk1DUHdhaW5zOUpGZzdNUXg4X3hBVWgxOXZrNURmdUtQZkFfQjdwTG5ZaGdYUlNEekVqanVoWnRYQlZmOVExUEVDV0lpTllNN2tyMFpqaTUzdVFEMHlWbnpQVzVOdDFtc3R6MWlzbUUxaGx4Wk5HYndqcTdVeFRZREt1eURtT2twWTRMTEQ1RFpvb3FsSFlPaFRlZW9Pb2ZrNHh4Z3I5LTJuMklwek1jSUxlbVIwMXYtTFVkODg5bw?oc=5\" target=\"_blank\">Ученые: точность и экономия времени не гарантируют безопасного внедрения генеративного ИИ в клиниках</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vademec.ru</font>",
+      "published": "2026-11-05T11:48:54",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOUkFkdC1VXy00VjQwTHFHVXRXWHpqc3UwbU02ZFNDVDVTY0czWGJLaURlNGpzNGFnc25QTWJOVVVjQlR4N0NEUGZ5ZjZITWNfNERmMl9fTTBrSlB3VU83eTlLSjRHdVg2Nl9EWDVLSnUyUDhwSXFSaml2TlgxZ0JfRVA1VzZFWnhOU0o0OEROdTVIaE9aaHJJdWtsc1NNeGthZU56MkN4OVlDbTZwMlZ2eQ?oc=5\" target=\"_blank\">В декабре пройдёт конференция Conversations-2026 о применении ИИ в бизнесе</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">skillbox.ru</font>",
       "tags": [
         "google_news"
       ],
@@ -1359,11 +1359,11 @@
       ]
     },
     {
-      "title": "ИИ не запретить - Актуальные комментарии",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LWVIyRFpSaDgxZlR6UE1nSHhCTFRtVGdZeUJPQThMM3RtcWZSUWdDMURlOXFyWDMwODJiRnZnMzktV1ozTE9tLXBzTHBYMnV0Z05Qc1hiem1rRjVBVWFGdWdjdGo1R00?oc=5",
+      "title": "Как я чуть не спалил MacBook, пытаясь развернуть ИИ-агента локально - Хабр",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UV0hMQ3JoaEdlVTZtbHFjcHp6czZWbDJ4dGdHWE5VNGV6Qm1LUTdMcEo0QmxCd2VOeW5PM040MExzdGNhdXhxaVpJdDMwWF82YThyU25WbTUzc3BOb014ZTdiTTU4LVnSAVhBVV95cUxQMlpNTDRwWkI5UXd2ZDdyNzJiMDhNSlBQMlluVVh5cS1wYk5RZW1PVFljdmRCQlczVXBZcWFhLVAwczR1UElXVkJISG1hMHpLc0J4UzNob2FJ?oc=5",
       "source": "Google News",
-      "published": "2026-11-05T15:07:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LWVIyRFpSaDgxZlR6UE1nSHhCTFRtVGdZeUJPQThMM3RtcWZSUWdDMURlOXFyWDMwODJiRnZnMzktV1ozTE9tLXBzTHBYMnV0Z05Qc1hiem1rRjVBVWFGdWdjdGo1R00?oc=5\" target=\"_blank\">ИИ не запретить</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Актуальные комментарии</font>",
+      "published": "2026-11-05T13:19:42",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UV0hMQ3JoaEdlVTZtbHFjcHp6czZWbDJ4dGdHWE5VNGV6Qm1LUTdMcEo0QmxCd2VOeW5PM040MExzdGNhdXhxaVpJdDMwWF82YThyU25WbTUzc3BOb014ZTdiTTU4LVnSAVhBVV95cUxQMlpNTDRwWkI5UXd2ZDdyNzJiMDhNSlBQMlluVVh5cS1wYk5RZW1PVFljdmRCQlczVXBZcWFhLVAwczR1UElXVkJISG1hMHpLc0J4UzNob2FJ?oc=5\" target=\"_blank\">Как я чуть не спалил MacBook, пытаясь развернуть ИИ-агента локально</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Хабр</font>",
       "tags": [
         "google_news"
       ],
@@ -1387,31 +1387,46 @@
       "matched_keywords": [
         "ИИ"
       ]
+    },
+    {
+      "title": "КОЛДИ приняла участие в исследовании СберМаркетинга и Data Insight о влиянии ИИ - Движение.ру",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMDYwbmk5b1RoNy10eTVSbDBkdFYtVVNOVUkwSWZGcmJtcDhuWjNQMkdDSm1ZMDJTUEFaaHpzdG1Qcm91WUFnR2F1dTVpVE1Cb1c4R3V6OFFYczdPMnF4a2hwWlFjSnhzVnJZaC1zdjM1S3YzTTd0MlZWN0o1Y0RZUHFNemJWQWoxTlRWSUctSTdRVGRMT05IMkpTeTR5Y0ZZMVFMdGpvX1RYSHV3eUJwRDhSTmdNcVFYVzIyejBrTHdXZVk?oc=5",
+      "source": "Google News",
+      "published": "2026-11-05T14:52:33",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMDYwbmk5b1RoNy10eTVSbDBkdFYtVVNOVUkwSWZGcmJtcDhuWjNQMkdDSm1ZMDJTUEFaaHpzdG1Qcm91WUFnR2F1dTVpVE1Cb1c4R3V6OFFYczdPMnF4a2hwWlFjSnhzVnJZaC1zdjM1S3YzTTd0MlZWN0o1Y0RZUHFNemJWQWoxTlRWSUctSTdRVGRMT05IMkpTeTR5Y0ZZMVFMdGpvX1RYSHV3eUJwRDhSTmdNcVFYVzIyejBrTHdXZVk?oc=5\" target=\"_blank\">КОЛДИ приняла участие в исследовании СберМаркетинга и Data Insight о влиянии ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Движение.ру</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
     }
   ],
   "groups": {
     "by_source": {
       "Ведомости": 2,
       "Digital_Russia": 4,
-      "Habr_AI": 26,
+      "Habr_AI": 25,
       "CNews": 19,
-      "3DNews": 13,
+      "3DNews": 14,
       "VC_ru_Технологии": 1,
       "AI Policy Perspectives": 1,
       "ИИ комплаенс и этика": 1,
-      "Google News": 25
+      "Google News": 26
     },
     "by_category": {
       "general_news": 2,
       "tech_news": 62,
       "ai_and_regulation": 2,
       "telegram_channels": 1,
-      "google_news": 25
+      "google_news": 26
     },
     "by_keyword": {
-      "ИИ": 76,
+      "ИИ": 78,
       "Минцифры": 3,
-      "искусственный интеллект": 5,
+      "искусственный интеллект": 4,
       "AI": 6,
       "governance": 1,
       "машинное обучение": 1,
