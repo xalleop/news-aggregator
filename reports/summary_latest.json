@@ -1,12 +1,13 @@
 {
-  "timestamp": "2026-11-06_22-26",
-  "total_articles": 75,
+  "timestamp": "2026-11-07_02-29",
+  "total_articles": 73,
   "sources": {
+    "ТАСС": 1,
     "Ведомости": 1,
     "Digital_Russia": 2,
-    "Habr_AI": 18,
+    "Habr_AI": 19,
     "CNews": 3,
-    "3DNews": 15,
+    "3DNews": 11,
     "VC_ru_Технологии": 1,
     "ИИ комплаенс и этика": 1,
     "Google News": 34
@@ -14,7 +15,7 @@
   "top_keywords": [
     [
       "ИИ",
-      57
+      55
     ],
     [
       "ESG",
@@ -26,7 +27,7 @@
     ],
     [
       "AI",
-      4
+      5
     ],
     [
       "Минцифры",
@@ -34,15 +35,57 @@
     ],
     [
       "искусственный интеллект",
-      3
+      2
     ]
   ],
   "recent_headlines": [
+    {
+      "title": "Alibaba представила ИИ-модель на 300 млн параметров — 173 МБ и 350 токенов/с на iPhone 18 Pro - Клуб DNS",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaHVGREtsZU1BYXFHWlk2dDZCZDJNSXdnRHlUR0FtVEVMTUdmekJMQkt6WlVNclNkb25zTndVbHZkZGxVV3prLVRYbnh3dlpzd01rUjY4SFBjOUF0TEp6TkN1d0IzS3NfOEtHLTJzZWs3QXNQRndKTTUyalFyNDl6a2RNb0trRTctaWxDcFhtbzE4MlRESjhSSDNoakhmVlBJVUUw0gGoAUFVX3lxTE5iZ1JFRno0WThtUlFGaEt5T21KbUJjNEhqaHExYUVLemlycDBUcWVPMS04clYzTHl5QmlSaDduMEhVSGJTRVh1OTJDQ0ZFM0lwRVZDeDgtTVdqLXBMbm1CYW0yeF9MRDFnU0ZDaUx5YWN1Q196dk8wd05YMU1QNHVqemtmMUlxcEZzdmpkZ2tFb3B3N1lFZi15eEdScjRWNk9QQzdIcUFoZQ?oc=5",
+      "published": "2026-11-06T21:09:07"
+    },
+    {
+      "title": "«Группа Астра» на Kazan Digital Week: новые партнерства, промышленный ИИ и экспорт российских технологий - Реальное время",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQllXc1RRWEJwYmVDRkxGbGxSdlRIZW9QX1FnTGlGYllCMVMzR0xYU0FFODFKdXYwRzM1dTlCWEVvbGIxVVRYUV94aW1IZ2k0ck1LZW15VUNSN2Rqb1cxOVBjSnBTMl9Oc0w2U3hQTklVcWZ4bXNud3VfSmxfSzZSVlZjWEt6UEtuMnhCaG9kSktFeHM4MDFfMWRJbkRnZ1NMUnFMTm1sT0Q3VEhXcDB1SA?oc=5",
+      "published": "2026-11-06T21:00:00"
+    },
+    {
+      "title": "Мой собственный ИИ-агент или «И»ндийские «И»ндусы прям удивили, аж танцую!!! - Smart-Lab",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5tM195eHQ0T2xBR0N3cEdVOFQ2TTc0V1FvcHhuaTFmZ0ZPcW9VRkN0SWlBelFxQmZyU3ZwcVhsU1AwcWN2djJ4MWZxcnZTdw?oc=5",
+      "published": "2026-11-06T20:41:32"
+    },
+    {
+      "title": "Откуда нейросети берут информацию и почему для ответов ChatGPT и Claude сайту бренда мало топа Яндекса",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1104752/?utm_campaign=1104752&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-06T19:37:45"
+    },
+    {
+      "title": "В ФРГ с помощью ИИ получили изображение подозреваемого по делу о дроне в Галле",
+      "source": "ТАСС",
+      "url": "https://tass.ru/proisshestviya/28293661",
+      "published": "2026-11-06T19:35:34"
+    },
+    {
+      "title": "[Перевод] Прогнал агента на $90 тысяч с разными техниками тестирования: TDD снова в хвосте",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1104744/?utm_campaign=1104744&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-06T19:17:07"
+    },
     {
       "title": "IPO на $1,5 трлн под угрозой: потенциальных инвесторов Anthropic напугал обвал акций IT-компаний",
       "source": "3DNews",
       "url": "https://3dnews.ru/1150980",
       "published": "2026-11-06T18:32:00"
+    },
+    {
+      "title": "От ИИ до кадрового резерва: в Воронеже обсудили будущее промышленности - TV Губерния",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS1RXSDh2VkRTVG1OakFsemFOZXpCd2J6TV9DV1BUdEtQNEVCZlRFMy1oMV9kUkYzSW9KMWRPVjl6SEtQSVZ4MS1OaWJDUGV2NHNVcWkxbWx0OUJyWlVSTUVmaVljNHJGSmlvLTh2aEd0U2VXWFBYZlF2SUZ2WjJqYXByNlNrQVlQR3lFZjFONGNHZzZRaC1lTmNCYnBLdzRlcnZlZVBBZXhaaUhObzRodlJDNmVuWTFoakVyb29OMEpJQQ?oc=5",
+      "published": "2026-11-06T18:00:56"
     },
     {
       "title": "Энергетическая дискриминация: ИИ тратит на запросы на некоторых языках до 180 раз больше энергии, чем на английский",
@@ -55,48 +98,6 @@
       "source": "3DNews",
       "url": "https://3dnews.ru/1150974",
       "published": "2026-11-06T17:31:00"
-    },
-    {
-      "title": "«МТС Линк» выходит на азиатский рынок — компания может создать ИИ-мессенджер для вузов Индонезии - RB.ru",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdy1iMGk5bWRJNl9aQUNEM2ZIbTZHcGduZ2k3amlzd0F5ak4xWHVXeGg0aEJXZlhrOEpaMTNtdGowZVRWTFdDMUpnelY5blVVYmJ5TWRkZmlQRll5X0dXTnZWUm93RTJER01pMXdKNjg3WF84RTZhcndaWEdCSDJiNG9JWnA2aGZDUkpaVXlFU3R6Qk8zOTl3SWd4RGJmRkFCbzRubEM0SXlNUUh6d1ZwcWZKdVZ3UzZrT3c2WUdn?oc=5",
-      "published": "2026-11-06T17:15:00"
-    },
-    {
-      "title": "После выборов регулирование дата-центров в США стало политикой штатов, а не отдельных муниципалитетов, как раньше — эксперт - The Insider",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1vN3Q5RTd5aXprSlFiTElhdXBySVBmTFRUYXZkTGZpQl9MSzBJaHZoZFBjQVktOXJ2ZWxhTzFzMGdsUmM?oc=5",
-      "published": "2026-11-06T16:04:32"
-    },
-    {
-      "title": "Как отделить помощь автору от подмены научной работы",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/domate/articles/1104700/?utm_campaign=1104700&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-06T15:53:15"
-    },
-    {
-      "title": "Tesla замахнулась на 80-кратный прирост мощности ИИ-чипов и переименовала их в ускорители суперинтеллекта",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150969",
-      "published": "2026-11-06T15:52:00"
-    },
-    {
-      "title": "Nasdaq упал на 12%: победа демократов вызвала опасения регулирования ИИ - Techora.ru",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1taGltdFFwa1BuazA1bjJzaXctd3ltb2FmazVPUFNfdU9ISURUbm9INXJpbzhJcTdLTDNzSFNfLUtodGRxZDZmSjROZUhZTXJkaWdXY0RwLS1EaXlZdExBbGFPZDdnT3l2RFBTLVk5ZUpNOFRMcGhVdlNn?oc=5",
-      "published": "2026-11-06T15:49:51"
-    },
-    {
-      "title": "TSMC рассматривает производство передовых чипов памяти для ИИ - Финам",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVHNOZ2dtSmV3N0NMNHNYVGpjXzItOHlHVl84MmFBU1poNHdZMzFaRHFPanN5aGZVUjJkOEVrSjM4TFphMF9rTmV2ZWNyY3J6dXpGSFZxMFNTRUdfY19mMzd3TnNnU2xjT0NLNDZqX21YOUxsNWJuTEpzS294c21rTGl4OWFhbWxSWU1ycHM3ZUxDZU5zRDNoZU5JVzAwMGdrS2FkX1hveFBteWIySHNTaEQwUGJwVHcxQ2RV?oc=5",
-      "published": "2026-11-06T15:49:04"
-    },
-    {
-      "title": "Победа демократов в США напугала инвесторов в ИИ. Фирмы на бирже Nasdaq потеряли $2,5 триллиона, компании Илона Маска — $300 миллиардов - BBC",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14VTROb2ZPWFlvb0V0MUM2X05mT01fOE1YcV9EVkRFajYwZm1yU3NiWmZmdmpjQlRxd1dGRkVGUUk1aGgtWWNrZWVLbURhUE5YMFc0aDhSOWRrYkZ4Zzln0gFkQVVfeXFMT3JGb0x4LWtOamZzbzR0N1JmUkdUaXp2djZEX2xRUHlQUWgxWlZLU1NCZVM3MmRLbWFPRnhadHZEcEpIdlRJZ1hBcnc1UWR1Zk5VcHE4ekZYOG9hVFhQa2htYjJRYQ?oc=5",
-      "published": "2026-11-06T15:01:52"
     }
   ]
 }
