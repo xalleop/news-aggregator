@@ -1,32 +1,31 @@
 {
-  "timestamp": "2026-11-06_02-49",
-  "total_articles": 93,
+  "timestamp": "2026-11-06_16-16",
+  "total_articles": 79,
   "sources": {
-    "Ведомости": 2,
+    "Ведомости": 1,
     "Digital_Russia": 4,
-    "Habr_AI": 25,
-    "CNews": 19,
-    "3DNews": 14,
+    "Habr_AI": 22,
+    "CNews": 6,
+    "3DNews": 12,
     "VC_ru_Технологии": 1,
-    "AI Policy Perspectives": 1,
     "ИИ комплаенс и этика": 1,
-    "Google News": 26
+    "Google News": 32
   },
   "top_keywords": [
     [
       "ИИ",
-      78
-    ],
-    [
-      "AI",
-      6
+      63
     ],
     [
       "ESG",
+      8
+    ],
+    [
+      "регулирование",
       5
     ],
     [
-      "искусственный интеллект",
+      "AI",
       4
     ],
     [
@@ -34,78 +33,70 @@
       3
     ],
     [
-      "регулирование",
+      "искусственный интеллект",
       3
-    ],
-    [
-      "governance",
-      1
-    ],
-    [
-      "машинное обучение",
-      1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Claude научился следить за деньгами пользователей: теперь ИИ-чат-бот можно подключить к банковским счетам",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150934",
-      "published": "2026-11-05T22:20:00"
-    },
-    {
-      "title": "Рабочие и Micron не поделили будущие сверхприбыли от бума ИИ — строительство передовой фабрики памяти под угрозой",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150933",
-      "published": "2026-11-05T21:19:00"
-    },
-    {
-      "title": "Aina представила массивный умный перстень с экраном, джойстиком и микрофоном для ИИ",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150931",
-      "published": "2026-11-05T21:06:00"
-    },
-    {
-      "title": "ИИ — автор? Или уже нет?",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1104206/?utm_campaign=1104206&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-05T19:41:11"
-    },
-    {
-      "title": "Индустрию ИИ может ждать замедление из-за победы демократов на выборах в США - BFM.ru",
+      "title": "Александр Сиволобов: «Искусственный интеллект – это новый тип рабочей силы» - Ведомости",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8zNVhrbWsxWi1qUGVFQXB5anpsSkpjX25xejVNcEY0WURRWUVkdXdwUG84bXppQ3Nya3RlMGRYRS1IYzJP?oc=5",
-      "published": "2026-11-05T19:40:03"
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSkd3cURMTE01MkN1Znl6NGFVdVBjVDVvdnlUdFRiZ19BOTBLdGxVWFd2MEIxc3g1QmNFdGJaWXBIWFpJZWFlMjFpOGtJTU9zUE1rSms4Rl9KT1FfRURSZjNZbkxha1JpendYalA1dWNkcU42NUVuYjBJcmIyTVNFNGZTNk1xVjRzY2JZc096a1Uyb1B1Z0FYbExEbw?oc=5",
+      "published": "2026-11-06T13:04:07"
     },
     {
-      "title": "Акции чипмейкеров и операторов дата-центров обрушились после победы демократов на выборах в США",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150927",
-      "published": "2026-11-05T19:33:00"
-    },
-    {
-      "title": "ИИ-агенты OpenAI выявили почти 1000 уязвимостей в ядре Linux",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150922",
-      "published": "2026-11-05T19:30:00"
-    },
-    {
-      "title": "ИИ-агенты OpenAI выявили почти 1000 уязвимостей в ядре Linux - 3DNews",
+      "title": "Nissan хочет использовать ИИ для ускорения разработки дизайна новых моделей - Авто Mail",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTRzalg1Vk1OczhDMDZLLXVQQ2VXTGhTNnIyNXV0WXRoU1BlQUxjd294QTlKNTYxc1BMdjVzYTNWeGwtbjVQZ1ZJV0x1U050UmpIdEkyajZ2VHB2NmVqTFdWNE1QcVdFVHdMMDI3MnVWZFBleTBYU0JPWjdhbVdRTVNXZDdlcEthZkMzNHVNbUwtR2vSAZgBQVVfeXFMTUpBRUZJUkZHWGo2YWdyVXBTNkc3ZjlqSHRmSV9BaUVGb2k2ZGVWUnJndjZEVTFpZ1FtQ3RWdXhxbWdWREtMMXNxUWRUUVV0UXBKSGctZFRhWC1qLTVlUTQtN2FKMjVuLTBSTExGaVhvdXBJOW1pNEJBbm9tTm5UUDI2YWFneE9yX0l6RTMxMXhZcUY3WVJxVm0?oc=5",
-      "published": "2026-11-05T19:30:00"
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTWJfdTMwbVI4eVF6a3RnSnFhM29lZ3pVdGtrQWhjeDUwb1hxTjdYYkxjSzNXU21jS3l2aUotakVQcFNUa2lLRHVLcEZSd1VLZm9vcFRXc21Ibl8tS2lhcUhHUHh6b21PTlRlREkteVRaaGZCWGVPeWNqalA5bmh4Q1pLUUxFdmhmZDVlRklra1Z1N0ZkNWo0U2t3Tk4yOTBxaTJCVUVmY2lUOGsyUF8tMXZYWQ?oc=5",
+      "published": "2026-11-06T13:00:16"
     },
     {
-      "title": "OpenAI представила GPT-6 Cyber — свою лучшую ИИ-модель для защиты от киберугроз",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150926",
-      "published": "2026-11-05T19:27:00"
-    },
-    {
-      "title": "ЕС планирует ввести сертификат ИИ‑грамотности для 15‑летних школьников с 2027 года - Euronews.com",
+      "title": "Хедж-фонды устроили \"массовую капитуляцию\" по долгам ИИ-инфраструктуры - Финам",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNak54SDA1NEI2ZjBVMkRuRmxYWTdPYXcwQ3N2aEtwd3NnLXZkUnpRcFl0S1JUVHd3b2llNkRnN3VjN3VQbUxYQ1pUTjNQeWhsWTJ1SXBvMUlTOUlYMHltMUJyUVE4WEZsdFZGVmFMM243R1QzTWtYS0hwUWdvSkV4R1VQLWFkZFplNTllQTUzS29VYWpNUmhwdw?oc=5",
-      "published": "2026-11-05T19:19:56"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVWtmNmFoZWFpM3lYQ3JIWXRteVR2NmtsSEJoZHhWSG5xNHRqa216OUg4TjZ6Y1ZnZ0YzNU9uVUtVLWZQTjMzSDZfVGpZZHR0eGtEOTVOVFZYa2pzUlJtN1hOVE1KQmFQUXhsSGtSQ2t3MXR0SjhXS21ZMHhLOXlwQVlRbEc2UEs4OHFRVVl5aTlaUXJCckRMTlpjcjZqclZUbi1PcDd6QVhXSnNFblY5ekkydlFfUU52cE1TNjU0bGZ5Tl8yc3BJ?oc=5",
+      "published": "2026-11-06T12:56:00"
+    },
+    {
+      "title": "НРА: АФК «Система» заняла первое место среди в ESG-рэнкинге финансового сектора - AKM.RU",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONHBic012NWpVV0Qtbjh0cjR5VjM3d0M5eGxkSy1DQUlkTVphbm5hbG9hQkEyVGhNSEJxWjFPbGQ5NTA4bHM1cWVWMU9zTzE0eTlwX05XMWZNVTlLR0hxa3VBc3NEZnk1Wk5IcUdRRG1lUllUNldkOF9OenZENDBxU1NIa1BwQU1GYUxJZEl5MDdGU0V0TjdKdFBhb2djSnZpRldaTA?oc=5",
+      "published": "2026-11-06T12:33:33"
+    },
+    {
+      "title": "200 преподавателей из 117 вузов и колледжей прошли ESG-интенсив в «ГигаАкадемии для преподавателей» от Сбера - Марийская правда",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWFp0Wkd0ZFFtUy03TU1OZTR1aUF4U09fWi1qTzc5UVBIdjljdHZ5MjVBRG9GV2t3SWN1U1loRDUxQ2NtelNsTm9iN0xRak9DdWxCRFBOOFVRT2tpbmVHZG9EOEx1WlpPRDhsQkJRcVkyOUZGWmQ4c05telI4RUlWVnNpM1RqZTFscUN0eGN3ajBIZmN1N3NwOEJhWVVOQ1UzWFI3WVV4SE1qdXAxai1pRTF2dHdzcEV0dXg5eTVUQkRNQ0R5NVRUbXAyMEVucFJaRExWazJ3?oc=5",
+      "published": "2026-11-06T12:25:00"
+    },
+    {
+      "title": "Anthropic выяснила, насколько ИИ ускорит научные исследования: в перспективе — до 15 раз",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1150959",
+      "published": "2026-11-06T12:20:00"
+    },
+    {
+      "title": "200 преподавателей из 117 вузов и колледжей прошли ESG-интенсив Сбера - Fonar.tv",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcFNOb0staDhoaTFWQnZuTE9mUWdzYUp0TUppNERqeGZnLTZrTjJQT2d1clI4RS1TVGh1UVNLV1JfWGVLbHRsRjF5ekZaa0hhYTFzS3VLOGZUcFM2bXdDTko4WTdjZFNrVFo0d2l1SHZGSUthY3ctWHg5eXlfdkpiaDdtc1AtR24zdlN1SFNWTjVSZXk1WnpZMVY4VTVyR0ZBMGhPbmtncw?oc=5",
+      "published": "2026-11-06T12:15:31"
+    },
+    {
+      "title": "В Каспийске обсудят цифровой двойник Каспия и регулирование ИИ - Dagpravda.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbVlLaWlwMmRlQ1RXallFYUM4dWh6emVYOEg3bWJva0lITTJ0TE1scVVDM1J3c0pUTXFzeWxrYnh3SlljblFVcWdNQVJhT3Q5YlNHNHE1c3FXQWpJMk5mYTZQd0syS1c2NTJvTlUtZTdwTDY2UmplZFozejg4UGR5T2FUSnBjaFB6eVE1RU9zS3pTZ183V18zb2k2VQ?oc=5",
+      "published": "2026-11-06T12:14:29"
+    },
+    {
+      "title": "В пензенских вузах могут сохранить регулирование платного приема - Пенза-Взгляд: новости Пензы и области сегодня",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ3dNMGFmODV2cnVsVTFPbllBRnZ1UGlRSGI4c05CNFZmSWp5SUd6VDlmbGRacUpGRGhJUVNoV29OaXhucEp5eGxJa1JtRHp1VEZnM0FUNUliZXAxYzAzeGRvbXg3M2kyMDdQVHRiZTgyMXR0T2prZUhqNUNwaW40UjZsa1A3eVh0OU1KRTRKeDdpTGtZU1Fha245dnpMc3NB?oc=5",
+      "published": "2026-11-06T12:05:00"
+    },
+    {
+      "title": "В соцсетях раскритиковали рекламу Dior за «ИИ-артефакты» в мультфильме, «нарисованном от руки» французскими художниками",
+      "source": "VC_ru_Технологии",
+      "url": "https://vc.ru/marketing/3238963-reklama-dior-podverglas-kritike-za-ii-artefakty-v-multfilme?from=rss",
+      "published": "2026-11-06T11:47:09"
     }
   ]
 }
