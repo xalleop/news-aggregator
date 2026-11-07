@@ -1,0 +1,613 @@
+{
+  "timestamp": "2026-11-08_01-15",
+  "total_articles": 39,
+  "articles": [
+    {
+      "title": "Быстрее, проще, глупее: скрытая цена ИИ‑помощников",
+      "url": "https://habr.com/ru/articles/1104974/?utm_campaign=1104974&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-07T19:09:03",
+      "description": "<img src=\"https://habrastorage.org/extt/26/5d/81/265d81cbacf5180a48a1f346435173a2.png\" /><p>Мы привыкли считать, что хороший интерфейс — это интерфейс, который снимает с человека лишнее умственное усилие. Для обычного продукта это верно: пользователь пришёл решить задачу, а не научиться чему-то. С ИИ-ассистентами эта логика перестаёт работать. Они убирают не только лишнее усилие, но и ту работу с материалом, из которой складывается навык. Разберёмся, какая нагрузка мешает, какая нужна и почему продукту с ИИ одного снижения внешней нагрузки мало.</p> <a href=\"https://habr.com/ru/articles/1104974/?utm_campaign=1104974&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Затестил Kimi AI, Qwen, DeepSeek и Grok на работе с текстами. Делюсь результатами",
+      "url": "https://habr.com/ru/articles/1104964/?utm_campaign=1104964&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-07T18:08:56",
+      "description": "<img src=\"https://habrastorage.org/extt/56/e7/9a/56e79aeff0265d0bb179671ad0cf4e09.jpg\" /><p>Нейросеть получает статью на редактуру и возвращает гладкий текст, в котором автора уже не узнать. В <a href=\"https://abdulhaim.github.io/documents/LLM_Homogenization_Project.pdf\" rel=\"noopener nofollow\">препринте 2026 года</a> исследователи из Berkeley, Google DeepMind и других организаций показали, что ИИ-модели меняют смысл текста, даже когда их просят исправить только грамматику. Kimi AI, Qwen, DeepSeek и Grok всё чаще пробуют для текстов вместо ChatGPT, и выбирать среди них редактора на глаз рискованно.</p><p>По умолчанию нейросеть, которой дали текст на редактуру, переписывает его, хотя просили только править. Ограничить её можно только жёстким промптом и сравнением версий. Модели для редактуры надо сравнивать по тому, какую долю текста они изменили и сохранился ли смысл, а не по впечатлению, что стало лучше.</p> <a href=\"https://habr.com/ru/articles/1104964/?utm_campaign=1104964&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI",
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Нейроответ Google появляется почти под каждым запросом в поиске. Что это значит для продвижения в ответах ИИ",
+      "url": "https://habr.com/ru/articles/1104954/?utm_campaign=1104954&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-07T16:42:27",
+      "description": "<img src=\"https://habrastorage.org/extt/66/44/68/66446833f9b560e0fd783a5a3315d475.jpg\" /><p>AI Overviews — нейроответ, который Google ставит над обычной выдачей. По слухам, что этот ответ стоит уже над 80% запросов. В первоисточниках так выходит только у <a href=\"https://www.semrush.com/blog/ai-overviews-commercial-modifiers-study/\" rel=\"noopener nofollow\">Semrush</a>, и только на 400 коммерческих ключах по десктопу США, а в других замерах получилось 30% и 18%. О проектах в Рунете эти цифры почти ничего не говорят: Яндекс не публикует, у какой доли запросов есть ответ Алисы AI, а каждый отчёт по Google описывает Google и набор запросов конкретного сервиса. Цифра больше 80% — свойство выборки, а не рынка. Для Рунета ориентир один: доля нейроответов Алисы AI в поиске на вопросах своей тематики.</p> <a href=\"https://habr.com/ru/articles/1104954/?utm_campaign=1104954&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI",
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Шифр на кубике Рубика: как девять ИИ решали одну задачу",
+      "url": "https://habr.com/ru/articles/1104940/?utm_campaign=1104940&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-07T15:56:23",
+      "description": "<img src=\"https://habrastorage.org/extt/71/18/69/711869d674c85894ee9629a20e9d5d95.jpg\" /><p>Из девяти ИИ-моделей задачу с шифром на кубике Рубика полностью решила одна, две выдали выдуманные ответы с ложной «проверкой», остальные честно признали неудачу.</p> <a href=\"https://habr.com/ru/articles/1104940/?utm_campaign=1104940&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Анализ рынка AI/ML/DL. Результаты",
+      "url": "https://habr.com/ru/articles/1104938/?utm_campaign=1104938&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-07T15:48:54",
+      "description": "<img src=\"https://habrastorage.org/extt/5b/7d/db/5b7ddbc9ea4d8c790f795c53c9ebe71f.png\" /><p><strong>Рынок ML, DL и прикладного AI.</strong> <em>Исследование 226 объявлений о работе на </em><a href=\"http://hh.ru\" rel=\"noopener nofollow\"><em>hh.ru</em></a></p><p>Вместе с нашей командой мы пропарсили и обработали 226 вакансий с hh.ru. Подробно описали ниже.</p> <a href=\"https://habr.com/ru/articles/1104938/?utm_campaign=1104938&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Нейросети в MAX за рубли: что решить до первого платежа",
+      "url": "https://habr.com/ru/articles/1104888/?utm_campaign=1104888&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-07T12:46:01",
+      "description": "<img src=\"https://habrastorage.org/extt/95/a7/eb/95a7eb9556d352c82b3e0b1997cfcd24.png\" /><p>Я сделал в MAX бота «Спроси ИИ»: в нём можно задать вопрос ChatGPT или Gemini и нарисовать картинку в Nano Banana. Платить можно российской картой или по СБП, ничего дополнительно ставить не нужно.</p><p>Код оказался самой простой частью. Сложнее было с деньгами, чеками и законами — о них и расскажу. Текст пригодится всем, кто думает сделать платного бота в MAX.</p> <a href=\"https://habr.com/ru/articles/1104888/?utm_campaign=1104888&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Я отдал Директу 200 тысяч рублей и понял, что AI-продавца надо раздавать бесплатно",
+      "url": "https://habr.com/ru/articles/1104876/?utm_campaign=1104876&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-07T11:39:02",
+      "description": "<img src=\"https://habrastorage.org/extt/5b/35/ba/5b35ba2cf1bb541673a75ece5114b5a9.png\" /><p>Каждый, кто писал в чат интернет-магазина, знает, чем это кончается. Вы хотите спросить про один товар, а окошко в углу сначала требует имя, телефон и почту. Вы заполняете все три поля, и если на часах уже больше десяти вечера, окошко обещает ответить «в течение минуты», через минуту сообщает, что «оператор скоро подключится», и больше не пишет ничего. В соседней вкладке к этому времени уже открыт конкурент.</p><p>Владелец магазина за этот визит, скорее всего, уже заплатил. В белорусском магазине сантехники, где сейчас работает мой бот, больше половины тех, кто пишет в чат, пришли с платной рекламы. Сколько стоит такой посетитель, я знаю по собственному сайту: с лета я отдал Яндекс Директу около 200 тысяч рублей, и каждый, кто успел сделать на сайте хоть что-нибудь, от клика по форме до регистрации, обходился мне дороже 700 рублей. Если такой человек закрыл окошко на поле с телефоном или так и не дождался ответа, деньги за его визит просто сгорели.</p> <a href=\"https://habr.com/ru/articles/1104876/?utm_campaign=1104876&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Рекурсивный Imago Dei: ИИ как продолжение Творения через человека",
+      "url": "https://habr.com/ru/articles/1104864/?utm_campaign=1104864&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-07T10:56:28",
+      "description": "<img src=\"https://habrastorage.org/extt/1c/45/93/1c4593ee5ea90cd9135f184670b32b08.jpg\" /><p> Как анатомический шифр Микеланджело предсказал передачу искры разума в кремний. Субботний этюд о субстратной нейтральности мышления и скрытом послании во фреске \"Сотворение Адама\"</p> <a href=\"https://habr.com/ru/articles/1104864/?utm_campaign=1104864&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Не DeepSeek единым: 4 китайских ИИ-проекта, о которых стоит знать",
+      "url": "https://habr.com/ru/companies/timeweb/articles/1103120/?utm_campaign=1103120&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-07T10:05:44",
+      "description": "<img src=\"https://habrastorage.org/extt/b6/1d/46/b61d4634fa1912e1f83a2ceff6b4574a.jpg\" /><p>В последние годы нейросети не просто совершили гигантский рывок вверх по качеству работы но и неплохо так разошлись вширь. Западный рынок представляет собой в первую очередь через ChatGPT, у нас Алиса и GigaCHAT вполне пытаются конкурировать а от «сборной» Китая за всех отдувается бесплатный и вполне мощный DeepSeek...<br /><br />А точно он один? Ну... вообще то нет. На самом деле в Китае сейчас идет настоящий бум больших языковых моделей, и многие из них не просто конкурируют с ChatGPT, но и обходят его в ряде специфических задач.<br /><br />В этом материале посмотрим на 5 лучших и интересных представителей.</p> <a href=\"https://habr.com/ru/articles/1103120/?utm_campaign=1103120&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Claude Code без Anthropic: заводим агента на GLM-5.3 и Qwen через свой шлюз и собираем грабли",
+      "url": "https://habr.com/ru/articles/1104826/?utm_campaign=1104826&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-07T09:17:00",
+      "description": "<img src=\"https://habrastorage.org/extt/e4/e8/c2/e4e8c22a572118c5a53ad4266f71aef0.png\" /><p>Из Беларуси Claude Code официально не работает. Мы делаем ZuBrIQ (zubriq.ai) — шлюз к моделям на LiteLLM с оплатой в BYN — и заставили Claude Code, Codex и OpenCode работать на открытых моделях: GLM-5.3 у провайдера и Qwen3.8-27B на собственных V100. Схема и пять граблей: тихий уход в резерв, служебные модели Claude Code, нулевой spend, «слепая» модель и KV-кеш на старом железе.</p> <a href=\"https://habr.com/ru/articles/1104826/?utm_campaign=1104826&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "[Перевод] Знают ли модели ИИ, о чём они думают? Учёные пытаются это проверить",
+      "url": "https://habr.com/ru/articles/1104758/?utm_campaign=1104758&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-07T08:44:38",
+      "description": "<img src=\"https://habrastorage.org/extt/4b/87/e6/4b87e6f5fbfc717bd8a889bac87f4fca.webp\" /><p>О&nbsp;чём вы сейчас думаете? Скорее всего, вы можете ответить на&nbsp;этот вопрос без&nbsp;особых усилий. Осознание собственных мыслительных процессов, способность, называемая интроспекцией, или&nbsp;самонаблюдением, кажется нам чем‑то совершенно естественным.</p><p>Однако среди философов и психологов интроспекция остаётся предметом активных дискуссий. Одни <a href=\"https://link.springer.com/article/10.1007/BF00355521\" rel=\"noopener nofollow\">считают</a>, что&nbsp;она тесно связана с&nbsp;сознанием. Другие утверждают, что&nbsp;это <a href=\"https://academic.oup.com/book/5254\" rel=\"noopener nofollow\">сложная иллюзия</a>. Проверять теории интроспекции в&nbsp;лаборатории непросто, как&nbsp;и вообще дать этому явлению точное определение.</p><p>Теперь, после более чем столетия изучения интроспекции у&nbsp;людей и животных, исследователи начинают изучать это явление у&nbsp;новых, весьма неожиданных объектов: больших языковых моделей. Эти системы, основанные на&nbsp;математических структурах, называемых нейронными сетями, превосходно справляются с&nbsp;когнитивными задачами, которые ещё недавно казались исключительно человеческими. Но&nbsp;способны&nbsp;ли они также к&nbsp;интроспекции?</p><p>В 2025&nbsp;году <a href=\"https://jlindsey15.github.io/\" rel=\"noopener nofollow\">Джек Линдси</a>, исследователь из&nbsp;компании Anthropic, разработал способ проверки интроспекции у&nbsp;языковых моделей путём внедрения «мыслей» непосредственно в&nbsp;их нейронные сети, своего рода прицельной цифровой нейрохирургии. Эксперимент Линдси <a href=\"https://transformer-circuits.pub/2025/introspection/index.html\" rel=\"noopener nofollow\">показал</a>, что&nbsp;модели по&nbsp;крайней мере иногда способны обнаруживать и описывать такие вмешательства. Это очень напоминало интроспекцию.</p><p>Статья Линдси намеренно ограничивалась узким кругом вопросов и не&nbsp;содержала более широких утверждений о&nbsp;сознании. (В частности, она не&nbsp;предполагала, что&nbsp;языковые модели обладают <a href=\"https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/on-a-confusion-about-a-function-of-consciousness/061422BF0C50C5FF00927F9B6E879413\" rel=\"noopener nofollow\">субъективным опытом</a> от&nbsp;первого лица.) Тем не&nbsp;менее исследование вызвало <a href=\"https://x.com/AnthropicAI/status/1983584136972677319\" rel=\"noopener nofollow\">бурную реакцию</a> в&nbsp;интернете. Учёные поспешили воспроизвести эксперимент Линдси на&nbsp;других моделях.</p> <a href=\"https://habr.com/ru/articles/1104758/?utm_campaign=1104758&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Два инженера против сроков: чему нас научили два месяца агентной разработки",
+      "url": "https://habr.com/ru/companies/magnus-tech/articles/1104754/?utm_campaign=1104754&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-07T08:30:37",
+      "description": "<img src=\"https://habrastorage.org/extt/c0/73/c0/c073c0966208af61318b6e631343d7cc.png\" /><p>В заказной разработке нередко бывают случаи, когда проект нужно было сделать еще вчера, ресурсов под него впритык, а свободных рук нет. Обычно выбор тут невелик: либо отказываться от заказа, либо двигать сроки. Нам же стало интересно, возможно ли в принципе затащить такую неподъемную задачу в ограниченном составе, если подключить ИИ-агентов и выстроить вокруг них осмысленный процесс?</p><p>Мы решили проверить это в рамках эксперимента: вдвоем взялись за сборку системы автоматизации процессов со сложной логикой и поставили жесткие рамки по времени. Написание кода полностью отдали агентам, а себе оставили постановку ТЗ, контроль и тестирование.</p><p>За два месяца мы довели продукт до стадии пилота и на собственном опыте узнали, чего на самом деле стоит агентная разработка. Этим опытом и хотим поделиться. Под катом — как устроен наш процесс работы с агентами, с какими сложностями мы столкнулись и чему нас научил этот эксперимент.</p> <a href=\"https://habr.com/ru/articles/1104754/?utm_campaign=1104754&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "E-com и финтех РФ: какие сервисы доступны ИИ-агентам? Обзор 424 продуктов",
+      "url": "https://habr.com/ru/articles/1104816/?utm_campaign=1104816&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-07T08:12:00",
+      "description": "<img src=\"https://habrastorage.org/extt/f6/23/5d/f6235d064b5c8ffd76b5a381412fda83.jpg\" /><p><strong>Подключить ИИ-агента к магазину еще не значит, что удастся поручить ему покупку.</strong> Я изучила открытые документации <strong>424 компаний и продуктов</strong>в E-com и Финтех РФ.</p><p>У 232 нашлись API, MCP или A2A, но большинство подключений рассчитаны на бизнес и юр.лиц, а не на персональное использование. Разбираю, что доступно личным агентам и какие ограничения мешают. Прилагаю карту сервисов и таблицу с источниками.</p> <a href=\"https://habr.com/ru/articles/1104816/?utm_campaign=1104816&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Научи плохому или почему я против промптинга",
+      "url": "https://habr.com/ru/articles/1098892/?utm_campaign=1098892&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-07T08:01:41",
+      "description": "<img src=\"https://habrastorage.org/extt/53/6d/c5/536dc5b48ed4ab7090df66ba7cba860c.jpg\" /><p>Недавно мне потребовалось объяснить 17-летнему парню законы диалектики Гегеля. Вот что из этого получилось и почему вы не получаете от ИИ тот результат, который хотите</p> <a href=\"https://habr.com/ru/articles/1098892/?utm_campaign=1098892&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Как мы с локальной LLM легально победили жесткий антифрод и создали визуально-текстового DOM-агента в обход блокировок",
+      "url": "https://habr.com/ru/articles/1104808/?utm_campaign=1104808&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-07T07:46:28",
+      "description": "<p><strong>DISCLAIMER: </strong>Автор статьи категорически осуждает злонамеренное использование методов и способов массового и деструктивного автоматизированного сбора данных с любых сайтов объявлений и обсуждение подобных методов. Цель статьи в другом - рассказать о том как можно искать нужное, не нарушая при этом правил.</p><p>Эта история о том, как обычная задача по поиску редкого оборудования на вторичном рынке превратилась в полноценное инженерное исследование. В итоге мне удалось научить локальную языковую модель класса 7B/8B (Qwen) обходить агрессивные системы защиты, обфусцированный фронтенд и сетевые ограничения изолированной песочницы. Никакого платного API поисковиков, никаких прокси. Только Python, Playwright и пиксельно-логический подход. Статья написана по горячим следам нашего с ИИ “технологического прорыва”.</p><p><strong>Предыстория и боль: Почему requests к крупным сайтам - это гарантированный бан.</strong></p><p>Задача казалась тривиальной: попросить локальную модель в среде Strata найти объявления о продаже флагманской мобильной рабочей станции в максимальной комплектации с редкой профессиональной видеокартой на популярном сайте объявлений. Но современные крупные площадки объявлений обладают просто свирепой системой защиты от ботов. Попытка сделать прямой requests.get() или использовать стандартный BeautifulSoup моментально упирается в банальные “HTTP 403 Forbidden” или “HTTP 429 Too Many Requests”. Работу модели мгновенно отсекал WAF (веб-инструмент защиты) на сетевом уровне.</p><p>Тогда я попытался использовать классическую «прослойку» - научить модель искать объявления через поисковые системы (Google, Яндекс, DuckDuckGo) с оператором site:<a href=\"http://domain.ru\" rel=\"noopener nofollow\">domain.ru</a>. Но и тут меня ждало фиаско! Один поисковик выдал типовую заглушку «Вы не робот», которую текстовый скрипт не мог пройти. Текстовое HTML-зеркало второго поисковика намертво зависало по таймауту из-за сетевого allow-list’а внутри изолированного окружения Strata. Третий поисковик отдавал живой HTML, который при парсинге оказывался пустой JavaScript-заглушкой перенаправления.</p> <a href=\"https://habr.com/ru/articles/1104808/?utm_campaign=1104808&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "SEO и GEO: новые правила AI-доступа, аналитика цитирований и автоматизация аудита",
+      "url": "https://habr.com/ru/articles/1104766/?utm_campaign=1104766&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-07T07:42:16",
+      "description": "<img src=\"https://habrastorage.org/extt/09/ae/80/09ae8020b57a317530d0744c6db32320.png\" /><p>SEO, GEO и AI: настройки участия в AI-поиске Google, планы по общему сигналу AI-обучения, тематическая аналитика Bing и Screaming Frog 25. Семь обновлений и исследований с первоисточниками, ограничениями и практическими проверками для SEO-команды.</p> <a href=\"https://habr.com/ru/articles/1104766/?utm_campaign=1104766&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Сегодня Claude, завтра Codex: обновления мультиагентной OpenIDE",
+      "url": "https://habr.com/ru/companies/haulmont/articles/1102934/?utm_campaign=1102934&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-07T07:09:36",
+      "description": "<img src=\"https://habrastorage.org/extt/28/a8/88/28a8883299856fd552b2902813e2cc58.jpg\" /><p>Что делать,&nbsp;если завтра Anthropic или OpenAI заблокируют аккаунт?&nbsp;Или просто захочется перейти на другого агента,&nbsp;потому что для вашей задачи он подходит лучше?&nbsp;Не хочется каждый раз заново собирать рабочее место и привыкать к очередным изменениям в UI/UX.</p><p>Мне нравится идея,&nbsp;что агента можно выбирать так же спокойно,&nbsp;как любой другой инструмент разработки.&nbsp;Сегодня работаешь с Claude,&nbsp;завтра подключаешь Codex,&nbsp;потом пробуешь OpenCode с локальной моделью.&nbsp;Работа с кодом,&nbsp;Git,&nbsp;тестам, дебагерром, базами данных и так далее остаются там,&nbsp;где были.</p><p>А когда несколько агентов уже находятся в одном месте,&nbsp;возникает следующий вопрос:&nbsp;почему обязательно выбирать кого-то одного?&nbsp;Можно же попросить одного написать код,&nbsp;а другого проверить.</p><p>Вокруг этих сценариев мы и развиваем&nbsp;<a href=\"https://marketplace.openide.ru/plugin/ai-for-openide/454/?utm_source=habr&amp;utm_medium=article&amp;utm_campaign=ai-plugin-0-8-0\">Meta Harness OpenIDE</a>.&nbsp;В крайнем обновлении появились треды,&nbsp;обращения к агентам через&nbsp;<code>@</code>&nbsp;и сохранённые наборы агента и модели.</p> <a href=\"https://habr.com/ru/articles/1102934/?utm_campaign=1102934&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Вы просили AI-помощника исправить баг…",
+      "url": "https://habr.com/ru/articles/1104786/?utm_campaign=1104786&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-07T04:04:27",
+      "description": "<img src=\"https://habrastorage.org/extt/74/29/9a/74299abca19376739500b0c580738118.png\" /><p>В какой момент можно спокойно принять работу AI-помощника? Обычно после просмотра правки и запуска тестов. Лишнего не поменял, ошибку исправил, проект работает. Кажется, на этом можно заканчивать.</p><p>Хотелось увидеть не только то, что помощник оставил у нас на диске, но и то, что получил сервер модели (и оставил у себя). </p> <a href=\"https://habr.com/ru/articles/1104786/?utm_campaign=1104786&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Посмотреть</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "TSMC не хочет заниматься памятью, даже если просит Nvidia — компания ответила на слухи о выпуске DRAM",
+      "url": "https://3dnews.ru/1151003",
+      "source": "3DNews",
+      "published": "2026-11-07T15:08:00",
+      "description": "Ранее появилась информация, что TSMC по просьбе Nvidia изучает возможность наладить производство памяти типа 3D DRAM. Интерес к этой технологии возник на фоне роста спроса на оборудование для систем искусственного интеллекта, что привело к мировому дефициту и росту цен на DRAM. Реализация проекта помогла бы TSMC открыть новое направление бизнеса и существенно укрепить своё положение в цепочке поставок для отрасли ИИ. Но в компании подчеркнули, что специализируются исключительно на производстве логических чипов и намерены придерживаться этой стратегии, то есть, по сути, опровергли эту информацию. Источник изображений: tsmc.com",
+      "tags": [
+        "tech",
+        "hardware"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Китайский ИИ почти догнал секретную модель OpenAI во взломе сетей — и оказался дешевле",
+      "url": "https://3dnews.ru/1150999",
+      "source": "3DNews",
+      "published": "2026-11-07T10:59:00",
+      "description": "Эксперимент, в ходе которого моделям искусственного интеллекта ставилась задача взломать имитированные сети, показал, что способности китайских нейросетей DeepSeek и Z.ai GLM практически не уступают самой продвинутой модели от OpenAI, которая даже не находится в открытом доступе. Источник изображения: Zach M / unsplash.com",
+      "tags": [
+        "tech",
+        "hardware"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI",
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Nvidia ищет следы контрабанды — будущих партнёров в Азии обяжут подключить мониторинг чипов",
+      "url": "https://3dnews.ru/1150990",
+      "source": "3DNews",
+      "published": "2026-11-07T04:35:16",
+      "description": "Nvidia ужесточила условия получения статуса официального облачного партнёра в Юго-Восточной Азии. Как сообщает  Bloomberg  со ссылкой на осведомлённые источники, теперь претендентам на этот статус нужно подключиться к системе Fleet Intelligence, которая, помимо прочего, позволяет определять местоположение ИИ-ускорителей. Nvidia рассчитывает таким образом расширить охват программы, которая может помочь выявлять незаконные поставки чипов в Китай. Источник изображений: Nvidia",
+      "tags": [
+        "tech",
+        "hardware"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Рынок игровых предметов ждет регулирование: налоги, крупные площадки и аналитика - Финансы Mail",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR1BSMGRZandpVXk3S1M2NVBMcHBoNUNPRXAyWWQ5VEhZb21FVmhTOXAwZHNSQWhVQWhTUHM1MlJFNS1TQkhueXNMY3FGZzlmbjU5bVRTanl4cmdvQmsxcnhKRXJZOWdGbFNqSDRhZjBJMUFCSVBMeWd6WEpTZko3eWk0TFZIWmREZk5DSjc5X3pOTVlGUU92VnZVbzRfVTZ1N3ZXSndPTQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-07T15:00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQR1BSMGRZandpVXk3S1M2NVBMcHBoNUNPRXAyWWQ5VEhZb21FVmhTOXAwZHNSQWhVQWhTUHM1MlJFNS1TQkhueXNMY3FGZzlmbjU5bVRTanl4cmdvQmsxcnhKRXJZOWdGbFNqSDRhZjBJMUFCSVBMeWd6WEpTZko3eWk0TFZIWmREZk5DSjc5X3pOTVlGUU92VnZVbzRfVTZ1N3ZXSndPTQ?oc=5\" target=\"_blank\">Рынок игровых предметов ждет регулирование: налоги, крупные площадки и аналитика</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Финансы Mail</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "регулирование",
+      "matched_keywords": [
+        "регулирование"
+      ]
+    },
+    {
+      "title": "Регулирование численности медведей: цифры по Красноярскому краю и Хакасии - ИА Хакасия",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRjB4b0Y0ZFNYYmxQT002LUdFR2lWSEZJbnBWYnVaSWxDaXNPc1hJem1Ed2g3OFpiS2EyZzdacDFSaldyWV91Q0M3dnFDNlFUQU5EUFR4bFc0QzFpdUJhMi1OY3FteFVKcTZKcVo3XzR5VVNSa3J3cXQ5SXc2MUxqVmVIT19fMjdsXzhWc2stWXpsNmRxRXpPUmt4S3BUemphSkVYOFF1SDFuOTlLTk1IZk1yN2JfYjI1?oc=5",
+      "source": "Google News",
+      "published": "2026-11-07T05:45:25",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRjB4b0Y0ZFNYYmxQT002LUdFR2lWSEZJbnBWYnVaSWxDaXNPc1hJem1Ed2g3OFpiS2EyZzdacDFSaldyWV91Q0M3dnFDNlFUQU5EUFR4bFc0QzFpdUJhMi1OY3FteFVKcTZKcVo3XzR5VVNSa3J3cXQ5SXc2MUxqVmVIT19fMjdsXzhWc2stWXpsNmRxRXpPUmt4S3BUemphSkVYOFF1SDFuOTlLTk1IZk1yN2JfYjI1?oc=5\" target=\"_blank\">Регулирование численности медведей: цифры по Красноярскому краю и Хакасии</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ИА Хакасия</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "регулирование",
+      "matched_keywords": [
+        "регулирование"
+      ]
+    },
+    {
+      "title": "Итоги Astana ESG Forum 2026 подвели в столице - 24.kz",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeTFTNm5Tc1B0d1RCV3dfaDdVV3pvcU9aS2YzZU4yYnpkcW5DM1YwX3dYTGthTVJsLW1qWE9rRGhEeDZXS3NueVlWRzVCbHE5N2YxSnVpTzBsMXhRc1EtRm1LWTlOb3AwOTNZSGJfMlVMa2d6d0FUdTdBXzZHTjc5a1JsZGFaZjdfYmfSAY8BQVVfeXFMTkkyNkJqQnIwWjZqTkc0TGRRRWxvTmthako0OGZMZ3BwSlhPNkxmWFZfMkpiZk44MkN4YXB2bzc1U0R4WXRhVk9BTXJsenJ5LTMxVTVnZkhha09aMm5xdHI5RXBPNlVrd0pObGlPaDFrRmhpS0JETnl4eXpXX3lOSVR3Q0dRM2M5SUtnZEpXd00?oc=5",
+      "source": "Google News",
+      "published": "2026-11-07T02:55:54",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPeTFTNm5Tc1B0d1RCV3dfaDdVV3pvcU9aS2YzZU4yYnpkcW5DM1YwX3dYTGthTVJsLW1qWE9rRGhEeDZXS3NueVlWRzVCbHE5N2YxSnVpTzBsMXhRc1EtRm1LWTlOb3AwOTNZSGJfMlVMa2d6d0FUdTdBXzZHTjc5a1JsZGFaZjdfYmfSAY8BQVVfeXFMTkkyNkJqQnIwWjZqTkc0TGRRRWxvTmthako0OGZMZ3BwSlhPNkxmWFZfMkpiZk44MkN4YXB2bzc1U0R4WXRhVk9BTXJsenJ5LTMxVTVnZkhha09aMm5xdHI5RXBPNlVrd0pObGlPaDFrRmhpS0JETnl4eXpXX3lOSVR3Q0dRM2M5SUtnZEpXd00?oc=5\" target=\"_blank\">Итоги Astana ESG Forum 2026 подвели в столице</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24.kz</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ESG",
+      "matched_keywords": [
+        "ESG"
+      ]
+    },
+    {
+      "title": "Искусственный интеллект меняет письменный язык. Авторам приходится писать «более по-человечески», чтобы не выглядеть как ChatGPT. Влияют и такие системы, как Pangram, призванные находить ИИ в текстах - Meduza",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOMVpMQWJlMHJLNFNicTBiVDlMNHRYbThkWXdsVUM3Y0lyYWYyWDF1UUZQcnoxVkxNWkRncE1BZ3lTTXlhN0JmLXBvZGRqenNUUlNIX0tNQlVsVnNRZkQxZ1BEUmRXcEFwbFpCTWRMSjVCR0ZuOGRaZWpwMl9GRmFPMm1Id2dRNXQ3OGh2ZmFCaHRyNG4wSmxIVU5PSng4bzlQZXZORUxCSGwyUEx2dTYya3RILTlhazhHazVKX0lDWWw4U0kyRmd4NFhtX19aNFhBV05Yb0RVY0laUFVJZ1BmU29XRno3cFpKSVBESkg4TG9oWmVQTXBMN3RKX21jamxvU0dvYlpVNmozdWNoMHdwQ09aSUllTUxKMnN6eXdWaE9fZVR1ejdaUVlVa3VnWDgxODBNLVNPejFTMndMOGg4R1dQSVJoSWYxazZvRE5fS1JQeWdX0gHaAkFVX3lxTE5LRHc2ZjZxemhJWWZQbGt0LVYwRERDRmI0NlZaQ0Nlb2x6bzlPYmYzRXRHYlhjekU0VzZIUktCWDFhdlVMLURMWHd5LW4yLVNSbjJTcHlJeFZPQnhqaUxVN2RSclV5WHVjbnNJdEdfT3dBME9Oc0ZtMDVlaFUzYVl0WnV2T3lfZlFmOFF0TWE5bjVsT3VjaEE4WXF3MUUwMm5QLTFsNmU1c2wxNGNvcW5sOWpnVXRaNWFEZlZxMzNWUENFWEpYTElqLXI2R3J4U0tITGE2bHlGc2ZBQzE3N2lacjhWNjI3bVNDZG50d0tEemxNUjRHdUJ2RDB5eTdBY1NGZjBkbjl3RkhEM1lEbmN4NS1XQ1owczFKa0tjeURpR3ZNeUp1MzltUHdfN1lFSUxqUE1mWUZ5OTNVMHdRTzhObFVCUXE5U1JjMzRHWEtiUkppQW8teFJjS0E?oc=5",
+      "source": "Google News",
+      "published": "2026-11-07T14:03:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AJBVV95cUxOMVpMQWJlMHJLNFNicTBiVDlMNHRYbThkWXdsVUM3Y0lyYWYyWDF1UUZQcnoxVkxNWkRncE1BZ3lTTXlhN0JmLXBvZGRqenNUUlNIX0tNQlVsVnNRZkQxZ1BEUmRXcEFwbFpCTWRMSjVCR0ZuOGRaZWpwMl9GRmFPMm1Id2dRNXQ3OGh2ZmFCaHRyNG4wSmxIVU5PSng4bzlQZXZORUxCSGwyUEx2dTYya3RILTlhazhHazVKX0lDWWw4U0kyRmd4NFhtX19aNFhBV05Yb0RVY0laUFVJZ1BmU29XRno3cFpKSVBESkg4TG9oWmVQTXBMN3RKX21jamxvU0dvYlpVNmozdWNoMHdwQ09aSUllTUxKMnN6eXdWaE9fZVR1ejdaUVlVa3VnWDgxODBNLVNPejFTMndMOGg4R1dQSVJoSWYxazZvRE5fS1JQeWdX0gHaAkFVX3lxTE5LRHc2ZjZxemhJWWZQbGt0LVYwRERDRmI0NlZaQ0Nlb2x6bzlPYmYzRXRHYlhjekU0VzZIUktCWDFhdlVMLURMWHd5LW4yLVNSbjJTcHlJeFZPQnhqaUxVN2RSclV5WHVjbnNJdEdfT3dBME9Oc0ZtMDVlaFUzYVl0WnV2T3lfZlFmOFF0TWE5bjVsT3VjaEE4WXF3MUUwMm5QLTFsNmU1c2wxNGNvcW5sOWpnVXRaNWFEZlZxMzNWUENFWEpYTElqLXI2R3J4U0tITGE2bHlGc2ZBQzE3N2lacjhWNjI3bVNDZG50d0tEemxNUjRHdUJ2RDB5eTdBY1NGZjBkbjl3RkhEM1lEbmN4NS1XQ1owczFKa0tjeURpR3ZNeUp1MzltUHdfN1lFSUxqUE1mWUZ5OTNVMHdRTzhObFVCUXE5U1JjMzRHWEtiUkppQW8teFJjS0E?oc=5\" target=\"_blank\">Искусственный интеллект меняет письменный язык. Авторам приходится писать «более по-человечески», чтобы не выглядеть как ChatGPT. Влияют и такие системы, как Pangram, призванные находить ИИ в текстах</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meduza</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "искусственный интеллект",
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Дипфейк вместо начальника: трое иностранцев украли $129 млн в США с помощью ИИ - RTVI",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ3FTR01rV2EwRktqQjNMVmlHeVVHQkFMTmJkUVdJc0tYSHpBMVoyVEtMWXIwbzZjS21rT1FUSUM0MGlrYVl3XzZCNFhndUhPNFFfRkVHdXZ6VjdNdmhia3Jva2dObGpoQjhReURBT2ZiNTllRXFCR21QVGl6X3ZBbmo2c1NrNVlPckJIelk1MERUblhVdUZEUWlZWnZyejc0M2lrejVULW0?oc=5",
+      "source": "Google News",
+      "published": "2026-11-07T08:51:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ3FTR01rV2EwRktqQjNMVmlHeVVHQkFMTmJkUVdJc0tYSHpBMVoyVEtMWXIwbzZjS21rT1FUSUM0MGlrYVl3XzZCNFhndUhPNFFfRkVHdXZ6VjdNdmhia3Jva2dObGpoQjhReURBT2ZiNTllRXFCR21QVGl6X3ZBbmo2c1NrNVlPckJIelk1MERUblhVdUZEUWlZWnZyejc0M2lrejVULW0?oc=5\" target=\"_blank\">Дипфейк вместо начальника: трое иностранцев украли $129 млн в США с помощью ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTVI</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Президент США Трамп объявил ИИ \"суперинтеллектом\", ученые считают новое название вводящим в заблуждение - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWUs1LWZlNUV6dTVKelJBSmJWblhfMk9LZ2ROTkdmSFJ0WU9yOUxHVlFzLUk3R0x5eHV0SU93THB3Y2QzaWt5QkhjVGwtcEoyM3h4ZE5nbEtIdWI1VjhZTGI3eWZ0bm1DS0dxRy0wak4xY250OEJxNGhxVkd2Zmltd3NPcG5oc3I0UTRPcUowMVdLZmhNbmpCcFJQMNIBmwFBVV95cUxOTXp5bFBmNUt3bDIycVp3Z3c0Q0ZmOHpVSmtfVFJvUXlUWERaWW1DdnM0Q2tiQlBSay1iSGVSdHowQ012WlNGOUl0UzRYZUl5Y0xqb0d1dXBnRVM0Mmo5ank0aWo0T2VCaFZyWXdIWHdZTWx6Zk03a2tLendjSDI1TWJMMmRldFYyalQweE5iUFZ5VXNJaTVSZ0p0SQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-07T05:53:26",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOWUs1LWZlNUV6dTVKelJBSmJWblhfMk9LZ2ROTkdmSFJ0WU9yOUxHVlFzLUk3R0x5eHV0SU93THB3Y2QzaWt5QkhjVGwtcEoyM3h4ZE5nbEtIdWI1VjhZTGI3eWZ0bm1DS0dxRy0wak4xY250OEJxNGhxVkd2Zmltd3NPcG5oc3I0UTRPcUowMVdLZmhNbmpCcFJQMNIBmwFBVV95cUxOTXp5bFBmNUt3bDIycVp3Z3c0Q0ZmOHpVSmtfVFJvUXlUWERaWW1DdnM0Q2tiQlBSay1iSGVSdHowQ012WlNGOUl0UzRYZUl5Y0xqb0d1dXBnRVM0Mmo5ank0aWo0T2VCaFZyWXdIWHdZTWx6Zk03a2tLendjSDI1TWJMMmRldFYyalQweE5iUFZ5VXNJaTVSZ0p0SQ?oc=5\" target=\"_blank\">Президент США Трамп объявил ИИ \"суперинтеллектом\", ученые считают новое название вводящим в заблуждение</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DW.com</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Китайский ИИ почти догнал секретную модель OpenAI во взломе сетей — и оказался дешевле - 3DNews",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcGt2cmV2clIzUzhGNTd3TFFCVkhtOGhKQ2pVOTZCbWNTczJ2OWdONkVweFFsaGZ2elhnNlJYQTRVMlU2SjRVNkJfNUp0WmNZUWRTazZzYTh4SmJaZGFaUjJqcUthMGhqLXR5bjU4UWFHaUVDR3NqV2lHejBrV2Y3dGhfbFlwaENacHJlZjZVQWNEVlRJVWhURkpDYklpTTFFTDhYZFYwVkZOV2hHUk1XVXBpTdIBuAFBVV95cUxQMVY2OXpINU5LeWc3R2FlelRGdlptWHpvRFBKV3FFMWVhRms4bDdTYmxISzZyQWV2cTU5RFM0NjlndDhWenhEQlRqR2Q5Y2JFZS1sa21sUlE5YktIN05nTEt4dEtVUGpPQklIVXNQdUVsb2o4eTVlSkNrTU9kNjhxRnZfUS1UY1RraFhIVmd6cFhUZE9TZWhyX0ptXzc4d2xZdmlZS0R1ZXJZSTVGM0gwZkxxVm1heHZS?oc=5",
+      "source": "Google News",
+      "published": "2026-11-07T10:59:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOcGt2cmV2clIzUzhGNTd3TFFCVkhtOGhKQ2pVOTZCbWNTczJ2OWdONkVweFFsaGZ2elhnNlJYQTRVMlU2SjRVNkJfNUp0WmNZUWRTazZzYTh4SmJaZGFaUjJqcUthMGhqLXR5bjU4UWFHaUVDR3NqV2lHejBrV2Y3dGhfbFlwaENacHJlZjZVQWNEVlRJVWhURkpDYklpTTFFTDhYZFYwVkZOV2hHUk1XVXBpTdIBuAFBVV95cUxQMVY2OXpINU5LeWc3R2FlelRGdlptWHpvRFBKV3FFMWVhRms4bDdTYmxISzZyQWV2cTU5RFM0NjlndDhWenhEQlRqR2Q5Y2JFZS1sa21sUlE5YktIN05nTEt4dEtVUGpPQklIVXNQdUVsb2o4eTVlSkNrTU9kNjhxRnZfUS1UY1RraFhIVmd6cFhUZE9TZWhyX0ptXzc4d2xZdmlZS0R1ZXJZSTVGM0gwZkxxVm1heHZS?oc=5\" target=\"_blank\">Китайский ИИ почти догнал секретную модель OpenAI во взломе сетей — и оказался дешевле</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">3DNews</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Исследование: компании массово запускают процесс «ИИ‑рикошета» - Хабр",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3NFZzbEdHTzBSMTRRTUxDSDB6S1JuZlh2Sll1b2h0emtRb244QkhBQnhnSml5M3VGWFZGV2FublItdTBhYl9KNdIBWEFVX3lxTFByR1NWc0hjNUk3STgtQkdiSS1mWVA3c08yUTg0Q2swT2VHakZ1bjJTZXZLaVhFOS1ncGZrTTdhbXQyWlNjcVlZRWZYM1JvMHh2bU5zMnNfUXY?oc=5",
+      "source": "Google News",
+      "published": "2026-11-07T11:57:53",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3NFZzbEdHTzBSMTRRTUxDSDB6S1JuZlh2Sll1b2h0emtRb244QkhBQnhnSml5M3VGWFZGV2FublItdTBhYl9KNdIBWEFVX3lxTFByR1NWc0hjNUk3STgtQkdiSS1mWVA3c08yUTg0Q2swT2VHakZ1bjJTZXZLaVhFOS1ncGZrTTdhbXQyWlNjcVlZRWZYM1JvMHh2bU5zMnNfUXY?oc=5\" target=\"_blank\">Исследование: компании массово запускают процесс «ИИ‑рикошета»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Хабр</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "OpenAI представила ИИ-модель GPT-6 Cyber — нейросеть самостоятельно находит уязвимости в коде - RB.ru",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOTNUVFVIRndpdHdIT1NvMjF1UkNlYWpLMHBlLUVXc1MtcXRVZk00ZjN2dU5xTktzYllQR2hDLTRCOHVGLXVfWlBhR2VtRU5ieFI2Ti01ZzhHRlhkVTMxSDU2RGJjQU5fYzVsSlQyQWN4UUdrVllvX3hVX0EzZHM0eGtmNWNGYTJZY04yODgwWGsxMmRzMzliZGZ2R09RVkF3VVhtVFJnSzZFVW53LUhv?oc=5",
+      "source": "Google News",
+      "published": "2026-11-07T17:00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQOTNUVFVIRndpdHdIT1NvMjF1UkNlYWpLMHBlLUVXc1MtcXRVZk00ZjN2dU5xTktzYllQR2hDLTRCOHVGLXVfWlBhR2VtRU5ieFI2Ti01ZzhHRlhkVTMxSDU2RGJjQU5fYzVsSlQyQWN4UUdrVllvX3hVX0EzZHM0eGtmNWNGYTJZY04yODgwWGsxMmRzMzliZGZ2R09RVkF3VVhtVFJnSzZFVW53LUhv?oc=5\" target=\"_blank\">OpenAI представила ИИ-модель GPT-6 Cyber — нейросеть самостоятельно находит уязвимости в коде</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RB.ru</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Спрогнозировано влияние развития ИИ на гендерный разрыв в карьере - Версия - versia.ru",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdUY2cTdqSVVTY3UtMmF4bDZmazIxbzJMNzNwQzhhUkdwUTUzOE14cU11cHg0eGVpRXdXWGdXNGcwVG1LU2VIaFVfOFl2aGo0QmVZTjdFMEpkMW45UGVGUG0zN2VFYzVRRTM3dk5pdmFHMC1Bdnh2UTFoQTNYVTd1Zjg0OExEVmFwMTRvddIBkgFBVV95cUxOeHdIUTNhTHBDX1FabmZWMFFnbC11blBDaERTMmVHT25mNDdHbzRfQnIyY2MxT2Izc1FDUzdpa3lOYjAzRUp1MWYxdUNIRnZ3cHAzeXlOUHZabFozX1dOdDhNVWRPX2RpSHlkR0drNGlFRnI3Mkh4YXNMSjhDd0FwdGtLeFZOV1BTSGduakRKbDY0Zw?oc=5",
+      "source": "Google News",
+      "published": "2026-11-07T17:23:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPdUY2cTdqSVVTY3UtMmF4bDZmazIxbzJMNzNwQzhhUkdwUTUzOE14cU11cHg0eGVpRXdXWGdXNGcwVG1LU2VIaFVfOFl2aGo0QmVZTjdFMEpkMW45UGVGUG0zN2VFYzVRRTM3dk5pdmFHMC1Bdnh2UTFoQTNYVTd1Zjg0OExEVmFwMTRvddIBkgFBVV95cUxOeHdIUTNhTHBDX1FabmZWMFFnbC11blBDaERTMmVHT25mNDdHbzRfQnIyY2MxT2Izc1FDUzdpa3lOYjAzRUp1MWYxdUNIRnZ3cHAzeXlOUHZabFozX1dOdDhNVWRPX2RpSHlkR0drNGlFRnI3Mkh4YXNMSjhDd0FwdGtLeFZOV1BTSGduakRKbDY0Zw?oc=5\" target=\"_blank\">Спрогнозировано влияние развития ИИ на гендерный разрыв в карьере - Версия</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">versia.ru</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Восстание машин не грозит: эксперт назвал главный реальный риск ИИ - Газета «Республика Татарстан",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRUw5TWNfeVVOWExYdGhpOC1GVS04WVUwY3NSSmt2X1lWOTltZXBfZHpIWkxCRGhqODlBNVNMMHZJeDVMMHRBSlpKejRIc1JxT2txSDJfbzZsR0pIRkxVT043NlJaSW5oc2tQUjdHRVIwZDlDNnViUTZUMEwzd1daRHhiWUZDX2YxMTQwWTZBT2NrSGZEa0tlZXlxczJCZw?oc=5",
+      "source": "Google News",
+      "published": "2026-11-07T16:37:23",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPRUw5TWNfeVVOWExYdGhpOC1GVS04WVUwY3NSSmt2X1lWOTltZXBfZHpIWkxCRGhqODlBNVNMMHZJeDVMMHRBSlpKejRIc1JxT2txSDJfbzZsR0pIRkxVT043NlJaSW5oc2tQUjdHRVIwZDlDNnViUTZUMEwzd1daRHhiWUZDX2YxMTQwWTZBT2NrSGZEa0tlZXlxczJCZw?oc=5\" target=\"_blank\">Восстание машин не грозит: эксперт назвал главный реальный риск ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Газета «Республика Татарстан</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Goldman Sachs запретил трейдерам и другим сотрудникам использовать передовые инструменты ИИ для написания кода - PLUSworld",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00bVZ6QXYzYXIxelRUTXVYTFVKZl96NklvRUtZV2VOUkwtdUc4aG5lNGJZVGoxZ2NrMFVuUnIybVhab213ZzcyMW9icFE?oc=5",
+      "source": "Google News",
+      "published": "2026-11-07T07:29:23",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE00bVZ6QXYzYXIxelRUTXVYTFVKZl96NklvRUtZV2VOUkwtdUc4aG5lNGJZVGoxZ2NrMFVuUnIybVhab213ZzcyMW9icFE?oc=5\" target=\"_blank\">Goldman Sachs запретил трейдерам и другим сотрудникам использовать передовые инструменты ИИ для написания кода</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PLUSworld</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Казахстан и Китай планируют объединить беспилотники и ИИ для предупреждения природных ЧС - НИА «Экология",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BMUxmVHlrRmxLUUNhVXhPNms2WmV1UGthSVlZWkhETHY4M295SUdmZjg1UFdFek5uQUFDZUVWNlFEMklBaE5qSElB?oc=5",
+      "source": "Google News",
+      "published": "2026-11-07T19:00:30",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BMUxmVHlrRmxLUUNhVXhPNms2WmV1UGthSVlZWkhETHY4M295SUdmZjg1UFdFek5uQUFDZUVWNlFEMklBaE5qSElB?oc=5\" target=\"_blank\">Казахстан и Китай планируют объединить беспилотники и ИИ для предупреждения природных ЧС</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">НИА «Экология</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Россиянам рассказали об опасности использования ИИ для работы с документами - Версия - versia.ru",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd0ZPSlpGWHQ0MnFVWW9xdFdQQUJIbF9fU0JyOXF4QU5YYmNkRXNDVklmVDFXamFacjliWEF6bDVSY2hLVUhVQ09HNTJwU25LX0lhanZpZG1jdmc1V2plNWpGUmZoc1FOU25nNy0xWEt5aTZKNUtnNU1TR3ZLN29JWGlENjJpanF6RU9xVnljTUJUYmxpOTQzdXVhRdIBoAFBVV95cUxNdEdTUThkNU5fMHNVQks4bW5mLWJlY0dBTXJJWkwyam8zYVBEd0tfVVlRd1FiM183d1dQU2hpZDFXdkZZTnZUdnpfVEFsNVlFSlFRZmRzdmo4enFrai14QkpMZGJ6UkpkcHNtTTJ1UElVT2JiWWxuY21aZ09vdHN4RTRQSXRYV3laREI2cDMza0JOLWJQeUdMSS1EdFkwS0ZJ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-07T11:06:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQd0ZPSlpGWHQ0MnFVWW9xdFdQQUJIbF9fU0JyOXF4QU5YYmNkRXNDVklmVDFXamFacjliWEF6bDVSY2hLVUhVQ09HNTJwU25LX0lhanZpZG1jdmc1V2plNWpGUmZoc1FOU25nNy0xWEt5aTZKNUtnNU1TR3ZLN29JWGlENjJpanF6RU9xVnljTUJUYmxpOTQzdXVhRdIBoAFBVV95cUxNdEdTUThkNU5fMHNVQks4bW5mLWJlY0dBTXJJWkwyam8zYVBEd0tfVVlRd1FiM183d1dQU2hpZDFXdkZZTnZUdnpfVEFsNVlFSlFRZmRzdmo4enFrai14QkpMZGJ6UkpkcHNtTTJ1UElVT2JiWWxuY21aZ09vdHN4RTRQSXRYV3laREI2cDMza0JOLWJQeUdMSS1EdFkwS0ZJ?oc=5\" target=\"_blank\">Россиянам рассказали об опасности использования ИИ для работы с документами - Версия</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">versia.ru</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Маск назвал единственный способ обойти Китай в сфере ИИ - Реальное время",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcU5EYVEycjh5LUU3VGFQSmlSb2QtRklFYXZzaVNYejBfQWNTTUQ1Vzl0U1pheXU2QndzSFJFM0luWmhOWnBVZGd4UGkwbG5sM1dVVkNWdlNvU3dVbUo4VV9Tb29kYllsbFBxVVlhNUFweV9tUWUyQmt1R0lmdGdhU1dmcTBkNHJMR3Y1RWkwem9RUTZxdmRN?oc=5",
+      "source": "Google News",
+      "published": "2026-11-07T11:10:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQcU5EYVEycjh5LUU3VGFQSmlSb2QtRklFYXZzaVNYejBfQWNTTUQ1Vzl0U1pheXU2QndzSFJFM0luWmhOWnBVZGd4UGkwbG5sM1dVVkNWdlNvU3dVbUo4VV9Tb29kYllsbFBxVVlhNUFweV9tUWUyQmt1R0lmdGdhU1dmcTBkNHJMR3Y1RWkwem9RUTZxdmRN?oc=5\" target=\"_blank\">Маск назвал единственный способ обойти Китай в сфере ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Реальное время</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Старые, неэкологичные авиадвигатели всё более востребованы для электропитания ИИ ЦОД в США - ServerNews",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBDVUx6S0Z3Q2p0VTg4VjhaUmpTZTYxOU9XYXBaeDdwbFhhOEI3QV9PT1JhZ193bzhNOXdFU3VNend2bDQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-07T20:42:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBDVUx6S0Z3Q2p0VTg4VjhaUmpTZTYxOU9XYXBaeDdwbFhhOEI3QV9PT1JhZ193bzhNOXdFU3VNend2bDQ?oc=5\" target=\"_blank\">Старые, неэкологичные авиадвигатели всё более востребованы для электропитания ИИ ЦОД в США</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ServerNews</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Прием заявок на конкурс ИИ-роликов «НейроНаука» завершится 23 ноября - Наука РФ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNU5UbHVBcFAzTHBiSWtYTFpXSldPTUVFV3hfakZaRjRwbENNNDZQMkF5YVh6ZzVIekdUQnRNaTd3WmtTS01xR0I4cFBFeUhXTnVKQXA1Ny1nNkI3c3hoU2dub2pVNHNvaEdKMlVaR3g4LXhTQURMUHl1S0hxVklVeV9XVXFETEpPNjJUQ0NXVDVwYnpHa1NsOGduZzFnS1JMYXZuTGxWY0VOWUFZ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-07T07:36:14",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNNU5UbHVBcFAzTHBiSWtYTFpXSldPTUVFV3hfakZaRjRwbENNNDZQMkF5YVh6ZzVIekdUQnRNaTd3WmtTS01xR0I4cFBFeUhXTnVKQXA1Ny1nNkI3c3hoU2dub2pVNHNvaEdKMlVaR3g4LXhTQURMUHl1S0hxVklVeV9XVXFETEpPNjJUQ0NXVDVwYnpHa1NsOGduZzFnS1JMYXZuTGxWY0VOWUFZ?oc=5\" target=\"_blank\">Прием заявок на конкурс ИИ-роликов «НейроНаука» завершится 23 ноября</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Наука РФ</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Tencent создала ИИ, который умеет работать в CAD и Blender без постоянных подсказок - SecurityLab.ru",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KNmc4MWpNYnpFYVQ2WXZiSm5PZmtPQi1Ya3JlYzcyRVdZbzVvZW9tTnEzUDF6Q1dQOW9weFlob2VsM1JTWGozTFpBRy1hMU1TcmJncg?oc=5",
+      "source": "Google News",
+      "published": "2026-11-07T09:45:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KNmc4MWpNYnpFYVQ2WXZiSm5PZmtPQi1Ya3JlYzcyRVdZbzVvZW9tTnEzUDF6Q1dQOW9weFlob2VsM1JTWGozTFpBRy1hMU1TcmJncg?oc=5\" target=\"_blank\">Tencent создала ИИ, который умеет работать в CAD и Blender без постоянных подсказок</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SecurityLab.ru</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    }
+  ],
+  "groups": {
+    "by_source": {
+      "Habr_AI": 18,
+      "3DNews": 3,
+      "Google News": 18
+    },
+    "by_category": {
+      "tech_news": 21,
+      "google_news": 18
+    },
+    "by_keyword": {
+      "ИИ": 30,
+      "AI": 9,
+      "регулирование": 2,
+      "ESG": 1,
+      "искусственный интеллект": 1
+    }
+  }
+}
