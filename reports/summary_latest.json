@@ -1,94 +1,93 @@
 {
-  "timestamp": "2026-11-07_14-56",
-  "total_articles": 57,
+  "timestamp": "2026-11-07_20-45",
+  "total_articles": 40,
   "sources": {
-    "Ведомости": 1,
-    "Habr_AI": 20,
-    "3DNews": 7,
-    "Google News": 29
+    "Habr_AI": 18,
+    "3DNews": 4,
+    "Google News": 18
   },
   "top_keywords": [
     [
       "ИИ",
-      39
+      29
     ],
     [
       "AI",
-      9
-    ],
-    [
-      "ESG",
-      7
-    ],
-    [
-      "регулирование",
-      5
+      8
     ],
     [
       "искусственный интеллект",
+      2
+    ],
+    [
+      "регулирование",
+      2
+    ],
+    [
+      "ESG",
       2
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Я отдал Директу 200 тысяч рублей и понял, что AI-продавца надо раздавать бесплатно",
+      "title": "Спрогнозировано влияние развития ИИ на гендерный разрыв в карьере - Версия - versia.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdUY2cTdqSVVTY3UtMmF4bDZmazIxbzJMNzNwQzhhUkdwUTUzOE14cU11cHg0eGVpRXdXWGdXNGcwVG1LU2VIaFVfOFl2aGo0QmVZTjdFMEpkMW45UGVGUG0zN2VFYzVRRTM3dk5pdmFHMC1Bdnh2UTFoQTNYVTd1Zjg0OExEVmFwMTRvddIBkgFBVV95cUxOeHdIUTNhTHBDX1FabmZWMFFnbC11blBDaERTMmVHT25mNDdHbzRfQnIyY2MxT2Izc1FDUzdpa3lOYjAzRUp1MWYxdUNIRnZ3cHAzeXlOUHZabFozX1dOdDhNVWRPX2RpSHlkR0drNGlFRnI3Mkh4YXNMSjhDd0FwdGtLeFZOV1BTSGduakRKbDY0Zw?oc=5",
+      "published": "2026-11-07T17:23:00"
+    },
+    {
+      "title": "OpenAI представила ИИ-модель GPT-6 Cyber — нейросеть самостоятельно находит уязвимости в коде - RB.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOTNUVFVIRndpdHdIT1NvMjF1UkNlYWpLMHBlLUVXc1MtcXRVZk00ZjN2dU5xTktzYllQR2hDLTRCOHVGLXVfWlBhR2VtRU5ieFI2Ti01ZzhHRlhkVTMxSDU2RGJjQU5fYzVsSlQyQWN4UUdrVllvX3hVX0EzZHM0eGtmNWNGYTJZY04yODgwWGsxMmRzMzliZGZ2R09RVkF3VVhtVFJnSzZFVW53LUhv?oc=5",
+      "published": "2026-11-07T17:00:00"
+    },
+    {
+      "title": "Нейроответ Google появляется почти под каждым запросом в поиске. Что это значит для продвижения в ответах ИИ",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1104876/?utm_campaign=1104876&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-07T11:39:02"
+      "url": "https://habr.com/ru/articles/1104954/?utm_campaign=1104954&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-07T16:42:27"
+    },
+    {
+      "title": "Восстание машин не грозит: эксперт назвал главный реальный риск ИИ - Газета «Республика Татарстан",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRUw5TWNfeVVOWExYdGhpOC1GVS04WVUwY3NSSmt2X1lWOTltZXBfZHpIWkxCRGhqODlBNVNMMHZJeDVMMHRBSlpKejRIc1JxT2txSDJfbzZsR0pIRkxVT043NlJaSW5oc2tQUjdHRVIwZDlDNnViUTZUMEwzd1daRHhiWUZDX2YxMTQwWTZBT2NrSGZEa0tlZXlxczJCZw?oc=5",
+      "published": "2026-11-07T16:37:23"
+    },
+    {
+      "title": "ИИ-агенты решили 99,4% задач. Но сначала 23 инженера 404 часа чинили сам экзамен",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1104950/?utm_campaign=1104950&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-07T16:29:52"
+    },
+    {
+      "title": "Шифр на кубике Рубика: как девять ИИ решали одну задачу",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1104940/?utm_campaign=1104940&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-07T15:56:23"
+    },
+    {
+      "title": "TSMC не хочет заниматься памятью, даже если просит Nvidia — компания ответила на слухи о выпуске DRAM",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151003",
+      "published": "2026-11-07T15:08:00"
     },
     {
       "title": "Рынок игровых предметов ждет регулирование: налоги, крупные площадки и аналитика - Финансы Mail",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR1BSMGRZandpVXk3S1M2NVBMcHBoNUNPRXAyWWQ5VEhZb21FVmhTOXAwZHNSQWhVQWhTUHM1MlJFNS1TQkhueXNMY3FGZzlmbjU5bVRTanl4cmdvQmsxcnhKRXJZOWdGbFNqSDRhZjBJMUFCSVBMeWd6WEpTZko3eWk0TFZIWmREZk5DSjc5X3pOTVlGUU92VnZVbzRfVTZ1N3ZXSndPTQ?oc=5",
-      "published": "2026-11-07T11:13:40"
+      "published": "2026-11-07T15:00:00"
     },
     {
-      "title": "Маск назвал единственный способ обойти Китай в сфере ИИ - Реальное время",
+      "title": "Искусственный интеллект меняет письменный язык. Авторам приходится писать «более по-человечески», чтобы не выглядеть как ChatGPT. Влияют и такие системы, как Pangram, призванные находить ИИ в текстах - Meduza",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcU5EYVEycjh5LUU3VGFQSmlSb2QtRklFYXZzaVNYejBfQWNTTUQ1Vzl0U1pheXU2QndzSFJFM0luWmhOWnBVZGd4UGkwbG5sM1dVVkNWdlNvU3dVbUo4VV9Tb29kYllsbFBxVVlhNUFweV9tUWUyQmt1R0lmdGdhU1dmcTBkNHJMR3Y1RWkwem9RUTZxdmRN?oc=5",
-      "published": "2026-11-07T11:10:00"
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOMVpMQWJlMHJLNFNicTBiVDlMNHRYbThkWXdsVUM3Y0lyYWYyWDF1UUZQcnoxVkxNWkRncE1BZ3lTTXlhN0JmLXBvZGRqenNUUlNIX0tNQlVsVnNRZkQxZ1BEUmRXcEFwbFpCTWRMSjVCR0ZuOGRaZWpwMl9GRmFPMm1Id2dRNXQ3OGh2ZmFCaHRyNG4wSmxIVU5PSng4bzlQZXZORUxCSGwyUEx2dTYya3RILTlhazhHazVKX0lDWWw4U0kyRmd4NFhtX19aNFhBV05Yb0RVY0laUFVJZ1BmU29XRno3cFpKSVBESkg4TG9oWmVQTXBMN3RKX21jamxvU0dvYlpVNmozdWNoMHdwQ09aSUllTUxKMnN6eXdWaE9fZVR1ejdaUVlVa3VnWDgxODBNLVNPejFTMndMOGg4R1dQSVJoSWYxazZvRE5fS1JQeWdX0gHaAkFVX3lxTE5LRHc2ZjZxemhJWWZQbGt0LVYwRERDRmI0NlZaQ0Nlb2x6bzlPYmYzRXRHYlhjekU0VzZIUktCWDFhdlVMLURMWHd5LW4yLVNSbjJTcHlJeFZPQnhqaUxVN2RSclV5WHVjbnNJdEdfT3dBME9Oc0ZtMDVlaFUzYVl0WnV2T3lfZlFmOFF0TWE5bjVsT3VjaEE4WXF3MUUwMm5QLTFsNmU1c2wxNGNvcW5sOWpnVXRaNWFEZlZxMzNWUENFWEpYTElqLXI2R3J4U0tITGE2bHlGc2ZBQzE3N2lacjhWNjI3bVNDZG50d0tEemxNUjRHdUJ2RDB5eTdBY1NGZjBkbjl3RkhEM1lEbmN4NS1XQ1owczFKa0tjeURpR3ZNeUp1MzltUHdfN1lFSUxqUE1mWUZ5OTNVMHdRTzhObFVCUXE5U1JjMzRHWEtiUkppQW8teFJjS0E?oc=5",
+      "published": "2026-11-07T14:03:00"
     },
     {
-      "title": "Россиянам рассказали об опасности использования ИИ для работы с документами - Версия - versia.ru",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd0ZPSlpGWHQ0MnFVWW9xdFdQQUJIbF9fU0JyOXF4QU5YYmNkRXNDVklmVDFXamFacjliWEF6bDVSY2hLVUhVQ09HNTJwU25LX0lhanZpZG1jdmc1V2plNWpGUmZoc1FOU25nNy0xWEt5aTZKNUtnNU1TR3ZLN29JWGlENjJpanF6RU9xVnljTUJUYmxpOTQzdXVhRdIBoAFBVV95cUxNdEdTUThkNU5fMHNVQks4bW5mLWJlY0dBTXJJWkwyam8zYVBEd0tfVVlRd1FiM183d1dQU2hpZDFXdkZZTnZUdnpfVEFsNVlFSlFRZmRzdmo4enFrai14QkpMZGJ6UkpkcHNtTTJ1UElVT2JiWWxuY21aZ09vdHN4RTRQSXRYV3laREI2cDMza0JOLWJQeUdMSS1EdFkwS0ZJ?oc=5",
-      "published": "2026-11-07T11:06:00"
-    },
-    {
-      "title": "Китайский ИИ почти догнал секретную модель OpenAI во взломе сетей — и оказался дешевле",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1150999",
-      "published": "2026-11-07T10:59:00"
-    },
-    {
-      "title": "Китайский ИИ почти догнал секретную модель OpenAI во взломе сетей — и оказался дешевле - 3DNews",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE04NGZyZ2RIaG4wa2dnRzI1eHpHdTZLY2tGeG5ESkhoRjR3bmMxdnJuM3dCWmdYcE92T1Q0Wndn0gG4AUFVX3lxTFAxVjY5ekg1Tkt5ZzdHYWV6VEZ2Wm1Yem9EUEpXcUUxZWFGazhsN1NibEhLNnJBZXZxNTlEUzQ2OWd0OFZ6eERCVGpHZDljYkVlLWxrbWxSUTliS0g3TmdMS3h0S1VQak9CSUhVc1B1RWxvajh5NWVKQ2tNT2Q2OHFGdl9RLVRjVGtoWEhWZ3pwWFRkT1NlaHJfSm1fNzh3bFl2aVlLRHVlcllJNUYzSDBmTHFWbWF4dlI?oc=5",
-      "published": "2026-11-07T10:59:00"
-    },
-    {
-      "title": "Рекурсивный Imago Dei: ИИ как продолжение Творения через человека",
+      "title": "Нейросети в MAX за рубли: что решить до первого платежа",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1104864/?utm_campaign=1104864&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-07T10:56:28"
-    },
-    {
-      "title": "Не DeepSeek единым: 4 китайских ИИ-проекта, о которых стоит знать",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/timeweb/articles/1103120/?utm_campaign=1103120&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-07T10:05:44"
-    },
-    {
-      "title": "ИИ позволяет перестроить саму организацию экспертной работы - Выбор народа",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUnUzOHhmQ3hNWE1PX2Vyb2laeVlFcl9YeHVMc1owZ2cydmRzTEEzRlF3MThJUTRUMHJnbl9Ld3kwMnU5OVVPN2lBZi03WkJPWjFFMDkzQUttMkNtcVdsLUs2N0VfaFQ4ckV0bVY0Ykd2NEJVbmJRaDFTT3dkS1FSQko1eHM5WERvZ1FPbGxzcWhONmppdlBOc002bHFuakFtelQwOUdoa1I4SWhzRTk5Rw?oc=5",
-      "published": "2026-11-07T09:41:16"
-    },
-    {
-      "title": "Claude Code без Anthropic: заводим агента на GLM-5.3 и Qwen через свой шлюз и собираем грабли",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1104826/?utm_campaign=1104826&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-07T09:17:00"
+      "url": "https://habr.com/ru/articles/1104888/?utm_campaign=1104888&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-07T12:46:01"
     }
   ]
 }
