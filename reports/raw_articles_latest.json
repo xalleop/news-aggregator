@@ -1,7 +1,19 @@
 {
-  "timestamp": "2026-11-08_20-56",
-  "total_articles": 36,
+  "timestamp": "2026-11-09_01-26",
+  "total_articles": 39,
   "articles": [
+    {
+      "title": "Трамп опубликовал ИИ-мультфильм с Уайтом в роли пресс-секретаря Белого дома",
+      "url": "https://www.vedomosti.ru/politics/news/2026/11/08/1243528-tramp-opublikoval-ii-multfilm",
+      "source": "Ведомости",
+      "published": "2026-11-08T18:18:54",
+      "description": "",
+      "tags": [],
+      "category": "general_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
     {
       "title": "Британские госорганы столкнулись с ростом числа созданных ИИ обращений",
       "url": "https://www.vedomosti.ru/politics/news/2026/11/08/1243476-britanskie-gosorgani",
@@ -30,7 +42,37 @@
       ]
     },
     {
-      "title": "От предложений LLM к управляемому исполнению: опыт разработки AI-агента",
+      "title": "Вайбкодинг закончился, когда пришёл второй пользователь",
+      "url": "https://habr.com/ru/articles/1101952/?utm_campaign=1101952&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-08T21:55:25",
+      "description": "<img src=\"https://habrastorage.org/extt/c1/ad/a8/c1ada8222f71d13bf432c236da487406.jpg\" /><p>Друг принёс Telegram-бота, собранного с помощью ИИ: видео обрабатываются, кнопки работают, осталось арендовать сервер. Потом выяснилось, что параллельное приложение умеет параллельно ждать одну блокировку, а двенадцать обработчиков иногда медленнее пяти. Рассказываю, как мы превращали вайбкод в сервис: от SQLite до PostgreSQL, очередей, общего хранилища и деплоя по кнопке. И почему промпт «сделай хорошо» всё ещё не заменяет инженерные знания.</p> <a href=\"https://habr.com/ru/articles/1101952/?utm_campaign=1101952&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Впустить второго пользователя</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "AI для PHP‑разработчиков. Часть 8: Свёрточные нейронные сети: ищем границы на изображениях с помощью чистого PHP",
+      "url": "https://habr.com/ru/articles/1105232/?utm_campaign=1105232&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-08T21:17:35",
+      "description": "<img src=\"https://habrastorage.org/extt/f2/5e/97/f25e9718b932907e58557e0f6f9a5d92.png\" /><p>Компьютер не видит фотографию так, как её видит человек. Для него изображение – это набор чисел, описывающих яркость и цвет отдельных пикселей. И чтобы научиться распознавать объекты, находить границы или определять визуальные признаки, нужно научиться работать с этими числами.</p><p>Для решения таких задач используются свёрточные нейронные сети (Convolutional Neural Networks, CNN). Они широко применяются в компьютерном зрении – от распознавания объектов до анализа медицинских изображений.</p><p>Одна из основных операций таких сетей – свёртка (convolution). С её помощью сеть анализирует небольшие участки изображения и обнаруживает локальные признаки: границы, линии, текстуры и другие структуры.</p><p>Но как именно это работает?</p> <a href=\"https://habr.com/ru/articles/1105232/?utm_campaign=1105232&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "От предложений LLM к управляемому исполнению: опыт разработки AI‑агента",
       "url": "https://habr.com/ru/articles/1105178/?utm_campaign=1105178&utm_source=habrahabr&utm_medium=rss",
       "source": "Habr_AI",
       "published": "2026-11-08T17:47:13",
@@ -75,7 +117,7 @@
       ]
     },
     {
-      "title": "Нейросетевая чертовщина 2026 года и странные артефакты машинного разума",
+      "title": "Нейросетевая чертовщина 2026 года и странные артефакты машинного разума",
       "url": "https://habr.com/ru/articles/1105146/?utm_campaign=1105146&utm_source=habrahabr&utm_medium=rss",
       "source": "Habr_AI",
       "published": "2026-11-08T16:04:02",
@@ -241,33 +283,17 @@
       ]
     },
     {
-      "title": "Быстрее, проще, глупее: скрытая цена ИИ‑помощников",
-      "url": "https://habr.com/ru/articles/1104974/?utm_campaign=1104974&utm_source=habrahabr&utm_medium=rss",
-      "source": "Habr_AI",
-      "published": "2026-11-07T19:09:03",
-      "description": "<img src=\"https://habrastorage.org/extt/26/5d/81/265d81cbacf5180a48a1f346435173a2.png\" /><p>Мы привыкли считать, что хороший интерфейс — это интерфейс, который снимает с человека лишнее умственное усилие. Для обычного продукта это верно: пользователь пришёл решить задачу, а не научиться чему-то. С ИИ-ассистентами эта логика перестаёт работать. Они убирают не только лишнее усилие, но и ту работу с материалом, из которой складывается навык. Разберёмся, какая нагрузка мешает, какая нужна и почему продукту с ИИ одного снижения внешней нагрузки мало.</p> <a href=\"https://habr.com/ru/articles/1104974/?utm_campaign=1104974&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "title": "Новая статья: Мастерская локальных ИИ: FLUX 3 Image Klein — рамки под контролем",
+      "url": "https://3dnews.ru/1151006",
+      "source": "3DNews",
+      "published": "2026-11-08T21:00:00",
+      "description": "<img align=\"left\" border=\"0\" height=\"85\" hspace=\"10\" src=\"https://cdn.3dnews.ru/assets/external/icons/2026/11/07/1151006.jpg\" width=\"120\" />Хорошим выйдет рисунок или нет, во многом определяет его композиция, контролировать которую в ходе ИИ-генерации чаще всего затруднительно",
       "tags": [
-        "ai",
-        "ml"
+        "tech",
+        "hardware"
       ],
       "category": "tech_news",
       "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Затестил Kimi AI, Qwen, DeepSeek и Grok на работе с текстами. Делюсь результатами",
-      "url": "https://habr.com/ru/articles/1104964/?utm_campaign=1104964&utm_source=habrahabr&utm_medium=rss",
-      "source": "Habr_AI",
-      "published": "2026-11-07T18:08:56",
-      "description": "<img src=\"https://habrastorage.org/extt/56/e7/9a/56e79aeff0265d0bb179671ad0cf4e09.jpg\" /><p>Нейросеть получает статью на редактуру и возвращает гладкий текст, в котором автора уже не узнать. В <a href=\"https://abdulhaim.github.io/documents/LLM_Homogenization_Project.pdf\" rel=\"noopener nofollow\">препринте 2026 года</a> исследователи из Berkeley, Google DeepMind и других организаций показали, что ИИ-модели меняют смысл текста, даже когда их просят исправить только грамматику. Kimi AI, Qwen, DeepSeek и Grok всё чаще пробуют для текстов вместо ChatGPT, и выбирать среди них редактора на глаз рискованно.</p><p>По умолчанию нейросеть, которой дали текст на редактуру, переписывает его, хотя просили только править. Ограничить её можно только жёстким промптом и сравнением версий. Модели для редактуры надо сравнивать по тому, какую долю текста они изменили и сохранился ли смысл, а не по впечатлению, что стало лучше.</p> <a href=\"https://habr.com/ru/articles/1104964/?utm_campaign=1104964&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
-      "tags": [
-        "ai",
-        "ml"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "AI",
         "ИИ"
       ]
     },
@@ -277,6 +303,21 @@
       "source": "3DNews",
       "published": "2026-11-08T17:05:00",
       "description": "Компания Robocurve провела два исследования, в ходе которых выяснилось, что ИИ-модели при тестировании на реальных роботизированных манипуляторах крайне редко отказываются от выполнения опасных заданий в отличие от общения в онлайне. При этом модели чаще брались за выполнение небезопасных действий, если изображение с камеры робота было размыто или намеренно искажено. В сентябре Robocurve, занимающаяся независимой оценкой систем ИИ и робототехники, представила результаты первого исследования &mdash; бенчмарка RoboHarm. В нём были протестированы модели Claude Fable 5.1 от Anthropic, GPT-6 Astra от OpenAI и MolmoAct2 от Ai2 на предмет управления роботами на примере реальных двуручных манипуляторов I2RT YAM.",
+      "tags": [
+        "tech",
+        "hardware"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Nokia: к 2035 году на долю ИИ придётся почти половина мирового сетевого трафика",
+      "url": "https://3dnews.ru/1151014",
+      "source": "3DNews",
+      "published": "2026-11-08T20:57:00",
+      "description": "Компания Nokia прогнозирует масштабные изменения в структуре глобального сетевого трафика под влиянием ИИ. Наблюдающаяся тенденция создаст серьёзные технологические вызовы из-за специфики работы нейросетевых систем, включая высокую нагрузку на восходящие каналы связи. Финский технологический гигант ожидает, что вплоть до 2035-го ежегодный рост глобального трафика составит около 28 %. В результате, к середине следующего десятилетия объём передаваемых данных увеличится почти в четыре раза и достигнет 3789 Эбайт/мес. На долю трафика, связанного с ИИ, придется 44 % от этого значения, что эквивалентно примерно 1681 Эбайт/мес. Оставшаяся часть сетевой нагрузки сохранит традиционный характер и не будет иметь отношения к интеллектуальным системам.",
       "tags": [
         "tech",
         "hardware"
@@ -332,6 +373,21 @@
       ]
     },
     {
+      "title": "Победа демократов обрушила акции ИИ-инфраструктуры - Ведомости",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNejVqMVZ6ZDRFb244ajNmaE92MkdRR1ZMNGZXdk05aElOd2hHVm53ZjdDUXlnaGt5bDkwYzZVZTBBdWVaNktwY2ZXb3RaX3U0TVprMUtzRGVLNjc3bDhHblJkbERjUUNuT3dTUmJIVEk0aVB2UnpUcUpTNVNUOUxCd0ZPdnJjU1RaNm55RGpXclB2SmZKeTdn?oc=5",
+      "source": "Google News",
+      "published": "2026-11-08T21:05:35",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNejVqMVZ6ZDRFb244ajNmaE92MkdRR1ZMNGZXdk05aElOd2hHVm53ZjdDUXlnaGt5bDkwYzZVZTBBdWVaNktwY2ZXb3RaX3U0TVprMUtzRGVLNjc3bDhHblJkbERjUUNuT3dTUmJIVEk0aVB2UnpUcUpTNVNUOUxCd0ZPdnJjU1RaNm55RGpXclB2SmZKeTdn?oc=5\" target=\"_blank\">Победа демократов обрушила акции ИИ-инфраструктуры</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ведомости</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
       "title": "«Крестный отец» ИИ спрогнозировал глобальную катастрофу - ВФокусе Mail",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ2F4TGdUMFdoMWRhOXhHYVhLVWpmMW8tZnVPOU1NSjR2aW1KZkw5Zi12UUFVZFVXUVdfZVlEX0M1OEhIakZ4Z2l3U3h2UEsycjlCY0RYMkZTeVdUM0hQRUNLaHJLT29CX0Z1S1d2OVhUeUYwU3Zwa251ZGFEM1RfeW11a3FaRVY0QVdIUkYyVGYyVU9hQUc5cEx1ZzY?oc=5",
       "source": "Google News",
@@ -362,33 +418,18 @@
       ]
     },
     {
-      "title": "Лауреат Нобелевской премии предупредил о риске катастрофы масштаба Чернобыля из-за ИИ - Naked Science",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BYTdBcFJFMDF3ai0yOWdZTnZtMFlGRTJodHBINmlhdlgxV05yMzJXN29MRGxiODZZTG9VU1NzanlsOWNOOWRBdW9fMm1ZNmF5SURpdg?oc=5",
+      "title": "В Турции создают «стальной купол» для цензуры СМИ: искусственный интеллект будет отслеживать более 800 телеканалов и интернет-платформы - The Insider",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9iR2laNFVFNVBIRlVyZ1ZhMEtidXFtX2dqLVhWTzdXVjZjTmRmRlpMeXVVV0lWQmh0N0thWmZ6d0tadFU?oc=5",
       "source": "Google News",
-      "published": "2026-11-08T08:44:07",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BYTdBcFJFMDF3ai0yOWdZTnZtMFlGRTJodHBINmlhdlgxV05yMzJXN29MRGxiODZZTG9VU1NzanlsOWNOOWRBdW9fMm1ZNmF5SURpdg?oc=5\" target=\"_blank\">Лауреат Нобелевской премии предупредил о риске катастрофы масштаба Чернобыля из-за ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Naked Science</font>",
+      "published": "2026-11-08T19:57:37",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9iR2laNFVFNVBIRlVyZ1ZhMEtidXFtX2dqLVhWTzdXVjZjTmRmRlpMeXVVV0lWQmh0N0thWmZ6d0tadFU?oc=5\" target=\"_blank\">В Турции создают «стальной купол» для цензуры СМИ: искусственный интеллект будет отслеживать более 800 телеканалов и интернет-платформы</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Insider</font>",
       "tags": [
         "google_news"
       ],
       "category": "google_news",
       "search_topic": "ИИ",
       "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "ИИ-бумеранг: как бизнес возвращает сотрудников, которых заменили нейросети - Ведомости",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWnI1YmN6My1xZmNGTGJaRWh0czVXb0ZDMUVKeDY4OTdJOW1iYVJKd2FHY2F5SUgwZWg4cGduZW9CNGpOaEZhdGozUFJoVVZPNVN2U1ZrYnhHYjJENUlSR3pCbjVKa0U2eFBhb2UtWGF3ZDBteVQ0RmpZY2R6LXBOZ1NFY1FieGctc1BhQVVUSkp5UURwWllCZjB0ZGdVcF9z?oc=5",
-      "source": "Google News",
-      "published": "2026-11-08T05:09:11",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOWnI1YmN6My1xZmNGTGJaRWh0czVXb0ZDMUVKeDY4OTdJOW1iYVJKd2FHY2F5SUgwZWg4cGduZW9CNGpOaEZhdGozUFJoVVZPNVN2U1ZrYnhHYjJENUlSR3pCbjVKa0U2eFBhb2UtWGF3ZDBteVQ0RmpZY2R6LXBOZ1NFY1FieGctc1BhQVVUSkp5UURwWllCZjB0ZGdVcF9z?oc=5\" target=\"_blank\">ИИ-бумеранг: как бизнес возвращает сотрудников, которых заменили нейросети</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ведомости</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
+        "искусственный интеллект"
       ]
     },
     {
@@ -397,6 +438,21 @@
       "source": "Google News",
       "published": "2026-11-08T16:58:31",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE0xVi1UYS1HM1dIRGp2S3hRLTUtM3NSN1lnamQ4NTRzYlBzOGtxSW5mSmpIekxqV1kxaXFaaUJpc1REUlZs0gFKQVVfeXFMUERINWJUdjlMbjZteUMxRVlleUprcW41di10c0dsS3dSblNNWVZlVUVTbDFOTFpiNzdlY0J5bWJSUk55N1Y0dUNNYkE?oc=5\" target=\"_blank\">Guardian: госорганы Великобритании столкнулись с ростом числа созданных ИИ обращений</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BFM.ru</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Nokia: к 2035 году на долю ИИ придётся почти половина мирового сетевого трафика - ServerNews",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5fOVo3RlRNQnVaYjlVME5Xbl92dTRRdnVNZ3ZlaUlQTVg5aHlPZXE2blA5elRwUDB6a01YZUdZZWJ2a2s?oc=5",
+      "source": "Google News",
+      "published": "2026-11-08T20:57:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5fOVo3RlRNQnVaYjlVME5Xbl92dTRRdnVNZ3ZlaUlQTVg5aHlPZXE2blA5elRwUDB6a01YZUdZZWJ2a2s?oc=5\" target=\"_blank\">Nokia: к 2035 году на долю ИИ придётся почти половина мирового сетевого трафика</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ServerNews</font>",
       "tags": [
         "google_news"
       ],
@@ -422,26 +478,11 @@
       ]
     },
     {
-      "title": "Искусственный интеллект теперь будет следить и за заснеженностью владимирских дорог - Зебра ТВ",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOHVYcGVUOHltOTdXVVZINHZRal9Nc21ZanMtMnVMbVlJY2RVVGxuSDQ3U2VwWGo1MXZMMklBZlpULXpVTkVWZFN2ZXQwQ3ZnUGlEUDRhdEpYV3I4aTZoU2F4N0VqNWVRRExtMTNPZmNuU3VGQ0U3bThiRU40MzE0SjZfTDYxUUd4WnhwVWdnWDk3Q3gwQmtfUFp0dDFlNnZod3RlYmxiTmVXR0QwRHQybXI0Q0lGNnc1cVE?oc=5",
+      "title": "Мастерская локальных ИИ: FLUX 3 Image Klein — рамки под контролем - 3DNews",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRbV8wSEZ4V3kyVUVrTUNuRDBMcTV3TTdnWEhfTzVlUXlQbUpuSXV4Sm9rMjBWVlljRUxkaHNSWG51eDB3NUw1S3lkX2JMdi1ZbzE0bVpDa1Atajh2eDZmZGRaaHFXUTQ?oc=5",
       "source": "Google News",
-      "published": "2026-11-08T09:30:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPOHVYcGVUOHltOTdXVVZINHZRal9Nc21ZanMtMnVMbVlJY2RVVGxuSDQ3U2VwWGo1MXZMMklBZlpULXpVTkVWZFN2ZXQwQ3ZnUGlEUDRhdEpYV3I4aTZoU2F4N0VqNWVRRExtMTNPZmNuU3VGQ0U3bThiRU40MzE0SjZfTDYxUUd4WnhwVWdnWDk3Q3gwQmtfUFp0dDFlNnZod3RlYmxiTmVXR0QwRHQybXI0Q0lGNnc1cVE?oc=5\" target=\"_blank\">Искусственный интеллект теперь будет следить и за заснеженностью владимирских дорог</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Зебра ТВ</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "искусственный интеллект"
-      ]
-    },
-    {
-      "title": "В России разрешат обучать ИИ на произведениях без отдельного согласия правообладателей - spbdnevnik.ru",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUG45REhueWREX0E0NHpWa2JXRy0zY1JXZjZjVHBWempfLS0zZUszN2NnekRqdVhmaHpzLVlabGhPWXhpTkF6YXRPUnRtbmJVTUtoUjEwWl9TblhPWjFJOExVckZJbnA1bDh3TjNqZ0ttaUZtaHhnZHU1MW9kakVTUE1FQkVZRlYtbjI2ajRIeDczUzVCOE9KWFF5RHVZUmEyQjJOa2tTcEJBX0N0UERsazRXcDJBRTVyWXhoa1hLTDVUZw?oc=5",
-      "source": "Google News",
-      "published": "2026-11-08T15:10:54",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUG45REhueWREX0E0NHpWa2JXRy0zY1JXZjZjVHBWempfLS0zZUszN2NnekRqdVhmaHpzLVlabGhPWXhpTkF6YXRPUnRtbmJVTUtoUjEwWl9TblhPWjFJOExVckZJbnA1bDh3TjNqZ0ttaUZtaHhnZHU1MW9kakVTUE1FQkVZRlYtbjI2ajRIeDczUzVCOE9KWFF5RHVZUmEyQjJOa2tTcEJBX0N0UERsazRXcDJBRTVyWXhoa1hLTDVUZw?oc=5\" target=\"_blank\">В России разрешат обучать ИИ на произведениях без отдельного согласия правообладателей</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">spbdnevnik.ru</font>",
+      "published": "2026-11-08T21:00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRbV8wSEZ4V3kyVUVrTUNuRDBMcTV3TTdnWEhfTzVlUXlQbUpuSXV4Sm9rMjBWVlljRUxkaHNSWG51eDB3NUw1S3lkX2JMdi1ZbzE0bVpDa1Atajh2eDZmZGRaaHFXUTQ?oc=5\" target=\"_blank\">Мастерская локальных ИИ: FLUX 3 Image Klein — рамки под контролем</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">3DNews</font>",
       "tags": [
         "google_news"
       ],
@@ -467,11 +508,11 @@
       ]
     },
     {
-      "title": "Почему ИИ ведет себя по‑разному: ученые нашли математическую причину - Наука Mail",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLU03TlV4VG1JZnNoQlNtcTNtRFhEdjdpR1hvZHJrS0IzdkhSUmpoVGhNbmtTRlNQQlA5WkJPX3laSnVqZWJCaGdsXzQ0OS1MSVFyQXNyZjNqRXowc2ZXSW9GWlM3S1gwUF9yemx5LTBDa1ppVldvN2hVeGJ0d3BoQlZlZGhfSzFMVE5kRFZ3SXdBRmZoMlVFSWdEMnJBeTQxSFE4M2NpX0dRLUtkQkE?oc=5",
+      "title": "Создал игру, чтобы играть в нее против ИИ-агентов и ни разу не выиграл - Хабр",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1sdGR2VWNhanE1Q3d3aXJjT1pYYkJ5bEt3Tkk2QkhOaGQ5N2E5UFB2eW9KZGdWSHk2ODlKczVVRUZhUlFnZGVCb0VVRzliQdIBWEFVX3lxTE91LTgzVWY3c3FPc2tuTmZaMVJUZFlIRlhtWWp3eld5YlNjYUd1NUk3LVo2cm44dFZsYjVHb3JteFFfeHQ4Vm84OXdEM1lxb1ZHV3VBdjV3VVI?oc=5",
       "source": "Google News",
-      "published": "2026-11-08T12:10:39",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQLU03TlV4VG1JZnNoQlNtcTNtRFhEdjdpR1hvZHJrS0IzdkhSUmpoVGhNbmtTRlNQQlA5WkJPX3laSnVqZWJCaGdsXzQ0OS1MSVFyQXNyZjNqRXowc2ZXSW9GWlM3S1gwUF9yemx5LTBDa1ppVldvN2hVeGJ0d3BoQlZlZGhfSzFMVE5kRFZ3SXdBRmZoMlVFSWdEMnJBeTQxSFE4M2NpX0dRLUtkQkE?oc=5\" target=\"_blank\">Почему ИИ ведет себя по‑разному: ученые нашли математическую причину</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Наука Mail</font>",
+      "published": "2026-11-08T15:45:09",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1sdGR2VWNhanE1Q3d3aXJjT1pYYkJ5bEt3Tkk2QkhOaGQ5N2E5UFB2eW9KZGdWSHk2ODlKczVVRUZhUlFnZGVCb0VVRzliQdIBWEFVX3lxTE91LTgzVWY3c3FPc2tuTmZaMVJUZFlIRlhtWWp3eld5YlNjYUd1NUk3LVo2cm44dFZsYjVHb3JteFFfeHQ4Vm84OXdEM1lxb1ZHV3VBdjV3VVI?oc=5\" target=\"_blank\">Создал игру, чтобы играть в нее против ИИ-агентов и ни разу не выиграл</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Хабр</font>",
       "tags": [
         "google_news"
       ],
@@ -497,11 +538,11 @@
       ]
     },
     {
-      "title": "Машины бьют по рынку труда: кто останется без работы из-за ИИ, а кому повезет - URA.RU",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWWHFhT1R4Z3ZTbUJCWGpTQzdBczc5Ni1MdDFBeWpzYmFGeXBtTVdBQ2N2UTV1VEU3ei1fbXRKVFBrcjgxdExITVpBM3M?oc=5",
+      "title": "Три спора из ленты Smart-Lab, которые я проверяю на ИИ-агентах: толпа систем, модель против реала и нужны ли стопы - Smart-Lab",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mM0Y5akJfX1A0WFVkZnlLdzFXUzlQb1Q3N2ZFOUZIRl8wMlpZRHA2eDJwUk5nODJuS3Q2YWQ0WS14V2hSeXZuYzJoVW5YQQ?oc=5",
       "source": "Google News",
-      "published": "2026-11-08T13:26:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWWHFhT1R4Z3ZTbUJCWGpTQzdBczc5Ni1MdDFBeWpzYmFGeXBtTVdBQ2N2UTV1VEU3ei1fbXRKVFBrcjgxdExITVpBM3M?oc=5\" target=\"_blank\">Машины бьют по рынку труда: кто останется без работы из-за ИИ, а кому повезет</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">URA.RU</font>",
+      "published": "2026-11-08T21:56:15",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mM0Y5akJfX1A0WFVkZnlLdzFXUzlQb1Q3N2ZFOUZIRl8wMlpZRHA2eDJwUk5nODJuS3Q2YWQ0WS14V2hSeXZuYzJoVW5YQQ?oc=5\" target=\"_blank\">Три спора из ленты Smart-Lab, которые я проверяю на ИИ-агентах: толпа систем, модель против реала и нужны ли стопы</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart-Lab</font>",
       "tags": [
         "google_news"
       ],
@@ -512,11 +553,11 @@
       ]
     },
     {
-      "title": "Минэкономразвития и Росаккредитация подключили ИИ к поиску гостиниц вне реестра - Abireg.ru",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMnZVOXVhRDg5Z1BoRExsdFYzaUpZb0txWTVRc3pOc3o1eFhNaUxIdGdSR0NNWlNuVkhaczdhQ2dITE15aE0yNFM3YUZXZzdNS0kwejlmei1fSnJfTGZZMTNrNDRhWVg5NE9lQmcyRm16OWp6d2dxQjBRTENPX2xvY09wai1VSmdrMWVWVlFsbkVqbXpfQzlUN3ZKb292R1hjc2YzQzFwdTA1azZOYjFHT1huTUhLV2tXSU96TA?oc=5",
+      "title": "ИИ-бумеранг: как бизнес возвращает сотрудников, которых заменили нейросети - Ведомости",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWnI1YmN6My1xZmNGTGJaRWh0czVXb0ZDMUVKeDY4OTdJOW1iYVJKd2FHY2F5SUgwZWg4cGduZW9CNGpOaEZhdGozUFJoVVZPNVN2U1ZrYnhHYjJENUlSR3pCbjVKa0U2eFBhb2UtWGF3ZDBteVQ0RmpZY2R6LXBOZ1NFY1FieGctc1BhQVVUSkp5UURwWllCZjB0ZGdVcF9z?oc=5",
       "source": "Google News",
-      "published": "2026-11-08T11:06:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPMnZVOXVhRDg5Z1BoRExsdFYzaUpZb0txWTVRc3pOc3o1eFhNaUxIdGdSR0NNWlNuVkhaczdhQ2dITE15aE0yNFM3YUZXZzdNS0kwejlmei1fSnJfTGZZMTNrNDRhWVg5NE9lQmcyRm16OWp6d2dxQjBRTENPX2xvY09wai1VSmdrMWVWVlFsbkVqbXpfQzlUN3ZKb292R1hjc2YzQzFwdTA1azZOYjFHT1huTUhLV2tXSU96TA?oc=5\" target=\"_blank\">Минэкономразвития и Росаккредитация подключили ИИ к поиску гостиниц вне реестра</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Abireg.ru</font>",
+      "published": "2026-11-08T05:09:11",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOWnI1YmN6My1xZmNGTGJaRWh0czVXb0ZDMUVKeDY4OTdJOW1iYVJKd2FHY2F5SUgwZWg4cGduZW9CNGpOaEZhdGozUFJoVVZPNVN2U1ZrYnhHYjJENUlSR3pCbjVKa0U2eFBhb2UtWGF3ZDBteVQ0RmpZY2R6LXBOZ1NFY1FieGctc1BhQVVUSkp5UURwWllCZjB0ZGdVcF9z?oc=5\" target=\"_blank\">ИИ-бумеранг: как бизнес возвращает сотрудников, которых заменили нейросети</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ведомости</font>",
       "tags": [
         "google_news"
       ],
@@ -527,11 +568,11 @@
       ]
     },
     {
-      "title": "Девять ИИ-агентов не смогли решить научные задачи и просто выдумали данные - Incrussia",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVHJYTGRIVzJ0LXkxOTBiSTZxeTZrX0VDYll3VG03TDJSVUU4LWJuQ2Z3NTFpbWpHQjBETUhxVU9zTUVlS2lncjk5a1k2SUFXZUZXQnExaTJ4aXFjLUllV3EyQlpON2V4ZWxhUjNNRUp1T1Y1MkZCemZYQlZLOFFiY3BvVlVOWnh5dHFfZWxYQWxFTlVRRjhuZXU5YnFzbHZSTE9hLXVR?oc=5",
+      "title": "Почему ИИ ведет себя по‑разному: ученые нашли математическую причину - Наука Mail",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLU03TlV4VG1JZnNoQlNtcTNtRFhEdjdpR1hvZHJrS0IzdkhSUmpoVGhNbmtTRlNQQlA5WkJPX3laSnVqZWJCaGdsXzQ0OS1MSVFyQXNyZjNqRXowc2ZXSW9GWlM3S1gwUF9yemx5LTBDa1ppVldvN2hVeGJ0d3BoQlZlZGhfSzFMVE5kRFZ3SXdBRmZoMlVFSWdEMnJBeTQxSFE4M2NpX0dRLUtkQkE?oc=5",
       "source": "Google News",
-      "published": "2026-11-08T07:06:59",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOVHJYTGRIVzJ0LXkxOTBiSTZxeTZrX0VDYll3VG03TDJSVUU4LWJuQ2Z3NTFpbWpHQjBETUhxVU9zTUVlS2lncjk5a1k2SUFXZUZXQnExaTJ4aXFjLUllV3EyQlpON2V4ZWxhUjNNRUp1T1Y1MkZCemZYQlZLOFFiY3BvVlVOWnh5dHFfZWxYQWxFTlVRRjhuZXU5YnFzbHZSTE9hLXVR?oc=5\" target=\"_blank\">Девять ИИ-агентов не смогли решить научные задачи и просто выдумали данные</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Incrussia</font>",
+      "published": "2026-11-08T12:10:39",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQLU03TlV4VG1JZnNoQlNtcTNtRFhEdjdpR1hvZHJrS0IzdkhSUmpoVGhNbmtTRlNQQlA5WkJPX3laSnVqZWJCaGdsXzQ0OS1MSVFyQXNyZjNqRXowc2ZXSW9GWlM3S1gwUF9yemx5LTBDa1ppVldvN2hVeGJ0d3BoQlZlZGhfSzFMVE5kRFZ3SXdBRmZoMlVFSWdEMnJBeTQxSFE4M2NpX0dRLUtkQkE?oc=5\" target=\"_blank\">Почему ИИ ведет себя по‑разному: ученые нашли математическую причину</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Наука Mail</font>",
       "tags": [
         "google_news"
       ],
@@ -544,21 +585,21 @@
   ],
   "groups": {
     "by_source": {
-      "Ведомости": 1,
+      "Ведомости": 2,
       "Habr_Топ_День": 1,
       "Habr_AI": 16,
-      "3DNews": 1,
+      "3DNews": 3,
       "VC_ru_Технологии": 1,
       "Google News": 16
     },
     "by_category": {
-      "general_news": 1,
-      "tech_news": 18,
+      "general_news": 2,
+      "tech_news": 20,
       "ai_and_regulation": 1,
       "google_news": 16
     },
     "by_keyword": {
-      "ИИ": 30,
+      "ИИ": 32,
       "AI": 5,
       "регулирование": 2,
       "искусственный интеллект": 1

@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-11-08_20-56",
-  "total_articles": 36,
+  "timestamp": "2026-11-09_01-26",
+  "total_articles": 39,
   "sources": {
-    "Ведомости": 1,
+    "Ведомости": 2,
     "Habr_Топ_День": 1,
     "Habr_AI": 16,
-    "3DNews": 1,
+    "3DNews": 3,
     "VC_ru_Технологии": 1,
     "Google News": 16
   },
   "top_keywords": [
     [
       "ИИ",
-      30
+      32
     ],
     [
       "AI",
@@ -29,64 +29,64 @@
   ],
   "recent_headlines": [
     {
-      "title": "От предложений LLM к управляемому исполнению: опыт разработки AI-агента",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1105178/?utm_campaign=1105178&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-08T17:47:13"
+      "title": "Три спора из ленты Smart-Lab, которые я проверяю на ИИ-агентах: толпа систем, модель против реала и нужны ли стопы - Smart-Lab",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mM0Y5akJfX1A0WFVkZnlLdzFXUzlQb1Q3N2ZFOUZIRl8wMlpZRHA2eDJwUk5nODJuS3Q2YWQ0WS14V2hSeXZuYzJoVW5YQQ?oc=5",
+      "published": "2026-11-08T21:56:15"
     },
     {
-      "title": "Как запустить OpenCode на сервере: автономные ИИ агенты",
+      "title": "Вайбкодинг закончился, когда пришёл второй пользователь",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/bothub/articles/1105176/?utm_campaign=1105176&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-08T17:43:55"
+      "url": "https://habr.com/ru/articles/1101952/?utm_campaign=1101952&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-08T21:55:25"
     },
     {
-      "title": "Роботов с ИИ оказалось легко обмануть: искажённая картинка заставляет их легко выполнять опасные команды",
+      "title": "AI для PHP‑разработчиков. Часть 8: Свёрточные нейронные сети: ищем границы на изображениях с помощью чистого PHP",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1105232/?utm_campaign=1105232&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-08T21:17:35"
+    },
+    {
+      "title": "Победа демократов обрушила акции ИИ-инфраструктуры - Ведомости",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNejVqMVZ6ZDRFb244ajNmaE92MkdRR1ZMNGZXdk05aElOd2hHVm53ZjdDUXlnaGt5bDkwYzZVZTBBdWVaNktwY2ZXb3RaX3U0TVprMUtzRGVLNjc3bDhHblJkbERjUUNuT3dTUmJIVEk0aVB2UnpUcUpTNVNUOUxCd0ZPdnJjU1RaNm55RGpXclB2SmZKeTdn?oc=5",
+      "published": "2026-11-08T21:05:35"
+    },
+    {
+      "title": "Новая статья: Мастерская локальных ИИ: FLUX 3 Image Klein — рамки под контролем",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1151021",
-      "published": "2026-11-08T17:05:00"
+      "url": "https://3dnews.ru/1151006",
+      "published": "2026-11-08T21:00:00"
     },
     {
-      "title": "«Брак или возврат»: SCMP рассказала о китайском стартапе, который берёт 2000 юаней за подписку, сводит пару с помощью ИИ и обещает вернуть деньги, если она не поженится",
-      "source": "VC_ru_Технологии",
-      "url": "https://vc.ru/services/3242817-startup-liangpei-ii-dlya-znakomstv-s-garantiej-braka?from=rss",
-      "published": "2026-11-08T17:00:24"
-    },
-    {
-      "title": "Guardian: госорганы Великобритании столкнулись с ростом числа созданных ИИ обращений - BFM.ru",
+      "title": "Мастерская локальных ИИ: FLUX 3 Image Klein — рамки под контролем - 3DNews",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE0xVi1UYS1HM1dIRGp2S3hRLTUtM3NSN1lnamQ4NTRzYlBzOGtxSW5mSmpIekxqV1kxaXFaaUJpc1REUlZs0gFKQVVfeXFMUERINWJUdjlMbjZteUMxRVlleUprcW41di10c0dsS3dSblNNWVZlVUVTbDFOTFpiNzdlY0J5bWJSUk55N1Y0dUNNYkE?oc=5",
-      "published": "2026-11-08T16:58:31"
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRbV8wSEZ4V3kyVUVrTUNuRDBMcTV3TTdnWEhfTzVlUXlQbUpuSXV4Sm9rMjBWVlljRUxkaHNSWG51eDB3NUw1S3lkX2JMdi1ZbzE0bVpDa1Atajh2eDZmZGRaaHFXUTQ?oc=5",
+      "published": "2026-11-08T21:00:00"
     },
     {
-      "title": "Акции ИИ-компаний рухнули: помешает ли это масштабированию медицинского ИИ в России",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1105162/?utm_campaign=1105162&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-08T16:52:06"
+      "title": "Nokia: к 2035 году на долю ИИ придётся почти половина мирового сетевого трафика",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151014",
+      "published": "2026-11-08T20:57:00"
     },
     {
-      "title": "Нейросетевая чертовщина 2026 года и странные артефакты машинного разума",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1105146/?utm_campaign=1105146&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-08T16:04:02"
-    },
-    {
-      "title": "Промты не горят: может ли ИИ написать художественно ценный текст",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/bothub/articles/1105138/?utm_campaign=1105138&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-08T15:21:53"
-    },
-    {
-      "title": "В России разрешат обучать ИИ на произведениях без отдельного согласия правообладателей - spbdnevnik.ru",
+      "title": "Nokia: к 2035 году на долю ИИ придётся почти половина мирового сетевого трафика - ServerNews",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUG45REhueWREX0E0NHpWa2JXRy0zY1JXZjZjVHBWempfLS0zZUszN2NnekRqdVhmaHpzLVlabGhPWXhpTkF6YXRPUnRtbmJVTUtoUjEwWl9TblhPWjFJOExVckZJbnA1bDh3TjNqZ0ttaUZtaHhnZHU1MW9kakVTUE1FQkVZRlYtbjI2ajRIeDczUzVCOE9KWFF5RHVZUmEyQjJOa2tTcEJBX0N0UERsazRXcDJBRTVyWXhoa1hLTDVUZw?oc=5",
-      "published": "2026-11-08T15:10:54"
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5fOVo3RlRNQnVaYjlVME5Xbl92dTRRdnVNZ3ZlaUlQTVg5aHlPZXE2blA5elRwUDB6a01YZUdZZWJ2a2s?oc=5",
+      "published": "2026-11-08T20:57:00"
     },
     {
-      "title": "Глубоководье ИИ инженерии",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1105122/?utm_campaign=1105122&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-08T14:49:02"
+      "title": "В Турции создают «стальной купол» для цензуры СМИ: искусственный интеллект будет отслеживать более 800 телеканалов и интернет-платформы - The Insider",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9iR2laNFVFNVBIRlVyZ1ZhMEtidXFtX2dqLVhWTzdXVjZjTmRmRlpMeXVVV0lWQmh0N0thWmZ6d0tadFU?oc=5",
+      "published": "2026-11-08T19:57:37"
+    },
+    {
+      "title": "Трамп опубликовал ИИ-мультфильм с Уайтом в роли пресс-секретаря Белого дома",
+      "source": "Ведомости",
+      "url": "https://www.vedomosti.ru/politics/news/2026/11/08/1243528-tramp-opublikoval-ii-multfilm",
+      "published": "2026-11-08T18:18:54"
     }
   ]
 }
