@@ -1,81 +1,92 @@
 {
-  "timestamp": "2026-11-08_15-14",
-  "total_articles": 14,
+  "timestamp": "2026-11-08_20-56",
+  "total_articles": 36,
   "sources": {
     "Ведомости": 1,
-    "Habr_AI": 12,
-    "3DNews": 1
+    "Habr_Топ_День": 1,
+    "Habr_AI": 16,
+    "3DNews": 1,
+    "VC_ru_Технологии": 1,
+    "Google News": 16
   },
   "top_keywords": [
     [
       "ИИ",
-      12
+      30
     ],
     [
       "AI",
       5
+    ],
+    [
+      "регулирование",
+      2
+    ],
+    [
+      "искусственный интеллект",
+      1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Как настроить ИИ-агентов в OpenCode со своим провайдером",
+      "title": "От предложений LLM к управляемому исполнению: опыт разработки AI-агента",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/bothub/articles/1105102/?utm_campaign=1105102&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-08T12:08:13"
+      "url": "https://habr.com/ru/articles/1105178/?utm_campaign=1105178&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-08T17:47:13"
     },
     {
-      "title": "Британские госорганы столкнулись с ростом числа созданных ИИ обращений",
-      "source": "Ведомости",
-      "url": "https://www.vedomosti.ru/politics/news/2026/11/08/1243476-britanskie-gosorgani",
-      "published": "2026-11-08T11:23:50"
+      "title": "Как запустить OpenCode на сервере: автономные ИИ агенты",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/bothub/articles/1105176/?utm_campaign=1105176&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-08T17:43:55"
     },
     {
-      "title": "Контекст ИИ-агентов: что хранить, что читать и чему доверять",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1105078/?utm_campaign=1105078&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-08T10:59:12"
+      "title": "Роботов с ИИ оказалось легко обмануть: искажённая картинка заставляет их легко выполнять опасные команды",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151021",
+      "published": "2026-11-08T17:05:00"
     },
     {
-      "title": "Ускоряем развитие Wine с помощью ИИ",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1105036/?utm_campaign=1105036&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-08T08:06:56"
+      "title": "«Брак или возврат»: SCMP рассказала о китайском стартапе, который берёт 2000 юаней за подписку, сводит пару с помощью ИИ и обещает вернуть деньги, если она не поженится",
+      "source": "VC_ru_Технологии",
+      "url": "https://vc.ru/services/3242817-startup-liangpei-ii-dlya-znakomstv-s-garantiej-braka?from=rss",
+      "published": "2026-11-08T17:00:24"
     },
     {
-      "title": "Зачем ИИ-моделям самореплицироваться. Или это нужно не им?",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1105028/?utm_campaign=1105028&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-08T07:16:13"
+      "title": "Guardian: госорганы Великобритании столкнулись с ростом числа созданных ИИ обращений - BFM.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE0xVi1UYS1HM1dIRGp2S3hRLTUtM3NSN1lnamQ4NTRzYlBzOGtxSW5mSmpIekxqV1kxaXFaaUJpc1REUlZs0gFKQVVfeXFMUERINWJUdjlMbjZteUMxRVlleUprcW41di10c0dsS3dSblNNWVZlVUVTbDFOTFpiNzdlY0J5bWJSUk55N1Y0dUNNYkE?oc=5",
+      "published": "2026-11-08T16:58:31"
     },
     {
-      "title": "Применение ИИ в проведении численных экспериментов и оформлении статей поисковых НИР",
+      "title": "Акции ИИ-компаний рухнули: помешает ли это масштабированию медицинского ИИ в России",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1105026/?utm_campaign=1105026&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-08T06:59:52"
+      "url": "https://habr.com/ru/articles/1105162/?utm_campaign=1105162&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-08T16:52:06"
     },
     {
-      "title": "Агент закончил работу, а Telegram недоступен: как я сделал очередь доставки ответов",
+      "title": "Нейросетевая чертовщина 2026 года и странные артефакты машинного разума",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1105014/?utm_campaign=1105014&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-08T06:11:03"
+      "url": "https://habr.com/ru/articles/1105146/?utm_campaign=1105146&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-08T16:04:02"
     },
     {
-      "title": "Быстрее, проще, глупее: скрытая цена ИИ‑помощников",
+      "title": "Промты не горят: может ли ИИ написать художественно ценный текст",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1104974/?utm_campaign=1104974&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-07T19:09:03"
+      "url": "https://habr.com/ru/companies/bothub/articles/1105138/?utm_campaign=1105138&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-08T15:21:53"
     },
     {
-      "title": "Затестил Kimi AI, Qwen, DeepSeek и Grok на работе с текстами. Делюсь результатами",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1104964/?utm_campaign=1104964&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-07T18:08:56"
+      "title": "В России разрешат обучать ИИ на произведениях без отдельного согласия правообладателей - spbdnevnik.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUG45REhueWREX0E0NHpWa2JXRy0zY1JXZjZjVHBWempfLS0zZUszN2NnekRqdVhmaHpzLVlabGhPWXhpTkF6YXRPUnRtbmJVTUtoUjEwWl9TblhPWjFJOExVckZJbnA1bDh3TjNqZ0ttaUZtaHhnZHU1MW9kakVTUE1FQkVZRlYtbjI2ajRIeDczUzVCOE9KWFF5RHVZUmEyQjJOa2tTcEJBX0N0UERsazRXcDJBRTVyWXhoa1hLTDVUZw?oc=5",
+      "published": "2026-11-08T15:10:54"
     },
     {
-      "title": "Нейроответ Google появляется почти под каждым запросом в поиске. Что это значит для продвижения в ответах ИИ",
+      "title": "Глубоководье ИИ инженерии",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1104954/?utm_campaign=1104954&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-07T16:42:27"
+      "url": "https://habr.com/ru/articles/1105122/?utm_campaign=1105122&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-08T14:49:02"
     }
   ]
 }
