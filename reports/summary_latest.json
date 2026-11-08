@@ -1,39 +1,63 @@
 {
-  "timestamp": "2026-11-08_01-15",
-  "total_articles": 39,
+  "timestamp": "2026-11-08_15-14",
+  "total_articles": 14,
   "sources": {
-    "Habr_AI": 18,
-    "3DNews": 3,
-    "Google News": 18
+    "Ведомости": 1,
+    "Habr_AI": 12,
+    "3DNews": 1
   },
   "top_keywords": [
     [
       "ИИ",
-      30
+      12
     ],
     [
       "AI",
-      9
-    ],
-    [
-      "регулирование",
-      2
-    ],
-    [
-      "ESG",
-      1
-    ],
-    [
-      "искусственный интеллект",
-      1
+      5
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Старые, неэкологичные авиадвигатели всё более востребованы для электропитания ИИ ЦОД в США - ServerNews",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBDVUx6S0Z3Q2p0VTg4VjhaUmpTZTYxOU9XYXBaeDdwbFhhOEI3QV9PT1JhZ193bzhNOXdFU3VNend2bDQ?oc=5",
-      "published": "2026-11-07T20:42:00"
+      "title": "Как настроить ИИ-агентов в OpenCode со своим провайдером",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/bothub/articles/1105102/?utm_campaign=1105102&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-08T12:08:13"
+    },
+    {
+      "title": "Британские госорганы столкнулись с ростом числа созданных ИИ обращений",
+      "source": "Ведомости",
+      "url": "https://www.vedomosti.ru/politics/news/2026/11/08/1243476-britanskie-gosorgani",
+      "published": "2026-11-08T11:23:50"
+    },
+    {
+      "title": "Контекст ИИ-агентов: что хранить, что читать и чему доверять",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1105078/?utm_campaign=1105078&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-08T10:59:12"
+    },
+    {
+      "title": "Ускоряем развитие Wine с помощью ИИ",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1105036/?utm_campaign=1105036&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-08T08:06:56"
+    },
+    {
+      "title": "Зачем ИИ-моделям самореплицироваться. Или это нужно не им?",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1105028/?utm_campaign=1105028&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-08T07:16:13"
+    },
+    {
+      "title": "Применение ИИ в проведении численных экспериментов и оформлении статей поисковых НИР",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1105026/?utm_campaign=1105026&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-08T06:59:52"
+    },
+    {
+      "title": "Агент закончил работу, а Telegram недоступен: как я сделал очередь доставки ответов",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1105014/?utm_campaign=1105014&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-08T06:11:03"
     },
     {
       "title": "Быстрее, проще, глупее: скрытая цена ИИ‑помощников",
@@ -42,52 +66,16 @@
       "published": "2026-11-07T19:09:03"
     },
     {
-      "title": "Казахстан и Китай планируют объединить беспилотники и ИИ для предупреждения природных ЧС - НИА «Экология",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BMUxmVHlrRmxLUUNhVXhPNms2WmV1UGthSVlZWkhETHY4M295SUdmZjg1UFdFek5uQUFDZUVWNlFEMklBaE5qSElB?oc=5",
-      "published": "2026-11-07T19:00:30"
-    },
-    {
       "title": "Затестил Kimi AI, Qwen, DeepSeek и Grok на работе с текстами. Делюсь результатами",
       "source": "Habr_AI",
       "url": "https://habr.com/ru/articles/1104964/?utm_campaign=1104964&utm_source=habrahabr&utm_medium=rss",
       "published": "2026-11-07T18:08:56"
     },
     {
-      "title": "Спрогнозировано влияние развития ИИ на гендерный разрыв в карьере - Версия - versia.ru",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdUY2cTdqSVVTY3UtMmF4bDZmazIxbzJMNzNwQzhhUkdwUTUzOE14cU11cHg0eGVpRXdXWGdXNGcwVG1LU2VIaFVfOFl2aGo0QmVZTjdFMEpkMW45UGVGUG0zN2VFYzVRRTM3dk5pdmFHMC1Bdnh2UTFoQTNYVTd1Zjg0OExEVmFwMTRvddIBkgFBVV95cUxOeHdIUTNhTHBDX1FabmZWMFFnbC11blBDaERTMmVHT25mNDdHbzRfQnIyY2MxT2Izc1FDUzdpa3lOYjAzRUp1MWYxdUNIRnZ3cHAzeXlOUHZabFozX1dOdDhNVWRPX2RpSHlkR0drNGlFRnI3Mkh4YXNMSjhDd0FwdGtLeFZOV1BTSGduakRKbDY0Zw?oc=5",
-      "published": "2026-11-07T17:23:00"
-    },
-    {
-      "title": "OpenAI представила ИИ-модель GPT-6 Cyber — нейросеть самостоятельно находит уязвимости в коде - RB.ru",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOTNUVFVIRndpdHdIT1NvMjF1UkNlYWpLMHBlLUVXc1MtcXRVZk00ZjN2dU5xTktzYllQR2hDLTRCOHVGLXVfWlBhR2VtRU5ieFI2Ti01ZzhHRlhkVTMxSDU2RGJjQU5fYzVsSlQyQWN4UUdrVllvX3hVX0EzZHM0eGtmNWNGYTJZY04yODgwWGsxMmRzMzliZGZ2R09RVkF3VVhtVFJnSzZFVW53LUhv?oc=5",
-      "published": "2026-11-07T17:00:00"
-    },
-    {
       "title": "Нейроответ Google появляется почти под каждым запросом в поиске. Что это значит для продвижения в ответах ИИ",
       "source": "Habr_AI",
       "url": "https://habr.com/ru/articles/1104954/?utm_campaign=1104954&utm_source=habrahabr&utm_medium=rss",
       "published": "2026-11-07T16:42:27"
-    },
-    {
-      "title": "Восстание машин не грозит: эксперт назвал главный реальный риск ИИ - Газета «Республика Татарстан",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRUw5TWNfeVVOWExYdGhpOC1GVS04WVUwY3NSSmt2X1lWOTltZXBfZHpIWkxCRGhqODlBNVNMMHZJeDVMMHRBSlpKejRIc1JxT2txSDJfbzZsR0pIRkxVT043NlJaSW5oc2tQUjdHRVIwZDlDNnViUTZUMEwzd1daRHhiWUZDX2YxMTQwWTZBT2NrSGZEa0tlZXlxczJCZw?oc=5",
-      "published": "2026-11-07T16:37:23"
-    },
-    {
-      "title": "Шифр на кубике Рубика: как девять ИИ решали одну задачу",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1104940/?utm_campaign=1104940&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-07T15:56:23"
-    },
-    {
-      "title": "Анализ рынка AI/ML/DL. Результаты",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1104938/?utm_campaign=1104938&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-07T15:48:54"
     }
   ]
 }

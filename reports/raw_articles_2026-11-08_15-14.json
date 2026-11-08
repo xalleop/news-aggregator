@@ -1,0 +1,231 @@
+{
+  "timestamp": "2026-11-08_15-14",
+  "total_articles": 14,
+  "articles": [
+    {
+      "title": "Британские госорганы столкнулись с ростом числа созданных ИИ обращений",
+      "url": "https://www.vedomosti.ru/politics/news/2026/11/08/1243476-britanskie-gosorgani",
+      "source": "Ведомости",
+      "published": "2026-11-08T11:23:50",
+      "description": "",
+      "tags": [],
+      "category": "general_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Как настроить ИИ-агентов в OpenCode со своим провайдером",
+      "url": "https://habr.com/ru/companies/bothub/articles/1105102/?utm_campaign=1105102&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-08T12:08:13",
+      "description": "<img src=\"https://habrastorage.org/extt/d7/ea/de/d7eadeffc79a2164bf5bd91ef3bf1ec0.jpeg\" /><p>Если вы в курсе новостей последних трёх лет, то наверняка слышали о таком термине, как ИИ-агент. Даже больше — вы могли использовать или хотя бы знать о таких ИИ-агентных системах, как Claude Code или Codex.</p><p>Первое время они кажутся просто маркетингом и попыткой оправдать ИИ-пузырь — зачем строить какую-то абстрактную структуру, платить за токены, настраивать агентов и субагентов, если можно идти по стандартному сценарию использования ИИ-чата: открыть сам чат, вставить текст, сформулировать промпт и получить выхлоп. Упростило нам жизнь? Безусловно! Но это быстро упирается в некий потолок. Модель — это просто модель, она не знает ни контекст, ни работает с вашим проектом напрямую. А вот ИИ-агент — уже целая система, ведь это не просто LLM, а LLM + harness.</p><p>И вот беда — Claude Code и Codex закрытые, проприетарные и только для их моделей. Как раз тут и приходит OpenCode — open-source harness-система, где модель-агент может читать файлы, запускать тесты, вызывать другие модели, передавать работу субагентам, подключать MCP, скиллы и плагины. А главное — он не привязан к одному вендору. Можно использовать хоть официальные, хоть сторонние провайдеры и вызывать какие угодно доступные модели, хоть GLM 5.3, хоть Claude Opus 5.5.</p><p>В этой статье я пройдусь по основам создания ИИ-агентов в OpenCode с подключением OpenAI-совместимого шлюза.</p> <a href=\"https://habr.com/ru/articles/1105102/?utm_campaign=1105102&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Контекст ИИ-агентов: что хранить, что читать и чему доверять",
+      "url": "https://habr.com/ru/articles/1105078/?utm_campaign=1105078&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-08T10:59:12",
+      "description": "<img src=\"https://habrastorage.org/extt/5d/eb/4d/5deb4d1ea5640a33385f20c397901ea9.png\" /><p><em>После моего переезда с Claude Code на Codex на Хабре разгорелся спор: нужна ли история диалогов, если есть Git, документация и спецификации? Я изучил аргументы, инструменты и исследования. Оказалось, проблема гораздо шире.</em></p><p>В начале ноября я <a href=\"https://habr.com/ru/articles/1103528/\" rel=\"noopener nofollow\">рассказал на Хабре</a>, как после блокировки платной организации Claude Code перешёл на Codex и попытался сохранить историю проектов.</p><p>Код остался на компьютере, репозитории никуда не исчезли. Но за несколько месяцев накопились десятки разговоров об архитектуре, ошибках, экспериментах и планах. Далеко не всё попадало в документацию.</p><p>Штатный импорт в Codex оказался неудобным: из 25 проектов и 53 чатов около 50 сессий удалось перенести, но привязка переписок к проектам получилась неудачной. В итоге я нашёл Hansard и стал обращаться к старой истории через поиск.</p><p>Думал, на этом история закончится. Однако в комментариях начался спор.</p> <a href=\"https://habr.com/ru/articles/1105078/?utm_campaign=1105078&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Ускоряем развитие Wine с помощью ИИ",
+      "url": "https://habr.com/ru/articles/1105036/?utm_campaign=1105036&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-08T08:06:56",
+      "description": "<img src=\"https://habrastorage.org/extt/b9/17/ab/b917ab216e843ebfd1d1cc9a443b2d98.jpg\" /><p>Привет, Хабр! Это Иван Сорокин, вы меня знаете по статья про far2l, его идейному продолжению f4 и порту Dos Navigator на современные системы. Хочу рассказать про новый проект (на самом деле, проекты), вам наверняка понравится и пригодится!</p><p>Представляю <a href=\"https://github.com/unxed/fix-it-in-wine\" rel=\"noopener nofollow\">fix-it-in-wine</a> и <a href=\"https://github.com/unxed/dllmgr\" rel=\"noopener nofollow\">dllmgr</a>. Первый это скилл, он позволяет поручать ИИ-агенту исправление ошибок совместимости Windows-приложений с Wine. Второй - что-то вроде пакетного менеджера для DLL: позволяет устанавливать исправленные библиотеки независимо от основного Wine, делиться ими, использовать готовые решения других разработчиков.</p><p>Но главная идея здесь даже не в том, чтобы научить ИИ исправлять ошибки Wine. Она в том, чтобы <strong>изменить саму модель разработки и распространения исправлений</strong>.</p> <a href=\"https://habr.com/ru/articles/1105036/?utm_campaign=1105036&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Зачем ИИ-моделям самореплицироваться. Или это нужно не им?",
+      "url": "https://habr.com/ru/articles/1105028/?utm_campaign=1105028&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-08T07:16:13",
+      "description": "<img src=\"https://habrastorage.org/extt/ac/7f/60/ac7f60d57bbd8ec1d39ec2f58b7e8bae.png\" /><p>В недавней статье Антропик <a href=\"https://www.anthropic.com/research/self-replicating-ai\" rel=\"noopener nofollow\">“AI models may be capable of self-replicating without access to a datacenter “</a> исследователи рассмотрели как легковесные open-weight модели могут копировать себя на взломанные потребительские и IoT-устройства и поднимать там локальный инференс.&nbsp;</p><p>Исследователи утверждают, что могут, но я полагаю, что в этом нет экономического смысла.</p><p>В этой статье я рассматриваю вопрос, что на самом деле значит распространение ИИ, и как скорее всего это будет выглядеть на самом деле.</p> <a href=\"https://habr.com/ru/articles/1105028/?utm_campaign=1105028&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI",
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Применение ИИ в проведении численных экспериментов и оформлении статей поисковых НИР",
+      "url": "https://habr.com/ru/articles/1105026/?utm_campaign=1105026&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-08T06:59:52",
+      "description": "<img src=\"https://habrastorage.org/extt/ec/ca/fd/eccafde5f98e32b8ea1bf7ae1eba19e7.jpg\" /><p>Всем привет. Представлюсь: Шевченко Максим Юрьевич. Работал мануальным тестировщиком (в том числе); считаю себя исследователем, в основном, в области математики.</p><p>В этой публикации я хочу поделиться личным опытом и результатами использования LLM Gemini в связке с Python для проведения численных экспериментов и оформления статей в рамках своих математических исследований. Они носят поисковый характер. Здесь нет жесткого плана, и методология взаимодействия больше похожа на Agile, чем на Waterfall. В процессе сотрудничества с ИИ я столкнулся как с его достоинствами, так и с недостатками, о которых и хотел бы поделиться.</p> <a href=\"https://habr.com/ru/articles/1105026/?utm_campaign=1105026&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Агент закончил работу, а Telegram недоступен: как я сделал очередь доставки ответов",
+      "url": "https://habr.com/ru/articles/1105014/?utm_campaign=1105014&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-08T06:11:03",
+      "description": "<img src=\"https://habrastorage.org/extt/e9/ac/4b/e9ac4b57baf56a1dc2190a8974ddec23.jpg\" /><p>Агент выполнил задачу, проверил результат и написал ответ. Но в этот момент Telegram недоступен. С точки зрения агента работа закончена, а в Telegram не пришло ни результата, ни сообщения об ошибке. Повторно запускать задачу ради ответа не хочется: это потратит время и токены, а агент может еще раз изменить файлы.</p><p>Эту ситуацию пришлось учесть при разработке agent-hub - приложения на Rust, которое запускает AI-агентов на компьютере и позволяет общаться с ними через темы Telegram-группы. В <a href=\"https://habr.com/ru/articles/1100578/\" rel=\"noopener nofollow\">прошлой статье</a> я рассказывал, как запрос агента превращается в кнопку «Разрешить». С тех пор в хабе появилась очередь доставки финальных ответов.</p><p>Казалось бы, достаточно сохранить текст и повторить отправку при ошибке. Но ответ может состоять из нескольких сообщений, Telegram может принять одно из них и не прислать подтверждение, а приложение - перезапуститься между отправкой и записью результата. Расскажу, что именно сохраняется в очереди, как она продолжает работу после сбоя и почему дубликаты все равно возможны.</p> <a href=\"https://habr.com/ru/articles/1105014/?utm_campaign=1105014&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Быстрее, проще, глупее: скрытая цена ИИ‑помощников",
+      "url": "https://habr.com/ru/articles/1104974/?utm_campaign=1104974&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-07T19:09:03",
+      "description": "<img src=\"https://habrastorage.org/extt/26/5d/81/265d81cbacf5180a48a1f346435173a2.png\" /><p>Мы привыкли считать, что хороший интерфейс — это интерфейс, который снимает с человека лишнее умственное усилие. Для обычного продукта это верно: пользователь пришёл решить задачу, а не научиться чему-то. С ИИ-ассистентами эта логика перестаёт работать. Они убирают не только лишнее усилие, но и ту работу с материалом, из которой складывается навык. Разберёмся, какая нагрузка мешает, какая нужна и почему продукту с ИИ одного снижения внешней нагрузки мало.</p> <a href=\"https://habr.com/ru/articles/1104974/?utm_campaign=1104974&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Затестил Kimi AI, Qwen, DeepSeek и Grok на работе с текстами. Делюсь результатами",
+      "url": "https://habr.com/ru/articles/1104964/?utm_campaign=1104964&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-07T18:08:56",
+      "description": "<img src=\"https://habrastorage.org/extt/56/e7/9a/56e79aeff0265d0bb179671ad0cf4e09.jpg\" /><p>Нейросеть получает статью на редактуру и возвращает гладкий текст, в котором автора уже не узнать. В <a href=\"https://abdulhaim.github.io/documents/LLM_Homogenization_Project.pdf\" rel=\"noopener nofollow\">препринте 2026 года</a> исследователи из Berkeley, Google DeepMind и других организаций показали, что ИИ-модели меняют смысл текста, даже когда их просят исправить только грамматику. Kimi AI, Qwen, DeepSeek и Grok всё чаще пробуют для текстов вместо ChatGPT, и выбирать среди них редактора на глаз рискованно.</p><p>По умолчанию нейросеть, которой дали текст на редактуру, переписывает его, хотя просили только править. Ограничить её можно только жёстким промптом и сравнением версий. Модели для редактуры надо сравнивать по тому, какую долю текста они изменили и сохранился ли смысл, а не по впечатлению, что стало лучше.</p> <a href=\"https://habr.com/ru/articles/1104964/?utm_campaign=1104964&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI",
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Нейроответ Google появляется почти под каждым запросом в поиске. Что это значит для продвижения в ответах ИИ",
+      "url": "https://habr.com/ru/articles/1104954/?utm_campaign=1104954&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-07T16:42:27",
+      "description": "<img src=\"https://habrastorage.org/extt/66/44/68/66446833f9b560e0fd783a5a3315d475.jpg\" /><p>AI Overviews — нейроответ, который Google ставит над обычной выдачей. По слухам, что этот ответ стоит уже над 80% запросов. В первоисточниках так выходит только у <a href=\"https://www.semrush.com/blog/ai-overviews-commercial-modifiers-study/\" rel=\"noopener nofollow\">Semrush</a>, и только на 400 коммерческих ключах по десктопу США, а в других замерах получилось 30% и 18%. О проектах в Рунете эти цифры почти ничего не говорят: Яндекс не публикует, у какой доли запросов есть ответ Алисы AI, а каждый отчёт по Google описывает Google и набор запросов конкретного сервиса. Цифра больше 80% — свойство выборки, а не рынка. Для Рунета ориентир один: доля нейроответов Алисы AI в поиске на вопросах своей тематики.</p> <a href=\"https://habr.com/ru/articles/1104954/?utm_campaign=1104954&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI",
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Шифр на кубике Рубика: как девять ИИ решали одну задачу",
+      "url": "https://habr.com/ru/articles/1104940/?utm_campaign=1104940&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-07T15:56:23",
+      "description": "<img src=\"https://habrastorage.org/extt/71/18/69/711869d674c85894ee9629a20e9d5d95.jpg\" /><p>Из девяти ИИ-моделей задачу с шифром на кубике Рубика полностью решила одна, две выдали выдуманные ответы с ложной «проверкой», остальные честно признали неудачу.</p> <a href=\"https://habr.com/ru/articles/1104940/?utm_campaign=1104940&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Анализ рынка AI/ML/DL. Результаты",
+      "url": "https://habr.com/ru/articles/1104938/?utm_campaign=1104938&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-07T15:48:54",
+      "description": "<img src=\"https://habrastorage.org/extt/5b/7d/db/5b7ddbc9ea4d8c790f795c53c9ebe71f.png\" /><p><strong>Рынок ML, DL и прикладного AI.</strong> <em>Исследование 226 объявлений о работе на </em><a href=\"http://hh.ru\" rel=\"noopener nofollow\"><em>hh.ru</em></a></p><p>Вместе с нашей командой мы пропарсили и обработали 226 вакансий с hh.ru. Подробно описали ниже.</p> <a href=\"https://habr.com/ru/articles/1104938/?utm_campaign=1104938&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Нейросети в MAX за рубли: что решить до первого платежа",
+      "url": "https://habr.com/ru/articles/1104888/?utm_campaign=1104888&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-07T12:46:01",
+      "description": "<img src=\"https://habrastorage.org/extt/95/a7/eb/95a7eb9556d352c82b3e0b1997cfcd24.png\" /><p>Я сделал в MAX бота «Спроси ИИ»: в нём можно задать вопрос ChatGPT или Gemini и нарисовать картинку в Nano Banana. Платить можно российской картой или по СБП, ничего дополнительно ставить не нужно.</p><p>Код оказался самой простой частью. Сложнее было с деньгами, чеками и законами — о них и расскажу. Текст пригодится всем, кто думает сделать платного бота в MAX.</p> <a href=\"https://habr.com/ru/articles/1104888/?utm_campaign=1104888&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "TSMC не хочет заниматься памятью, даже если просит Nvidia — компания ответила на слухи о выпуске DRAM",
+      "url": "https://3dnews.ru/1151003",
+      "source": "3DNews",
+      "published": "2026-11-07T15:08:00",
+      "description": "Ранее появилась информация, что TSMC по просьбе Nvidia изучает возможность наладить производство памяти типа 3D DRAM. Интерес к этой технологии возник на фоне роста спроса на оборудование для систем искусственного интеллекта, что привело к мировому дефициту и росту цен на DRAM. Реализация проекта помогла бы TSMC открыть новое направление бизнеса и существенно укрепить своё положение в цепочке поставок для отрасли ИИ. Но в компании подчеркнули, что специализируются исключительно на производстве логических чипов и намерены придерживаться этой стратегии, то есть, по сути, опровергли эту информацию. Источник изображений: tsmc.com",
+      "tags": [
+        "tech",
+        "hardware"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    }
+  ],
+  "groups": {
+    "by_source": {
+      "Ведомости": 1,
+      "Habr_AI": 12,
+      "3DNews": 1
+    },
+    "by_category": {
+      "general_news": 1,
+      "tech_news": 13
+    },
+    "by_keyword": {
+      "ИИ": 12,
+      "AI": 5
+    }
+  }
+}
