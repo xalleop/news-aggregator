@@ -1,92 +1,103 @@
 {
-  "timestamp": "2026-11-09_01-26",
-  "total_articles": 39,
+  "timestamp": "2026-11-09_17-23",
+  "total_articles": 72,
   "sources": {
-    "Ведомости": 2,
-    "Habr_Топ_День": 1,
-    "Habr_AI": 16,
-    "3DNews": 3,
+    "ТАСС": 1,
+    "Ведомости": 1,
+    "Digital_Russia": 4,
+    "Habr_AI": 23,
+    "CNews": 11,
+    "3DNews": 5,
     "VC_ru_Технологии": 1,
-    "Google News": 16
+    "ИИ комплаенс и этика": 1,
+    "Google News": 25
   },
   "top_keywords": [
     [
       "ИИ",
-      32
+      55
     ],
     [
       "AI",
+      16
+    ],
+    [
+      "Минцифры",
       5
     ],
     [
       "регулирование",
+      4
+    ],
+    [
+      "ESG",
       2
     ],
     [
-      "искусственный интеллект",
+      "aigovernance",
       1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Три спора из ленты Smart-Lab, которые я проверяю на ИИ-агентах: толпа систем, модель против реала и нужны ли стопы - Smart-Lab",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mM0Y5akJfX1A0WFVkZnlLdzFXUzlQb1Q3N2ZFOUZIRl8wMlpZRHA2eDJwUk5nODJuS3Q2YWQ0WS14V2hSeXZuYzJoVW5YQQ?oc=5",
-      "published": "2026-11-08T21:56:15"
-    },
-    {
-      "title": "Вайбкодинг закончился, когда пришёл второй пользователь",
+      "title": "Дайджест open source Сбера",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1101952/?utm_campaign=1101952&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-08T21:55:25"
+      "url": "https://habr.com/ru/companies/sberbank/articles/1104358/?utm_campaign=1104358&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-09T14:00:50"
     },
     {
-      "title": "AI для PHP‑разработчиков. Часть 8: Свёрточные нейронные сети: ищем границы на изображениях с помощью чистого PHP",
+      "title": "Зарубежные ИИ назвали самые популярные российские товары за границей - ВФокусе Mail",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLVNNUmcxdDlIVm5aaVd6Vld1SkxuWHhCMWhXQzhLcTh5R1o5cmxNdHBzSk8tZFZvSlp3LVZZdGg2QW1XTWZWS3ZacHk2T0VOT3d1RFJLci1GX05hSDdCanUxeV9SWUpvWUQwRVhHa3ZRTzVKSXJzdW1IYU02ZmxkbXkyWGI3RkREVTRVbWU0R2ZrNi1HVUgxYk9IUmdsR0Z6TWVPVg?oc=5",
+      "published": "2026-11-09T13:53:18"
+    },
+    {
+      "title": "Росатом впервые заявился на \"Хайтек\" в компетенциях по ИИ, робототехнике и БПЛА",
+      "source": "ТАСС",
+      "url": "https://tass.ru/ekonomika/28299433",
+      "published": "2026-11-09T13:42:10"
+    },
+    {
+      "title": "Инструмент не заменяет голову: почему без сильного эксперта ИИ выдает брак, а с ним — делает крутые кейсы - Sostav.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BVDQ3YTQwSzRwMjE4anpKa0JWV20tckxucDllZDZqOWM0UVN2Q05QT1otM3MyNlh3ci1PY3pGNS00Z3kwZFdKZWF6VnRrTDBpLXhv?oc=5",
+      "published": "2026-11-09T13:33:56"
+    },
+    {
+      "title": "Microsoft отказалась от использования дата-центров Oracle",
+      "source": "Digital_Russia",
+      "url": "https://d-russia.ru/microsoft-otkazalas-ot-ispolzovaniya-data-tsentrov-oracle.html",
+      "published": "2026-11-09T13:25:08"
+    },
+    {
+      "title": "AI Sous-chef: как мы собрали приложение с облачными моделями и вынесли промпты из кода",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1105232/?utm_campaign=1105232&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-08T21:17:35"
+      "url": "https://habr.com/ru/articles/1105496/?utm_campaign=1105496&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-09T13:19:52"
     },
     {
-      "title": "Победа демократов обрушила акции ИИ-инфраструктуры - Ведомости",
+      "title": "Т2 запустила голосового ассистента на базе генеративного ИИ - CNews.ru",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNejVqMVZ6ZDRFb244ajNmaE92MkdRR1ZMNGZXdk05aElOd2hHVm53ZjdDUXlnaGt5bDkwYzZVZTBBdWVaNktwY2ZXb3RaX3U0TVprMUtzRGVLNjc3bDhHblJkbERjUUNuT3dTUmJIVEk0aVB2UnpUcUpTNVNUOUxCd0ZPdnJjU1RaNm55RGpXclB2SmZKeTdn?oc=5",
-      "published": "2026-11-08T21:05:35"
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ2RDY3RLTlVrbURVZko1XzZaZ3pXblctUzFPbzNBNzRRUkF6aDJ2YlJEQjlnVlVrMmxQMFJtSVZ0WXh4TnBPS1c3Q2wtZldVOVRjc3BBNklBTW9qV29hcHdDRmVCUEdDSXoyNi1JVjZhMTRXVnBXVjlNNGpuUG1LSVl3?oc=5",
+      "published": "2026-11-09T13:06:28"
     },
     {
-      "title": "Новая статья: Мастерская локальных ИИ: FLUX 3 Image Klein — рамки под контролем",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151006",
-      "published": "2026-11-08T21:00:00"
-    },
-    {
-      "title": "Мастерская локальных ИИ: FLUX 3 Image Klein — рамки под контролем - 3DNews",
+      "title": "Samsung начнёт брать деньги за ИИ-функции Galaxy AI - Rozetked.me",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRbV8wSEZ4V3kyVUVrTUNuRDBMcTV3TTdnWEhfTzVlUXlQbUpuSXV4Sm9rMjBWVlljRUxkaHNSWG51eDB3NUw1S3lkX2JMdi1ZbzE0bVpDa1Atajh2eDZmZGRaaHFXUTQ?oc=5",
-      "published": "2026-11-08T21:00:00"
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOHhZZ29ydVB6MG1ONzdoMzRORzZHMHlKQ0R5RzBQZEdQUXQxNDZQZVVCRDVrWFo1SUJQZEppeUpsek1YRzdjTUhhNDhoT3dJRXpQWXN6Y2w0bml1Ml9POFNncmFUemQ3cTN0dk1VMmVjTTBoYkhmdWllUEV1aVBzMDhMUVYwRnhKdWc?oc=5",
+      "published": "2026-11-09T12:54:00"
     },
     {
-      "title": "Nokia: к 2035 году на долю ИИ придётся почти половина мирового сетевого трафика",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151014",
-      "published": "2026-11-08T20:57:00"
+      "title": "Копипаста, нейронки и вечный спор Python с Go",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/X5Tech/articles/1105370/?utm_campaign=1105370&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-09T12:52:47"
     },
     {
-      "title": "Nokia: к 2035 году на долю ИИ придётся почти половина мирового сетевого трафика - ServerNews",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5fOVo3RlRNQnVaYjlVME5Xbl92dTRRdnVNZ3ZlaUlQTVg5aHlPZXE2blA5elRwUDB6a01YZUdZZWJ2a2s?oc=5",
-      "published": "2026-11-08T20:57:00"
-    },
-    {
-      "title": "В Турции создают «стальной купол» для цензуры СМИ: искусственный интеллект будет отслеживать более 800 телеканалов и интернет-платформы - The Insider",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9iR2laNFVFNVBIRlVyZ1ZhMEtidXFtX2dqLVhWTzdXVjZjTmRmRlpMeXVVV0lWQmh0N0thWmZ6d0tadFU?oc=5",
-      "published": "2026-11-08T19:57:37"
-    },
-    {
-      "title": "Трамп опубликовал ИИ-мультфильм с Уайтом в роли пресс-секретаря Белого дома",
-      "source": "Ведомости",
-      "url": "https://www.vedomosti.ru/politics/news/2026/11/08/1243528-tramp-opublikoval-ii-multfilm",
-      "published": "2026-11-08T18:18:54"
+      "title": "Осьминог, холодильник и 498 тестов: как я за 4 дня навайбкодил бота, который собирает мне корзину в Лавке",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1105472/?utm_campaign=1105472&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-09T12:37:51"
     }
   ]
 }
