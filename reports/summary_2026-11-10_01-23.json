@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-11-10_01-23",
+  "total_articles": 80,
+  "sources": {
+    "ТАСС": 2,
+    "Интерфакс": 1,
+    "Ведомости": 1,
+    "Digital_Russia": 4,
+    "Habr_AI": 24,
+    "CNews": 15,
+    "3DNews": 7,
+    "VC_ru_Технологии": 2,
+    "ИИ комплаенс и этика": 1,
+    "Google News": 23
+  },
+  "top_keywords": [
+    [
+      "ИИ",
+      63
+    ],
+    [
+      "AI",
+      17
+    ],
+    [
+      "Минцифры",
+      6
+    ],
+    [
+      "регулирование",
+      3
+    ],
+    [
+      "ESG",
+      2
+    ],
+    [
+      "искусственный интеллект",
+      2
+    ],
+    [
+      "aigovernance",
+      1
+    ]
+  ],
+  "recent_headlines": [
+    {
+      "title": "\"Ассоциация менеджеров\" узнала, сколько российских управленцев доверяют ИИ",
+      "source": "ТАСС",
+      "url": "https://tass.ru/ekonomika/28300473",
+      "published": "2026-11-09T22:13:30"
+    },
+    {
+      "title": "Макрон допустил запрет на использование ИИ для несовершеннолетних",
+      "source": "ТАСС",
+      "url": "https://tass.ru/obschestvo/28300453",
+      "published": "2026-11-09T21:53:05"
+    },
+    {
+      "title": "Суд в Москве рассмотрит материалы о штрафах Telegram, Google, Apple, Wikimedia и Character",
+      "source": "Интерфакс",
+      "url": "https://www.interfax.ru/russia/1127934",
+      "published": "2026-11-09T21:46:00"
+    },
+    {
+      "title": "ИИ научился писать целые операционные системы: Anthropic представила мощнейшие Claude Fable 5.2 и Mythos 5.2",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151069",
+      "published": "2026-11-09T21:28:00"
+    },
+    {
+      "title": "ИИ научился писать целые операционные системы: Anthropic представила мощнейшие Claude Fable 5.2 и Mythos 5.2 - 3DNews",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE1SdjczVUUwejRjb1hrOHFLY0RKbmxvbURKS0pJbTdoZ3Fvcnd1bndISVpFdjNOZU10Snpob3VB0gHaAUFVX3lxTFB2b0x2RE82T1pnNDVoMTZyQy04bFNiSE5OcU1nWTNweFB6aVBXN3FnTjY0TS1mN2lZcDNFTGpzTFRLY0RnNG40S3dIZURnNEVfUzNSQXZhVG5ZTzFCMWNxamFmSl9uNUhxLTMyWVJNQWpYT3lGdDFxdVF1VlEyYjNLd2NNRFZORVRBOWV2Z3pMMzRSNXJUYXBPMWptMGlBTVNXVG5QVWpYaDJRcGZhb0pvY1d3cnczWGs4Qmc4RGNOaHlJWXhQRnZFS1RSaUVqWGM5Qm1kNFM3bVVn?oc=5",
+      "published": "2026-11-09T21:28:00"
+    },
+    {
+      "title": "Anthropic представила модели ИИ Claude Fable 5.2 и Mythos 5.2",
+      "source": "Ведомости",
+      "url": "https://www.vedomosti.ru/technology/news/2026/11/09/1243889-anthropic-predstavila-modeli-ii",
+      "published": "2026-11-09T20:36:31"
+    },
+    {
+      "title": "Anthropic представила модели ИИ Claude Fable 5.2 и Mythos 5.2 - Ведомости",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPXzdJY04tMEJFZzVLQ0FFa3N6dVBtYnlldi1xbENZMzc4N1RQeFk1bjNBc1dsZ1dpNnpsd0ZhbnVrV0dUdm5hams5aHlsMzBwZVBIenFpbzVVb1R2S09sTDVmcjA4ZlJsTHAwTDJLT3ZIMGRfb0FQcEJ0VWo3cmx4QmRsT2tueDRGV3VHSVZOdnJLeDVIWXc?oc=5",
+      "published": "2026-11-09T20:36:31"
+    },
+    {
+      "title": "AI-агент в проде для тех, кто вкатывается: инструменты, RAG, надёжность и проверки",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1105712/?utm_campaign=1105712&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-09T20:08:39"
+    },
+    {
+      "title": "M**a представила Muse Ember — дешёвую ИИ-модель для армии автономных агентов",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151065",
+      "published": "2026-11-09T20:07:00"
+    },
+    {
+      "title": "Подкинул промпт — готово? Как я прокачал ролевой пайплайн",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1105702/?utm_campaign=1105702&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-09T20:02:40"
+    }
+  ]
+}

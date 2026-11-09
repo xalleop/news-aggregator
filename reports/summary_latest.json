@@ -1,36 +1,41 @@
 {
-  "timestamp": "2026-11-09_17-23",
-  "total_articles": 72,
+  "timestamp": "2026-11-10_01-23",
+  "total_articles": 80,
   "sources": {
-    "ТАСС": 1,
+    "ТАСС": 2,
+    "Интерфакс": 1,
     "Ведомости": 1,
     "Digital_Russia": 4,
-    "Habr_AI": 23,
-    "CNews": 11,
-    "3DNews": 5,
-    "VC_ru_Технологии": 1,
+    "Habr_AI": 24,
+    "CNews": 15,
+    "3DNews": 7,
+    "VC_ru_Технологии": 2,
     "ИИ комплаенс и этика": 1,
-    "Google News": 25
+    "Google News": 23
   },
   "top_keywords": [
     [
       "ИИ",
-      55
+      63
     ],
     [
       "AI",
-      16
+      17
     ],
     [
       "Минцифры",
-      5
+      6
     ],
     [
       "регулирование",
-      4
+      3
     ],
     [
       "ESG",
+      2
+    ],
+    [
+      "искусственный интеллект",
       2
     ],
     [
@@ -40,64 +45,64 @@
   ],
   "recent_headlines": [
     {
-      "title": "Дайджест open source Сбера",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/sberbank/articles/1104358/?utm_campaign=1104358&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-09T14:00:50"
-    },
-    {
-      "title": "Зарубежные ИИ назвали самые популярные российские товары за границей - ВФокусе Mail",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLVNNUmcxdDlIVm5aaVd6Vld1SkxuWHhCMWhXQzhLcTh5R1o5cmxNdHBzSk8tZFZvSlp3LVZZdGg2QW1XTWZWS3ZacHk2T0VOT3d1RFJLci1GX05hSDdCanUxeV9SWUpvWUQwRVhHa3ZRTzVKSXJzdW1IYU02ZmxkbXkyWGI3RkREVTRVbWU0R2ZrNi1HVUgxYk9IUmdsR0Z6TWVPVg?oc=5",
-      "published": "2026-11-09T13:53:18"
-    },
-    {
-      "title": "Росатом впервые заявился на \"Хайтек\" в компетенциях по ИИ, робототехнике и БПЛА",
+      "title": "\"Ассоциация менеджеров\" узнала, сколько российских управленцев доверяют ИИ",
       "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28299433",
-      "published": "2026-11-09T13:42:10"
+      "url": "https://tass.ru/ekonomika/28300473",
+      "published": "2026-11-09T22:13:30"
     },
     {
-      "title": "Инструмент не заменяет голову: почему без сильного эксперта ИИ выдает брак, а с ним — делает крутые кейсы - Sostav.ru",
+      "title": "Макрон допустил запрет на использование ИИ для несовершеннолетних",
+      "source": "ТАСС",
+      "url": "https://tass.ru/obschestvo/28300453",
+      "published": "2026-11-09T21:53:05"
+    },
+    {
+      "title": "Суд в Москве рассмотрит материалы о штрафах Telegram, Google, Apple, Wikimedia и Character",
+      "source": "Интерфакс",
+      "url": "https://www.interfax.ru/russia/1127934",
+      "published": "2026-11-09T21:46:00"
+    },
+    {
+      "title": "ИИ научился писать целые операционные системы: Anthropic представила мощнейшие Claude Fable 5.2 и Mythos 5.2",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151069",
+      "published": "2026-11-09T21:28:00"
+    },
+    {
+      "title": "ИИ научился писать целые операционные системы: Anthropic представила мощнейшие Claude Fable 5.2 и Mythos 5.2 - 3DNews",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BVDQ3YTQwSzRwMjE4anpKa0JWV20tckxucDllZDZqOWM0UVN2Q05QT1otM3MyNlh3ci1PY3pGNS00Z3kwZFdKZWF6VnRrTDBpLXhv?oc=5",
-      "published": "2026-11-09T13:33:56"
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE1SdjczVUUwejRjb1hrOHFLY0RKbmxvbURKS0pJbTdoZ3Fvcnd1bndISVpFdjNOZU10Snpob3VB0gHaAUFVX3lxTFB2b0x2RE82T1pnNDVoMTZyQy04bFNiSE5OcU1nWTNweFB6aVBXN3FnTjY0TS1mN2lZcDNFTGpzTFRLY0RnNG40S3dIZURnNEVfUzNSQXZhVG5ZTzFCMWNxamFmSl9uNUhxLTMyWVJNQWpYT3lGdDFxdVF1VlEyYjNLd2NNRFZORVRBOWV2Z3pMMzRSNXJUYXBPMWptMGlBTVNXVG5QVWpYaDJRcGZhb0pvY1d3cnczWGs4Qmc4RGNOaHlJWXhQRnZFS1RSaUVqWGM5Qm1kNFM3bVVn?oc=5",
+      "published": "2026-11-09T21:28:00"
     },
     {
-      "title": "Microsoft отказалась от использования дата-центров Oracle",
-      "source": "Digital_Russia",
-      "url": "https://d-russia.ru/microsoft-otkazalas-ot-ispolzovaniya-data-tsentrov-oracle.html",
-      "published": "2026-11-09T13:25:08"
+      "title": "Anthropic представила модели ИИ Claude Fable 5.2 и Mythos 5.2",
+      "source": "Ведомости",
+      "url": "https://www.vedomosti.ru/technology/news/2026/11/09/1243889-anthropic-predstavila-modeli-ii",
+      "published": "2026-11-09T20:36:31"
     },
     {
-      "title": "AI Sous-chef: как мы собрали приложение с облачными моделями и вынесли промпты из кода",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1105496/?utm_campaign=1105496&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-09T13:19:52"
-    },
-    {
-      "title": "Т2 запустила голосового ассистента на базе генеративного ИИ - CNews.ru",
+      "title": "Anthropic представила модели ИИ Claude Fable 5.2 и Mythos 5.2 - Ведомости",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ2RDY3RLTlVrbURVZko1XzZaZ3pXblctUzFPbzNBNzRRUkF6aDJ2YlJEQjlnVlVrMmxQMFJtSVZ0WXh4TnBPS1c3Q2wtZldVOVRjc3BBNklBTW9qV29hcHdDRmVCUEdDSXoyNi1JVjZhMTRXVnBXVjlNNGpuUG1LSVl3?oc=5",
-      "published": "2026-11-09T13:06:28"
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPXzdJY04tMEJFZzVLQ0FFa3N6dVBtYnlldi1xbENZMzc4N1RQeFk1bjNBc1dsZ1dpNnpsd0ZhbnVrV0dUdm5hams5aHlsMzBwZVBIenFpbzVVb1R2S09sTDVmcjA4ZlJsTHAwTDJLT3ZIMGRfb0FQcEJ0VWo3cmx4QmRsT2tueDRGV3VHSVZOdnJLeDVIWXc?oc=5",
+      "published": "2026-11-09T20:36:31"
     },
     {
-      "title": "Samsung начнёт брать деньги за ИИ-функции Galaxy AI - Rozetked.me",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOHhZZ29ydVB6MG1ONzdoMzRORzZHMHlKQ0R5RzBQZEdQUXQxNDZQZVVCRDVrWFo1SUJQZEppeUpsek1YRzdjTUhhNDhoT3dJRXpQWXN6Y2w0bml1Ml9POFNncmFUemQ3cTN0dk1VMmVjTTBoYkhmdWllUEV1aVBzMDhMUVYwRnhKdWc?oc=5",
-      "published": "2026-11-09T12:54:00"
-    },
-    {
-      "title": "Копипаста, нейронки и вечный спор Python с Go",
+      "title": "AI-агент в проде для тех, кто вкатывается: инструменты, RAG, надёжность и проверки",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/X5Tech/articles/1105370/?utm_campaign=1105370&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-09T12:52:47"
+      "url": "https://habr.com/ru/articles/1105712/?utm_campaign=1105712&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-09T20:08:39"
     },
     {
-      "title": "Осьминог, холодильник и 498 тестов: как я за 4 дня навайбкодил бота, который собирает мне корзину в Лавке",
+      "title": "M**a представила Muse Ember — дешёвую ИИ-модель для армии автономных агентов",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151065",
+      "published": "2026-11-09T20:07:00"
+    },
+    {
+      "title": "Подкинул промпт — готово? Как я прокачал ролевой пайплайн",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1105472/?utm_campaign=1105472&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-09T12:37:51"
+      "url": "https://habr.com/ru/articles/1105702/?utm_campaign=1105702&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-09T20:02:40"
     }
   ]
 }
