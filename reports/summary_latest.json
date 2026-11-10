@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-11-10_01-23",
-  "total_articles": 80,
+  "timestamp": "2026-11-10_04-45",
+  "total_articles": 81,
   "sources": {
     "ТАСС": 2,
     "Интерфакс": 1,
@@ -11,12 +11,12 @@
     "3DNews": 7,
     "VC_ru_Технологии": 2,
     "ИИ комплаенс и этика": 1,
-    "Google News": 23
+    "Google News": 24
   },
   "top_keywords": [
     [
       "ИИ",
-      63
+      64
     ],
     [
       "AI",
@@ -24,7 +24,7 @@
     ],
     [
       "Минцифры",
-      6
+      7
     ],
     [
       "регулирование",
@@ -45,7 +45,19 @@
   ],
   "recent_headlines": [
     {
-      "title": "\"Ассоциация менеджеров\" узнала, сколько российских управленцев доверяют ИИ",
+      "title": "Искусственный интеллект смог за четыре часа получить контроль над доменом компьютерной сети - Вечерний Санкт-Петербург",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS0ktS0JCZFYzTDYzYTBRRzZia05nNDdVQVhUczNyOU9YOFF2OVY4ZnRiU28tVnhUdEN2OGZ6M2hGb0dYa3dvZFpFV1FZQlpNSnJRU1ZHdlRmcWF5dmdqZlNLY0dleUdvaWQ5WGJUbVZVY3J0bmtyYkY0cl9kWE1JQUR3Sl9jUUZZX0tpZmVxZUs3LVVDQklsQTAtdEFNNVRXMWlQdHp4VXVpdHowUWVRSW9kUHlLaUVoN3B2UWFVNzE3dlJOMGc?oc=5",
+      "published": "2026-11-10T01:39:59"
+    },
+    {
+      "title": "Минцифры получило новые полномочия в сфере ИИ - ComNews.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMWxVMWVrUzZyTXd6SnhsLXdoVVlGN3pxNFJudlhFTkJPQXpOY3ZrR2UwM0psTzROcEtiVFRWLXRxYklXeFBxNE5PWXBZdWRudERjSWRUclpyLU9KSXBZY1Z6NlNGTzFaTHdIUnhHRERvZ3ZRUXU0eGlEc3FDeDFpR0dRMUVmMGY3X1ozSk1Va2FMM05BNjd3X0dlSkNIVGY2cTltUU81bzc1UXdFMUE?oc=5",
+      "published": "2026-11-09T23:36:02"
+    },
+    {
+      "title": "\"Ассоциация менеджеров\" узнала, сколько управленцев доверяют ИИ",
       "source": "ТАСС",
       "url": "https://tass.ru/ekonomika/28300473",
       "published": "2026-11-09T22:13:30"
@@ -71,8 +83,14 @@
     {
       "title": "ИИ научился писать целые операционные системы: Anthropic представила мощнейшие Claude Fable 5.2 и Mythos 5.2 - 3DNews",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE1SdjczVUUwejRjb1hrOHFLY0RKbmxvbURKS0pJbTdoZ3Fvcnd1bndISVpFdjNOZU10Snpob3VB0gHaAUFVX3lxTFB2b0x2RE82T1pnNDVoMTZyQy04bFNiSE5OcU1nWTNweFB6aVBXN3FnTjY0TS1mN2lZcDNFTGpzTFRLY0RnNG40S3dIZURnNEVfUzNSQXZhVG5ZTzFCMWNxamFmSl9uNUhxLTMyWVJNQWpYT3lGdDFxdVF1VlEyYjNLd2NNRFZORVRBOWV2Z3pMMzRSNXJUYXBPMWptMGlBTVNXVG5QVWpYaDJRcGZhb0pvY1d3cnczWGs4Qmc4RGNOaHlJWXhQRnZFS1RSaUVqWGM5Qm1kNFM3bVVn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVXBta041QWtqVjNLTDVmZzdSZjdzV2FWdHNXMXdzZGNjcXFPXzB6NVdFaS1fcXUyajk1WnAxTXFSSEJDVFAwTW0wRzhKUFlRc3Q1VTJTWkVXWWhwWjl2MkRBN0Y5d2JLdTJGVzVoX2hWN1VmMlZTVFNiWTlScFdYZlA1RjlYc3puNW9zZWE4aVUxQ002NV9iTVZxX21uSGV5UzdUa0RGclROMDZ2MkplY1RvTTB2cUs4MDdKX0pFVzBxSHgyWEJSNk1pZUhBRThkVVNkatIB2gFBVV95cUxQdm9MdkRPNk9aZzQ1aDE2ckMtOGxTYkhOTnFNZ1kzcHhQemlQVzdxZ042NE0tZjdpWXAzRUxqc0xUS2NEZzRuNEt3SGVEZzRFX1MzUkF2YVRuWU8xQjFjcWphZkpfbjVIcS0zMllSTUFqWE95RnQxcXVRdVZRMmIzS3djTURWTkVUQTlldmd6TDM0UjVyVGFwTzFqbTBpQU1TV1RuUFVqWGgyUXBmYW9Kb2NXd3J3M1hrOEJnOERjTmh5SVl4UEZ2RUtUUmlFalhjOUJtZDRTN21VZw?oc=5",
       "published": "2026-11-09T21:28:00"
+    },
+    {
+      "title": "Пермские учёные проверили медицинский ИИ на точность - Новый компаньон",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RTm54S2t5eVltd0tHb245bktGSG1BcjdHV0RMVUlNY1hkZkU4VnV1MHpJa2w4NXY4Q2NoY0praHozNV9oajQyeHZycFktY21mTWxTag?oc=5",
+      "published": "2026-11-09T21:10:45"
     },
     {
       "title": "Anthropic представила модели ИИ Claude Fable 5.2 и Mythos 5.2",
@@ -85,24 +103,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPXzdJY04tMEJFZzVLQ0FFa3N6dVBtYnlldi1xbENZMzc4N1RQeFk1bjNBc1dsZ1dpNnpsd0ZhbnVrV0dUdm5hams5aHlsMzBwZVBIenFpbzVVb1R2S09sTDVmcjA4ZlJsTHAwTDJLT3ZIMGRfb0FQcEJ0VWo3cmx4QmRsT2tueDRGV3VHSVZOdnJLeDVIWXc?oc=5",
       "published": "2026-11-09T20:36:31"
-    },
-    {
-      "title": "AI-агент в проде для тех, кто вкатывается: инструменты, RAG, надёжность и проверки",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1105712/?utm_campaign=1105712&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-09T20:08:39"
-    },
-    {
-      "title": "M**a представила Muse Ember — дешёвую ИИ-модель для армии автономных агентов",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151065",
-      "published": "2026-11-09T20:07:00"
-    },
-    {
-      "title": "Подкинул промпт — готово? Как я прокачал ролевой пайплайн",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1105702/?utm_campaign=1105702&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-09T20:02:40"
     }
   ]
 }

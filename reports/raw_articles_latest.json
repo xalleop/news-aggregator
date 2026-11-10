@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-11-10_01-23",
-  "total_articles": 80,
+  "timestamp": "2026-11-10_04-45",
+  "total_articles": 81,
   "articles": [
     {
-      "title": "\"Ассоциация менеджеров\" узнала, сколько российских управленцев доверяют ИИ",
+      "title": "\"Ассоциация менеджеров\" узнала, сколько управленцев доверяют ИИ",
       "url": "https://tass.ru/ekonomika/28300473",
       "source": "ТАСС",
       "published": "2026-11-09T22:13:30",
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "title": "Подкинул промпт — готово? Как я прокачал ролевой пайплайн",
+      "title": "Подкинул промпт — готово? Как я прокачал ролевой пайплайн",
       "url": "https://habr.com/ru/articles/1105702/?utm_campaign=1105702&utm_source=habrahabr&utm_medium=rss",
       "source": "Habr_AI",
       "published": "2026-11-09T20:02:40",
@@ -356,7 +356,7 @@
       ]
     },
     {
-      "title": "Осьминог, холодильник и 498 тестов: как я за 4 дня навайбкодил бота, который собирает мне корзину в Лавке",
+      "title": "Осьминог, холодильник и 498 тестов: как я за 4 дня навайбкодил бота, который собирает мне корзину в Лавке",
       "url": "https://habr.com/ru/articles/1105472/?utm_campaign=1105472&utm_source=habrahabr&utm_medium=rss",
       "source": "Habr_AI",
       "published": "2026-11-09T12:37:51",
@@ -707,41 +707,26 @@
       ]
     },
     {
-      "title": "Учёные придумали, как массово выпускать твердотельные холодильники — компрессоры отправят на пенсию",
-      "url": "https://3dnews.ru/1151041",
-      "source": "3DNews",
-      "published": "2026-11-09T10:52:00",
-      "description": "Традиционные парокомпрессионные холодильники уже не вписываются в энергетический баланс планеты &mdash; они потребляют много энергии и используют разрушающие окружающую среду хладагенты. Им на смену обещают прийти твердотельные холодильники, сочетающие энергоэффективность, безопасность и простоту. Источник изображения: ИИ-генерация ChatGPT/3DNews",
-      "tags": [
-        "tech",
-        "hardware"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Google представила ИИ-ускорители TPU 8tx и TPU 8i Max, заточенные под конфиденциальность и огромные контексты",
-      "url": "https://3dnews.ru/1151049",
-      "source": "3DNews",
-      "published": "2026-11-09T15:09:00",
-      "description": "Google расширила свою линейку тензорных процессоров (TPU) восьмого поколения, представив TPU 8tx для безопасного и конфиденциального выполнения логических операций (инференса) и TPU 8i Max для работы с огромными контекстными окнами. По словам компании, эти системы оптимизированы для задач с использованием ИИ-агентов. Главными приоритетами при их создании стали безопасность, высокая плотность вычислений и улучшенные возможности логического вывода. Источник изображений: Google",
-      "tags": [
-        "tech",
-        "hardware"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
       "title": "ИИ научился писать целые операционные системы: Anthropic представила мощнейшие Claude Fable 5.2 и Mythos 5.2",
       "url": "https://3dnews.ru/1151069",
       "source": "3DNews",
       "published": "2026-11-09T21:28:00",
       "description": "Anthropic представила Claude Fable 5.2 и Claude Mythos 5.2, новые версии своих наиболее мощных ИИ-моделей, получившие улучшенные возможности программирования, логического рассуждения и обработки изображений. По данным разработчика, новинки выполняют задачи до 30 % быстрее предшественников, а в большинстве проведённых тестов превосходят Claude Opus 5.5. Источник изображений: Anthropic (скриншоты)",
+      "tags": [
+        "tech",
+        "hardware"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Учёные придумали, как массово выпускать твердотельные холодильники — компрессоры отправят на пенсию",
+      "url": "https://3dnews.ru/1151041",
+      "source": "3DNews",
+      "published": "2026-11-09T10:52:00",
+      "description": "Традиционные парокомпрессионные холодильники уже не вписываются в энергетический баланс планеты &mdash; они потребляют много энергии и используют разрушающие окружающую среду хладагенты. Им на смену обещают прийти твердотельные холодильники, сочетающие энергоэффективность, безопасность и простоту. Источник изображения: ИИ-генерация ChatGPT/3DNews",
       "tags": [
         "tech",
         "hardware"
@@ -812,16 +797,16 @@
       ]
     },
     {
-      "title": "Meta* расширила ИИ-проверку возраста в Instagram* на пользователей по всему миру — аккаунты детей младше 13 лет будут удалять",
-      "url": "https://vc.ru/social/3244685-meta-rasshiryaet-ii-proverku-vozrasta-v-instagram?from=rss",
-      "source": "VC_ru_Технологии",
-      "published": "2026-11-09T13:59:38",
-      "description": "А профили подростков до 17 лет получат более строгие правила безопасности.\n                                                    <img alt=\"alt\" height=\"891\" src=\"https://leonardo.osnova.io/db6b680b-64e6-59e1-8da4-06bd222d28ca/-/resize/1300/\" width=\"1024\" />",
+      "title": "Google представила ИИ-ускорители TPU 8tx и TPU 8i Max, заточенные под конфиденциальность и огромные контексты",
+      "url": "https://3dnews.ru/1151049",
+      "source": "3DNews",
+      "published": "2026-11-09T15:09:00",
+      "description": "Google расширила свою линейку тензорных процессоров (TPU) восьмого поколения, представив TPU 8tx для безопасного и конфиденциального выполнения логических операций (инференса) и TPU 8i Max для работы с огромными контекстными окнами. По словам компании, эти системы оптимизированы для задач с использованием ИИ-агентов. Главными приоритетами при их создании стали безопасность, высокая плотность вычислений и улучшенные возможности логического вывода. Источник изображений: Google",
       "tags": [
         "tech",
-        "business"
+        "hardware"
       ],
-      "category": "ai_and_regulation",
+      "category": "tech_news",
       "matched_keywords": [
         "ИИ"
       ]
@@ -839,6 +824,21 @@
       "category": "ai_and_regulation",
       "matched_keywords": [
         "Минцифры"
+      ]
+    },
+    {
+      "title": "Meta* расширила ИИ-проверку возраста в Instagram* на пользователей по всему миру — аккаунты детей младше 13 лет будут удалять",
+      "url": "https://vc.ru/social/3244685-meta-rasshiryaet-ii-proverku-vozrasta-v-instagram?from=rss",
+      "source": "VC_ru_Технологии",
+      "published": "2026-11-09T13:59:38",
+      "description": "А профили подростков до 17 лет получат более строгие правила безопасности.\n                                                    <img alt=\"alt\" height=\"891\" src=\"https://leonardo.osnova.io/db6b680b-64e6-59e1-8da4-06bd222d28ca/-/resize/1300/\" width=\"1024\" />",
+      "tags": [
+        "tech",
+        "business"
+      ],
+      "category": "ai_and_regulation",
+      "matched_keywords": [
+        "ИИ"
       ]
     },
     {
@@ -968,51 +968,6 @@
       ]
     },
     {
-      "title": "Anthropic представила модели ИИ Claude Fable 5.2 и Mythos 5.2 - Ведомости",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPXzdJY04tMEJFZzVLQ0FFa3N6dVBtYnlldi1xbENZMzc4N1RQeFk1bjNBc1dsZ1dpNnpsd0ZhbnVrV0dUdm5hams5aHlsMzBwZVBIenFpbzVVb1R2S09sTDVmcjA4ZlJsTHAwTDJLT3ZIMGRfb0FQcEJ0VWo3cmx4QmRsT2tueDRGV3VHSVZOdnJLeDVIWXc?oc=5",
-      "source": "Google News",
-      "published": "2026-11-09T20:36:31",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPXzdJY04tMEJFZzVLQ0FFa3N6dVBtYnlldi1xbENZMzc4N1RQeFk1bjNBc1dsZ1dpNnpsd0ZhbnVrV0dUdm5hams5aHlsMzBwZVBIenFpbzVVb1R2S09sTDVmcjA4ZlJsTHAwTDJLT3ZIMGRfb0FQcEJ0VWo3cmx4QmRsT2tueDRGV3VHSVZOdnJLeDVIWXc?oc=5\" target=\"_blank\">Anthropic представила модели ИИ Claude Fable 5.2 и Mythos 5.2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ведомости</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "ИИ научился писать целые операционные системы: Anthropic представила мощнейшие Claude Fable 5.2 и Mythos 5.2 - 3DNews",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE1SdjczVUUwejRjb1hrOHFLY0RKbmxvbURKS0pJbTdoZ3Fvcnd1bndISVpFdjNOZU10Snpob3VB0gHaAUFVX3lxTFB2b0x2RE82T1pnNDVoMTZyQy04bFNiSE5OcU1nWTNweFB6aVBXN3FnTjY0TS1mN2lZcDNFTGpzTFRLY0RnNG40S3dIZURnNEVfUzNSQXZhVG5ZTzFCMWNxamFmSl9uNUhxLTMyWVJNQWpYT3lGdDFxdVF1VlEyYjNLd2NNRFZORVRBOWV2Z3pMMzRSNXJUYXBPMWptMGlBTVNXVG5QVWpYaDJRcGZhb0pvY1d3cnczWGs4Qmc4RGNOaHlJWXhQRnZFS1RSaUVqWGM5Qm1kNFM3bVVn?oc=5",
-      "source": "Google News",
-      "published": "2026-11-09T21:28:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiPkFVX3lxTE1SdjczVUUwejRjb1hrOHFLY0RKbmxvbURKS0pJbTdoZ3Fvcnd1bndISVpFdjNOZU10Snpob3VB0gHaAUFVX3lxTFB2b0x2RE82T1pnNDVoMTZyQy04bFNiSE5OcU1nWTNweFB6aVBXN3FnTjY0TS1mN2lZcDNFTGpzTFRLY0RnNG40S3dIZURnNEVfUzNSQXZhVG5ZTzFCMWNxamFmSl9uNUhxLTMyWVJNQWpYT3lGdDFxdVF1VlEyYjNLd2NNRFZORVRBOWV2Z3pMMzRSNXJUYXBPMWptMGlBTVNXVG5QVWpYaDJRcGZhb0pvY1d3cnczWGs4Qmc4RGNOaHlJWXhQRnZFS1RSaUVqWGM5Qm1kNFM3bVVn?oc=5\" target=\"_blank\">ИИ научился писать целые операционные системы: Anthropic представила мощнейшие Claude Fable 5.2 и Mythos 5.2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">3DNews</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Anthropic представила ИИ-модели Fable 5.2 и Mythos 5.2 - Rozetked.me",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdlAxaElPS2pNUlNsOWhXd1FvcmJ4S0h5c25GR3RfS3M1YUlvU2l5R25oeXFlOEdXVE1YRVdNVVA1SXR2aU5iOFBKakJ2dTdLSEpJNXB3UktqcVhRZWRaUGJYMTBxNVZOakpLbHZIVENMUEh2N2Z6TE05VEpHaWtDRXYxeDlWa0twLU9qR05n?oc=5",
-      "source": "Google News",
-      "published": "2026-11-09T19:43:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOdlAxaElPS2pNUlNsOWhXd1FvcmJ4S0h5c25GR3RfS3M1YUlvU2l5R25oeXFlOEdXVE1YRVdNVVA1SXR2aU5iOFBKakJ2dTdLSEpJNXB3UktqcVhRZWRaUGJYMTBxNVZOakpLbHZIVENMUEh2N2Z6TE05VEpHaWtDRXYxeDlWa0twLU9qR05n?oc=5\" target=\"_blank\">Anthropic представила ИИ-модели Fable 5.2 и Mythos 5.2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rozetked.me</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
       "title": "Генералы начали передавать Путину сгенерированные ИИ видео о фейковых успехах в Украине - Русская служба The Moscow Times",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYTRHVlY1QTRLZWxzVExNX3RDR2wwYzA1Uzhlam9EZ3g2N0plQmk0emhqRHplelNTTnpzcXFkWjNQX2NINzRUMzV6ek9MTFpNU1plUFk5OVFPSzE3aGNZeFEwYjNQcHVXcS1XWFNrc0puTC1HUHNIVTRnOGx3eTlVbmV4NFJxNmxmY1FCV1BBZUdpMVZsTEhocF9TM3NERjQ0Ulc1TlpoZWFoQnVRV3lCdWxpOHBITWQ0SUR0b1lGdURheDNCNjFSdHBCajBJX1NBRXdDWHVZZENscDA0ejlKT3JDbHlCYVJmeHA4?oc=5",
       "source": "Google News",
@@ -1043,11 +998,71 @@
       ]
     },
     {
+      "title": "Сервер для локального ИИ на 8 старых NVIDIA V100 достиг 215 токенов/с без отправки данных в облако - Клуб DNS",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdjNxT3VPWkFxNzRfNV8zZXZTVlpaUENIeUhfakFoblFWN05wMWNVeXN1ME9XRXZmd0hTNTBUNElBb2tPeTdyOXBBZWFyQk1od050bVZBSHUzdXZwNzlLa3lHUGNzWnpteDFuYUg0eU15YWI3LW5samQxVXdpc0FsMGZPLVh3bjNscFFWZlJtX1c2c0hjSFJDOHBpSXgyMm9Ddy1ndVNublrSAa4BQVVfeXFMTXY2akY3R1dsTkhXcC11WHJTS2pQalJoenZvVUlWamFnbWlXeXZqSEJhZzQ1dFZnM1ZNSWFtS016YlJVdmRIc2FfRUF2OUlmRnVTaEZsSTFBZC13YjdFVUtJRGd4WFk1QUgzT2xDbGNUeV8xUUhNalJ6U3hoM1haNkdhOWtpbGxzNFk0d2xXR1o4RTdtSk9xS0E0OTROdTVOdXVKcE9KZ2lXSFBhc19n?oc=5",
+      "source": "Google News",
+      "published": "2026-11-09T16:47:59",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdjNxT3VPWkFxNzRfNV8zZXZTVlpaUENIeUhfakFoblFWN05wMWNVeXN1ME9XRXZmd0hTNTBUNElBb2tPeTdyOXBBZWFyQk1od050bVZBSHUzdXZwNzlLa3lHUGNzWnpteDFuYUg0eU15YWI3LW5samQxVXdpc0FsMGZPLVh3bjNscFFWZlJtX1c2c0hjSFJDOHBpSXgyMm9Ddy1ndVNublrSAa4BQVVfeXFMTXY2akY3R1dsTkhXcC11WHJTS2pQalJoenZvVUlWamFnbWlXeXZqSEJhZzQ1dFZnM1ZNSWFtS016YlJVdmRIc2FfRUF2OUlmRnVTaEZsSTFBZC13YjdFVUtJRGd4WFk1QUgzT2xDbGNUeV8xUUhNalJ6U3hoM1haNkdhOWtpbGxzNFk0d2xXR1o4RTdtSk9xS0E0OTROdTVOdXVKcE9KZ2lXSFBhc19n?oc=5\" target=\"_blank\">Сервер для локального ИИ на 8 старых NVIDIA V100 достиг 215 токенов/с без отправки данных в облако</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Клуб DNS</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
       "title": "Google расширяет линейку чипов для ИИ-разработок - Интерфакс",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mYXFzNlZackdwYUJWck9xaUkzM3hqUFgtTENsZ0VmQktpZm1RSHByd281TUZESlM0SjdrWTRScFR5Q3FsY294MUc4YXpVbWRf0gFLQVVfeXFMTU5vYm5nNDMtMWN4YXgtVVRIbHZpNFozVnZsZlhiNXE4X2E5b0NydlZXNDZNZ05iVmo1MmZKZ3hPZXZHalJBd2tXeHFn?oc=5",
       "source": "Google News",
       "published": "2026-11-09T14:42:00",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mYXFzNlZackdwYUJWck9xaUkzM3hqUFgtTENsZ0VmQktpZm1RSHByd281TUZESlM0SjdrWTRScFR5Q3FsY294MUc4YXpVbWRf0gFLQVVfeXFMTU5vYm5nNDMtMWN4YXgtVVRIbHZpNFozVnZsZlhiNXE4X2E5b0NydlZXNDZNZ05iVmo1MmZKZ3hPZXZHalJBd2tXeHFn?oc=5\" target=\"_blank\">Google расширяет линейку чипов для ИИ-разработок</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Интерфакс</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Anthropic представила модели ИИ Claude Fable 5.2 и Mythos 5.2 - Ведомости",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPXzdJY04tMEJFZzVLQ0FFa3N6dVBtYnlldi1xbENZMzc4N1RQeFk1bjNBc1dsZ1dpNnpsd0ZhbnVrV0dUdm5hams5aHlsMzBwZVBIenFpbzVVb1R2S09sTDVmcjA4ZlJsTHAwTDJLT3ZIMGRfb0FQcEJ0VWo3cmx4QmRsT2tueDRGV3VHSVZOdnJLeDVIWXc?oc=5",
+      "source": "Google News",
+      "published": "2026-11-09T20:36:31",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPXzdJY04tMEJFZzVLQ0FFa3N6dVBtYnlldi1xbENZMzc4N1RQeFk1bjNBc1dsZ1dpNnpsd0ZhbnVrV0dUdm5hams5aHlsMzBwZVBIenFpbzVVb1R2S09sTDVmcjA4ZlJsTHAwTDJLT3ZIMGRfb0FQcEJ0VWo3cmx4QmRsT2tueDRGV3VHSVZOdnJLeDVIWXc?oc=5\" target=\"_blank\">Anthropic представила модели ИИ Claude Fable 5.2 и Mythos 5.2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ведомости</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ИИ научился писать целые операционные системы: Anthropic представила мощнейшие Claude Fable 5.2 и Mythos 5.2 - 3DNews",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVXBta041QWtqVjNLTDVmZzdSZjdzV2FWdHNXMXdzZGNjcXFPXzB6NVdFaS1fcXUyajk1WnAxTXFSSEJDVFAwTW0wRzhKUFlRc3Q1VTJTWkVXWWhwWjl2MkRBN0Y5d2JLdTJGVzVoX2hWN1VmMlZTVFNiWTlScFdYZlA1RjlYc3puNW9zZWE4aVUxQ002NV9iTVZxX21uSGV5UzdUa0RGclROMDZ2MkplY1RvTTB2cUs4MDdKX0pFVzBxSHgyWEJSNk1pZUhBRThkVVNkatIB2gFBVV95cUxQdm9MdkRPNk9aZzQ1aDE2ckMtOGxTYkhOTnFNZ1kzcHhQemlQVzdxZ042NE0tZjdpWXAzRUxqc0xUS2NEZzRuNEt3SGVEZzRFX1MzUkF2YVRuWU8xQjFjcWphZkpfbjVIcS0zMllSTUFqWE95RnQxcXVRdVZRMmIzS3djTURWTkVUQTlldmd6TDM0UjVyVGFwTzFqbTBpQU1TV1RuUFVqWGgyUXBmYW9Kb2NXd3J3M1hrOEJnOERjTmh5SVl4UEZ2RUtUUmlFalhjOUJtZDRTN21VZw?oc=5",
+      "source": "Google News",
+      "published": "2026-11-09T21:28:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVXBta041QWtqVjNLTDVmZzdSZjdzV2FWdHNXMXdzZGNjcXFPXzB6NVdFaS1fcXUyajk1WnAxTXFSSEJDVFAwTW0wRzhKUFlRc3Q1VTJTWkVXWWhwWjl2MkRBN0Y5d2JLdTJGVzVoX2hWN1VmMlZTVFNiWTlScFdYZlA1RjlYc3puNW9zZWE4aVUxQ002NV9iTVZxX21uSGV5UzdUa0RGclROMDZ2MkplY1RvTTB2cUs4MDdKX0pFVzBxSHgyWEJSNk1pZUhBRThkVVNkatIB2gFBVV95cUxQdm9MdkRPNk9aZzQ1aDE2ckMtOGxTYkhOTnFNZ1kzcHhQemlQVzdxZ042NE0tZjdpWXAzRUxqc0xUS2NEZzRuNEt3SGVEZzRFX1MzUkF2YVRuWU8xQjFjcWphZkpfbjVIcS0zMllSTUFqWE95RnQxcXVRdVZRMmIzS3djTURWTkVUQTlldmd6TDM0UjVyVGFwTzFqbTBpQU1TV1RuUFVqWGgyUXBmYW9Kb2NXd3J3M1hrOEJnOERjTmh5SVl4UEZ2RUtUUmlFalhjOUJtZDRTN21VZw?oc=5\" target=\"_blank\">ИИ научился писать целые операционные системы: Anthropic представила мощнейшие Claude Fable 5.2 и Mythos 5.2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">3DNews</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Anthropic представила ИИ-модели Fable 5.2 и Mythos 5.2 - Rozetked.me",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdlAxaElPS2pNUlNsOWhXd1FvcmJ4S0h5c25GR3RfS3M1YUlvU2l5R25oeXFlOEdXVE1YRVdNVVA1SXR2aU5iOFBKakJ2dTdLSEpJNXB3UktqcVhRZWRaUGJYMTBxNVZOakpLbHZIVENMUEh2N2Z6TE05VEpHaWtDRXYxeDlWa0twLU9qR05n?oc=5",
+      "source": "Google News",
+      "published": "2026-11-09T19:43:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOdlAxaElPS2pNUlNsOWhXd1FvcmJ4S0h5c25GR3RfS3M1YUlvU2l5R25oeXFlOEdXVE1YRVdNVVA1SXR2aU5iOFBKakJ2dTdLSEpJNXB3UktqcVhRZWRaUGJYMTBxNVZOakpLbHZIVENMUEh2N2Z6TE05VEpHaWtDRXYxeDlWa0twLU9qR05n?oc=5\" target=\"_blank\">Anthropic представила ИИ-модели Fable 5.2 и Mythos 5.2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rozetked.me</font>",
       "tags": [
         "google_news"
       ],
@@ -1103,6 +1118,37 @@
       ]
     },
     {
+      "title": "Минцифры получило новые полномочия в сфере ИИ - ComNews.ru",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMWxVMWVrUzZyTXd6SnhsLXdoVVlGN3pxNFJudlhFTkJPQXpOY3ZrR2UwM0psTzROcEtiVFRWLXRxYklXeFBxNE5PWXBZdWRudERjSWRUclpyLU9KSXBZY1Z6NlNGTzFaTHdIUnhHRERvZ3ZRUXU0eGlEc3FDeDFpR0dRMUVmMGY3X1ozSk1Va2FMM05BNjd3X0dlSkNIVGY2cTltUU81bzc1UXdFMUE?oc=5",
+      "source": "Google News",
+      "published": "2026-11-09T23:36:02",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPMWxVMWVrUzZyTXd6SnhsLXdoVVlGN3pxNFJudlhFTkJPQXpOY3ZrR2UwM0psTzROcEtiVFRWLXRxYklXeFBxNE5PWXBZdWRudERjSWRUclpyLU9KSXBZY1Z6NlNGTzFaTHdIUnhHRERvZ3ZRUXU0eGlEc3FDeDFpR0dRMUVmMGY3X1ozSk1Va2FMM05BNjd3X0dlSkNIVGY2cTltUU81bzc1UXdFMUE?oc=5\" target=\"_blank\">Минцифры получило новые полномочия в сфере ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ComNews.ru</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "Минцифры",
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Пермские учёные проверили медицинский ИИ на точность - Новый компаньон",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RTm54S2t5eVltd0tHb245bktGSG1BcjdHV0RMVUlNY1hkZkU4VnV1MHpJa2w4NXY4Q2NoY0praHozNV9oajQyeHZycFktY21mTWxTag?oc=5",
+      "source": "Google News",
+      "published": "2026-11-09T21:10:45",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RTm54S2t5eVltd0tHb245bktGSG1BcjdHV0RMVUlNY1hkZkU4VnV1MHpJa2w4NXY4Q2NoY0praHozNV9oajQyeHZycFktY21mTWxTag?oc=5\" target=\"_blank\">Пермские учёные проверили медицинский ИИ на точность</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Новый компаньон</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
       "title": "Каждый третий сотрудник делился рабочими документами и паролями с ИИ - RB.ru",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdGRxbThPN2NoX2pRZi1EMk1oVTRoZkpoX1NzTWFKei1ZUU5DOGhqeDNkdEN5Tmc0OGJGdTBUc2xEVXNYT1c1MV95RHk2cEVNTGZnaXItSVB2aTdYQVVvbjlzSGNXUUVSUTFwTnRYMndZR1ltOTJNVnN0cDZNbkllMFNZdV9VY3RGNFRqQkhMbFFzaHI1d1hVWVJHQ2FrVnhfbV80elozN053RDZXVzg2Q3NwVXdQTjJoUWx2clB6TnhkN0tlZFNROG1rSWZoQQ?oc=5",
       "source": "Google News",
@@ -1133,21 +1179,6 @@
       ]
     },
     {
-      "title": "«Яндекс» нарастил скорость роверов почти на 40% за счёт ИИ - New-Retail.ru",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYm9TdEFaYUZFMkZMek9xbk1WSEZ0dVBQOXhZaXFMX0JGSG5PV0pJUDVXZmV0VDZybEx1NW5qOTdzTlZZM1VtdzMzYnRYaWNMTGRTUzR5SlNxWElYbXBfWXlITG93d2dMOE9oenJYZzBKSFlOaWlFWF9QMzhfTmViSG5KQVpkcEgyd3VWUG9WQmdwTzVUSVdZYlF5dXc?oc=5",
-      "source": "Google News",
-      "published": "2026-11-09T17:10:13",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPYm9TdEFaYUZFMkZMek9xbk1WSEZ0dVBQOXhZaXFMX0JGSG5PV0pJUDVXZmV0VDZybEx1NW5qOTdzTlZZM1VtdzMzYnRYaWNMTGRTUzR5SlNxWElYbXBfWXlITG93d2dMOE9oenJYZzBKSFlOaWlFWF9QMzhfTmViSG5KQVpkcEgyd3VWUG9WQmdwTzVUSVdZYlF5dXc?oc=5\" target=\"_blank\">«Яндекс» нарастил скорость роверов почти на 40% за счёт ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New-Retail.ru</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
       "title": "В Госдуме планируют ввести меры по защите авторских прав в сфере ИИ к марту - Интерфакс",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzMWJNQzBCVWRIRl90LXpOSEFYYXVZMDdxSW9Nb2lrWGttLTdZT1N1YkhtYllMUldEc2NQdF90N0hZRTVwc3dxbEoxZm1MUWvSAUtBVV95cUxQZVhKXzRiYWlaMWUyaEVZdlBtOTJOZEVOaE15SEk5Y3N6eXZQVzN2NFVENWp0a0xZNVdRZmFDZzZ2UkxpQnBSSXpUT0k?oc=5",
       "source": "Google News",
@@ -1163,18 +1194,18 @@
       ]
     },
     {
-      "title": "Как я пытался заменить бота самообучающимся ИИ в своей игре Tank General (статья+видеоверсия) - Хабр",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zM2kya2htTkdiSkhQNV9DdWlBbTFocFZkLWVzZGZKU3VNSjQzTDZhejB4TExpcVhGVFlwcEFxcHU2TUhwWTJoVmdWOGlLZ9IBWEFVX3lxTE9CNGJ1b0duQlF4MVZMU3VfMnpXLUxxV0toeE9ReEcxZDB2ZkpUYmZFZHZFM3lvb3NNM1ZpWWY3RjZCeVlUeFNqX1NSTXhJNDhibmhrVW52VmU?oc=5",
+      "title": "Искусственный интеллект смог за четыре часа получить контроль над доменом компьютерной сети - Вечерний Санкт-Петербург",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS0ktS0JCZFYzTDYzYTBRRzZia05nNDdVQVhUczNyOU9YOFF2OVY4ZnRiU28tVnhUdEN2OGZ6M2hGb0dYa3dvZFpFV1FZQlpNSnJRU1ZHdlRmcWF5dmdqZlNLY0dleUdvaWQ5WGJUbVZVY3J0bmtyYkY0cl9kWE1JQUR3Sl9jUUZZX0tpZmVxZUs3LVVDQklsQTAtdEFNNVRXMWlQdHp4VXVpdHowUWVRSW9kUHlLaUVoN3B2UWFVNzE3dlJOMGc?oc=5",
       "source": "Google News",
-      "published": "2026-11-09T16:15:26",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zM2kya2htTkdiSkhQNV9DdWlBbTFocFZkLWVzZGZKU3VNSjQzTDZhejB4TExpcVhGVFlwcEFxcHU2TUhwWTJoVmdWOGlLZ9IBWEFVX3lxTE9CNGJ1b0duQlF4MVZMU3VfMnpXLUxxV0toeE9ReEcxZDB2ZkpUYmZFZHZFM3lvb3NNM1ZpWWY3RjZCeVlUeFNqX1NSTXhJNDhibmhrVW52VmU?oc=5\" target=\"_blank\">Как я пытался заменить бота самообучающимся ИИ в своей игре Tank General (статья+видеоверсия)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Хабр</font>",
+      "published": "2026-11-10T01:39:59",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNS0ktS0JCZFYzTDYzYTBRRzZia05nNDdVQVhUczNyOU9YOFF2OVY4ZnRiU28tVnhUdEN2OGZ6M2hGb0dYa3dvZFpFV1FZQlpNSnJRU1ZHdlRmcWF5dmdqZlNLY0dleUdvaWQ5WGJUbVZVY3J0bmtyYkY0cl9kWE1JQUR3Sl9jUUZZX0tpZmVxZUs3LVVDQklsQTAtdEFNNVRXMWlQdHp4VXVpdHowUWVRSW9kUHlLaUVoN3B2UWFVNzE3dlJOMGc?oc=5\" target=\"_blank\">Искусственный интеллект смог за четыре часа получить контроль над доменом компьютерной сети</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Вечерний Санкт-Петербург</font>",
       "tags": [
         "google_news"
       ],
       "category": "google_news",
       "search_topic": "ИИ",
       "matched_keywords": [
-        "ИИ"
+        "искусственный интеллект"
       ]
     },
     {
@@ -1191,21 +1222,6 @@
       "matched_keywords": [
         "ИИ"
       ]
-    },
-    {
-      "title": "Трио вместо дуэта. В сотрудничестве науки и образования участвует искусственный интеллект - Поиск - новости науки и техники",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV1Y3RUpNdFhLUllvSzBocjRISXQxX0hkYndvVVFhYWJZaFZoQmRCaWMteHdTZUNmWGVkRldtUG1YQzBNR2xOeFU2M3FxS2lZRDNBUzg0eFBQendLbWVHa2ZtMG1CYk9iVkl0bVRJZngzSGlDenJFcGVnY2wwSlAyVFE5U050SHBpMWZtR1pXVUNZS3dQN0VVLXZNTHhmejNicDZ0VnFpRWwwS2JaSEJqY2s0c1F3Ym5kUENHeA?oc=5",
-      "source": "Google News",
-      "published": "2026-11-09T15:23:05",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQV1Y3RUpNdFhLUllvSzBocjRISXQxX0hkYndvVVFhYWJZaFZoQmRCaWMteHdTZUNmWGVkRldtUG1YQzBNR2xOeFU2M3FxS2lZRDNBUzg0eFBQendLbWVHa2ZtMG1CYk9iVkl0bVRJZngzSGlDenJFcGVnY2wwSlAyVFE5U050SHBpMWZtR1pXVUNZS3dQN0VVLXZNTHhmejNicDZ0VnFpRWwwS2JaSEJqY2s0c1F3Ym5kUENHeA?oc=5\" target=\"_blank\">Трио вместо дуэта. В сотрудничестве науки и образования участвует искусственный интеллект</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Поиск - новости науки и техники</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "искусственный интеллект"
-      ]
     }
   ],
   "groups": {
@@ -1219,18 +1235,18 @@
       "3DNews": 7,
       "VC_ru_Технологии": 2,
       "ИИ комплаенс и этика": 1,
-      "Google News": 23
+      "Google News": 24
     },
     "by_category": {
       "general_news": 4,
       "tech_news": 50,
       "ai_and_regulation": 2,
       "telegram_channels": 1,
-      "google_news": 23
+      "google_news": 24
     },
     "by_keyword": {
-      "ИИ": 63,
-      "Минцифры": 6,
+      "ИИ": 64,
+      "Минцифры": 7,
       "AI": 17,
       "aigovernance": 1,
       "регулирование": 3,
