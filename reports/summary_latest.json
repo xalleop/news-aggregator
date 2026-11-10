@@ -1,35 +1,31 @@
 {
-  "timestamp": "2026-11-10_22-44",
-  "total_articles": 92,
+  "timestamp": "2026-11-11_02-41",
+  "total_articles": 87,
   "sources": {
     "ТАСС": 2,
-    "Ведомости": 2,
+    "Ведомости": 1,
     "Digital_Russia": 4,
     "Habr_AI": 27,
     "CNews": 15,
-    "3DNews": 17,
-    "VC_ru_Технологии": 2,
+    "3DNews": 15,
+    "VC_ru_Технологии": 1,
     "Montreal AI Ethics Institute": 1,
     "AI Futures Project": 1,
     "ИИ комплаенс и этика": 1,
-    "Google News": 20
+    "Google News": 19
   },
   "top_keywords": [
     [
       "ИИ",
-      66
+      63
     ],
     [
       "AI",
-      17
+      16
     ],
     [
       "Минцифры",
       6
-    ],
-    [
-      "регулирование",
-      5
     ],
     [
       "ESG",
@@ -37,6 +33,10 @@
     ],
     [
       "искусственный интеллект",
+      3
+    ],
+    [
+      "регулирование",
       2
     ],
     [
@@ -50,64 +50,64 @@
   ],
   "recent_headlines": [
     {
-      "title": "Мы написали 12 поставщикам LLM API с готовностью тратить $30 000 в месяц. Большинство даже не ответили",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1106280/?utm_campaign=1106280&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-10T18:56:20"
-    },
-    {
-      "title": "Anthropic решила потягаться с Google и Microsoft — Claude получил набор инструментов для офисной работы",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151121",
-      "published": "2026-11-10T18:46:00"
-    },
-    {
-      "title": "OpenAI создала аварийный выключатель для особо опасных и непослушных ИИ-моделей",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151120",
-      "published": "2026-11-10T18:35:00"
-    },
-    {
-      "title": "Раскрыт мировой заговор источников бесперебойного питания — они синхронно раскачивают энергосистемы планеты",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151119",
-      "published": "2026-11-10T18:30:00"
-    },
-    {
-      "title": "Google открыла доступ к своему самому мощному ИИ и показала, как Gemini 4 Carbon управляет роем ИИ-агентов",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151118",
-      "published": "2026-11-10T18:22:00"
-    },
-    {
-      "title": "Bild: израильская компания предложила ФРГ использовать ИИ для защиты от БПЛА",
-      "source": "ТАСС",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28304193",
-      "published": "2026-11-10T18:19:15"
-    },
-    {
-      "title": "OpenAI и Anthropic начали блокировать пользователей за реверс-инжиринг с помощью ИИ",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151117",
-      "published": "2026-11-10T18:09:00"
-    },
-    {
-      "title": "Meta* выпустила Muse Ember — самую лёгкую и дешёвую ИИ-модель для работы с кодом и документами - RB.ru",
+      "title": "Американский Nasdaq рухнул на 5,5% на опасениях регулирования ИИ - Techora.ru",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWDdtZUJkN0xVRlA3aVA4S21aTTBvTkpNOXVGUW83VUdjMkdiUFRoeVFWVllreWF2dURRQVpRc1ZucXUwREhvY3VmcGxkdVRYQnJXN2JvTm8yUkpleFhmUXZDZjBYZGt0dlp4bGJWUDRobWhNaU5BYWx6NXd4cUNoS2J5UjVHWGtDRjVEbnVFMUl1T0Jqdl9QMUYxWVFQeENSbFZabzZpeDZDMGFHdjZBQWFaMTdCRmZYNDA3WEZvMlM4Rm9FdGc?oc=5",
-      "published": "2026-11-10T18:00:00"
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KMEhiNl96MVlZbzBIdFczREJHczdaZmJmVnBWaW92MTBxMXZoajdPak8za2NMZWJxRklQRVdVa3lRZ0F4b2pMb3AwUUNibGpKLWNoSXJNcXlndWRTZTNKbnoydy1YRnhJN2hJeVg1SXpQTDJvalprVg?oc=5",
+      "published": "2026-11-10T23:03:58"
     },
     {
-      "title": "Как я научил ИИ-агента находить клиентов в госзакупках",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1106272/?utm_campaign=1106272&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-10T17:58:10"
+      "title": "\"Известия\": проводное радиовещание продолжат развивать",
+      "source": "ТАСС",
+      "url": "https://tass.ru/ekonomika/28304513",
+      "published": "2026-11-10T22:18:00"
     },
     {
-      "title": "Сказка ложь, да в ней алерт. Как обмануть ИИ-агента SOC липовой заявкой",
+      "title": "Поймай меня, если с прокси",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1106258/?utm_campaign=1106258&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-10T17:30:38"
+      "url": "https://habr.com/ru/articles/1106198/?utm_campaign=1106198&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-10T22:12:36"
+    },
+    {
+      "title": "Создатели Cyanogen готовят Linux, напичканный ИИ — новая ОС Kora объединит разные нейросети",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151126",
+      "published": "2026-11-10T22:05:00"
+    },
+    {
+      "title": "Атаки на ИИ-агентов: разбираем проект таксономии NIST",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1106012/?utm_campaign=1106012&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-10T21:08:03"
+    },
+    {
+      "title": "Рынок ПО для управления ИИ-инфраструктурой достигнет полумиллиарда рублей - Ведомости",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSEFERGJXVzVVSU9uNmtBRHpfeGlla1YwM1laN1JrNzlRVkU1UkUxTnQzMC1hUGh5WWZxRXl6bzg2VjliNVRnUGhaaHJwWmRLSllZVG8xN2dhOHJDWHZBbEZFVEdtSWZRT2FwX29ub3FMWThsOXlZT09mcUZHWnAxU0Ezb3BSMWhHT2lsdWF4TkNKUlFWeVNDVGJITEJUOUdRdS02Z3ZySHBteGl3?oc=5",
+      "published": "2026-11-10T21:05:56"
+    },
+    {
+      "title": "В России разработали компактную ИИ-модель для оценки ответов нейросетей",
+      "source": "ТАСС",
+      "url": "https://tass.ru/nauka/28304427",
+      "published": "2026-11-10T21:02:53"
+    },
+    {
+      "title": "Медовая ловушка для Дженсена Хуанга: как роман главы Nvidia стал шоком для ИИ-отрасли - Forbes.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYUc0QkEzczVPd042ZzNjQVc2QWtPY3R3LXFKWnRxMkRNRkpmUmUwWURpWFVvalFCdnNTeWRLZk5mT1gzZy1XamFfVWRaUTZMTDh5R0l0MEs0VVM1SzJ0TmlwM3R0QnppZklPZkhJb3BocE1BQ0VnS09peHg5RGIwOHdnNDdWNk5oVVNXa0JMNFVkamlOMWh4c3Vfa0lpak1pU1htNnJxTEFFYVJyOERIYWNGRlcyZmxTSHhrTktlZjNOSUU?oc=5",
+      "published": "2026-11-10T21:00:00"
+    },
+    {
+      "title": "Применение ИИ в проектировании позволяет сократить трудозатраты на 30–35% - IT Channel News",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Yb3JvTXNTWmJkeEYzcm1uMmk2Q091SHFhVFdMNFpWeWdhNG05eEdPaHlHQWNJdndpTHBjUXpqdlVPc29fcjJDSTNlVmp1SG1wMFhZV1dSbUlxZjhqaFA0MGRuRFhCelk?oc=5",
+      "published": "2026-11-10T21:00:00"
+    },
+    {
+      "title": "Я написала промпт по‑русски. Два агента перестали искать решение в интернете",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1106298/?utm_campaign=1106298&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-10T20:47:09"
     }
   ]
 }
