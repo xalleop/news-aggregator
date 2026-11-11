@@ -1,24 +1,24 @@
 {
-  "timestamp": "2026-11-11_15-59",
-  "total_articles": 83,
+  "timestamp": "2026-11-11_22-37",
+  "total_articles": 96,
   "sources": {
-    "Ведомости": 1,
+    "ТАСС": 1,
+    "Ведомости": 2,
     "Digital_Russia": 5,
-    "Habr_AI": 26,
-    "CNews": 15,
+    "Habr_AI": 31,
+    "CNews": 20,
     "3DNews": 10,
-    "Montreal AI Ethics Institute": 1,
     "ИИ комплаенс и этика": 1,
-    "Google News": 24
+    "Google News": 26
   },
   "top_keywords": [
     [
       "ИИ",
-      68
+      79
     ],
     [
       "AI",
-      10
+      12
     ],
     [
       "искусственный интеллект",
@@ -29,78 +29,78 @@
       4
     ],
     [
+      "Минцифры",
+      3
+    ],
+    [
       "регулирование",
       3
     ],
     [
-      "Минцифры",
+      "policy",
       2
-    ],
-    [
-      "ethics",
-      1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "AI-агенты: быстрее делать задачи, которые никому не нужны",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1106646/?utm_campaign=1106646&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-11T12:48:08"
+      "title": "Google тайно тестирует Gemini 4 Hydrogen — быструю и экономичную альтернативу мощным ИИ-моделям",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151173",
+      "published": "2026-11-11T19:23:00"
     },
     {
-      "title": "В школах стартовала апробация курса по ИИ и кибербезопасности - Объясняем.рф",
+      "title": "В Чечне предложили воссоздать западных журналистов через ИИ для линии Кадырова",
+      "source": "ТАСС",
+      "url": "https://tass.ru/obschestvo/28308751",
+      "published": "2026-11-11T19:20:30"
+    },
+    {
+      "title": "ИИ-агенты обесценивают тысячи брендов: почему нейросети не выбирают по лояльности - Финансы Mail",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVmpXUmxQb1FKNUdINnRZNXBicDhkZ2FfdzMwVG9fZ0Q3dG00aXlKYU9sYzJqVU1jZVhiTXgwckRPYXd6S3lnTFJxOHBfRFhrWEpBbFIyYlJrU0Z1SWh2Q3JibXdfeFB2Q0Jhc0wwdjM4WW1OU2hxUlVpcE53ZThKZEtoWUZURnhJSzN6UnZYelBLSEh5MzJhUEhVWFVwcWF2aGdBaWQ3TlJ3emk0QzJqdmtzUUNCQQ?oc=5",
-      "published": "2026-11-11T12:43:42"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdWlTY0RsSlFhaHA5QksyQ1NkaVNJOFRWQy1jVzdXN2tSV3hFUmp2elFpQkR0ejRxTXMwZGlqR2VFRWVJTTU4QThpYVhXQjBLRnB0WGdCNXg2QUVxUVRjV3ZndW5rV3l2am82bUwwMW1WUnlaRXMzSWtWZE51eUd3NnZUUWoyQk5vT3Jwb1hJNnBZZw?oc=5",
+      "published": "2026-11-11T19:09:50"
     },
     {
-      "title": "В Китае покупатели начали массово использовать ИИ для поиска и покупки товаров - Incrussia",
+      "title": "AMD придумала, как сэкономить миллионы на серверной памяти — SSD без потерь «заменят» половину дорогой DRAM",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151172",
+      "published": "2026-11-11T19:06:00"
+    },
+    {
+      "title": "ИИ обучил погрузчик John Deere сложнейшим акробатическим трюкам - RTVI",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS01Xckt3Y0ZKV2xjdmkwSUthT2NVbHZYUFB4T2lnWTVCbmZqXy1reFRLU2ZHMXVvOFMyRGtPSm8yM0xhZnZONUQyYjQ2SDRSc0hrZmxSekNZcVI4MXpIcDZiNTRtNkU5aDEwZkVfVWR4cjNudEQ3UmF1SFRpVkg1dW53bmVqX3A1UWJfUkc3ZDFST05LSDlmVkN4M1FzcU5QZEk5V0xsTGM?oc=5",
-      "published": "2026-11-11T12:42:57"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR2N5OGVLZWpmdFNsV2pCdFQ4dDhfRm12VXNSN0htSG5INGFzRnlmYnRVSnNVMjN5MElRbXFoelJnR3lVdnhDeV9DWkpMa3lGMmptSGhvbXhYenZhcUVTcXp6MmJQQTJKUDJHbHhqOGVqeFMxMHNBSVU0cmZmNnVxQ2RxdFkwZWRsS0V4S2E0bDhyQldYSHJB?oc=5",
+      "published": "2026-11-11T19:00:00"
     },
     {
-      "title": "Феномен Polymarket: почему регулирование не тормозит рынки прогнозов - Traders Union",
+      "title": "Anthropic ужесточила правила доступа к Claude для компаний из России",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1106834/?utm_campaign=1106834&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-11T18:35:01"
+    },
+    {
+      "title": "Разработчик подключил AI‑агента к 32-летнему Jeep Cherokee для диагностики",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1106830/?utm_campaign=1106830&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-11T18:34:24"
+    },
+    {
+      "title": "Юрист рассказал, может ли работодатель уволить за использование ИИ - Карелия.Ньюс",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNWU5c0tMeWJuM1kydzJWZVppRUdhakRFbVRCclJTLTNGWTdoVXhYWUEtNmN1UUpMd011RkhfZUN0ZEdJT0V0bDJJa2tteEg0XzRGc1RPbXg0VWlpOW5ibFJiVVUtZVZ6em4yUUR3N192T283OVpMT1VhbHdTdlE3amNHZEc5TXJDeWliQjd0Znk?oc=5",
-      "published": "2026-11-11T12:42:39"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNi0xbDBIemZWbXVoX2pTbldoWDNFN0NiMEthRE1yVFdtNG9xcUdpbUpVbGk0M3ByRFRwX05sNndDQk1JZEJsbW1YRnd1WUdmLWdScVNlVFVFYTI3VXFlaEhaYzhmYkh4UVdpZmloMnFoUzJfV2E5ZFBPa0ZoOVVkLTM1SW5INHc1SUFXb05pOWtaYmhYZDlWWnY3SWMxWmR5VlE?oc=5",
+      "published": "2026-11-11T18:22:30"
     },
     {
-      "title": "Какие GPU выбрать для обучения ИИ, инференса и работы с графикой: обзор возможностей Рег.облака",
+      "title": "Google открыл доступ к Gemini 4 Carbon: модель в 2–6 раз дешевле, чем Fable 5.2",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/runity/articles/1106630/?utm_campaign=1106630&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-11T12:37:04"
+      "url": "https://habr.com/ru/companies/gptunnel/articles/1106822/?utm_campaign=1106822&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-11T18:15:59"
     },
     {
-      "title": "[Перевод] The Intercept: ИИ‑гиганты и Пентагон вместе создают системы для войны и слежки",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1106618/?utm_campaign=1106618&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-11T12:22:48"
-    },
-    {
-      "title": "ИИ в мобильных звонках, архитектурные агенты и «Карта гипотез». Что показали на одиннадцатом митапе MWS",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/ru_mts/articles/1106524/?utm_campaign=1106524&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-11T12:20:42"
-    },
-    {
-      "title": "С 1 сентября 2027 года курс по ИИ и информационной безопасности введут во всех школах - Первое сентября",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03ZzY5QnprZldOZjQxek9HaldrUnU5YlRaZkpZTUZFTy12YVhEeTFlLUtqN3ZVU1ZYVTV4aXZqLU96M1IwZm1oREV1MEI5Z2s?oc=5",
-      "published": "2026-11-11T12:20:33"
-    },
-    {
-      "title": "Что нужно учесть руководителю до внедрения ИИ в бизнес - Эксперт",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93akFHaWZIMkUwOWNvS252dEhncmFuajJZazR0M3l3dEFZSXpZN2NkVDRkZ2toWE1QNUdOV293ZkZaQjJIZVdMdFBRY3czOUhrU3Zlay1RNzB2c1dIRFE5UEFmNGlCUjZpVVRudEFyeTQ?oc=5",
-      "published": "2026-11-11T12:18:00"
-    },
-    {
-      "title": "Я проанализировал 4 910 смет, чтобы понять, во сколько раз ИИ ускорил разработку",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1106610/?utm_campaign=1106610&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-11T12:16:41"
+      "title": "Google научила ИИ читать ДНК на уровне отдельных клеток — это поможет искать корни болезней",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151170",
+      "published": "2026-11-11T18:06:00"
     }
   ]
 }
