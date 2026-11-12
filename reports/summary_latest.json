@@ -1,11 +1,13 @@
 {
-  "timestamp": "2026-11-12_03-58",
-  "total_articles": 96,
+  "timestamp": "2026-11-12_17-00",
+  "total_articles": 90,
   "sources": {
     "ТАСС": 2,
-    "Ведомости": 2,
-    "Digital_Russia": 4,
-    "Habr_AI": 29,
+    "Интерфакс": 1,
+    "Коммерсантъ": 1,
+    "Ведомости": 1,
+    "Digital_Russia": 1,
+    "Habr_AI": 25,
     "CNews": 20,
     "3DNews": 11,
     "ИИ комплаенс и этика": 1,
@@ -14,93 +16,97 @@
   "top_keywords": [
     [
       "ИИ",
-      79
+      71
     ],
     [
       "AI",
-      13
-    ],
-    [
-      "искусственный интеллект",
-      4
+      21
     ],
     [
       "регулирование",
-      4
+      9
     ],
     [
       "ESG",
       4
     ],
     [
-      "policy",
-      2
+      "искусственный интеллект",
+      3
+    ],
+    [
+      "governance",
+      1
     ],
     [
       "Минцифры",
+      1
+    ],
+    [
+      "policy",
       1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "ИИ поможет не пускать дебоширов в рестораны и торговые центры",
+      "title": "В Подмосковье с начала года ИИ проанализировал более 842 тыс. медснимков",
       "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28309111",
-      "published": "2026-11-12T00:15:35"
+      "url": "https://tass.ru/obschestvo/28312125",
+      "published": "2026-11-12T13:53:22"
     },
     {
-      "title": "Могут ли уволить за использование ИИ на работе. - Сибирское информационное агентство",
+      "title": "Приоритетами цифровой трансформации названы ИИ, кибербезопасность и cоцсервисы в Max",
+      "source": "Интерфакс",
+      "url": "https://www.interfax.ru/russia/1128632",
+      "published": "2026-11-12T13:40:00"
+    },
+    {
+      "title": "Приоритетами цифровой трансформации названы ИИ, кибербезопасность и cоцсервисы в Max - Интерфакс",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oZDg5RkQxdDdLM3pucWJ2bTNUVF9fNkR0cDJFdDhWdDdhWUF3Y3hQRnh4QU1YbzJLMnlCcjRLZXBoOW5UZmFMNzUwWGI1OS05UkF3RFpkRUtFVUJpWUR6R3VCVjk4NDg?oc=5",
-      "published": "2026-11-12T00:04:00"
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LZk9Fbm9WSWo3emh5cU1BRXFaVnE4YUphN3BzQ1o1S3RXTVBPTGI1NmQ4S015STg0QUdzTDZmUC1kVzlwU3BMQkI5eFhSMFHSAUtBVV95cUxPMEhhQmp2Q1ozNWowcktGRVVsTTRiYmFMekJBLVJQdV90Mi01eG5iWG1Wdk40VGMwRzdsLTZNOU5FYlNFMmhpVHNyMDg?oc=5",
+      "published": "2026-11-12T13:40:00"
     },
     {
-      "title": "Anthropic ограничила некоторым странам доступ к своим сервисам",
+      "title": "StormWall: во время ноябрьских распродаж 34% DDoS-атак на ритейлеров произошли с участием ботов, маскирующихся под ИИ-трафик",
+      "source": "CNews",
+      "url": "https://www.cnews.ru/news/line/2026-11-12_stormwall_vo_vremya_noyabrskih",
+      "published": "2026-11-12T13:33:00"
+    },
+    {
+      "title": "Qwen4-Max-Preview вышла",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/selectel/articles/1106976/?utm_campaign=1106976&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-12T13:30:15"
+    },
+    {
+      "title": "Ямпольская надеется, что отечественная нейросеть принесет пользу школьникам",
       "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28309009",
-      "published": "2026-11-11T22:32:25"
+      "url": "https://tass.ru/obschestvo/28311995",
+      "published": "2026-11-12T13:25:59"
     },
     {
-      "title": "Как я сделал игру в браузере с 0 опыта в геймдеве",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1106870/?utm_campaign=1106870&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-11T22:23:18"
+      "title": "ГК «СиСофт» готовит к запуску три ИИ-сервиса для автоматизации проектирования",
+      "source": "CNews",
+      "url": "https://www.cnews.ru/news/line/2026-11-12_gk_sisoft_gotovit_k_zapusku",
+      "published": "2026-11-12T13:23:00"
     },
     {
-      "title": "Власти обсуждают регулирование ИИ для правообладателей - Ведомости",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdHFQNk93cWlJSGc4RXd0YmUzdFJqbGltVWcwejExLTVMV0wtdWFiOEpiNUpFejlnX3JwUFBIUFgyTktUalRNWDE3SXdNRkxvUEFsZlZOUTBPN0Fxb2doZUliaGlwRGRhZTVGSlJkckk2eGJvOUFRZl82VDNiaURpNWpYNlBQdkFqejZVSWQzNHRXTmNkQngxTUh4U1ZuUQ?oc=5",
-      "published": "2026-11-11T20:55:29"
-    },
-    {
-      "title": "Власти обсуждают регулирование ИИ для правообладателей - Ведомости",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdHFQNk93cWlJSGc4RXd0YmUzdFJqbGltVWcwejExLTVMV0wtdWFiOEpiNUpFejlnX3JwUFBIUFgyTktUalRNWDE3SXdNRkxvUEFsZlZOUTBPN0Fxb2doZUliaGlwRGRhZTVGSlJkckk2eGJvOUFRZl82VDNiaURpNWpYNlBQdkFqejZVSWQzNHRXTmNkQngxTUh4U1ZuUQ?oc=5",
-      "published": "2026-11-11T20:55:29"
-    },
-    {
-      "title": "Google научила ИИ принимать решения без лишних слов — Gemini Decisions API сэкономит на токенах",
+      "title": "Российские компании переплачивают за зарубежный ИИ до девяти раз — посредники объяснили, откуда берётся наценка",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1151176",
-      "published": "2026-11-11T20:49:00"
+      "url": "https://3dnews.ru/1151211",
+      "published": "2026-11-12T13:14:00"
     },
     {
-      "title": "ПК по цене однушки в Москве: HP выпустила рабочую станцию ZGX Fury с 748 Гбайт памяти по цене от $132 000",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151175",
-      "published": "2026-11-11T20:41:00"
-    },
-    {
-      "title": "ИИ оживляет мертвых. Это хорошо или плохо?",
+      "title": "Виртуальные сотрудники и агенты на митапе «Русское техно 2»",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1106858/?utm_campaign=1106858&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-11T20:18:30"
+      "url": "https://habr.com/ru/companies/ru_mts/articles/1107130/?utm_campaign=1107130&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-12T13:04:49"
     },
     {
-      "title": "В России разработали компактную ИИ-модель для оценки ответов нейросетей - Наука Mail",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObTRpNFBZYmpHWXlHaG1UVFQ1RndTQUtZS0hTVWozU210QWFzRzE1TWRkM0FhejRmU0VSOG5BMVBCT2tSV0M4aVE5Y1lBb2Z4bnVJQmRmM2JmcTJOQlpGNWpJanVMSHZYcFB1V0s3NzZ1Y0xnZkVMb2d6azFNaHVfTW1JMWFCMkdxYUxQcU5sN1Z4dmg2cGEtTThpWHFhdDZpdnpHVVJ1akhJVUtLcVE?oc=5",
-      "published": "2026-11-11T19:51:04"
+      "title": "Мертвый интернет уже наступил. Мертвая экономика на очереди?",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/beeline_cloud/articles/1107058/?utm_campaign=1107058&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-12T13:01:16"
     }
   ]
 }
