@@ -1,22 +1,23 @@
 {
-  "timestamp": "2026-11-12_17-00",
-  "total_articles": 90,
+  "timestamp": "2026-11-12_22-55",
+  "total_articles": 92,
   "sources": {
-    "ТАСС": 2,
     "Интерфакс": 1,
-    "Коммерсантъ": 1,
-    "Ведомости": 1,
+    "Коммерсантъ": 2,
+    "Ведомости": 3,
     "Digital_Russia": 1,
-    "Habr_AI": 25,
-    "CNews": 20,
-    "3DNews": 11,
+    "Habr_AI": 26,
+    "iXBT": 1,
+    "CNews": 18,
+    "3DNews": 12,
+    "VC_ru_Технологии": 1,
     "ИИ комплаенс и этика": 1,
-    "Google News": 27
+    "Google News": 26
   },
   "top_keywords": [
     [
       "ИИ",
-      71
+      75
     ],
     [
       "AI",
@@ -24,89 +25,85 @@
     ],
     [
       "регулирование",
-      9
+      10
     ],
     [
       "ESG",
-      4
-    ],
-    [
-      "искусственный интеллект",
       3
     ],
     [
-      "governance",
-      1
+      "искусственный интеллект",
+      2
     ],
     [
       "Минцифры",
-      1
+      2
     ],
     [
-      "policy",
+      "governance",
       1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "В Подмосковье с начала года ИИ проанализировал более 842 тыс. медснимков",
-      "source": "ТАСС",
-      "url": "https://tass.ru/obschestvo/28312125",
-      "published": "2026-11-12T13:53:22"
-    },
-    {
-      "title": "Приоритетами цифровой трансформации названы ИИ, кибербезопасность и cоцсервисы в Max",
-      "source": "Интерфакс",
-      "url": "https://www.interfax.ru/russia/1128632",
-      "published": "2026-11-12T13:40:00"
-    },
-    {
-      "title": "Приоритетами цифровой трансформации названы ИИ, кибербезопасность и cоцсервисы в Max - Интерфакс",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LZk9Fbm9WSWo3emh5cU1BRXFaVnE4YUphN3BzQ1o1S3RXTVBPTGI1NmQ4S015STg0QUdzTDZmUC1kVzlwU3BMQkI5eFhSMFHSAUtBVV95cUxPMEhhQmp2Q1ozNWowcktGRVVsTTRiYmFMekJBLVJQdV90Mi01eG5iWG1Wdk40VGMwRzdsLTZNOU5FYlNFMmhpVHNyMDg?oc=5",
-      "published": "2026-11-12T13:40:00"
-    },
-    {
-      "title": "StormWall: во время ноябрьских распродаж 34% DDoS-атак на ритейлеров произошли с участием ботов, маскирующихся под ИИ-трафик",
-      "source": "CNews",
-      "url": "https://www.cnews.ru/news/line/2026-11-12_stormwall_vo_vremya_noyabrskih",
-      "published": "2026-11-12T13:33:00"
-    },
-    {
-      "title": "Qwen4-Max-Preview вышла",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/selectel/articles/1106976/?utm_campaign=1106976&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-12T13:30:15"
-    },
-    {
-      "title": "Ямпольская надеется, что отечественная нейросеть принесет пользу школьникам",
-      "source": "ТАСС",
-      "url": "https://tass.ru/obschestvo/28311995",
-      "published": "2026-11-12T13:25:59"
-    },
-    {
-      "title": "ГК «СиСофт» готовит к запуску три ИИ-сервиса для автоматизации проектирования",
-      "source": "CNews",
-      "url": "https://www.cnews.ru/news/line/2026-11-12_gk_sisoft_gotovit_k_zapusku",
-      "published": "2026-11-12T13:23:00"
-    },
-    {
-      "title": "Российские компании переплачивают за зарубежный ИИ до девяти раз — посредники объяснили, откуда берётся наценка",
+      "title": "Увольнения, засилье ИИ и умершие надежды: исследование показало удручающее состояние игровой индустрии в 2026 году",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1151211",
-      "published": "2026-11-12T13:14:00"
+      "url": "https://3dnews.ru/1151234",
+      "published": "2026-11-12T19:23:00"
     },
     {
-      "title": "Виртуальные сотрудники и агенты на митапе «Русское техно 2»",
+      "title": "Как работать с кодинг агентами (Claude Code, Codex, Gemini CLI, Antigravity CLI) через Telegram",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/ru_mts/articles/1107130/?utm_campaign=1107130&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-12T13:04:49"
+      "url": "https://habr.com/ru/articles/1107278/?utm_campaign=1107278&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-12T19:08:08"
     },
     {
-      "title": "Мертвый интернет уже наступил. Мертвая экономика на очереди?",
+      "title": "Skills + Code Mode MCP: как я научил ИИ-агента пользоваться сотнями инструментов и не раздувать контекст",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/beeline_cloud/articles/1107058/?utm_campaign=1107058&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-12T13:01:16"
+      "url": "https://habr.com/ru/articles/1107276/?utm_campaign=1107276&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-12T18:55:06"
+    },
+    {
+      "title": "Google выпустила ИИ Gemini 4 Hydrogen, превзошедший Argon по скорости и интеллекту - Techora.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHXzh6SjdqWmQ2cnlPNU9OOEgtblYxTUFKUDh4c0pwMUZUZGhXZzhCdzg4SkVncm1mZ0R0LXc2c0IyLTFrbWRsVG1sQmxBdlYxZWU5RFhLN1NkNXFVaFVWTWVqeEM4X05FVU8yTjN0OVQzTV9mRHpaeU9DVWY?oc=5",
+      "published": "2026-11-12T18:33:25"
+    },
+    {
+      "title": "ИИ ЦОД продолжают перетягивать память на себя — серверные SSD подорожают ещё на 15–20 %",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151231",
+      "published": "2026-11-12T18:28:00"
+    },
+    {
+      "title": "CNBC сообщил об инвестраунде OpenAI на $15 млрд",
+      "source": "Интерфакс",
+      "url": "https://www.interfax.ru/world/1128699",
+      "published": "2026-11-12T17:54:00"
+    },
+    {
+      "title": "Samsung запустила строительство гигантского комплекса по выпуску ИИ-памяти — счёт вложений пошёл на квинтиллионы",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151230",
+      "published": "2026-11-12T17:53:00"
+    },
+    {
+      "title": "«Ветеран» Nvidia и любимица инвесторов: кто такая Колетт Кресс, которая временно возглавила компанию после ухода Дженсена Хуанга",
+      "source": "VC_ru_Технологии",
+      "url": "https://vc.ru/hr/3252071-kolet-kress-novaya-rukovoditelnitsa-nvidia?from=rss",
+      "published": "2026-11-12T17:39:49"
+    },
+    {
+      "title": "Размышления об ИИ - Хабр",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tc05hRkZVYTl1R1c2QmVWaVpyZUdYQTVMNTdnc1FsSlJpVmVBNTJqcDA3bDI5V2ZmNGI0Q2FDOGdySGNWWXA1UlVTN3NvNFJYSjJqdm5FQURNYkxubGpCMzFteE1Bd1nSAVhBVV95cUxPbkhYM2NGRHA2OE9WY2F3SnktWHBWTEpRaThOWG5TdGJmamxPZ1N6enJyTmxFa1BZblEtUWRjSEotQ0dlMmRMT0ZwLVp2bncybVNFZ1VURTJN?oc=5",
+      "published": "2026-11-12T17:38:39"
+    },
+    {
+      "title": "Без ума от интеллекта // Сбербанк потратится на ИИ в необъявленных объемах",
+      "source": "Коммерсантъ",
+      "url": "https://www.kommersant.ru/doc/9095875",
+      "published": "2026-11-12T17:35:07"
     }
   ]
 }
