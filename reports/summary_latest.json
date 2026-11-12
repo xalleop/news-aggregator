@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-11-11_22-37",
+  "timestamp": "2026-11-12_03-58",
   "total_articles": 96,
   "sources": {
-    "ТАСС": 1,
+    "ТАСС": 2,
     "Ведомости": 2,
-    "Digital_Russia": 5,
-    "Habr_AI": 31,
+    "Digital_Russia": 4,
+    "Habr_AI": 29,
     "CNews": 20,
-    "3DNews": 10,
+    "3DNews": 11,
     "ИИ комплаенс и этика": 1,
-    "Google News": 26
+    "Google News": 27
   },
   "top_keywords": [
     [
@@ -18,10 +18,14 @@
     ],
     [
       "AI",
-      12
+      13
     ],
     [
       "искусственный интеллект",
+      4
+    ],
+    [
+      "регулирование",
       4
     ],
     [
@@ -29,78 +33,74 @@
       4
     ],
     [
-      "Минцифры",
-      3
-    ],
-    [
-      "регулирование",
-      3
-    ],
-    [
       "policy",
       2
+    ],
+    [
+      "Минцифры",
+      1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Google тайно тестирует Gemini 4 Hydrogen — быструю и экономичную альтернативу мощным ИИ-моделям",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151173",
-      "published": "2026-11-11T19:23:00"
-    },
-    {
-      "title": "В Чечне предложили воссоздать западных журналистов через ИИ для линии Кадырова",
+      "title": "ИИ поможет не пускать дебоширов в рестораны и торговые центры",
       "source": "ТАСС",
-      "url": "https://tass.ru/obschestvo/28308751",
-      "published": "2026-11-11T19:20:30"
+      "url": "https://tass.ru/ekonomika/28309111",
+      "published": "2026-11-12T00:15:35"
     },
     {
-      "title": "ИИ-агенты обесценивают тысячи брендов: почему нейросети не выбирают по лояльности - Финансы Mail",
+      "title": "Могут ли уволить за использование ИИ на работе. - Сибирское информационное агентство",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdWlTY0RsSlFhaHA5QksyQ1NkaVNJOFRWQy1jVzdXN2tSV3hFUmp2elFpQkR0ejRxTXMwZGlqR2VFRWVJTTU4QThpYVhXQjBLRnB0WGdCNXg2QUVxUVRjV3ZndW5rV3l2am82bUwwMW1WUnlaRXMzSWtWZE51eUd3NnZUUWoyQk5vT3Jwb1hJNnBZZw?oc=5",
-      "published": "2026-11-11T19:09:50"
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oZDg5RkQxdDdLM3pucWJ2bTNUVF9fNkR0cDJFdDhWdDdhWUF3Y3hQRnh4QU1YbzJLMnlCcjRLZXBoOW5UZmFMNzUwWGI1OS05UkF3RFpkRUtFVUJpWUR6R3VCVjk4NDg?oc=5",
+      "published": "2026-11-12T00:04:00"
     },
     {
-      "title": "AMD придумала, как сэкономить миллионы на серверной памяти — SSD без потерь «заменят» половину дорогой DRAM",
+      "title": "Anthropic ограничила некоторым странам доступ к своим сервисам",
+      "source": "ТАСС",
+      "url": "https://tass.ru/ekonomika/28309009",
+      "published": "2026-11-11T22:32:25"
+    },
+    {
+      "title": "Как я сделал игру в браузере с 0 опыта в геймдеве",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1106870/?utm_campaign=1106870&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-11T22:23:18"
+    },
+    {
+      "title": "Власти обсуждают регулирование ИИ для правообладателей - Ведомости",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdHFQNk93cWlJSGc4RXd0YmUzdFJqbGltVWcwejExLTVMV0wtdWFiOEpiNUpFejlnX3JwUFBIUFgyTktUalRNWDE3SXdNRkxvUEFsZlZOUTBPN0Fxb2doZUliaGlwRGRhZTVGSlJkckk2eGJvOUFRZl82VDNiaURpNWpYNlBQdkFqejZVSWQzNHRXTmNkQngxTUh4U1ZuUQ?oc=5",
+      "published": "2026-11-11T20:55:29"
+    },
+    {
+      "title": "Власти обсуждают регулирование ИИ для правообладателей - Ведомости",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdHFQNk93cWlJSGc4RXd0YmUzdFJqbGltVWcwejExLTVMV0wtdWFiOEpiNUpFejlnX3JwUFBIUFgyTktUalRNWDE3SXdNRkxvUEFsZlZOUTBPN0Fxb2doZUliaGlwRGRhZTVGSlJkckk2eGJvOUFRZl82VDNiaURpNWpYNlBQdkFqejZVSWQzNHRXTmNkQngxTUh4U1ZuUQ?oc=5",
+      "published": "2026-11-11T20:55:29"
+    },
+    {
+      "title": "Google научила ИИ принимать решения без лишних слов — Gemini Decisions API сэкономит на токенах",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1151172",
-      "published": "2026-11-11T19:06:00"
+      "url": "https://3dnews.ru/1151176",
+      "published": "2026-11-11T20:49:00"
     },
     {
-      "title": "ИИ обучил погрузчик John Deere сложнейшим акробатическим трюкам - RTVI",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR2N5OGVLZWpmdFNsV2pCdFQ4dDhfRm12VXNSN0htSG5INGFzRnlmYnRVSnNVMjN5MElRbXFoelJnR3lVdnhDeV9DWkpMa3lGMmptSGhvbXhYenZhcUVTcXp6MmJQQTJKUDJHbHhqOGVqeFMxMHNBSVU0cmZmNnVxQ2RxdFkwZWRsS0V4S2E0bDhyQldYSHJB?oc=5",
-      "published": "2026-11-11T19:00:00"
-    },
-    {
-      "title": "Anthropic ужесточила правила доступа к Claude для компаний из России",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1106834/?utm_campaign=1106834&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-11T18:35:01"
-    },
-    {
-      "title": "Разработчик подключил AI‑агента к 32-летнему Jeep Cherokee для диагностики",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1106830/?utm_campaign=1106830&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-11T18:34:24"
-    },
-    {
-      "title": "Юрист рассказал, может ли работодатель уволить за использование ИИ - Карелия.Ньюс",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNi0xbDBIemZWbXVoX2pTbldoWDNFN0NiMEthRE1yVFdtNG9xcUdpbUpVbGk0M3ByRFRwX05sNndDQk1JZEJsbW1YRnd1WUdmLWdScVNlVFVFYTI3VXFlaEhaYzhmYkh4UVdpZmloMnFoUzJfV2E5ZFBPa0ZoOVVkLTM1SW5INHc1SUFXb05pOWtaYmhYZDlWWnY3SWMxWmR5VlE?oc=5",
-      "published": "2026-11-11T18:22:30"
-    },
-    {
-      "title": "Google открыл доступ к Gemini 4 Carbon: модель в 2–6 раз дешевле, чем Fable 5.2",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/gptunnel/articles/1106822/?utm_campaign=1106822&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-11T18:15:59"
-    },
-    {
-      "title": "Google научила ИИ читать ДНК на уровне отдельных клеток — это поможет искать корни болезней",
+      "title": "ПК по цене однушки в Москве: HP выпустила рабочую станцию ZGX Fury с 748 Гбайт памяти по цене от $132 000",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1151170",
-      "published": "2026-11-11T18:06:00"
+      "url": "https://3dnews.ru/1151175",
+      "published": "2026-11-11T20:41:00"
+    },
+    {
+      "title": "ИИ оживляет мертвых. Это хорошо или плохо?",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1106858/?utm_campaign=1106858&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-11T20:18:30"
+    },
+    {
+      "title": "В России разработали компактную ИИ-модель для оценки ответов нейросетей - Наука Mail",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObTRpNFBZYmpHWXlHaG1UVFQ1RndTQUtZS0hTVWozU210QWFzRzE1TWRkM0FhejRmU0VSOG5BMVBCT2tSV0M4aVE5Y1lBb2Z4bnVJQmRmM2JmcTJOQlpGNWpJanVMSHZYcFB1V0s3NzZ1Y0xnZkVMb2d6azFNaHVfTW1JMWFCMkdxYUxQcU5sN1Z4dmg2cGEtTThpWHFhdDZpdnpHVVJ1akhJVUtLcVE?oc=5",
+      "published": "2026-11-11T19:51:04"
     }
   ]
 }
