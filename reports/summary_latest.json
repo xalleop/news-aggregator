@@ -1,109 +1,109 @@
 {
-  "timestamp": "2026-11-13_02-51",
-  "total_articles": 89,
+  "timestamp": "2026-11-13_16-27",
+  "total_articles": 92,
   "sources": {
+    "ТАСС": 2,
     "Интерфакс": 1,
-    "Коммерсантъ": 2,
     "Ведомости": 3,
-    "Digital_Russia": 1,
-    "Habr_AI": 28,
+    "Digital_Russia": 2,
+    "Habr_AI": 30,
     "iXBT": 1,
-    "CNews": 18,
-    "3DNews": 13,
+    "CNews": 16,
+    "3DNews": 11,
     "VC_ru_Технологии": 1,
     "ИИ комплаенс и этика": 1,
-    "Google News": 20
+    "Google News": 24
   },
   "top_keywords": [
     [
       "ИИ",
-      72
+      80
     ],
     [
       "AI",
-      21
+      17
     ],
     [
       "регулирование",
-      8
-    ],
-    [
-      "искусственный интеллект",
       4
     ],
     [
       "Минцифры",
+      3
+    ],
+    [
+      "машинное обучение",
+      2
+    ],
+    [
+      "искусственный интеллект",
       2
     ],
     [
       "ESG",
       2
-    ],
-    [
-      "governance",
-      1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Лидеры ЕС на саммите в Дублине обсудят украинский конфликт и искусственный интеллект",
+      "title": "MWS Cloud запустила ночные тарифы для использования ИИ - Ведомости",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMlZYbUJsTTRydEZuUHZndlBIRWNrNE1xUXBISmNNLWJQQnBuaDFGa0N4WldUbnB1OGtoMlFZdWYxMlotdkFMZmw0OGZ1YjBJbWpNNmNZSl9aTjY4bnpSMnRLQTVlMWg4QW5Mc3J2QzZTbERFVk1XV3o1OWhrWXNWMF9OUV90akotUkxTSkkxYlZ5eUhfY0VLcGhjTXQzYXRGMnRj?oc=5",
+      "published": "2026-11-13T13:26:03"
+    },
+    {
+      "title": "Тестирую Figma AI на 19 задачах по дизайн-системе",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/lukit_ru/articles/1107522/?utm_campaign=1107522&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-13T13:23:13"
+    },
+    {
+      "title": "Американский регулятор расширяет использование ИИ‑системы для управления движением по всему воздушному пространству США",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1107572/?utm_campaign=1107572&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-13T13:18:15"
+    },
+    {
+      "title": "Gartner прогнозирует, что мировые расходы на ИИ превысят $4 трлн в 2027 г.",
       "source": "Интерфакс",
-      "url": "https://www.interfax.ru/world/1128728",
-      "published": "2026-11-12T21:49:00"
+      "url": "https://www.interfax.ru/business/1128866",
+      "published": "2026-11-13T13:17:00"
     },
     {
-      "title": "Лидеры ЕС на саммите в Дублине обсудят украинский конфликт и искусственный интеллект - Интерфакс",
+      "title": "Gartner прогнозирует, что мировые расходы на ИИ превысят $4 трлн в 2027 г. - Интерфакс",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HS1J0bXBjVHJOOW14QlJqZDAwQ09kbmVoeTVKdzRQLTBjN0h2WFdMRTNNcVdQZjFrRmFkNDBsQlNKRF8yUWRXRFRWa3FhUdIBS0FVX3lxTE55UEQzLUU4Wjc1UmNuazhwa25Md0wxM1RyakJLWVFZbi1tM1BMblY0Rld0bVhqWFJuVWtxenptdnNMeFpyWEhmcE1CUQ?oc=5",
-      "published": "2026-11-12T21:49:00"
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ISmhudkRYTmdSY1JvSlI3ZDdoUU9KdDNuMm9TcEU2VUVJUGV4Rjg5RmJOMFM1Q01KUXc5ZFJrUV9JWVhLS0pCLWxvZEMzbjk5NkHSAUtBVV95cUxOQVlJZlI2MHExZlZxanBndnFlWDBncmI4Q1AxQlM4YWZ4TnBwa0RDR1JLZEllcm1mSmY1MTZGZ0ljU18xOVZoX1BTTnc?oc=5",
+      "published": "2026-11-13T13:17:00"
     },
     {
-      "title": "Путь к локальному LLM — модель которую я наконец-то реально использую каждый день",
+      "title": "Когда ИИ-агенту нужен MCP, а когда достаточно обычного API",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1107310/?utm_campaign=1107310&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-12T21:36:21"
+      "url": "https://habr.com/ru/companies/runity/articles/1107568/?utm_campaign=1107568&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-13T13:15:42"
     },
     {
-      "title": "«Они могут погубить всех нас»: в США через суд потребовали запретить OpenAI, Google и другим обучать передовые ИИ-модели",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151241",
-      "published": "2026-11-12T21:33:00"
-    },
-    {
-      "title": "Уход Хуана из Nvidia, пузырь ИИ и долг США в последний день Web Summit - Euronews.com",
+      "title": "Google представила новую ИИ-модель Gemini 4 Hydrogen - Meduza",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJMaU43SERXemJxWUROaGs0dXBhRThSZE91RUJhdzlEYThBNnRydFI0ODF1M2tudm5oZmNDdUZ3eW16WHhWQjdYc2V5cUduVXE5Z3lnWW9yT3BnTFBhZ2hFeVp0SHZIOUlLRW93d3MteXpYQXY2NFQ0d0VuQ0ozYUNkOVgybzNKanYzUnU2Z3BGeGlkQ0Zab2pzY3pjREJzSXV0ai1Jb2tSMmtqZUNCNlRudUk4VXc?oc=5",
-      "published": "2026-11-12T21:32:32"
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa0txSUQzNXpWQVFsbWdYRHJPWmRScWtNQ1BFalVuSEpXelVwbXRuSTJmVkJYWkN5YjJQdE9pZnlkR19oRjczMGxzbzZmY2laa2lfSERxaEF5Qldrc3FMdjFqTDF1cC1UUHAxMFRSWTZaUzZ3UHZ1amtPRm5mdVotNFRhQVhjR2VKems2WlVNNNIBlAFBVV95cUxNejVPS1FuMk8tVUpNNjhmdmRKMXNhcHhaYlNVX2JaYTBhQ3FZNHVaN2VjX2VMNU1OLURuSlBSbjRUdXpuTVRzOGhwbm4wMk5HZndoc01BRTl1QzYzQWw2NHJaTkJTWlp2bVJPTWpWb2x5ZXFhZXQtWkNLM0ctbjNBczg0M0xqcThETEJPYmh3NnBPdDRR?oc=5",
+      "published": "2026-11-13T13:13:00"
     },
     {
-      "title": "Microsoft показала, как превратить ИИ-агента в троян, изменив всего семь нейронов",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151240",
-      "published": "2026-11-12T21:23:00"
-    },
-    {
-      "title": "Чего не видит рекрутер: ИИ и оценка адаптивности на интервью",
+      "title": "От кода до развёртывания: что разработчики уже поручают ИИ-агентам, а что пока оставляют себе",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1107298/?utm_campaign=1107298&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-12T20:41:20"
+      "url": "https://habr.com/ru/companies/T1Holding/articles/1107428/?utm_campaign=1107428&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-13T13:12:21"
     },
     {
-      "title": "Google представила Gemini 4 Hydrogen — модель работает в 2,5 раза быстрее предшественницы и уже доступна всем",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151236",
-      "published": "2026-11-12T20:01:00"
+      "title": "Государственный ИИ-сервис для обучения школьников – создан прецедент",
+      "source": "Digital_Russia",
+      "url": "https://d-russia.ru/gosudarstvennyj-ii-servis-dlya-obucheniya-shkolnikov-sozdan-pretsedent.html",
+      "published": "2026-11-13T13:07:25"
     },
     {
-      "title": "Профили критических сбоев ИИ-агентов с функцией вызова с реальным эффектом: DeepSeek V4 Pro и Gemini 3.8 Flash",
+      "title": "4 книги в предзаказе: техническое интервью, машинное обучение, ИИ-агенты и векторные БД",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1107288/?utm_campaign=1107288&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-12T19:54:25"
-    },
-    {
-      "title": "Увольнения, засилье ИИ и умершие надежды: исследование показало удручающее состояние игровой индустрии в 2026 году",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151234",
-      "published": "2026-11-12T19:23:00"
+      "url": "https://habr.com/ru/companies/piter/articles/1107406/?utm_campaign=1107406&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-13T12:54:27"
     }
   ]
 }
