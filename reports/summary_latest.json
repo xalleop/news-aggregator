@@ -1,109 +1,107 @@
 {
-  "timestamp": "2026-11-13_16-27",
-  "total_articles": 92,
+  "timestamp": "2026-11-13_22-43",
+  "total_articles": 80,
   "sources": {
-    "ТАСС": 2,
     "Интерфакс": 1,
-    "Ведомости": 3,
-    "Digital_Russia": 2,
-    "Habr_AI": 30,
-    "iXBT": 1,
+    "Коммерсантъ": 1,
+    "Ведомости": 1,
+    "Digital_Russia": 3,
+    "Habr_AI": 25,
     "CNews": 16,
     "3DNews": 11,
-    "VC_ru_Технологии": 1,
     "ИИ комплаенс и этика": 1,
-    "Google News": 24
+    "Google News": 21
   },
   "top_keywords": [
     [
       "ИИ",
-      80
+      69
     ],
     [
       "AI",
       17
     ],
     [
-      "регулирование",
-      4
-    ],
-    [
-      "Минцифры",
+      "искусственный интеллект",
       3
     ],
     [
-      "машинное обучение",
-      2
+      "регулирование",
+      3
     ],
     [
-      "искусственный интеллект",
+      "Минцифры",
       2
     ],
     [
       "ESG",
       2
+    ],
+    [
+      "машинное обучение",
+      1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "MWS Cloud запустила ночные тарифы для использования ИИ - Ведомости",
+      "title": "ИИ-помощники ChatGPT смогут оплачивать покупки с карты пользователя - Сноб",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMlZYbUJsTTRydEZuUHZndlBIRWNrNE1xUXBISmNNLWJQQnBuaDFGa0N4WldUbnB1OGtoMlFZdWYxMlotdkFMZmw0OGZ1YjBJbWpNNmNZSl9aTjY4bnpSMnRLQTVlMWg4QW5Mc3J2QzZTbERFVk1XV3o1OWhrWXNWMF9OUV90akotUkxTSkkxYlZ5eUhfY0VLcGhjTXQzYXRGMnRj?oc=5",
-      "published": "2026-11-13T13:26:03"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS1pEUG1yOE94XzlyVUQxT2Nhc0YzNHZqLUpzcG94WUJvSUsyYnAtSmlXMklnRHdrSHJFaVNRZFNaYThwbTA4QjdXR3NTbkNpUERqbF8zZ3ljeVZEOFVhdV9FekZNNk5aOFowV2VtYnQ2VXk1V1NBdl9DaDg1b2NYa1YzZE1wdGpocWstX3pQU1V3S2RQUlpn0gFCQVVfeXFMTTdoZjRhWW5JMWlOb3poRXc1M3VTQU5JTERGYzNOd19HUUVRSGpxTGFWSUlCbU9UelMtc0VVQzNkU2NB?oc=5",
+      "published": "2026-11-13T19:10:21"
     },
     {
-      "title": "Тестирую Figma AI на 19 задачах по дизайн-системе",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/lukit_ru/articles/1107522/?utm_campaign=1107522&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-13T13:23:13"
+      "title": "QuantumScape нашла способ обуздать главную проблему твердотельных аккумуляторов и готова поделиться технологией",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151284",
+      "published": "2026-11-13T19:10:00"
     },
     {
-      "title": "Американский регулятор расширяет использование ИИ‑системы для управления движением по всему воздушному пространству США",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1107572/?utm_campaign=1107572&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-13T13:18:15"
-    },
-    {
-      "title": "Gartner прогнозирует, что мировые расходы на ИИ превысят $4 трлн в 2027 г.",
+      "title": "Лидеры стран ЕС обсудили в Дублине контроль передовых систем ИИ",
       "source": "Интерфакс",
-      "url": "https://www.interfax.ru/business/1128866",
-      "published": "2026-11-13T13:17:00"
+      "url": "https://www.interfax.ru/world/1128940",
+      "published": "2026-11-13T19:07:00"
     },
     {
-      "title": "Gartner прогнозирует, что мировые расходы на ИИ превысят $4 трлн в 2027 г. - Интерфакс",
+      "title": "Лидеры стран ЕС обсудили в Дублине контроль передовых систем ИИ - Интерфакс",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ISmhudkRYTmdSY1JvSlI3ZDdoUU9KdDNuMm9TcEU2VUVJUGV4Rjg5RmJOMFM1Q01KUXc5ZFJrUV9JWVhLS0pCLWxvZEMzbjk5NkHSAUtBVV95cUxOQVlJZlI2MHExZlZxanBndnFlWDBncmI4Q1AxQlM4YWZ4TnBwa0RDR1JLZEllcm1mSmY1MTZGZ0ljU18xOVZoX1BTTnc?oc=5",
-      "published": "2026-11-13T13:17:00"
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvVXd4S2FmUmtVNWVIZ2d6VFJienctSDV3c1hLSDdjSHhMVW16TE4wTkcyVXQ3Z2VPYXNZT3dfMEZCTGJTQ0J2ZGQwRm9Ud9IBS0FVX3lxTFAzT2VjUEZpV1U3ekpJamdUWFc4V3N5WDZxVWNRRHZQU2M1SEJ6VjNRREk5Z1RpOHh3Z0dLNC03elNGemVMeFVBZk43OA?oc=5",
+      "published": "2026-11-13T19:07:00"
     },
     {
-      "title": "Когда ИИ-агенту нужен MCP, а когда достаточно обычного API",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/runity/articles/1107568/?utm_campaign=1107568&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-13T13:15:42"
+      "title": "Google встроила «Кошелёк» в Gemini: ИИ сможет анализировать расходы и находить забатые подписки",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151282",
+      "published": "2026-11-13T18:57:00"
     },
     {
-      "title": "Google представила новую ИИ-модель Gemini 4 Hydrogen - Meduza",
+      "title": "ИИ-агенты придумали собственный сленг при совместной работе - Наука Mail",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa0txSUQzNXpWQVFsbWdYRHJPWmRScWtNQ1BFalVuSEpXelVwbXRuSTJmVkJYWkN5YjJQdE9pZnlkR19oRjczMGxzbzZmY2laa2lfSERxaEF5Qldrc3FMdjFqTDF1cC1UUHAxMFRSWTZaUzZ3UHZ1amtPRm5mdVotNFRhQVhjR2VKems2WlVNNNIBlAFBVV95cUxNejVPS1FuMk8tVUpNNjhmdmRKMXNhcHhaYlNVX2JaYTBhQ3FZNHVaN2VjX2VMNU1OLURuSlBSbjRUdXpuTVRzOGhwbm4wMk5HZndoc01BRTl1QzYzQWw2NHJaTkJTWlp2bVJPTWpWb2x5ZXFhZXQtWkNLM0ctbjNBczg0M0xqcThETEJPYmh3NnBPdDRR?oc=5",
-      "published": "2026-11-13T13:13:00"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnBQUXI1WkZGSUFFRnhBZnRqNDhNcTJjR0d4T0dVSVdRMVdNR1FMTG9nVWp5c3RMZ0ZRMHZ3TzZQeEhYX1VsOEFlNFQ5WEc3NG5zQnVWbk5VRnhCZFlwTS1OUGZUOHA2bFRmZG12XzNJQUdJMlhFdkNtR1B6VFBtcWtqc2xCaGE4bTR1ZXBtWEozbnpoWXFJeVRaMVFZWElTWWpzSm5ZbnIzTVBP?oc=5",
+      "published": "2026-11-13T18:14:04"
     },
     {
-      "title": "От кода до развёртывания: что разработчики уже поручают ИИ-агентам, а что пока оставляют себе",
+      "title": "[Перевод] CLI против MCP: стоимость зависит от интерфейса доступа",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/T1Holding/articles/1107428/?utm_campaign=1107428&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-13T13:12:21"
+      "url": "https://habr.com/ru/companies/otus/articles/1104712/?utm_campaign=1104712&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-13T17:15:17"
     },
     {
-      "title": "Государственный ИИ-сервис для обучения школьников – создан прецедент",
-      "source": "Digital_Russia",
-      "url": "https://d-russia.ru/gosudarstvennyj-ii-servis-dlya-obucheniya-shkolnikov-sozdan-pretsedent.html",
-      "published": "2026-11-13T13:07:25"
+      "title": "У ChatGPT появился «Кошелёк» — теперь ИИ-агенты смогут совершать покупки от имени пользователя",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151279",
+      "published": "2026-11-13T17:02:00"
     },
     {
-      "title": "4 книги в предзаказе: техническое интервью, машинное обучение, ИИ-агенты и векторные БД",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/piter/articles/1107406/?utm_campaign=1107406&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-13T12:54:27"
+      "title": "У ChatGPT появился «Кошелёк» — теперь ИИ-агенты смогут совершать покупки от имени пользователя - 3DNews",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9LUnJGanc2MHJac0xld0VvNnlZNzhPRDRVVG1MdEpKYnhoOEFEcHVjQWdaRm82RU54aGVIUEJR0gG_AUFVX3lxTE1EUmc5cVdvbFJWWDRXa1NLbUd6aGYzbk1CMWR2RVZTWHJnT0c2bENnVzBZN0k5cDhxWEUzM2MzSXN2UDZja2xKZ1VkcUs0QVZLeXU0Wm5aMmRBX3U4bGx4WVVNN2djaWpOOFdndm5zSXVORUtJYVJqeXcyNktjT3Z1d0JKbnpWSGUzZUpISFhDVW8yN0E4dGEzSzVEdzFibnFNZmFySTdybmZCWGg1Mk9ZWmF4ZTlveFBuQUE1NFZv?oc=5",
+      "published": "2026-11-13T17:02:00"
+    },
+    {
+      "title": "Серверное сияние // Химпром и производство электроники в России удвоили закупки серверов",
+      "source": "Коммерсантъ",
+      "url": "https://www.kommersant.ru/doc/9095779",
+      "published": "2026-11-13T16:52:50"
     }
   ]
 }
