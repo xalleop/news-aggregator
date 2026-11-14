@@ -1,26 +1,24 @@
 {
-  "timestamp": "2026-11-14_02-51",
-  "total_articles": 81,
+  "timestamp": "2026-11-14_15-32",
+  "total_articles": 54,
   "sources": {
-    "ТАСС": 3,
+    "ТАСС": 1,
     "Интерфакс": 1,
     "Коммерсантъ": 1,
-    "Ведомости": 1,
-    "Digital_Russia": 3,
-    "Habr_AI": 24,
-    "CNews": 16,
-    "3DNews": 11,
-    "ИИ комплаенс и этика": 1,
-    "Google News": 20
+    "Digital_Russia": 2,
+    "Habr_AI": 21,
+    "CNews": 3,
+    "3DNews": 8,
+    "Google News": 17
   },
   "top_keywords": [
     [
       "ИИ",
-      70
+      44
     ],
     [
       "AI",
-      17
+      12
     ],
     [
       "Минцифры",
@@ -33,76 +31,68 @@
     [
       "искусственный интеллект",
       2
-    ],
-    [
-      "ESG",
-      2
-    ],
-    [
-      "машинное обучение",
-      1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Для школьников разработали 27 занятий по ИИ и кибербезопасности",
-      "source": "ТАСС",
-      "url": "https://tass.ru/obschestvo/28317029",
-      "published": "2026-11-13T23:14:24"
-    },
-    {
-      "title": "В краевом Минцифры рассказали, почему нет связи в месте пропажи Усольцевых",
-      "source": "ТАСС",
-      "url": "https://tass.ru/obschestvo/28316971",
-      "published": "2026-11-13T22:25:35"
-    },
-    {
-      "title": "В США изучают связь сбоя оборудования с внедрением ИИ в системы авиадиспетчеров",
-      "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28316961",
-      "published": "2026-11-13T22:12:51"
-    },
-    {
-      "title": "Huawei скрестила SSD с магнитофоном — магнитоэлектрические диски испытали в реальных условиях",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151291",
-      "published": "2026-11-13T21:11:00"
-    },
-    {
-      "title": "Роскомнадзор внедрил ИИ для блокировки интернет-трафика, потратив более 2 млрд рублей - ПЛН",
+      "title": "На медиаконгрессе во Владимире обсудили развитие журналистики, PR и тренды ИИ - vedom.ru",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2SldZRmNOaXA4YlJqV1hWVWpxWFdQdGFWak1FSzBnZGxRcGlvS19HdUtoOE9HT2RLT1piTDd0Wk9QTUZ2bElGbHBGdk9DWkRFYlE?oc=5",
-      "published": "2026-11-13T21:06:10"
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbEJXbUFkQ3MxWHpZUW1EQ0REb2szQ3VkZUNnSTJkdldGdGIySWhDaXdvRXlpSEpXVks1eHZvaUNyQ18zNHpYcktkS1JGR0w0NU5CVFNTeUNLc0F5bVdZTV92Nlg0T3c0b3ZNdmQ5MHB2b0VPVW8wX1pROXE2SGRZUGFHQ09RNzR6VzNoS1lhS3FHTU81VzZBZ1ZZaU1CUnROZHl5SUt3?oc=5",
+      "published": "2026-11-14T12:05:55"
     },
     {
-      "title": "Процессоры могут повторить судьбу видеокарт: бум ИИ грозит новым дефицитом комплектующих",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151289",
-      "published": "2026-11-13T21:02:00"
+      "title": "Живое ТЗ и храповик: как заставить ИИ-агента не ломать то, что работает",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1107842/?utm_campaign=1107842&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-14T11:45:47"
     },
     {
-      "title": "ИИ-проекты Китая на $3,2 млрд оказались под угрозой из-за увольнения Хуанга",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151287",
-      "published": "2026-11-13T20:49:00"
-    },
-    {
-      "title": "AMD представила ускорители Instinct MI450X с уменьшенным объёмом памяти",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151281",
-      "published": "2026-11-13T19:32:00"
-    },
-    {
-      "title": "ИИ-помощники ChatGPT смогут оплачивать покупки с карты пользователя - Сноб",
+      "title": "ИИ может сократить расходы банковского сектора на 20% - PLUSworld",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS1pEUG1yOE94XzlyVUQxT2Nhc0YzNHZqLUpzcG94WUJvSUsyYnAtSmlXMklnRHdrSHJFaVNRZFNaYThwbTA4QjdXR3NTbkNpUERqbF8zZ3ljeVZEOFVhdV9FekZNNk5aOFowV2VtYnQ2VXk1V1NBdl9DaDg1b2NYa1YzZE1wdGpocWstX3pQU1V3S2RQUlpn0gFCQVVfeXFMTTdoZjRhWW5JMWlOb3poRXc1M3VTQU5JTERGYzNOd19HUUVRSGpxTGFWSUlCbU9UelMtc0VVQzNkU2NB?oc=5",
-      "published": "2026-11-13T19:10:21"
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1URExyMHQtRDZrQ044QVRHNkRiQXNmT1BFYThzRFJDMktKa01tYWtOZUNkcWJOTVktbXMwSk02NFhLX0dZTlREMzdnMlg?oc=5",
+      "published": "2026-11-14T11:37:35"
     },
     {
-      "title": "QuantumScape нашла способ обуздать главную проблему твердотельных аккумуляторов и готова поделиться технологией",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151284",
-      "published": "2026-11-13T19:10:00"
+      "title": "OpenAI представила функцию ChatGPT Wallet для покупок с помощью ИИ",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1107830/?utm_campaign=1107830&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-14T11:27:33"
+    },
+    {
+      "title": "OpenAI представила функцию ChatGPT Wallet для покупок с помощью ИИ - Хабр",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tR1JSNWhkd0YwWHJOR0NMQzM5X0steG9vRkQ3dHJwTUhlcHM4T2dhYnR2LVFSLS1WdllZeDVvdU80NlNzNlhGZHhENGkzd9IBWEFVX3lxTE5JVTJvYXhrNWNJVTE1Y1BfYVIwQ3BKc3JqeGxqdU1YaWdmWWxIT0llR0FlWVg0dTNJS0NnUy1iaWQ2bFk1TlBPM0l5UC01VjVTY0s0el95WEg?oc=5",
+      "published": "2026-11-14T11:27:33"
+    },
+    {
+      "title": "Индекс поисковика Brave — отдельный вход в ответы нейросетей: как за несколько минут проверить, есть ли в нём ваш сайт",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1107834/?utm_campaign=1107834&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-14T11:12:48"
+    },
+    {
+      "title": "Торвальдс: исправление ошибок в ядре Linux с помощью ИИ становится нормой",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1107820/?utm_campaign=1107820&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-14T11:07:31"
+    },
+    {
+      "title": "Как запереть ИИ‑агента и не дать ему уронить кластер — обзор CNCF-новинки OpenShell",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/selectel/articles/1107766/?utm_campaign=1107766&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-14T11:00:31"
+    },
+    {
+      "title": "ИИ-фильтр Роскомнадзора за 2,27 млрд рублей: что известно, а что пока только догадки",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1107828/?utm_campaign=1107828&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-14T10:59:16"
+    },
+    {
+      "title": "Я — марионетка в ИИ - Sostav.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IcWhacW95Y09xX3VqZk1jTGxPLV8tQVVtT0JQR2xJY0lsZFNDYWxwVndmZVdvRTR3aFMyYUJuNzhFck8wU3RaSXpTNHlCMnl5X1Qw?oc=5",
+      "published": "2026-11-14T09:45:06"
     }
   ]
 }
