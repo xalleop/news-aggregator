@@ -1,98 +1,89 @@
 {
-  "timestamp": "2026-11-14_15-32",
-  "total_articles": 54,
+  "timestamp": "2026-11-14_21-03",
+  "total_articles": 38,
   "sources": {
-    "ТАСС": 1,
-    "Интерфакс": 1,
-    "Коммерсантъ": 1,
-    "Digital_Russia": 2,
-    "Habr_AI": 21,
-    "CNews": 3,
-    "3DNews": 8,
+    "Habr_AI": 12,
+    "3DNews": 9,
     "Google News": 17
   },
   "top_keywords": [
     [
       "ИИ",
-      44
+      34
     ],
     [
       "AI",
-      12
-    ],
-    [
-      "Минцифры",
-      3
+      5
     ],
     [
       "регулирование",
-      3
+      1
     ],
     [
       "искусственный интеллект",
-      2
+      1
     ]
   ],
   "recent_headlines": [
+    {
+      "title": "Хотел программу для диктовки, а вышли движок распознавания речи, UI-библиотека и упаковщик на Rust",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1107896/?utm_campaign=1107896&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-14T16:10:52"
+    },
+    {
+      "title": "Крестный отец ИИ решил предупредить лидеров ЕС: искусственный интеллект может убить нас в течение трех лет - Naked Science",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuWUpEeXI2SnQ1R3ozemgyTWZJU3BQS0R2bDJuN21NQnd5QkRtNFN1ZjloZmNWa010SGtuNERmTUdwTGJzMUZiOWxXWno1eGdHWC0ybQ?oc=5",
+      "published": "2026-11-14T16:08:38"
+    },
+    {
+      "title": "Эротика письма в эпоху нейросетей: что люди теряют и приобретают с приходом ИИ - Дискурс",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aSDBRb2ZVUnI2MDI3dmNzLXltU1owVmh1djNYaVkzQVc1OFV4SmRTTnpGaVpJSFlGc3Z0S1kyMWZ2RkVpRGFORk05bDVVLV9NRDZubjlwVGphWGxybnU3N00yVHE?oc=5",
+      "published": "2026-11-14T16:06:50"
+    },
+    {
+      "title": "Отказ Nvidia от кругового финансирования ИИ по схеме Хуанга не вернёт дешёвые видеокарты в 2027 году",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151308",
+      "published": "2026-11-14T15:20:00"
+    },
+    {
+      "title": "Кризис AI и назначение Миллера. Последние два года президентства Трампа - Радио Свобода",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTXdfMWFVb1RjX2lQeWJlcFZCLTVSZGZDNFBKTHhlUl9vZ3RRbzY0RWRHVzE2Q284SkFKdmJfRVA3TWFNblJiYm9CdklVbjdkdDBaeDBoX3FoYlFSeVJfMmZpQ1RBVHpNRk4tcEhLMUdoMjkyYXV2RGFWQ3RJTDA3SW5MYURxNzEtNVJUMTlMNUVQY2JvZFVJSnZpSEdqem5wV1h4S2RmWmVjTFBXZ0d6VdIBswFBVV95cUxQN2l1eWIwbFRwS3IyVkJZYXMzTU9rVHFvSFRJRW0wMDdzdGFLZ1o4a3RVZ2VzeVpRRkxHaC1oTG1JcmlaVWVveGstcWFQQVZCZGNTX0N0M2J6cS12U0tSd0FlRFFqQkUwUndLSVN6Q3RNcktOZ0dQdzZ1UGJraWwxRDNLZ1FDMTBuQ1VYZTJ3eGczdUlmODB3UWMtXzNzUEhMTHpfTFIzcGNCV09pYUJKNW05NA?oc=5",
+      "published": "2026-11-14T15:14:17"
+    },
+    {
+      "title": "Скандал в Nvidia ударил по китайским ИИ-компаниям — рынок испугался, что США перекроют им кислород",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151307",
+      "published": "2026-11-14T14:03:00"
+    },
+    {
+      "title": "OpenAI распустила команду робототехники — управлять роботами будет универсальный GPT",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151306",
+      "published": "2026-11-14T13:48:00"
+    },
+    {
+      "title": "Исследователи научили ИИ определять сахарный диабет 2-го типа по голосу - ВФокусе Mail",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOejFhbkpoWkxFTFlJYlJVRVljVDBKekpvckN6bmNEZE9uZmtDRm1neGQ0Y0hoek1BNDRHeVU5cGxzV25lR3p1QW9jWEVEQnJGYmZXYzRBeWFFb20yZU9FNlRkYy1Jb1hlZDZDSVd4cWRxS2sxNXFUVGFULUlPYnVacGZUR0JPbl9Ud2pPQmE5ZGdKSW5IRGxCLXlhYWQyYXdubXJSZ0xoaDhNVjV4blNBWmF3?oc=5",
+      "published": "2026-11-14T13:02:15"
+    },
+    {
+      "title": "Тринадцать LLM на русских отзывах: как я выбирал модель и почему не поверил судье",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1107856/?utm_campaign=1107856&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-14T12:50:45"
+    },
     {
       "title": "На медиаконгрессе во Владимире обсудили развитие журналистики, PR и тренды ИИ - vedom.ru",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbEJXbUFkQ3MxWHpZUW1EQ0REb2szQ3VkZUNnSTJkdldGdGIySWhDaXdvRXlpSEpXVks1eHZvaUNyQ18zNHpYcktkS1JGR0w0NU5CVFNTeUNLc0F5bVdZTV92Nlg0T3c0b3ZNdmQ5MHB2b0VPVW8wX1pROXE2SGRZUGFHQ09RNzR6VzNoS1lhS3FHTU81VzZBZ1ZZaU1CUnROZHl5SUt3?oc=5",
       "published": "2026-11-14T12:05:55"
-    },
-    {
-      "title": "Живое ТЗ и храповик: как заставить ИИ-агента не ломать то, что работает",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1107842/?utm_campaign=1107842&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-14T11:45:47"
-    },
-    {
-      "title": "ИИ может сократить расходы банковского сектора на 20% - PLUSworld",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1URExyMHQtRDZrQ044QVRHNkRiQXNmT1BFYThzRFJDMktKa01tYWtOZUNkcWJOTVktbXMwSk02NFhLX0dZTlREMzdnMlg?oc=5",
-      "published": "2026-11-14T11:37:35"
-    },
-    {
-      "title": "OpenAI представила функцию ChatGPT Wallet для покупок с помощью ИИ",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1107830/?utm_campaign=1107830&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-14T11:27:33"
-    },
-    {
-      "title": "OpenAI представила функцию ChatGPT Wallet для покупок с помощью ИИ - Хабр",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tR1JSNWhkd0YwWHJOR0NMQzM5X0steG9vRkQ3dHJwTUhlcHM4T2dhYnR2LVFSLS1WdllZeDVvdU80NlNzNlhGZHhENGkzd9IBWEFVX3lxTE5JVTJvYXhrNWNJVTE1Y1BfYVIwQ3BKc3JqeGxqdU1YaWdmWWxIT0llR0FlWVg0dTNJS0NnUy1iaWQ2bFk1TlBPM0l5UC01VjVTY0s0el95WEg?oc=5",
-      "published": "2026-11-14T11:27:33"
-    },
-    {
-      "title": "Индекс поисковика Brave — отдельный вход в ответы нейросетей: как за несколько минут проверить, есть ли в нём ваш сайт",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1107834/?utm_campaign=1107834&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-14T11:12:48"
-    },
-    {
-      "title": "Торвальдс: исправление ошибок в ядре Linux с помощью ИИ становится нормой",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1107820/?utm_campaign=1107820&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-14T11:07:31"
-    },
-    {
-      "title": "Как запереть ИИ‑агента и не дать ему уронить кластер — обзор CNCF-новинки OpenShell",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/selectel/articles/1107766/?utm_campaign=1107766&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-14T11:00:31"
-    },
-    {
-      "title": "ИИ-фильтр Роскомнадзора за 2,27 млрд рублей: что известно, а что пока только догадки",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1107828/?utm_campaign=1107828&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-14T10:59:16"
-    },
-    {
-      "title": "Я — марионетка в ИИ - Sostav.ru",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IcWhacW95Y09xX3VqZk1jTGxPLV8tQVVtT0JQR2xJY0lsZFNDYWxwVndmZVdvRTR3aFMyYUJuNzhFck8wU3RaSXpTNHlCMnl5X1Qw?oc=5",
-      "published": "2026-11-14T09:45:06"
     }
   ]
 }
