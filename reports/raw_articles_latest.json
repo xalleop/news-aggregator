@@ -1,7 +1,34 @@
 {
-  "timestamp": "2026-11-14_21-03",
-  "total_articles": 38,
+  "timestamp": "2026-11-15_01-43",
+  "total_articles": 32,
   "articles": [
+    {
+      "title": "RAEX: ответственный бизнес укрепляет позиции Татарстана в рейтинге \"ЭКГ-регион\"",
+      "url": "https://tass.ru/ekonomika/28318387",
+      "source": "ТАСС",
+      "published": "2026-11-14T20:44:55",
+      "description": "В республике работа по поддержке семьи постепенно становится частью корпоративной стратегии предприятий, заявил гендиректор рейтингового агентства Дмитрий Гришанков",
+      "tags": [],
+      "category": "general_news",
+      "matched_keywords": [
+        "ответственный бизнес"
+      ]
+    },
+    {
+      "title": "Семь способов обмануть себя метриками: как я измерял точность ИИ-проверки ЕГЭ",
+      "url": "https://habr.com/ru/articles/1107926/?utm_campaign=1107926&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-14T19:42:09",
+      "description": "<img src=\"https://habrastorage.org/extt/2d/65/2a/2d652a1f35811e6c544d66cd52323133.jpg\" /><p>В <a href=\"https://habr.com/ru/articles/1104376/\" rel=\"noopener nofollow\">первой части</a> я рассказал, как устроена проверка второй части ЕГЭ по обществознанию в моём боте: модель размечает ответ, код считает балл. Закончил обещанием рассказать, насколько точно это работает и сколько раз я обманывал себя метриками. Насчитал семь случаев самообмана.</p> <a href=\"https://habr.com/ru/articles/1107926/?utm_campaign=1107926&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
     {
       "title": "Хотел программу для диктовки, а вышли движок распознавания речи, UI-библиотека и упаковщик на Rust",
       "url": "https://habr.com/ru/articles/1107896/?utm_campaign=1107896&utm_source=habrahabr&utm_medium=rss",
@@ -229,87 +256,11 @@
       ]
     },
     {
-      "title": "Huawei скрестила SSD с магнитофоном — магнитоэлектрические диски испытали в реальных условиях",
-      "url": "https://3dnews.ru/1151291",
-      "source": "3DNews",
-      "published": "2026-11-13T21:11:00",
-      "description": "Китайские источники сообщают, что Huawei приступила к испытаниям в реальных условиях невиданной доселе системы хранения данных на основе собственной технологии магнитоэлектрических дисков (Magneto-Electric Disk, MED). Накопители MED сочетают в одном корпусе SSD и &laquo;магнитофон&raquo; &mdash; магнитную ленту с приводом и головками чтения/записи. Технология облегчает работу с архивами и снижает зависимость от дефицитных жёстких дисков. Источник изображения: ИИ-генерация ChatGPT/3DNews",
-      "tags": [
-        "tech",
-        "hardware"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Google встроила «Кошелёк» в Gemini: ИИ сможет анализировать расходы и находить забытые подписки",
-      "url": "https://3dnews.ru/1151282",
-      "source": "3DNews",
-      "published": "2026-11-13T18:57:00",
-      "description": "В Google Gemini появилась интеграция с &laquo;Google Кошельком&raquo;. Новая функция позволяет отслеживать расходы, находить ненужные подписки и планировать бюджет. Как и в ChatGPT, в котором сегодня появилась функция кошелька (ChatGPT Wallet), пользователи смогут получать информацию прямо в чате. Источник изображения: AI",
-      "tags": [
-        "tech",
-        "hardware"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "AI",
-        "ИИ"
-      ]
-    },
-    {
       "title": "Скандал в Nvidia ударил по китайским ИИ-компаниям — рынок испугался, что США перекроют им кислород",
       "url": "https://3dnews.ru/1151307",
       "source": "3DNews",
       "published": "2026-11-14T14:03:00",
       "description": "Акции китайских разработчиков искусственного интеллекта упали на фоне кризиса в руководстве Nvidia: инвесторы опасаются, что Вашингтон ограничит доступ китайских компаний к её ускорителям в зарубежных центрах обработки данных. При этом ожидания новых ограничений ранее поддержали акции местных производителей чипов, которые могут выиграть от стремления Китая снизить зависимость от американского оборудования. Источник изображения: BoliviaInteligente / unsplash.com",
-      "tags": [
-        "tech",
-        "hardware"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Процессоры могут повторить судьбу видеокарт: бум ИИ грозит новым дефицитом комплектующих",
-      "url": "https://3dnews.ru/1151289",
-      "source": "3DNews",
-      "published": "2026-11-13T21:02:00",
-      "description": "Видеокарты стали одной из главных категорий дефицита на фоне бума искусственного интеллекта. Теперь похожая ситуация может повториться с центральными процессорами (CPU), так как потребность ИИ-инфраструктуры в CPU стремительно увеличивается, а производители уже сталкиваются с ограничениями поставок. Источник изображения: Intel",
-      "tags": [
-        "tech",
-        "hardware"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "ИИ-проекты Китая на $3,2 млрд оказались под угрозой из-за увольнения Хуанга",
-      "url": "https://3dnews.ru/1151287",
-      "source": "3DNews",
-      "published": "2026-11-13T20:49:00",
-      "description": "Китайские проекты в сфере искусственного интеллекта общей стоимостью более $3,2 млрд зависят от ускорителей Nvidia, поставки которых ограничены американскими властями. Ужесточение экспортного контроля и отставка главы Nvidia Дженсена Хуанга (Jensen Huang) могут привести к задержкам строительства вычислительных центров и пересмотру их технической инфраструктуры. Источник изображения: Nvidia",
-      "tags": [
-        "tech",
-        "hardware"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "AMD представила ускорители Instinct MI450X с уменьшенным объёмом памяти",
-      "url": "https://3dnews.ru/1151281",
-      "source": "3DNews",
-      "published": "2026-11-13T19:32:00",
-      "description": "AMD сообщила дополнительные подробности о GPU Instinct MI430X, предназначенных для HPC и научных задач с применением ИИ, а также представила результаты тестирования производительности в задачах инференса ускорителей Instinct MI455X в составе стоечного решения AMD Helios. Кроме того, компания анонсировала GPU Instinct MI450X, предоставляющий пользователям AMD Helios ещё один вариант подбора объёма памяти в соответствии с требованиями их ИИ-нагрузок и спецификой развёртывания систем. Компания отметила, что научное моделирование, передовые ИИ-системы и интерактивный инференс предъявляют разные требования к инфраструктуре, и ускорители серии MI400 позволяют их удовлетворять благодаря поддержке вычислений с двойной точностью (FP64) на аппаратном уровне, большому объёму памяти для ресурсоёмких моделей ИИ и расширенным вариантам конфигурации. Так, Instinct MI430X разработан для задач, сочетающих высокоточное моделирование и ИИ. Аппаратная поддержка FP64-вычислений позволяет выполнять сложные научные расчёты, а наличие 432 Гбайт HBM4 (ПСП до 23,3 Тбайт/с) &mdash; работать с более масштабными моделями и наборами данных.",
       "tags": [
         "tech",
         "hardware"
@@ -365,18 +316,18 @@
       ]
     },
     {
-      "title": "Исследователи научили ИИ определять сахарный диабет 2-го типа по голосу - ВФокусе Mail",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOejFhbkpoWkxFTFlJYlJVRVljVDBKekpvckN6bmNEZE9uZmtDRm1neGQ0Y0hoek1BNDRHeVU5cGxzV25lR3p1QW9jWEVEQnJGYmZXYzRBeWFFb20yZU9FNlRkYy1Jb1hlZDZDSVd4cWRxS2sxNXFUVGFULUlPYnVacGZUR0JPbl9Ud2pPQmE5ZGdKSW5IRGxCLXlhYWQyYXdubXJSZ0xoaDhNVjV4blNBWmF3?oc=5",
+      "title": "Блогер, которого нет, и 370 романов за год: как искусственный интеллект подменяет реальность - ВФокусе Mail",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLWFqQk5XRzR2MzQ5OEFvTm1LRFV6X0stUTM2Q1pXeVJhc3ppTDBWUnh6YndzeHh0QkZKd3ZxYW50Nm1vZEd4M1FJLW9FQmxaMmNkRjFFS3U2UGZiOGxmcUNXTU9iY1NrNUhvVGZvZEV6aFVrU0xKMmZrcHNKUFNBZzlPRXRzMjFtckJSWHFhN01CRTY3SWVmTU50SHlKYlpadDF4bjZsTmxMV0RHNXVEbmp4WGdQTDlSVHV6ZERUUXBiZnc1NlptcDFxcw?oc=5",
       "source": "Google News",
-      "published": "2026-11-14T13:02:15",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOejFhbkpoWkxFTFlJYlJVRVljVDBKekpvckN6bmNEZE9uZmtDRm1neGQ0Y0hoek1BNDRHeVU5cGxzV25lR3p1QW9jWEVEQnJGYmZXYzRBeWFFb20yZU9FNlRkYy1Jb1hlZDZDSVd4cWRxS2sxNXFUVGFULUlPYnVacGZUR0JPbl9Ud2pPQmE5ZGdKSW5IRGxCLXlhYWQyYXdubXJSZ0xoaDhNVjV4blNBWmF3?oc=5\" target=\"_blank\">Исследователи научили ИИ определять сахарный диабет 2-го типа по голосу</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ВФокусе Mail</font>",
+      "published": "2026-11-14T17:44:37",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQLWFqQk5XRzR2MzQ5OEFvTm1LRFV6X0stUTM2Q1pXeVJhc3ppTDBWUnh6YndzeHh0QkZKd3ZxYW50Nm1vZEd4M1FJLW9FQmxaMmNkRjFFS3U2UGZiOGxmcUNXTU9iY1NrNUhvVGZvZEV6aFVrU0xKMmZrcHNKUFNBZzlPRXRzMjFtckJSWHFhN01CRTY3SWVmTU50SHlKYlpadDF4bjZsTmxMV0RHNXVEbmp4WGdQTDlSVHV6ZERUUXBiZnc1NlptcDFxcw?oc=5\" target=\"_blank\">Блогер, которого нет, и 370 романов за год: как искусственный интеллект подменяет реальность</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ВФокусе Mail</font>",
       "tags": [
         "google_news"
       ],
       "category": "google_news",
       "search_topic": "ИИ",
       "matched_keywords": [
-        "ИИ"
+        "искусственный интеллект"
       ]
     },
     {
@@ -395,26 +346,11 @@
       ]
     },
     {
-      "title": "Лидеры стран ЕС обсудили в Дублине контроль передовых систем ИИ - Интерфакс",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvVXd4S2FmUmtVNWVIZ2d6VFJienctSDV3c1hLSDdjSHhMVW16TE4wTkcyVXQ3Z2VPYXNZT3dfMEZCTGJTQ0J2ZGQwRm9Ud9IBS0FVX3lxTFAzT2VjUEZpV1U3ekpJamdUWFc4V3N5WDZxVWNRRHZQU2M1SEJ6VjNRREk5Z1RpOHh3Z0dLNC03elNGemVMeFVBZk43OA?oc=5",
+      "title": "Отказ Nvidia от кругового финансирования ИИ по схеме Хуанга не вернёт дешёвые видеокарты в 2027 году - 3DNews",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcGlRdGQwc2hNYmVJT3g5alNDWTJzZWN0c2J0V0ZqbzdVVEthNDlQTzktWW9pTTllTnBkRk5LOEVrbzVISjNiQnRNMjA1R2RSVGNxZk9HbktBS19oZE9lbGpuZzNJRHM3SlJpNkhBaFZxQ2xSRjhYeXhuXzdhNDAya01LUXg4NktPSEgwTXF2QWVJanlPeUR6UVFWZzdva0YzX0tRcVVXbmhpN3VjVmJIY2hnX1BiWXdyOGwyZDhFcDQ4ZEJJYjgxZDR30gHPAUFVX3lxTE9xeDJNSmVTc2NDeWdQV2tfQzhmUXdXMm0wUHAzMkNWSmJPZXZmVHR1TUdVYWEzeFBSa0U5OTdPVFlaZFpqTTJfUUlLUXhHcDVNNXRIVzk0alktT2FmdXV5M3B3MWdKRWZyVWJvSFI5LTUxRmh3Yzc3T1lHZ25VZ1Z2cnJ1VFRjTld5LVExckRHMUdpV1g1ZHJnd052VEY4bUJSWVdnSHRrR1FURk1IblNJbGxVdWo4N3FfRERQdFpZR2hZb2w2YmxJcVh4Zkd0VQ?oc=5",
       "source": "Google News",
-      "published": "2026-11-13T19:07:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvVXd4S2FmUmtVNWVIZ2d6VFJienctSDV3c1hLSDdjSHhMVW16TE4wTkcyVXQ3Z2VPYXNZT3dfMEZCTGJTQ0J2ZGQwRm9Ud9IBS0FVX3lxTFAzT2VjUEZpV1U3ekpJamdUWFc4V3N5WDZxVWNRRHZQU2M1SEJ6VjNRREk5Z1RpOHh3Z0dLNC03elNGemVMeFVBZk43OA?oc=5\" target=\"_blank\">Лидеры стран ЕС обсудили в Дублине контроль передовых систем ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Интерфакс</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "По данным Forbes, в России готовятся выявлять угрозы в интернете с помощью нового механизма на основе ИИ - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbENaSFVIUnlCVDNBSmx6RUpORmMxbWM4MVlEMlpGaGxUQWFzQ3oyeW5DQ0tmWllDT1VXNDMtZXoyQzNJRU9RQVYxcElpR2pUU2FFZDNHNmVQTVFGT0pieURzczBmY0k1NERnN2dKTlpoQXdGUnNtZDV1cFNxTkZTSE92MTNXQXVOQ0x5Zml5NURQLXo0dzd4ZFlRdXVhZ9IBngFBVV95cUxNbi15ZDdJVktGcmpyTmI4Ymd3di1GYzg5Rm5YNVhSYThjRHhmZVExcmJPVlR6TmpBYmYtNDg0Ml9IVVZ4U0ltUjFSLW9QdHhSamlZNWhaMEFreGQxVUlndG1jc2ZfenlwNllXd1UyM0pRR2ExOXk2Ti13SEMtWlNZZHZQWjE4VGFHUVBVdUdtd29PbnpZb3NweHZqMS15dw?oc=5",
-      "source": "Google News",
-      "published": "2026-11-13T19:42:05",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQbENaSFVIUnlCVDNBSmx6RUpORmMxbWM4MVlEMlpGaGxUQWFzQ3oyeW5DQ0tmWllDT1VXNDMtZXoyQzNJRU9RQVYxcElpR2pUU2FFZDNHNmVQTVFGT0pieURzczBmY0k1NERnN2dKTlpoQXdGUnNtZDV1cFNxTkZTSE92MTNXQXVOQ0x5Zml5NURQLXo0dzd4ZFlRdXVhZ9IBngFBVV95cUxNbi15ZDdJVktGcmpyTmI4Ymd3di1GYzg5Rm5YNVhSYThjRHhmZVExcmJPVlR6TmpBYmYtNDg0Ml9IVVZ4U0ltUjFSLW9QdHhSamlZNWhaMEFreGQxVUlndG1jc2ZfenlwNllXd1UyM0pRR2ExOXk2Ti13SEMtWlNZZHZQWjE4VGFHUVBVdUdtd29PbnpZb3NweHZqMS15dw?oc=5\" target=\"_blank\">По данным Forbes, в России готовятся выявлять угрозы в интернете с помощью нового механизма на основе ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DW.com</font>",
+      "published": "2026-11-14T15:20:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNcGlRdGQwc2hNYmVJT3g5alNDWTJzZWN0c2J0V0ZqbzdVVEthNDlQTzktWW9pTTllTnBkRk5LOEVrbzVISjNiQnRNMjA1R2RSVGNxZk9HbktBS19oZE9lbGpuZzNJRHM3SlJpNkhBaFZxQ2xSRjhYeXhuXzdhNDAya01LUXg4NktPSEgwTXF2QWVJanlPeUR6UVFWZzdva0YzX0tRcVVXbmhpN3VjVmJIY2hnX1BiWXdyOGwyZDhFcDQ4ZEJJYjgxZDR30gHPAUFVX3lxTE9xeDJNSmVTc2NDeWdQV2tfQzhmUXdXMm0wUHAzMkNWSmJPZXZmVHR1TUdVYWEzeFBSa0U5OTdPVFlaZFpqTTJfUUlLUXhHcDVNNXRIVzk0alktT2FmdXV5M3B3MWdKRWZyVWJvSFI5LTUxRmh3Yzc3T1lHZ25VZ1Z2cnJ1VFRjTld5LVExckRHMUdpV1g1ZHJnd052VEY4bUJSWVdnSHRrR1FURk1IblNJbGxVdWo4N3FfRERQdFpZR2hZb2w2YmxJcVh4Zkd0VQ?oc=5\" target=\"_blank\">Отказ Nvidia от кругового финансирования ИИ по схеме Хуанга не вернёт дешёвые видеокарты в 2027 году</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">3DNews</font>",
       "tags": [
         "google_news"
       ],
@@ -471,21 +407,6 @@
       ]
     },
     {
-      "title": "Торвальдс: исправление ошибок в ядре Linux с помощью ИИ становится нормой - Хабр",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHTW04MFJzS1JnbXRjY2o1Vk9fSjBMY1RPbEkycTRTeThVNmxia1ViWl9odElMZ21qRzY0NnZuNWR0dGxEWEVaa3pFRS04UdIBWEFVX3lxTFA0eE0zMzg5S1JMYllURmZNN21mMHMtUmszSTNyOGxPa2tBVlFBdW1BRl9PRng4eEYtX0FVbjJJeWlfbVRuckZaQVR3T2NKMlRvWWhJZFdWOU0?oc=5",
-      "source": "Google News",
-      "published": "2026-11-14T11:07:31",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHTW04MFJzS1JnbXRjY2o1Vk9fSjBMY1RPbEkycTRTeThVNmxia1ViWl9odElMZ21qRzY0NnZuNWR0dGxEWEVaa3pFRS04UdIBWEFVX3lxTFA0eE0zMzg5S1JMYllURmZNN21mMHMtUmszSTNyOGxPa2tBVlFBdW1BRl9PRng4eEYtX0FVbjJJeWlfbVRuckZaQVR3T2NKMlRvWWhJZFdWOU0?oc=5\" target=\"_blank\">Торвальдс: исправление ошибок в ядре Linux с помощью ИИ становится нормой</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Хабр</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
       "title": "ИИ в здравоохранении. Дайджест Vademecum за 9–14 ноября 2026 года - Vademec.ru",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTmxpczYwWHRvWERUNnhVUDFiLXhqX2pMamU0NWlUdWtWVXA5QjFVc1UzanFvNm4zV3lnOTFnSUd2c2JLQmlaVVhOaTZLcUlqajNiRE9kZzlLNEs3NUQtZUNSYUljQV9Ga2hiVGF1TnZKeWNwUUo0UEwwWWZfZFFEdG9KOWlZckJlWGlvMUwyM0F0NW84M2I1N3NvRnFUUWtPX3IzT0dOSQ?oc=5",
       "source": "Google News",
@@ -516,11 +437,26 @@
       ]
     },
     {
-      "title": "Трамп заявил, что сбой в аэропортах вряд ли вызван кибератакой или ИИ - Интерфакс",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxMTJFLUk0RzRGYktmT0FNU09KdHZJYnMzQUw1TzAtUnZVTm1CeDNEdE9FLU05SUFPSkJFSU1fYUNtMzl1bFFMaEtscTJ3UdIBS0FVX3lxTE85S0JwakM1Vk05Zm1ZVlZiQ1FjanlqVVJhc0pOc3pYdWktdFlha3dNSXlfeHEtYldyWm5tb2RrTHpJN3hUd0ZzRXVUNA?oc=5",
+      "title": "Эротика письма в эпоху нейросетей: что люди теряют и приобретают с приходом ИИ - Дискурс",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aSDBRb2ZVUnI2MDI3dmNzLXltU1owVmh1djNYaVkzQVc1OFV4SmRTTnpGaVpJSFlGc3Z0S1kyMWZ2RkVpRGFORk05bDVVLV9NRDZubjlwVGphWGxybnU3N00yVHE?oc=5",
       "source": "Google News",
-      "published": "2026-11-14T01:04:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxMTJFLUk0RzRGYktmT0FNU09KdHZJYnMzQUw1TzAtUnZVTm1CeDNEdE9FLU05SUFPSkJFSU1fYUNtMzl1bFFMaEtscTJ3UdIBS0FVX3lxTE85S0JwakM1Vk05Zm1ZVlZiQ1FjanlqVVJhc0pOc3pYdWktdFlha3dNSXlfeHEtYldyWm5tb2RrTHpJN3hUd0ZzRXVUNA?oc=5\" target=\"_blank\">Трамп заявил, что сбой в аэропортах вряд ли вызван кибератакой или ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Интерфакс</font>",
+      "published": "2026-11-14T16:06:50",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aSDBRb2ZVUnI2MDI3dmNzLXltU1owVmh1djNYaVkzQVc1OFV4SmRTTnpGaVpJSFlGc3Z0S1kyMWZ2RkVpRGFORk05bDVVLV9NRDZubjlwVGphWGxybnU3N00yVHE?oc=5\" target=\"_blank\">Эротика письма в эпоху нейросетей: что люди теряют и приобретают с приходом ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Дискурс</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Производственные и управленческие задачи решают в ТЭК и муниципалитетах за счет ИИ - Тюменская линия",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE0wR1ZYcGtURnc1eVEzVTZfaml3UDFOZHFjTUxyanpWZzlsRUZHWVRFaDlkWmVIUk80YmJHWXBlUQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-14T15:39:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiP0FVX3lxTE0wR1ZYcGtURnc1eVEzVTZfaml3UDFOZHFjTUxyanpWZzlsRUZHWVRFaDlkWmVIUk80YmJHWXBlUQ?oc=5\" target=\"_blank\">Производственные и управленческие задачи решают в ТЭК и муниципалитетах за счет ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Тюменская линия</font>",
       "tags": [
         "google_news"
       ],
@@ -544,53 +480,26 @@
       "matched_keywords": [
         "ИИ"
       ]
-    },
-    {
-      "title": "Эротика письма в эпоху нейросетей: что люди теряют и приобретают с приходом ИИ - Дискурс",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aSDBRb2ZVUnI2MDI3dmNzLXltU1owVmh1djNYaVkzQVc1OFV4SmRTTnpGaVpJSFlGc3Z0S1kyMWZ2RkVpRGFORk05bDVVLV9NRDZubjlwVGphWGxybnU3N00yVHE?oc=5",
-      "source": "Google News",
-      "published": "2026-11-14T16:06:50",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aSDBRb2ZVUnI2MDI3dmNzLXltU1owVmh1djNYaVkzQVc1OFV4SmRTTnpGaVpJSFlGc3Z0S1kyMWZ2RkVpRGFORk05bDVVLV9NRDZubjlwVGphWGxybnU3N00yVHE?oc=5\" target=\"_blank\">Эротика письма в эпоху нейросетей: что люди теряют и приобретают с приходом ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Дискурс</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Google открыла предзаказ на умные очки с ИИ-агентом Gemini — устройства разработаны совместно с Samsung - rb.ru",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOandwR2w3eTlTb3dKQmh5NjUteDJCM1RWQlAtbi1vYnV1UTZGdExvM3hmaHcxUndwYWZKZ0xYTExTMU1BdVlaR184ZUxINGl6TFlTZnhmVEVIV2Etb2JMTUlPWi1oQVE0WEpDcTZIQUZ2QjJaY0E1UDhRU3lXb0drVGczSnk5NlhJMkgxTzNiMTJ5UEpxOWJsSGNpQW80eWRUZWpicEw4OWU4UnJLYmhvZXFSRk1jOXV1ajRseWZZcw?oc=5",
-      "source": "Google News",
-      "published": "2026-11-14T09:00:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOandwR2w3eTlTb3dKQmh5NjUteDJCM1RWQlAtbi1vYnV1UTZGdExvM3hmaHcxUndwYWZKZ0xYTExTMU1BdVlaR184ZUxINGl6TFlTZnhmVEVIV2Etb2JMTUlPWi1oQVE0WEpDcTZIQUZ2QjJaY0E1UDhRU3lXb0drVGczSnk5NlhJMkgxTzNiMTJ5UEpxOWJsSGNpQW80eWRUZWpicEw4OWU4UnJLYmhvZXFSRk1jOXV1ajRseWZZcw?oc=5\" target=\"_blank\">Google открыла предзаказ на умные очки с ИИ-агентом Gemini — устройства разработаны совместно с Samsung</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rb.ru</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
     }
   ],
   "groups": {
     "by_source": {
-      "Habr_AI": 12,
-      "3DNews": 9,
-      "Google News": 17
+      "ТАСС": 1,
+      "Habr_AI": 13,
+      "3DNews": 4,
+      "Google News": 14
     },
     "by_category": {
-      "tech_news": 21,
-      "google_news": 17
+      "general_news": 1,
+      "tech_news": 17,
+      "google_news": 14
     },
     "by_keyword": {
-      "ИИ": 34,
-      "AI": 5,
+      "ответственный бизнес": 1,
+      "ИИ": 26,
+      "AI": 4,
       "регулирование": 1,
-      "искусственный интеллект": 1
+      "искусственный интеллект": 2
     }
   }
 }
