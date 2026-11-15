@@ -1,0 +1,457 @@
+{
+  "timestamp": "2026-11-15_15-59",
+  "total_articles": 29,
+  "articles": [
+    {
+      "title": "Минпросвещения и Сбер договорились о создании ИИ для образования",
+      "url": "https://tass.ru/obschestvo/28319203",
+      "source": "ТАСС",
+      "published": "2026-11-15T11:18:11",
+      "description": "Соглашение заключили министр просвещения РФ Сергей Кравцов и глава компании Герман Греф",
+      "tags": [],
+      "category": "general_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ИИ в команде: что мы ожидаем друг от друга",
+      "url": "https://habr.com/ru/articles/1108042/?utm_campaign=1108042&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-15T12:27:54",
+      "description": "<img src=\"https://habrastorage.org/extt/6c/19/44/6c19440b8299372485b46a7b3a0da8c8.webp\" /><p>С нейронками мы можем быстрее выполнять задачи, глубже разбираться в проблемах и находить решения, которые раньше упустили бы. А можем перекладывать недоделанную работу на коллег, бесконечно улучшать результат и проводить весь день в режиме непрерывного принятия решений.</p><p>Как всё это влияет на эффективность команды? Почему с ИИ некоторые задачи стали занимать больше времени, а сотрудники — сильнее уставать? Чего теперь вправе ожидать руководитель от команды и как оценивать вклад человека, если значительную часть работы выполнила нейронка?</p><p>Разбираемся на примерах из проектной работы, собственном опыте и результатах исследований.</p> <a href=\"https://habr.com/ru/articles/1108042/?utm_campaign=1108042&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Холст, масло, ИИ",
+      "url": "https://habr.com/ru/companies/onlinepatent/articles/1108040/?utm_campaign=1108040&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-15T12:22:45",
+      "description": "<img src=\"https://habrastorage.org/extt/a1/90/6e/a1906eab5346e6043e770fb535b86310.png\" /><p>Всем привет, меня зовут Павел Соколов, я главный редактор журнала Онлайн Патент. А также иногда пишу фикшн. И сегодня хочу написать про наболевшее: использовании ИИ при создании художественных (и не очень) текстов.</p><p>Недавно в литтусовке произошло сразу несколько скандалов, связанных с ИИ. Жюри Гонкуровской премии исключило из шорт-листа роман автора, заподозренного в генерации текста. У нас жюри Волошинского конкурса лишило звания лауреата, заподозренного в том же. До этого аналогичные скандалы происходили с разной степенью литрезонансовости в самых разных странах. Например, лауреатка Премии Акутагавы в Японии Кудан Риэ призналась уже после вручения высокой награды, что применяла ChatGPT.&nbsp;</p><p>Издательства, жюри конкурсов, толстые журналы (и, кстати, до недавнего времени Хабр) захлебываются от откровенного нейрослопа. Самиздат при этом, правда, расцветает. Промт-инженеры первого ранга генерируют десятки и сотни книг в год. Тот же Amazon буквально завален подобной продукцией. Кто-то даже умудряется на этом зарабатывать.&nbsp;</p><p>При этом сами издательства вовсю используют ИИ при переводе, редактуре, корректуре, написании рецензий, обзоров, создании обложек, иллюстраций, макетов и т.д. Бывают довольно жесткие кейсы, когда автор честно написал всю книгу сам, а возвращают ему рукопись, принятую к печати, уже с нашими любимыми артефактами. И даже самый примитивный ИИ-чекер определяет его текст как сгенерированный. И без вины виноватый получает по шее от хейтеров. Хотя это корректор или младший редактор всего лишь решил сэкономить время. Сэкономили, ага.</p> <a href=\"https://habr.com/ru/articles/1108040/?utm_campaign=1108040&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Справочник по параметрам llama.cpp (llama cli, completion, server)",
+      "url": "https://habr.com/ru/articles/1107998/?utm_campaign=1107998&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-15T12:20:33",
+      "description": "<img src=\"https://habrastorage.org/extt/8b/21/60/8b2160f00f3cda3489e2556e248fcab4.jpg\" /><p>Справочник по основным командам и параметрам <strong>llama.cpp</strong>. Затрагиваются основные утилиты для инференса: <strong>llama-cli</strong>, <strong>llama-completion</strong>, <strong>llama-server</strong>. Здесь будут представлены все команды и параметры которые можно получить, например, вызовом: “<strong>llama-cli --help</strong>” или “<strong>llama-server --help</strong>”, в том же порядке. Я просто взял и прошелся по всем аргументам и попытался составить короткие, но надеюсь, понятные комментарии к каждому из них.</p><p>Далеко не все возможности <strong>llama.cpp</strong> я использую в работе, о многих имею слабое (возможно среднее) представление, поэтому большую часть параметров пришлось “долбить” с ИИ. Но это не было простое копи-паст ответов <strong>LLM</strong>. Я пытался понять работу каждого параметра - как он устроен, на что влияет, откуда растут корни и тд, и только после того как более-менее (скорее более) становилось понятно, составлял короткие комментарии своими словами, как понял сам. Также приходилось смотреть исходники, чтобы понять принцип работы некоторых особо непонятных параметров.</p> <a href=\"https://habr.com/ru/articles/1107998/?utm_campaign=1107998&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее &rarr;</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Слезы ментейнера или awesome-ai-security-tools после ёPRSTCON",
+      "url": "https://habr.com/ru/articles/1108034/?utm_campaign=1108034&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-15T12:09:15",
+      "description": "<img src=\"https://habrastorage.org/extt/2e/ac/32/2eac325004308fd315174d8bc7846411.jpg\" /><p><strong><a href=\"https://github.com/scadastrangelove/\" rel=\"noopener nofollow\">Сергей Гордейчик</a></strong></p><p>В мае на ёPRSTCON мы договорились собрать инструменты кибербезопасности на базе ИИ и средства защиты самих моделей и агентов. Неожиданно идея “стрельнула”, в репозиторий пришёл 231 запрос на изменение (PR) от 209 авторов. Пришлось завести список кандидатов, разбираться, какая часть каждого продукта действительно открыта, и отвечать на предложения запустить чужие проверки в нашем GitHub.</p><p>За полгода поддержки <a href=\"https://github.com/scadastrangelove/awesome-ai-security-tools\" rel=\"noopener nofollow\">awesome-ai-security-tools</a> накопились мейнтейнерские истории и данные о том, какие инструменты появляются и растут. Спешу поделиться.</p> <a href=\"https://habr.com/ru/articles/1108034/?utm_campaign=1108034&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI",
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Ускоряем AI модель на процессоре Qwen3.8-Flash-Next Gyro",
+      "url": "https://habr.com/ru/articles/1108016/?utm_campaign=1108016&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-15T10:57:30",
+      "description": "<img src=\"https://habrastorage.org/extt/eb/b2/7c/ebb27c19318f32ad786ca0e7a0941174.png\" /><p>Существует много различных проектов и вариантов по ускорению генерации AI. Но в большинстве случаев они используют тюнинг модели, а так же использование внешней видео карты. Но можно ли ускорить генерацию модели, если у нас есть только процессор и ОЗУ?</p><p>Для тестирования использовалась модель <a href=\"https://huggingface.co/agentionai/Qwen3.8-Flash-Next-Gyro-GGUF\" rel=\"noopener nofollow\">Qwen3.8-Flash-Next Gyro GGUF</a></p><p>В данной оптимизации помог Opus, который несколько суток гонял тесты на моём железе и пытался оптимизировать код llama. К сожалению мою учётную запись заблокировали, и после верификации и апеляции, окончательно. Возможно ли такой же тюнинг и отладка с другими моделями AI?</p> <a href=\"https://habr.com/ru/articles/1108016/?utm_campaign=1108016&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Рынок этики живых и электронных систем",
+      "url": "https://habr.com/ru/companies/ru_mts/articles/1107048/?utm_campaign=1107048&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-15T10:30:04",
+      "description": "<img src=\"https://habrastorage.org/extt/45/67/6c/45676c1d8abbc32f419a967d65b0d89e.jpg\" /><p>В 2018 году Amazon и Google с разницей в две недели научили своих голосовых помощников — Alexa и Google Assistant — благодарить детей за «пожалуйста». Поводом стали жалобы родителей, чьи дети сначала привыкли командовать колонкой без вежливых слов, а потом переносили этот тон на людей. Тогда речь шла всего лишь о детской вежливости и колонке, которая может ставить таймер и рассказывать сказки. Сегодня модели пишут код, ведут переписку и ночами разговаривают с людьми, и вопрос о том, какую этику в них заложить и кто за нее и почему расплачивается, стал насущным вопросом рынка.</p><p>Этику применительно к ИИ определяют три ключевых вопроса. Первый — как должны поступать люди, которые создают модели и пользуются ими. Второй — каким правилам должна следовать сама модель, это называют машинной этикой. Третий — как обращаться с моделью, если предположить, что у нее может быть что-то вроде внутреннего мира.&nbsp;</p><p>Для второго вопроса есть удобная шкала. Философ <a href=\"https://en.wikipedia.org/wiki/James_Moor\">Джеймс Мур</a>, один из основателей компьютерной этики, еще в 2006 году выделил четыре ступени сложности: машина, чьи действия имеют последствия для людей; машина со встроенными правилами и запретами; машина, которая сама рассуждает о добре и зле; полный этический агент с сознанием и свободой воли. Колонка с «волшебным» словом стоит на второй ступени, потому что правило в нее встроили, а рассуждать о нем она не умеет. Сегодня компании в спорах определяют свои модели на разных ступенях, создают каждая свой этический подход и предлагают это в итоге на выбор покупателю.</p> <a href=\"https://habr.com/ru/articles/1107048/?utm_campaign=1107048&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Cloudflare открыла исходный код Kitesurf — браузерного движка для AI‑агентов",
+      "url": "https://habr.com/ru/articles/1107996/?utm_campaign=1107996&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-15T09:23:52",
+      "description": "<img src=\"https://habrastorage.org/extt/3f/47/b7/3f47b7dc870d55355f6c360c84d44d9b.jpg\" /><p>Cloudflare <a href=\"https://developers.cloudflare.com/changelog/post/2026-11-12-kitesurf-open-source/\" rel=\"noopener nofollow\">открыла исходный код</a> экспериментального браузерного движка Kitesurf для&nbsp;AI‑агентов. Теперь разработчики могут модифицировать код, запускать движок локально и использовать его в&nbsp;собственных облачных системах. Проект <a href=\"https://habr.com/ru/articles/1068126/\" rel=\"noopener nofollow\">представили</a> в&nbsp;августе 2026&nbsp;года.</p> <a href=\"https://habr.com/ru/articles/1107996/?utm_campaign=1107996&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Почему с ИИ мы всё ещё пишем плохой софт",
+      "url": "https://habr.com/ru/articles/1107946/?utm_campaign=1107946&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-14T22:42:26",
+      "description": "<img src=\"https://habrastorage.org/extt/53/4d/b9/534db927bd9c8e1d5cb231d3ef3ed06c.png\" /><p>ИИ помогает искать баги и делать рефакторинг. Но к пятнице снова нужна новая фича, а разбор старого кода откладывают. После стрима про качество кода я решил разобраться, почему мы так используем болванчика. В расследовании главное не выйти на самого себя — с этим у нас, кажется, есть проблемы.</p> <a href=\"https://habr.com/ru/articles/1107946/?utm_campaign=1107946&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Семь способов обмануть себя метриками: как я измерял точность ИИ-проверки ЕГЭ",
+      "url": "https://habr.com/ru/articles/1107926/?utm_campaign=1107926&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-14T19:42:09",
+      "description": "<img src=\"https://habrastorage.org/extt/2d/65/2a/2d652a1f35811e6c544d66cd52323133.jpg\" /><p>В <a href=\"https://habr.com/ru/articles/1104376/\" rel=\"noopener nofollow\">первой части</a> я рассказал, как устроена проверка второй части ЕГЭ по обществознанию в моём боте: модель размечает ответ, код считает балл. Закончил обещанием рассказать, насколько точно это работает и сколько раз я обманывал себя метриками. Насчитал семь случаев самообмана.</p> <a href=\"https://habr.com/ru/articles/1107926/?utm_campaign=1107926&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Хотел программу для диктовки, а вышли движок распознавания речи, UI-библиотека и упаковщик на Rust",
+      "url": "https://habr.com/ru/articles/1107896/?utm_campaign=1107896&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-14T16:10:52",
+      "description": "<img src=\"https://habrastorage.org/extt/9a/24/32/9a2432d6ea1f24c1895b9821c9c9dc89.png\" /><p>Обновил ноутбук. С новым компьютером хочется настроить всё с чистого листа, поэтому решил заменить привычные программы на лёгкие и нативные. Для редактора, браузера и прочего замены нашлись, а вот подходящей программы для диктовки, через которую работаю с агентами, не нашлось.</p><p>Раз теперь мы пишем код с ИИ-помощниками, решил попробовать сделать такую программу под себя. Но меня затянуло, и вместо одной маленькой программы родились свой движок распознавания речи на чистом Rust через wgpu, библиотека для кросс-платформенного интерфейса и упаковщик под macOS, Windows и Linux.</p><p>Рассказываю по неделям, как это было и что узнал по дороге.</p> <a href=\"https://habr.com/ru/articles/1107896/?utm_campaign=1107896&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ИИ обернулся против Хуанга: экс-глава Nvidia стал главным героем ИИ-мемов",
+      "url": "https://3dnews.ru/1151325",
+      "source": "3DNews",
+      "published": "2026-11-15T10:07:00",
+      "description": "Дженсен Хуанг (Jensen Huang), один из главных популяризаторов искусственного интеллекта, на этой неделе оказался главным героем большого количества мемов, созданных с помощью разных ИИ-инструментов. Интернет-пользователи активно используют скандальную неделю в жизни теперь уже бывшего гендиректора Nvidia, создавая с помощью нейросетей множество мемов. Источник изображения: Nvidia",
+      "tags": [
+        "tech",
+        "hardware"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Отказ Nvidia от кругового финансирования ИИ по схеме Хуанга не вернёт дешёвые видеокарты в 2027 году",
+      "url": "https://3dnews.ru/1151308",
+      "source": "3DNews",
+      "published": "2026-11-14T15:20:00",
+      "description": "Финансовая поддержка ИИ-стартапов со стороны Nvidia стала поводом обвинить компанию в искусственном создании дефицита игровых видеокарт. Однако эти сделки касаются прежде всего серверных ускорителей, а прямая связь с нехваткой GeForce не доказана. Даже если Nvidia прекратит финансировать покупателей своего ИИ-оборудования, дополнительных видеокарт в магазинах от этого в ближайшей перспективе не появится. Источник изображений: nvidia.com",
+      "tags": [
+        "tech",
+        "hardware"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "OpenAI распустила команду робототехники — управлять роботами будет универсальный GPT",
+      "url": "https://3dnews.ru/1151306",
+      "source": "3DNews",
+      "published": "2026-11-14T13:48:00",
+      "description": "OpenAI расформировала свое отдельное подразделение по робототехнике, объяснив этот шаг изменением концепции. По словам представителя OpenAI, компания не отказывается от цели создания роботов широкого назначения, однако не видит необходимости в разработке узкоспециализированных ИИ-моделей, предназначенных только для роботов, поскольку универсальные модели вполне могут выполнять эти функции. Источник изображения: Steve A Johnson/unsplash.com",
+      "tags": [
+        "tech",
+        "hardware"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Скандал в Nvidia ударил по китайским ИИ-компаниям — рынок испугался, что США перекроют им кислород",
+      "url": "https://3dnews.ru/1151307",
+      "source": "3DNews",
+      "published": "2026-11-14T14:03:00",
+      "description": "Акции китайских разработчиков искусственного интеллекта упали на фоне кризиса в руководстве Nvidia: инвесторы опасаются, что Вашингтон ограничит доступ китайских компаний к её ускорителям в зарубежных центрах обработки данных. При этом ожидания новых ограничений ранее поддержали акции местных производителей чипов, которые могут выиграть от стремления Китая снизить зависимость от американского оборудования. Источник изображения: BoliviaInteligente / unsplash.com",
+      "tags": [
+        "tech",
+        "hardware"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Искусственный интеллект заменит эти профессии: кого уволят первыми, мнение эксперта - Финансы Mail",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMmZ6bWVwVGlpVkQ2ZFZMOVB3anNYemw5YmlsOTJlQ3NGMl9NME82RUVVSTJMelczNlMzdlFVRlJfYXc2TmdCbFVZQ2VYVDlqRUlNY05SOU9rVkVUclhQRDlPb3Fvek1yRmNGMHRialVQSUtmR1AxZUNXMFdmRXFKUy02WS1nWXJVR3ZJMldiS28zaHpxQmRBSTlxa095Zw?oc=5",
+      "source": "Google News",
+      "published": "2026-11-15T07:55:39",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNMmZ6bWVwVGlpVkQ2ZFZMOVB3anNYemw5YmlsOTJlQ3NGMl9NME82RUVVSTJMelczNlMzdlFVRlJfYXc2TmdCbFVZQ2VYVDlqRUlNY05SOU9rVkVUclhQRDlPb3Fvek1yRmNGMHRialVQSUtmR1AxZUNXMFdmRXFKUy02WS1nWXJVR3ZJMldiS28zaHpxQmRBSTlxa095Zw?oc=5\" target=\"_blank\">Искусственный интеллект заменит эти профессии: кого уволят первыми, мнение эксперта</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Финансы Mail</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "искусственный интеллект"
+      ]
+    },
+    {
+      "title": "Nvidia: ИИ-бум начинает напоминать финансовую пирамиду? - Финам",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX2dfU0tvRVBFN2QwelA5bHFGRk9VekFZWEM3X1FRWU5rYTBlMVhjY1RXMlM2SzYtbVVyOG5KclRGaTZucElZekhOOFRaMmo4WVdZbGdTOFdYVnRncFJtRnU3aVZOWThwQWtGTjZvU2l5Z0pyb095ZDFPTUJKekN0VkdweWxpMTZhcW5MdUZJQWZoNko2dUVhXzg4NS1hc3VwRHRjODVOTEtPZkFC?oc=5",
+      "source": "Google News",
+      "published": "2026-11-15T10:00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOX2dfU0tvRVBFN2QwelA5bHFGRk9VekFZWEM3X1FRWU5rYTBlMVhjY1RXMlM2SzYtbVVyOG5KclRGaTZucElZekhOOFRaMmo4WVdZbGdTOFdYVnRncFJtRnU3aVZOWThwQWtGTjZvU2l5Z0pyb095ZDFPTUJKekN0VkdweWxpMTZhcW5MdUZJQWZoNko2dUVhXzg4NS1hc3VwRHRjODVOTEtPZkFC?oc=5\" target=\"_blank\">Nvidia: ИИ-бум начинает напоминать финансовую пирамиду?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Финам</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Кризис AI и назначение Миллера. Последние два года президентства Трампа - Радио Свобода",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTXdfMWFVb1RjX2lQeWJlcFZCLTVSZGZDNFBKTHhlUl9vZ3RRbzY0RWRHVzE2Q284SkFKdmJfRVA3TWFNblJiYm9CdklVbjdkdDBaeDBoX3FoYlFSeVJfMmZpQ1RBVHpNRk4tcEhLMUdoMjkyYXV2RGFWQ3RJTDA3SW5MYURxNzEtNVJUMTlMNUVQY2JvZFVJSnZpSEdqem5wV1h4S2RmWmVjTFBXZ0d6VdIBswFBVV95cUxQN2l1eWIwbFRwS3IyVkJZYXMzTU9rVHFvSFRJRW0wMDdzdGFLZ1o4a3RVZ2VzeVpRRkxHaC1oTG1JcmlaVWVveGstcWFQQVZCZGNTX0N0M2J6cS12U0tSd0FlRFFqQkUwUndLSVN6Q3RNcktOZ0dQdzZ1UGJraWwxRDNLZ1FDMTBuQ1VYZTJ3eGczdUlmODB3UWMtXzNzUEhMTHpfTFIzcGNCV09pYUJKNW05NA?oc=5",
+      "source": "Google News",
+      "published": "2026-11-14T15:14:17",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOTXdfMWFVb1RjX2lQeWJlcFZCLTVSZGZDNFBKTHhlUl9vZ3RRbzY0RWRHVzE2Q284SkFKdmJfRVA3TWFNblJiYm9CdklVbjdkdDBaeDBoX3FoYlFSeVJfMmZpQ1RBVHpNRk4tcEhLMUdoMjkyYXV2RGFWQ3RJTDA3SW5MYURxNzEtNVJUMTlMNUVQY2JvZFVJSnZpSEdqem5wV1h4S2RmWmVjTFBXZ0d6VdIBswFBVV95cUxQN2l1eWIwbFRwS3IyVkJZYXMzTU9rVHFvSFRJRW0wMDdzdGFLZ1o4a3RVZ2VzeVpRRkxHaC1oTG1JcmlaVWVveGstcWFQQVZCZGNTX0N0M2J6cS12U0tSd0FlRFFqQkUwUndLSVN6Q3RNcktOZ0dQdzZ1UGJraWwxRDNLZ1FDMTBuQ1VYZTJ3eGczdUlmODB3UWMtXzNzUEhMTHpfTFIzcGNCV09pYUJKNW05NA?oc=5\" target=\"_blank\">Кризис AI и назначение Миллера. Последние два года президентства Трампа</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Радио Свобода</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Задача тысячелетия: выживет ли математика? . ИИ решает проблемы, над которыми математики бились десятилетиями. Что будет с наукой? - Новая газета Европа",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcVBZcVg0V1JkV3pnSVhSdzJjRnlxVEJ0LU9Jd2NacnE4WFBoX1k4dDRFcWlncVBHUDBxdVhqMmxoZVNHbElQckhveFBZVU9NLVBUQ2VYbkxfSm94NUpyeXNka2lLUXdmSGVEVFhQNkRwb3VlUDRHc0FGZk9UZGNJQnVCZzYtTktlTmRnSFlCTzQ5RnPSAZgBQVVfeXFMTUF0eUlvRGxIOUlKR3BzdVZLSVY4aG1rU1RIek5ralJ4STdkZF9XRXBERi1mNTM5TGFsZGpHbjNJSFlUWDVYb3p2QmdSNkdwODRoY3RnWkJUN0M0LU9lOVM2UnViQWZuN2tfbUZid0M4NHc2eENnVXIwakVQSWRhcDZkV2FnRzJnampXbmU0ZTRfcVh0LW41ZEQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-15T06:37:09",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNcVBZcVg0V1JkV3pnSVhSdzJjRnlxVEJ0LU9Jd2NacnE4WFBoX1k4dDRFcWlncVBHUDBxdVhqMmxoZVNHbElQckhveFBZVU9NLVBUQ2VYbkxfSm94NUpyeXNka2lLUXdmSGVEVFhQNkRwb3VlUDRHc0FGZk9UZGNJQnVCZzYtTktlTmRnSFlCTzQ5RnPSAZgBQVVfeXFMTUF0eUlvRGxIOUlKR3BzdVZLSVY4aG1rU1RIek5ralJ4STdkZF9XRXBERi1mNTM5TGFsZGpHbjNJSFlUWDVYb3p2QmdSNkdwODRoY3RnWkJUN0M0LU9lOVM2UnViQWZuN2tfbUZid0M4NHc2eENnVXIwakVQSWRhcDZkV2FnRzJnampXbmU0ZTRfcVh0LW41ZEQ?oc=5\" target=\"_blank\">Задача тысячелетия: выживет ли математика? . ИИ решает проблемы, над которыми математики бились десятилетиями. Что будет с наукой?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Новая газета Европа</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Локальный ИИ получил экономию видеопамяти и оптимизации для GeForce, Radeon и Arc с llama.cpp 1.0.0 - Клуб DNS",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUkNMMlZlcjZWcmNaWWRIMG11elJSejJiUXpaaUVCR2l5UFlkM0p3bDVVeWhIdTI3NHZsV0cyYWJVdWM0SEdyUk5ycmdqYVNGem5XS1ozVjcybUUwMkhpWkVoZ2NQWVN0S1FndjZzZExyOHlLU2N6aTg1NURTUGVXNkppY1RKOUdNT0lPVVRCRVI2UzlNWXJJTEdPWnRRTEZqYzRPMzZfcWZGOGhK0gGyAUFVX3lxTE5sMWh4SThQUWJyb0RVUU52T2lVbHcwdWN6TnFRc0VHVWt2MlBHMHdHWkZkWHl1bExaeTY4S1NuVGtEVEpWQlVaSm9vaXFzdmZtUXFocW5jVGRjR3RKT0lGaXdfMWRxSDNFS2hhVG9qSUp6WFM5Wk4yVUotWHBOS3dBd1JSWFJObHFkRjQxRVdBaU9NYndSNEZqNDdqaGJHdU1UMW5URDZMcFNHZ3ZDZUppZ3c?oc=5",
+      "source": "Google News",
+      "published": "2026-11-14T22:37:03",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNUkNMMlZlcjZWcmNaWWRIMG11elJSejJiUXpaaUVCR2l5UFlkM0p3bDVVeWhIdTI3NHZsV0cyYWJVdWM0SEdyUk5ycmdqYVNGem5XS1ozVjcybUUwMkhpWkVoZ2NQWVN0S1FndjZzZExyOHlLU2N6aTg1NURTUGVXNkppY1RKOUdNT0lPVVRCRVI2UzlNWXJJTEdPWnRRTEZqYzRPMzZfcWZGOGhK0gGyAUFVX3lxTE5sMWh4SThQUWJyb0RVUU52T2lVbHcwdWN6TnFRc0VHVWt2MlBHMHdHWkZkWHl1bExaeTY4S1NuVGtEVEpWQlVaSm9vaXFzdmZtUXFocW5jVGRjR3RKT0lGaXdfMWRxSDNFS2hhVG9qSUp6WFM5Wk4yVUotWHBOS3dBd1JSWFJObHFkRjQxRVdBaU9NYndSNEZqNDdqaGJHdU1UMW5URDZMcFNHZ3ZDZUppZ3c?oc=5\" target=\"_blank\">Локальный ИИ получил экономию видеопамяти и оптимизации для GeForce, Radeon и Arc с llama.cpp 1.0.0</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Клуб DNS</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ИИ-компании привлекли $687 млрд в долг: Goldman Sachs предупредил о рисках для технологического рынка - Inc. Russia",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQXpIQVlsSkpNY3dfLUMwZnlxMVNLOTFoNjRKVVk0VUNORnRJSThmSVc4V0pVa3lBc084WW9RTjZON3ZnTWlMMFNTQkI0NVlSWVFHTDZJTVNGbnBrTVI5dHAyN25aMkpteXpIcG1kTkxhNTlsWC1CY0I2aDA5b0dnbXFtSC12RGJRcmVjUkNnUUN6SGZMX3VIem5mSHpta1BCM25BNVFtNmRYNGdqRFlWZE40ZDFTY09WRnR0VWFPd0xZZjlXa2l3?oc=5",
+      "source": "Google News",
+      "published": "2026-11-15T09:00:08",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNQXpIQVlsSkpNY3dfLUMwZnlxMVNLOTFoNjRKVVk0VUNORnRJSThmSVc4V0pVa3lBc084WW9RTjZON3ZnTWlMMFNTQkI0NVlSWVFHTDZJTVNGbnBrTVI5dHAyN25aMkpteXpIcG1kTkxhNTlsWC1CY0I2aDA5b0dnbXFtSC12RGJRcmVjUkNnUUN6SGZMX3VIem5mSHpta1BCM25BNVFtNmRYNGdqRFlWZE40ZDFTY09WRnR0VWFPd0xZZjlXa2l3?oc=5\" target=\"_blank\">ИИ-компании привлекли $687 млрд в долг: Goldman Sachs предупредил о рисках для технологического рынка</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inc. Russia</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Слезы ментейнера или awesome-ai-security-tools после ёPRSTCON - Хабр",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFX2lhQWFkTTIzSWZlUTdGRllrcFFVdGlrczNwOGFuaGJQd2ptZEt4NkdrRXNwSW12dFdabUxITGNYczB0M2sta1JEUGVvZ9IBWEFVX3lxTE53R1FFNmdCMG1wNExRejFaM3Y5aGM0UVVyNHhlX2VDSmpabVVXTWxBOHZTWC1OazQ4dGNkamlubExQZzJId1dRYWxqdnRteTJVRG1ubnE5bEo?oc=5",
+      "source": "Google News",
+      "published": "2026-11-15T12:09:15",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFX2lhQWFkTTIzSWZlUTdGRllrcFFVdGlrczNwOGFuaGJQd2ptZEt4NkdrRXNwSW12dFdabUxITGNYczB0M2sta1JEUGVvZ9IBWEFVX3lxTE53R1FFNmdCMG1wNExRejFaM3Y5aGM0UVVyNHhlX2VDSmpabVVXTWxBOHZTWC1OazQ4dGNkamlubExQZzJId1dRYWxqdnRteTJVRG1ubnE5bEo?oc=5\" target=\"_blank\">Слезы ментейнера или awesome-ai-security-tools после ёPRSTCON</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Хабр</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Отказ Nvidia от кругового финансирования ИИ по схеме Хуанга не вернёт дешёвые видеокарты в 2027 году - 3DNews",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcGlRdGQwc2hNYmVJT3g5alNDWTJzZWN0c2J0V0ZqbzdVVEthNDlQTzktWW9pTTllTnBkRk5LOEVrbzVISjNiQnRNMjA1R2RSVGNxZk9HbktBS19oZE9lbGpuZzNJRHM3SlJpNkhBaFZxQ2xSRjhYeXhuXzdhNDAya01LUXg4NktPSEgwTXF2QWVJanlPeUR6UVFWZzdva0YzX0tRcVVXbmhpN3VjVmJIY2hnX1BiWXdyOGwyZDhFcDQ4ZEJJYjgxZDR3?oc=5",
+      "source": "Google News",
+      "published": "2026-11-14T15:20:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNcGlRdGQwc2hNYmVJT3g5alNDWTJzZWN0c2J0V0ZqbzdVVEthNDlQTzktWW9pTTllTnBkRk5LOEVrbzVISjNiQnRNMjA1R2RSVGNxZk9HbktBS19oZE9lbGpuZzNJRHM3SlJpNkhBaFZxQ2xSRjhYeXhuXzdhNDAya01LUXg4NktPSEgwTXF2QWVJanlPeUR6UVFWZzdva0YzX0tRcVVXbmhpN3VjVmJIY2hnX1BiWXdyOGwyZDhFcDQ4ZEJJYjgxZDR3?oc=5\" target=\"_blank\">Отказ Nvidia от кругового финансирования ИИ по схеме Хуанга не вернёт дешёвые видеокарты в 2027 году</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">3DNews</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Писательница из ЮАР рассказала, как зарабатывает на ИИ-романах - amur.info",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaVFkbmF1X3ZxbVFBYjM1SXZRX0VfakZLWEhDNEJGV3ZkeElyZVJRa1R1eG8tTnZ4d2VYbWg1VUFPVVkwdVRDYUNhWVZ1dEk4MmYtVHFoQWJOd2JqSEZmN05sRlJMUWMycFM2bDV6M2UxZzlmWThnTnNYUUFkX0FYallXMnM1d2xrTC00ZXZHX0RLTWtZeDZN?oc=5",
+      "source": "Google News",
+      "published": "2026-11-15T06:30:12",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPaVFkbmF1X3ZxbVFBYjM1SXZRX0VfakZLWEhDNEJGV3ZkeElyZVJRa1R1eG8tTnZ4d2VYbWg1VUFPVVkwdVRDYUNhWVZ1dEk4MmYtVHFoQWJOd2JqSEZmN05sRlJMUWMycFM2bDV6M2UxZzlmWThnTnNYUUFkX0FYallXMnM1d2xrTC00ZXZHX0RLTWtZeDZN?oc=5\" target=\"_blank\">Писательница из ЮАР рассказала, как зарабатывает на ИИ-романах</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">amur.info</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Минпросвещения и Сбер подписали соглашение о создании модели ИИ для образования - ПЛН",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xZHBLMjA1ZzlFZ2c4cjJmcVBFOS1IODdiMmZ4bjRBbXh5LURZRE9hVnZLOTBDVmx0aTlLYkxzZmtWUlkzZnM1a3VLY210dWhaZXc?oc=5",
+      "source": "Google News",
+      "published": "2026-11-15T12:14:38",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xZHBLMjA1ZzlFZ2c4cjJmcVBFOS1IODdiMmZ4bjRBbXh5LURZRE9hVnZLOTBDVmx0aTlLYkxzZmtWUlkzZnM1a3VLY210dWhaZXc?oc=5\" target=\"_blank\">Минпросвещения и Сбер подписали соглашение о создании модели ИИ для образования</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ПЛН</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "«ИИ – инструмент, а не замена мышления»: педагоги об апробации нового школьного курса - Учительская газета",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSHhrQWRrWWFReXZGajR4TWlkMGxYcjNEWHlrR3U1S0RJYzFydmlVWVlwc1BydjhOdGtIN0k1Z3k1aXNWUEJybmQwWHZSckJENk1pdkxkNVNyXzk5QXJsRHM5VkpUV1lOMjhYTW1GQTNaY2JpeGE3cUJCYUtoUjlpNTdjNXVsa1RBbnpPT3ByU0MzWlV1RlZwSkNZUHJEdw?oc=5",
+      "source": "Google News",
+      "published": "2026-11-15T08:22:33",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNSHhrQWRrWWFReXZGajR4TWlkMGxYcjNEWHlrR3U1S0RJYzFydmlVWVlwc1BydjhOdGtIN0k1Z3k1aXNWUEJybmQwWHZSckJENk1pdkxkNVNyXzk5QXJsRHM5VkpUV1lOMjhYTW1GQTNaY2JpeGE3cUJCYUtoUjlpNTdjNXVsa1RBbnpPT3ByU0MzWlV1RlZwSkNZUHJEdw?oc=5\" target=\"_blank\">«ИИ – инструмент, а не замена мышления»: педагоги об апробации нового школьного курса</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Учительская газета</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Школьники Хабаровского края будут изучать ИИ на новых курсах - Губерния Онлайн",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPclk4TXJIdXdVTXp1aDNQTmJ0SW15eVAzU3IybTRKX3o1X0huRmVEMExNVGhESFIyaXRfU1ljaGhyVGRXaHhnTktFaXBmZ3E5WDAtaGtaVm5Xek5wdEJZSjF3MXRnWWdCU2s1dnhpbHhxb21LSFlqVjN4OWxrZmtVdmF2US1QRm83TXlF?oc=5",
+      "source": "Google News",
+      "published": "2026-11-15T09:11:15",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPclk4TXJIdXdVTXp1aDNQTmJ0SW15eVAzU3IybTRKX3o1X0huRmVEMExNVGhESFIyaXRfU1ljaGhyVGRXaHhnTktFaXBmZ3E5WDAtaGtaVm5Xek5wdEJZSjF3MXRnWWdCU2s1dnhpbHhxb21LSFlqVjN4OWxrZmtVdmF2US1QRm83TXlF?oc=5\" target=\"_blank\">Школьники Хабаровского края будут изучать ИИ на новых курсах</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Губерния Онлайн</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Минпросвещения и «Сбер» договорились о создании ИИ для образования - spbdnevnik.ru",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNamNNV3NIZERoTF81Q0lPNUNXZm5mMXoxTHljQWg4UnlCV3RXcHRBNnNxczRpdlJkbFlzeHpCM1B4cmhYNlVYLVZEREU0Mklhb2RRMm9KTWhpUkRDX25DVG8yNE14S3dXQTVUcGc1QzFxZE9hZDJoLTNESmppRll0TWk3czJBZ0dyZV83MTZMc3FubEdLN005c29UYi1LdHBYSTlMaWczSnp3QQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-15T12:51:30",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNamNNV3NIZERoTF81Q0lPNUNXZm5mMXoxTHljQWg4UnlCV3RXcHRBNnNxczRpdlJkbFlzeHpCM1B4cmhYNlVYLVZEREU0Mklhb2RRMm9KTWhpUkRDX25DVG8yNE14S3dXQTVUcGc1QzFxZE9hZDJoLTNESmppRll0TWk3czJBZ0dyZV83MTZMc3FubEdLN005c29UYi1LdHBYSTlMaWczSnp3QQ?oc=5\" target=\"_blank\">Минпросвещения и «Сбер» договорились о создании ИИ для образования</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">spbdnevnik.ru</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ИИ обернулся против Хуанга: экс-глава Nvidia стал главным героем ИИ-мемов - 3DNews",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdF8tM3JQZVpNZmQ5alRXaUNrZkV2TktSWjR1Y0dFZE9ONFh2a0VuVzVEakpEbVVEU25vZGRQVExweG80Z3Zock9WZGdJUTV4aWFnTW0tM1kwbHQxSUhIWlNHemppQl9hREoyaGc1bU83a29PbnlQOGhpZ2czNGlQRG56azBUWGRILUhvRVlBSDk3Y0M0bVNlVjVERmlvUdIBowFBVV95cUxNbUxXT292UlAzdkJtdHJYZFFhOF9RYVBxMG1BM2FTR1ZsYnV2dURFM2psLVMtakx6RGJCbUZYbkhObW1LVzZ2R2RCMC10RmJNMWtzRDNpUTFpQlhUQXhZb242U1RsNkRzUmpwSXhySkhmNEY5SVgtd1pyLVNCZ21MR2FVZkowb2ZoUE1BVFg2MW1menNBbmc3OV9tSVZwcTNEckVr?oc=5",
+      "source": "Google News",
+      "published": "2026-11-15T10:07:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOdF8tM3JQZVpNZmQ5alRXaUNrZkV2TktSWjR1Y0dFZE9ONFh2a0VuVzVEakpEbVVEU25vZGRQVExweG80Z3Zock9WZGdJUTV4aWFnTW0tM1kwbHQxSUhIWlNHemppQl9hREoyaGc1bU83a29PbnlQOGhpZ2czNGlQRG56azBUWGRILUhvRVlBSDk3Y0M0bVNlVjVERmlvUdIBowFBVV95cUxNbUxXT292UlAzdkJtdHJYZFFhOF9RYVBxMG1BM2FTR1ZsYnV2dURFM2psLVMtakx6RGJCbUZYbkhObW1LVzZ2R2RCMC10RmJNMWtzRDNpUTFpQlhUQXhZb242U1RsNkRzUmpwSXhySkhmNEY5SVgtd1pyLVNCZ21MR2FVZkowb2ZoUE1BVFg2MW1menNBbmc3OV9tSVZwcTNEckVr?oc=5\" target=\"_blank\">ИИ обернулся против Хуанга: экс-глава Nvidia стал главным героем ИИ-мемов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">3DNews</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    }
+  ],
+  "groups": {
+    "by_source": {
+      "ТАСС": 1,
+      "Habr_AI": 10,
+      "3DNews": 4,
+      "Google News": 14
+    },
+    "by_category": {
+      "general_news": 1,
+      "tech_news": 14,
+      "google_news": 14
+    },
+    "by_keyword": {
+      "ИИ": 24,
+      "AI": 5,
+      "искусственный интеллект": 1
+    }
+  }
+}
