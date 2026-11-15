@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-11-15_15-59",
-  "total_articles": 29,
+  "timestamp": "2026-11-15_21-52",
+  "total_articles": 28,
   "sources": {
     "ТАСС": 1,
-    "Habr_AI": 10,
-    "3DNews": 4,
-    "Google News": 14
+    "Habr_AI": 11,
+    "3DNews": 1,
+    "Google News": 15
   },
   "top_keywords": [
     [
@@ -14,7 +14,7 @@
     ],
     [
       "AI",
-      5
+      4
     ],
     [
       "искусственный интеллект",
@@ -23,64 +23,64 @@
   ],
   "recent_headlines": [
     {
+      "title": "Весь код, написанный ИИ, призвали сделать открытым - Журнал «Код»",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rbUgwVGdyZ3BrVE5rQ2xmNXpsVnFUbjk4a2VVdFlNZDJBT1NaQ0lRU3p6YUFsNWhadl9ZSEVYOWRtNHZmeWYwWU9TbHB6S0FmTzFaWkFPRUNZd3RVc01lZEU3dERJMUJmSzU2a20xd2U1UlRfTkMwd9IBfkFVX3lxTE95cUVBdjlhZk1lMFNMeWVpZlc3dUJfdi1VMDJPWnpjTFg3UGxFbEptWUFlWm5sVDkxWGw1Mk9RbW1sNnB3MF9BLVdXcjVQb1FadUkwcEtic2hpYTMyZ3dNVnBFYXNLN0xlYUJnNE9udTFqT3ZqOElqN2xkdFJvQQ?oc=5",
+      "published": "2026-11-15T17:44:47"
+    },
+    {
+      "title": "Массовая декомпиляция игр и ПО",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/globalsign/articles/1108102/?utm_campaign=1108102&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-15T17:32:06"
+    },
+    {
+      "title": "Михалков назвал ИИ дьявольским из-за рисков от малоуправляемости",
+      "source": "ТАСС",
+      "url": "https://tass.ru/obschestvo/28319479",
+      "published": "2026-11-15T16:41:13"
+    },
+    {
+      "title": "Минпросвещения и Сбербанк создадут ИИ-модель для школ - Первое сентября",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pVzFjSi1xV1NiMkRqc3VrME5TVldrY2F1N2ZfQmhUTzRWdHVranZ1UDB3dEVSRjlfLWFfRVdJTlB6ZENrV1JYWkUxYXNWOXM?oc=5",
+      "published": "2026-11-15T16:05:30"
+    },
+    {
+      "title": "Дмитрий Чернышенко: От учителей, преподавателей и администраторов будет зависеть, насколько быстро суверенная модель ИИ обретет необходимый опыт для обеспечения эффективности в образовании - Минпросвещения России",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQUnBsRHVOTjFXNHVkVVBTNXo4ZjNwVFFpMWd5MlN6SnRXT3VCUy1wWHF5emFoWG8yT09yVldCa2F0TENGSU8tLXN5UlhzcDFGdUZUbS1Rb255LWRYWUs5WHkwYWlxTUQ0M3B5Y254OWFBb3RRYm5JRFdrVGxFMDZYdUt2cWM5VEtqMUdHZTgtTTdrUEQwOVlkcE16NGN3eVJQeVdBU2s1UjNIR2pPcjNPYzFIbS1TcWpoWmJLR25mMjFPWDBpOEJXbjRKUzdNR1V0U2I3V2hWX1A1TFdrMTdIWGlfYm84cHlwMnlQd1ZqQk1kM0JqZ1VESFpNVFVJYi1MZWh2cGFSeWdtRTVSSlNKNXlDR3JsTE5KeFdBRFlqcFpraWNsMzlhWG5kcXluWU5IbjJyUXdUTTVGSVQxYzVfUzd5OA?oc=5",
+      "published": "2026-11-15T15:33:07"
+    },
+    {
+      "title": "Вайбкодинг для самых маленьких. Часть 1",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1107966/?utm_campaign=1107966&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-15T15:30:24"
+    },
+    {
+      "title": "Google выпустила бесплатную ИИ-модель Gemini 4 Hydrogen - rb.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUTRKMjB1b1A2alZLSmhGc2JCSENWYXJMN2NTcmdvVkl4WGtxbnJENldHYXVMYjFGMnJuVHJ0U1VhcjNJTktIN3RmMzVrbjVJZWJsR0V1U1otM0EzenM2VzN2aHRMVnBud21pWW5ZM3BwaEsyNnRNV01XUjJfUTE1MUZHQ0NXTnliV2NpN1R1NTVWOTFoUFVKQUxZNlkyT3B0LVdLTGZDVjFxZENON3dfVDVfckZoNW5YWUZ2YXdVT3BFcFUxcl9TNlNsRTlTMWs?oc=5",
+      "published": "2026-11-15T15:00:00"
+    },
+    {
+      "title": "Томич и москвич создают ИИ для поиска новых энергетических материалов - Tomsk.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcktmdEFiUE8xRXpNWkFoSV95UWt1UV9DLXlSNlFDWVFWM25YRDEtdjFKTVBiclhTSndzbVpEME5MSWRRTkF4NmdPY0tVRWxtdkl0aUpkYUpmdlZnLXJydWNBQ2h2eUg3RGc2VWZXU1RoeHBtb1o4YVB6bExubDdNT3R3akZCMmpwMWRvLWxiN0phS1RkaUVpNWQta2lkQVJVaGZ6ZXBvVFZhQQ?oc=5",
+      "published": "2026-11-15T13:00:00"
+    },
+    {
       "title": "Минпросвещения и «Сбер» договорились о создании ИИ для образования - spbdnevnik.ru",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNamNNV3NIZERoTF81Q0lPNUNXZm5mMXoxTHljQWg4UnlCV3RXcHRBNnNxczRpdlJkbFlzeHpCM1B4cmhYNlVYLVZEREU0Mklhb2RRMm9KTWhpUkRDX25DVG8yNE14S3dXQTVUcGc1QzFxZE9hZDJoLTNESmppRll0TWk3czJBZ0dyZV83MTZMc3FubEdLN005c29UYi1LdHBYSTlMaWczSnp3QQ?oc=5",
-      "published": "2026-11-15T12:51:30"
+      "published": "2026-11-15T12:52:35"
     },
     {
-      "title": "ИИ в команде: что мы ожидаем друг от друга",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1108042/?utm_campaign=1108042&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-15T12:27:54"
-    },
-    {
-      "title": "Холст, масло, ИИ",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/onlinepatent/articles/1108040/?utm_campaign=1108040&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-15T12:22:45"
-    },
-    {
-      "title": "Справочник по параметрам llama.cpp (llama cli, completion, server)",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1107998/?utm_campaign=1107998&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-15T12:20:33"
-    },
-    {
-      "title": "Минпросвещения и Сбер подписали соглашение о создании модели ИИ для образования - ПЛН",
+      "title": "Дмитрий Чернышенко: от учителей зависит, насколько быстро суверенная модель ИИ обретёт опыт для образования - Учительская газета",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xZHBLMjA1ZzlFZ2c4cjJmcVBFOS1IODdiMmZ4bjRBbXh5LURZRE9hVnZLOTBDVmx0aTlLYkxzZmtWUlkzZnM1a3VLY210dWhaZXc?oc=5",
-      "published": "2026-11-15T12:14:38"
-    },
-    {
-      "title": "Слезы ментейнера или awesome-ai-security-tools после ёPRSTCON",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1108034/?utm_campaign=1108034&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-15T12:09:15"
-    },
-    {
-      "title": "Слезы ментейнера или awesome-ai-security-tools после ёPRSTCON - Хабр",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFX2lhQWFkTTIzSWZlUTdGRllrcFFVdGlrczNwOGFuaGJQd2ptZEt4NkdrRXNwSW12dFdabUxITGNYczB0M2sta1JEUGVvZ9IBWEFVX3lxTE53R1FFNmdCMG1wNExRejFaM3Y5aGM0UVVyNHhlX2VDSmpabVVXTWxBOHZTWC1OazQ4dGNkamlubExQZzJId1dRYWxqdnRteTJVRG1ubnE5bEo?oc=5",
-      "published": "2026-11-15T12:09:15"
-    },
-    {
-      "title": "Минпросвещения и Сбер договорились о создании ИИ для образования",
-      "source": "ТАСС",
-      "url": "https://tass.ru/obschestvo/28319203",
-      "published": "2026-11-15T11:18:11"
-    },
-    {
-      "title": "Ускоряем AI модель на процессоре Qwen3.8-Flash-Next Gyro",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1108016/?utm_campaign=1108016&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-15T10:57:30"
-    },
-    {
-      "title": "Рынок этики живых и электронных систем",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/ru_mts/articles/1107048/?utm_campaign=1107048&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-15T10:30:04"
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZlhNZVFMY3plZXNCakZpeUNla0hhNEFHenlEQkVOS0htQ3BfbkFIaGtoMzdHX0RpdmVSVFFGRDZsRkE4cllyX0tPbnZZMXRzdFRBZDZZbVljazQ4cWlkUENvNHlYTFktcGV4dW5uYVdTQ2M0WV9SZFFyc1JYdDNaYW5zNk54bXNMV1VSdzRaXzNWZk1rejR2UWV1a3JwUURJb2l0VDV6R3RaUUk3VWpWWFpvdk5aWkFKM0lSaGlOWkJiQVE?oc=5",
+      "published": "2026-11-15T12:39:09"
     }
   ]
 }
