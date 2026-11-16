@@ -1,0 +1,110 @@
+{
+  "timestamp": "2026-11-16_17-01",
+  "total_articles": 70,
+  "sources": {
+    "Коммерсантъ": 1,
+    "Ведомости": 3,
+    "Digital_Russia": 2,
+    "Habr_AI": 26,
+    "CNews": 12,
+    "3DNews": 2,
+    "ИИ комплаенс и этика": 1,
+    "Google News": 23
+  },
+  "top_keywords": [
+    [
+      "ИИ",
+      49
+    ],
+    [
+      "AI",
+      17
+    ],
+    [
+      "Минцифры",
+      5
+    ],
+    [
+      "ESG",
+      5
+    ],
+    [
+      "регулирование",
+      2
+    ],
+    [
+      "искусственный интеллект",
+      2
+    ],
+    [
+      "цифровая трансформация",
+      1
+    ],
+    [
+      "aigovernance",
+      1
+    ]
+  ],
+  "recent_headlines": [
+    {
+      "title": "Доклад ЮНЕСКО и UCL: льстивый ИИ нельзя доверять разработке климатической политики - Euronews",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQUNLTzZCdHpPRFAxU1pHd0F6U3lvR2JXTXFhNl8yWHdjTGxuOTdFdEt4cnFmZHB5ZVdJRFZQQkVRRjVNb0JCdXJiT1IxUWY2ZXFDWWk5bkVXSjVkVFIwRUhRQzZKSldrelBMbTV0WTF3VU5qS0VQa1J0WGZTT2Juc3ZNbVVQOENia1k0Slp0YVJoeTRKcDVRVkZlRVo4UTFQbWZaNHcwbW9hVk95X0trYjJmZTVSZTQ3WnRSQzctVWw?oc=5",
+      "published": "2026-11-16T13:59:56"
+    },
+    {
+      "title": "Госинформсистему «ЭРА-ГЛОНАСС» интегрировали с «Госключом»",
+      "source": "CNews",
+      "url": "https://www.cnews.ru/news/line/2026-11-16_gosinformsistemu_era-glonass",
+      "published": "2026-11-16T13:53:00"
+    },
+    {
+      "title": "Выгода от внедрения ИИ в России может достичь 2,6 трлн рублей - New Retail",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZzlTcllkdFk5ZmpseG5RMHFNR24wQjRVMFB3ZzJ6Q3JrTHlyTW93ZmpSdHVKVm9tSTJvc3ZqVTRmN0FPdDkwX0VhQTdKbDJKbWROMDFWNXpuMkFpNHd3YXRKQ19RVk1UNlBnYk9mT1FSa3FmN3ZkYUpNMjVqZmloQy04MWdKZTNCdWpWUG9BTjhlMU9IX2FkZTZzc1VhM2F0V0RR?oc=5",
+      "published": "2026-11-16T13:40:46"
+    },
+    {
+      "title": "Как накормить ИИ-агента кодом и не разориться на контексте: мой опыт без векторной магии",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/alfastrah/articles/1108468/?utm_campaign=1108468&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-16T13:39:42"
+    },
+    {
+      "title": "ИИ-тренажер судебного процесса ChatCourt",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1108458/?utm_campaign=1108458&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-16T13:25:23"
+    },
+    {
+      "title": "Новые доказательства, старые вопросы: что ИИ творит с математикой - Высшая школа экономики",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02ejBUZGk5TjIxRlV0cU9TMU1McUc4YnJOMHdaVVJLYUZGcG9WY01WWV9tU2tZbjQtN0pja3NmQUd1bno3T2YyWFkzVTJYemhFbGJUcWl6ZUlKa0U2RUE?oc=5",
+      "published": "2026-11-16T13:09:21"
+    },
+    {
+      "title": "Пирамида ИИ, устроенная Nvidia. Весь сектор валится из-за измены Хуанга или…",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1108440/?utm_campaign=1108440&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-16T13:07:41"
+    },
+    {
+      "title": "Созданы эффективные мемристоры для нейроморфного ИИ - Научная Россия",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVWNYdlI2TURydEl3NFNGRXl6Q1Y5WmNnZm9Fb0VLalQtbjlhMjRjSUZKcGJFdDBRQk9Cd2VsZmE5dTFUZWFFZllaaW5YYzhPeDU1Qm9JdWZVdWowX0dPUmlnV3hJanpReFY0RTNvV1E3dlFGTVNIcy10VXZSWTJBdV93Sno0TVpaUTlVY0MyUUFkQQ?oc=5",
+      "published": "2026-11-16T13:04:56"
+    },
+    {
+      "title": "Локальная LLM для кодинга в 2026: Mellum, OpenCode и AI-агенты прямо в IDE",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/haulmont/articles/1108400/?utm_campaign=1108400&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-16T12:30:54"
+    },
+    {
+      "title": "Учёные МФТИ создали мемристоры для нейроморфного ИИ",
+      "source": "CNews",
+      "url": "https://www.cnews.ru/news/line/2026-11-16_uchenye_mfti_sozdali_memristory",
+      "published": "2026-11-16T12:29:00"
+    }
+  ]
+}

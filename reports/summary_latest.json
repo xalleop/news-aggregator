@@ -1,87 +1,110 @@
 {
-  "timestamp": "2026-11-16_02-07",
-  "total_articles": 30,
+  "timestamp": "2026-11-16_17-01",
+  "total_articles": 70,
   "sources": {
-    "ТАСС": 2,
     "Коммерсантъ": 1,
-    "Habr_AI": 10,
+    "Ведомости": 3,
+    "Digital_Russia": 2,
+    "Habr_AI": 26,
+    "CNews": 12,
     "3DNews": 2,
-    "Google News": 15
+    "ИИ комплаенс и этика": 1,
+    "Google News": 23
   },
   "top_keywords": [
     [
       "ИИ",
-      24
+      49
     ],
     [
       "AI",
-      6
+      17
+    ],
+    [
+      "Минцифры",
+      5
+    ],
+    [
+      "ESG",
+      5
+    ],
+    [
+      "регулирование",
+      2
     ],
     [
       "искусственный интеллект",
       2
+    ],
+    [
+      "цифровая трансформация",
+      1
+    ],
+    [
+      "aigovernance",
+      1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Внедренцы будущего // Гипотетическую выгоду бизнеса от ИИ оценили в 2,6 трлн руб. ежегодно",
-      "source": "Коммерсантъ",
-      "url": "https://www.kommersant.ru/doc/9109907",
-      "published": "2026-11-15T22:48:29"
+      "title": "Доклад ЮНЕСКО и UCL: льстивый ИИ нельзя доверять разработке климатической политики - Euronews",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQUNLTzZCdHpPRFAxU1pHd0F6U3lvR2JXTXFhNl8yWHdjTGxuOTdFdEt4cnFmZHB5ZVdJRFZQQkVRRjVNb0JCdXJiT1IxUWY2ZXFDWWk5bkVXSjVkVFIwRUhRQzZKSldrelBMbTV0WTF3VU5qS0VQa1J0WGZTT2Juc3ZNbVVQOENia1k0Slp0YVJoeTRKcDVRVkZlRVo4UTFQbWZaNHcwbW9hVk95X0trYjJmZTVSZTQ3WnRSQzctVWw?oc=5",
+      "published": "2026-11-16T13:59:56"
     },
     {
-      "title": "AI Resist List: список тех, кто бросает вызов ИИ",
+      "title": "Госинформсистему «ЭРА-ГЛОНАСС» интегрировали с «Госключом»",
+      "source": "CNews",
+      "url": "https://www.cnews.ru/news/line/2026-11-16_gosinformsistemu_era-glonass",
+      "published": "2026-11-16T13:53:00"
+    },
+    {
+      "title": "Выгода от внедрения ИИ в России может достичь 2,6 трлн рублей - New Retail",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZzlTcllkdFk5ZmpseG5RMHFNR24wQjRVMFB3ZzJ6Q3JrTHlyTW93ZmpSdHVKVm9tSTJvc3ZqVTRmN0FPdDkwX0VhQTdKbDJKbWROMDFWNXpuMkFpNHd3YXRKQ19RVk1UNlBnYk9mT1FSa3FmN3ZkYUpNMjVqZmloQy04MWdKZTNCdWpWUG9BTjhlMU9IX2FkZTZzc1VhM2F0V0RR?oc=5",
+      "published": "2026-11-16T13:40:46"
+    },
+    {
+      "title": "Как накормить ИИ-агента кодом и не разориться на контексте: мой опыт без векторной магии",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1108152/?utm_campaign=1108152&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-15T21:44:59"
+      "url": "https://habr.com/ru/companies/alfastrah/articles/1108468/?utm_campaign=1108468&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-16T13:39:42"
     },
     {
-      "title": "Эксперты обсудили ответственность за ошибки в рекомендациях ИИ-агентов - Ведомости",
+      "title": "ИИ-тренажер судебного процесса ChatCourt",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1108458/?utm_campaign=1108458&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-16T13:25:23"
+    },
+    {
+      "title": "Новые доказательства, старые вопросы: что ИИ творит с математикой - Высшая школа экономики",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONTRlV25ucUx0b1hvb3lfWG9UQmlvcnAxbkNqT1d2M0lnTWhDTkRaZ1pQa2F6aGRsQlVrc3hrTVFjbzgtVEQ1bE82Mi1Haml2VVo2U2o2V0FKb1BvTUpYajhxNDBOLWpoc2ktWUhsTk9GV3RFTnBISU5NNU84YzBwNk16cGNuU2JXTGNQcGRsMEFBc2tnaGloVkZ6X2x4Zw?oc=5",
-      "published": "2026-11-15T21:33:40"
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02ejBUZGk5TjIxRlV0cU9TMU1McUc4YnJOMHdaVVJLYUZGcG9WY01WWV9tU2tZbjQtN0pja3NmQUd1bno3T2YyWFkzVTJYemhFbGJUcWl6ZUlKa0U2RUE?oc=5",
+      "published": "2026-11-16T13:09:21"
     },
     {
-      "title": "Будущее стройки: искусственный интеллект и робот-сварщик на беспилотном самосвале - Агентство новостей «Строительный бизнес»",
+      "title": "Пирамида ИИ, устроенная Nvidia. Весь сектор валится из-за измены Хуанга или…",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1108440/?utm_campaign=1108440&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-16T13:07:41"
+    },
+    {
+      "title": "Созданы эффективные мемристоры для нейроморфного ИИ - Научная Россия",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKSm5SNm0yeG16cjNBQlZhVkVhSFRCWURjY2ZJdHAxY0kyb3VCcS1YbENGZExEajI3SHc1TC0wRXhxYlROdFN5b3pVakE3MDg?oc=5",
-      "published": "2026-11-15T21:04:57"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVWNYdlI2TURydEl3NFNGRXl6Q1Y5WmNnZm9Fb0VLalQtbjlhMjRjSUZKcGJFdDBRQk9Cd2VsZmE5dTFUZWFFZllaaW5YYzhPeDU1Qm9JdWZVdWowX0dPUmlnV3hJanpReFY0RTNvV1E3dlFGTVNIcy10VXZSWTJBdV93Sno0TVpaUTlVY0MyUUFkQQ?oc=5",
+      "published": "2026-11-16T13:04:56"
     },
     {
-      "title": "Эксперт Т1: путь к управляемому ИИ в корпорациях укладывается в пять этапов и 13 недель - IT Channel News",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BalpJUTdYdXU5QWdVYzZianV0TUxrbU5IMmxoVDRGV2Q4TFIyS0ZKcDNnYnUwSVA5YkJDd1FSNl9lLVlhTW4yV0VyeVRjeGxCMktxSHZUZUk2VDVGeHE3bW1RenlESGM?oc=5",
-      "published": "2026-11-15T21:00:00"
+      "title": "Локальная LLM для кодинга в 2026: Mellum, OpenCode и AI-агенты прямо в IDE",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/haulmont/articles/1108400/?utm_campaign=1108400&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-16T12:30:54"
     },
     {
-      "title": "Apple готовит конкурента M**a Ray-Ban: очки с Siri AI будут тоньше и получат наилучшее качество звука",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151332",
-      "published": "2026-11-15T20:26:00"
-    },
-    {
-      "title": "Минпросвещения и \"Сбер\" подписали соглашение о создании ИИ для системы общего образования",
-      "source": "ТАСС",
-      "url": "https://tass.ru/obschestvo/28319617",
-      "published": "2026-11-15T19:22:48"
-    },
-    {
-      "title": "Новгородский писатель рассказал, как ИИ смог написать второй том «Мёртвых душ» - Новости Великого Новгорода и Новгородской области",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbXN3cElHM0p1bmdnMHdndm5YbXMxbEVkaTFaQmJ5N0lFNThJNmhJNmdGS1dGOHl2clRtX3BsbnA5RnJmQ0xHV3N3REdiUW1JWlpheUF0TG4wYm9xeHBCa3NfQ05zWFRWSTBTMk1xVDZ4V0FiNzJ0XzdUTXlGSXJoRlpoWGp0RzFYU1h4Mm1yZ19IYnM0aWdjUVdrdW9VNFpuemloeTBKVC0ydw?oc=5",
-      "published": "2026-11-15T19:12:46"
-    },
-    {
-      "title": "FT: производители ИИ-инфраструктуры с июня потеряли около $4,2 трлн",
-      "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28319611",
-      "published": "2026-11-15T18:53:07"
-    },
-    {
-      "title": "Весь код, написанный ИИ, призвали сделать открытым - Журнал «Код»",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rbUgwVGdyZ3BrVE5rQ2xmNXpsVnFUbjk4a2VVdFlNZDJBT1NaQ0lRU3p6YUFsNWhadl9ZSEVYOWRtNHZmeWYwWU9TbHB6S0FmTzFaWkFPRUNZd3RVc01lZEU3dERJMUJmSzU2a20xd2U1UlRfTkMwd9IBfkFVX3lxTE95cUVBdjlhZk1lMFNMeWVpZlc3dUJfdi1VMDJPWnpjTFg3UGxFbEptWUFlWm5sVDkxWGw1Mk9RbW1sNnB3MF9BLVdXcjVQb1FadUkwcEtic2hpYTMyZ3dNVnBFYXNLN0xlYUJnNE9udTFqT3ZqOElqN2xkdFJvQQ?oc=5",
-      "published": "2026-11-15T17:44:47"
+      "title": "Учёные МФТИ создали мемристоры для нейроморфного ИИ",
+      "source": "CNews",
+      "url": "https://www.cnews.ru/news/line/2026-11-16_uchenye_mfti_sozdali_memristory",
+      "published": "2026-11-16T12:29:00"
     }
   ]
 }
