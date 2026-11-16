@@ -1,7 +1,19 @@
 {
-  "timestamp": "2026-11-16_17-01",
-  "total_articles": 70,
+  "timestamp": "2026-11-17_01-03",
+  "total_articles": 78,
   "articles": [
+    {
+      "title": "США огранили удаленный доступ к обеспечивающим работу ИИ чипам и серверам",
+      "url": "https://tass.ru/ekonomika/28323943",
+      "source": "ТАСС",
+      "published": "2026-11-16T21:45:46",
+      "description": "Газета The Washington Post считает, что новые правила призваны ограничить возможности Китая по использованию микросхем США для тренировки моделей искусственного интеллекта",
+      "tags": [],
+      "category": "general_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
     {
       "title": "За СИМ нужен глаз да глаз // Оформление eSIM усложнят для борьбы с мошенниками",
       "url": "https://www.kommersant.ru/doc/9110023",
@@ -82,6 +94,126 @@
       ]
     },
     {
+      "title": "Я нанял ИИ искать мне работу. Неделя третья: один отклик и семь баллов, которые стали пятью",
+      "url": "https://habr.com/ru/articles/1108614/?utm_campaign=1108614&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-16T20:24:27",
+      "description": "<img src=\"https://habrastorage.org/extt/e1/be/35/e1be35e3cbd54ba51d7aad0b1ea36051.png\" /><p>Третья неделя: один отклик, один отказ, ноль собеседований. Главное — как агент считает баллы: почему семёрка превратилась в пятёрку, откуда взялся порог 6,5 и чего балл не видит.</p> <a href=\"https://habr.com/ru/articles/1108614/?utm_campaign=1108614&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Поставил ИИ проверять ИИ, и тот научился списывать",
+      "url": "https://habr.com/ru/articles/1108596/?utm_campaign=1108596&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-16T19:03:50",
+      "description": "<img src=\"https://habrastorage.org/extt/32/45/27/324527f2a891ae18c439f4c1f365e7d5.jpg\" /><p>Красивый отчёт не значит верный. А верный не значит полезный. Можно ли вообще построить систему исследований с ИИ, если модели становятся умнее и врут всё убедительнее? Пытаешься поймать их на ошибках — и постепенно обкладываешь систему правилами так, что профита от генеративности всё меньше. </p><p>В статье — почему строгость и польза могут тянуть в разные стороны, как ловить новые обманки и как я собираю систему, которая помогает находить в куче данных инсайты для роста продукта. </p> <a href=\"https://habr.com/ru/articles/1108596/?utm_campaign=1108596&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Цифровые двойники (Digital Twin) в инженерных системах — Часть 1. Управление документацией",
+      "url": "https://habr.com/ru/articles/1108160/?utm_campaign=1108160&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-16T18:09:11",
+      "description": "<img src=\"https://habrastorage.org/extt/c5/81/79/c5817909e8088c698a9b65e6458b6857.PNG\" /><p>В последние годы технология Digital Twin превратилась в один из главных трендов промышленной автоматизации. Крупные вендоры - Siemens, Schneider, Aveva, и десятки других предлагают платформы, в которых «двойник» обещает предсказывать отказы, оптимизировать режимы, экономить миллионы. Аналитики Gartner и MarketsandMarkets оценивают рынок в десятки миллиардов долларов к концу десятилетия.</p><p>На практике картина скромнее. Многие компании ограничиваются цифровыми двойниками отдельных технологических процессов: локального техпроцесса, конкретной линии розлива, конкретного узла.  И только единицы, как правило, крупные корпорации с собственными R&amp;D-командами доходят до цифровых двойников инфраструктуры целиком: завода, месторождения, трубопроводной системы на сотни километров.</p><p>Между этими двумя полюсами лежит огромный разрыв. И он не столько технологический, сколько организационный и интерфейсный.</p><p>В этой статье я подробно расскажу о практических подходах к построению Digital Twin решений который относятся к классу ПО интеллектуальных корпоративных систем интеграционного менеджмента информации (ИКСИМИ). Я AI\\ML исследователь и специализируюсь интеллектуальных системах управления корпоративными данными. Мои публикации на тему гибридных информационных систем, интеллектуальных графов и кластерной AI маршрутизации можно найти <a href=\"https://habr.com/ru/users/iximy/articles/\" rel=\"noopener nofollow\">здесь </a>и <a href=\"https://orcid.org/0009-0008-5166-0216\" rel=\"noopener nofollow\">здесь</a></p> <a href=\"https://habr.com/ru/articles/1108160/?utm_campaign=1108160&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Почему 94% ИИ‑ответов игнорируют сайты самих компаний",
+      "url": "https://habr.com/ru/articles/1108582/?utm_campaign=1108582&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-16T17:54:23",
+      "description": "<img src=\"https://habrastorage.org/extt/ef/10/f4/ef10f4bb9fe3ca9e152272051ac66b94.png\" /><p>У бизнеса сегодня появилась странная проблема: сайт спокойно держится в топ-10 поиска, но когда клиент спрашивает подрядчика у ChatGPT, Perplexity или в ИИ-сводке Google, компании в ответе просто нет. Вместо самих исполнителей нейросеть собирает подборку из внешних каталогов и справочников.</p><p>Чтобы разобраться, по каким правилам модели отбирают кандидатов, я прогнал двести реальных B2B-запросов и проследил цепочку поиска. В 94 из 100 отраслевых подборов ИИ-сводка действительно открывалась, но корпоративные сайты туда почти не попадали.</p><p>Дальше я сопоставил эти прогоны с месячной статистикой краулеров на открытом каталоге организаций, где каждая карточка отдаётся сразу в HTML, Markdown и JSON. Стало понятно, почему не спасает даже <code>llms.txt</code> в корне сайта и что нужно сделать, чтобы модель всё-таки включила бизнес в рекомендации.</p> <a href=\"https://habr.com/ru/articles/1108582/?utm_campaign=1108582&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Веду финансы без единого пропуска уже 580 дней. Или еще один неочевидный плюс AI",
+      "url": "https://habr.com/ru/articles/1108502/?utm_campaign=1108502&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-16T15:40:56",
+      "description": "<img src=\"https://habrastorage.org/extt/75/7f/bd/757fbde29683222eef58b1b17e61525d.jpg\" /><p>До появления AI я многие привычки, которые требовали регулярной записи, бросал через 10-20 дней. Будь то учет калорий, ведение финансов или регулярный таск трекинг.</p><p>Например, учет финансов я пробовал вести лет с 16. Перепробовал множество приложений, трекеров привычек и эксели всяких видов.</p><p>И если первые 2 недели у меня получалось продержаться, то потом все равно забрасывал.</p> <a href=\"https://habr.com/ru/articles/1108502/?utm_campaign=1108502&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Корпоративная база знаний на базе ИИ",
+      "url": "https://habr.com/ru/companies/itglobalcom/articles/1108414/?utm_campaign=1108414&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-16T14:49:16",
+      "description": "<img src=\"https://habrastorage.org/extt/8b/21/0f/8b210f92e4ba7cc6f11bbc60bb714a7c.png\" /><p>Корпоративная база знаний на базе ИИ отвечает сотрудникам на вопросы по внутренним документам компании и показывает, откуда взят ответ. Строится она по схеме RAG — поиск нужных фрагментов плюс языковая модель. Это руководство для архитектора: из чего состоит стенд и где его разместить, сколько ресурсов нужно каждой модели, как выбрать хранилище и посчитать среду, что проверить до запуска и где обычно совершаются ошибки.</p> <a href=\"https://habr.com/ru/articles/1108414/?utm_campaign=1108414&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Можно ли обмануть ИИ-детектор: внимание на типографику",
+      "url": "https://habr.com/ru/articles/1108500/?utm_campaign=1108500&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-16T14:38:07",
+      "description": "<img src=\"https://habrastorage.org/extt/a3/56/32/a356322882ebe5e633d4795bec3944e5.webp\" /><p>По результатам собственного тестирования продемонстрировано существенное влияние типографики текстов на вердикт российских вузовских ИИ-детекторов    </p> <a href=\"https://habr.com/ru/articles/1108500/?utm_campaign=1108500&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Harness² — новое поколение ИИ-агентов от Google Research",
+      "url": "https://habr.com/ru/companies/bothub/articles/1108490/?utm_campaign=1108490&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-16T14:20:08",
+      "description": "<img src=\"https://habrastorage.org/extt/aa/c0/99/aac0994579aa2901c51c717284d31654.jpeg\" /><p>ИИ-агенты сейчас стремительно развиваются. Совсем недавно ИИ-агент был обычным чатом с LLM, где он творил что хотел. Но в последнее время вы могли даже сами слышать такие вещи, как скиллы, MCP, оркестрационный цикл, инструменты, управление контекстом, — все это составляющие части агентской системы под названием Harness. Сам агент — это LLM + Harness. При умелом использовании даже не самая лучшая модель, но с качественным Harness-окружением может обогнать использование топовой LLM, но без обвязки.</p><p>И в последнее время идет много разговоров насчет самого харнесса. Скиллы, MCP, инструменты, оркестрация и субагенты — все это нововведения совсем недавние. Но в текущем состоянии есть недочеты: в одной конфигурации агент читает структуру директорий, находит ключевые файлы и точечно запрашивает нужные фрагменты. В другой — жадно вычитывает все подряд, забивая контекст. Или агент может что-то забыть, или использует инструменты и вызовы MCP/субагентов не совсем по назначению.</p><p>Инженеры в таком случае крутят настройки харнесса. Но ручная настройка все-таки трудна и ресурсозатратна. И вот Google выложила открытый фреймворк Harness² для самоулучшения ИИ-агентов. Он позволяет агентам в OpenCode и Codex самостоятельно корректировать инструкции, скиллы и другие компоненты по мере работы.</p><p>В этой статье мы как раз и рассмотрим Harness² — plug-and-play фреймворк от Google Research для рекурсивного харнесса в открытом мире.</p> <a href=\"https://habr.com/ru/articles/1108490/?utm_campaign=1108490&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
       "title": "Как накормить ИИ-агента кодом и не разориться на контексте: мой опыт без векторной магии",
       "url": "https://habr.com/ru/companies/alfastrah/articles/1108468/?utm_campaign=1108468&utm_source=habrahabr&utm_medium=rss",
       "source": "Habr_AI",
@@ -143,11 +275,11 @@
       ]
     },
     {
-      "title": "[Перевод] Деньги на ИИ иссякают",
+      "title": "[Перевод] Деньги на ИИ иссякают",
       "url": "https://habr.com/ru/articles/1103986/?utm_campaign=1103986&utm_source=habrahabr&utm_medium=rss",
       "source": "Habr_AI",
       "published": "2026-11-16T11:53:30",
-      "description": "<img src=\"https://habrastorage.org/extt/6f/fa/e1/6ffae1bfe1dd6a8a9c3967195f6f2f21.jpg\" /><p>Не так давно Anthropic опубликовала заявку S-1, причем сделала это аж дважды, в черновом и чистовом вариантах. </p><p>У кого-то эта публикация вызвала бешеный энтузиазм. Я имею в виду прежде всего <a class=\"mention\" href=\"https://habr.com/users/rationalanswer\">@RationalAnswer</a> и \"Cиолошную\" - они даже опубликовали в телеграм-каналах <a href=\"https://t.me/seeallochnaya/4025\" rel=\"noopener nofollow\">опровержение </a>известного ИИ-алармиста Эда Зитрона, что он неправ и все нормально, ребят. </p><p>Я не буду здесь занимать чью-либо точку зрения, однако 3 ноября Эд опубликовал разбор заявки S-1 от Anthropic, что там отнюдь не все так радужно, как это кому-то бы хотелось. Данная статья является переводом этого разбора.</p> <a href=\"https://habr.com/ru/articles/1103986/?utm_campaign=1103986&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "description": "<img src=\"https://habrastorage.org/extt/6f/fa/e1/6ffae1bfe1dd6a8a9c3967195f6f2f21.jpg\" /><p>Не&nbsp;так давно Anthropic опубликовала заявку S-1, причем сделала это аж дважды, в&nbsp;черновом и чистовом вариантах. </p><p>У&nbsp;кого‑то эта публикация вызвала бешеный энтузиазм. Я имею в&nbsp;виду прежде всего <a class=\"mention\" href=\"https://habr.com/users/rationalanswer\">@RationalAnswer</a> и «Cиолошную»&nbsp;— они даже опубликовали в&nbsp;телеграм‑каналах <a href=\"https://t.me/seeallochnaya/4025\" rel=\"noopener nofollow\">опровержение </a>известного ИИ‑алармиста Эда Зитрона, что&nbsp;он неправ и все нормально, ребят. </p><p>Я не&nbsp;буду здесь занимать чью‑либо точку зрения, однако 3&nbsp;ноября Эд опубликовал разбор заявки S-1&nbsp;от&nbsp;Anthropic, что&nbsp;там отнюдь не&nbsp;все так радужно, как&nbsp;это кому‑то&nbsp;бы хотелось. Данная статья является переводом этого разбора.</p> <a href=\"https://habr.com/ru/articles/1103986/?utm_campaign=1103986&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
       "tags": [
         "ai",
         "ml"
@@ -190,7 +322,7 @@
       ]
     },
     {
-      "title": "MCP: «USB-порт» для ИИ-агентов и почему его нужно охранять",
+      "title": "MCP: «USB‑порт» для ИИ‑агентов и почему его нужно охранять",
       "url": "https://habr.com/ru/companies/itglobalcom/articles/1108366/?utm_campaign=1108366&utm_source=habrahabr&utm_medium=rss",
       "source": "Habr_AI",
       "published": "2026-11-16T10:44:21",
@@ -235,7 +367,7 @@
       ]
     },
     {
-      "title": "Агент сделал задачу. А откатить сможет? Разбор 5 докладов о надёжности AI агентов",
+      "title": "Агент сделал задачу. А откатить сможет? Разбор 5 докладов о надёжности AI агентов",
       "url": "https://habr.com/ru/articles/1108290/?utm_campaign=1108290&utm_source=habrahabr&utm_medium=rss",
       "source": "Habr_AI",
       "published": "2026-11-16T10:23:41",
@@ -343,7 +475,7 @@
       ]
     },
     {
-      "title": "AI-агент для разработки интеграций на DATAREON Platform: практика внедрения dtrn-mcp в «УралАгроГрупп»",
+      "title": "AI‑агент для разработки интеграций на DATAREON Platform: практика внедрения dtrn‑mcp в «УралАгроГрупп»",
       "url": "https://habr.com/ru/companies/w_code/articles/1108222/?utm_campaign=1108222&utm_source=habrahabr&utm_medium=rss",
       "source": "Habr_AI",
       "published": "2026-11-16T07:38:07",
@@ -359,14 +491,14 @@
       ]
     },
     {
-      "title": "Как меняется CAPTCHA в эпоху ИИ",
-      "url": "https://habr.com/ru/companies/ruvds/articles/1106182/?utm_campaign=1106182&utm_source=habrahabr&utm_medium=rss",
-      "source": "Habr_AI",
-      "published": "2026-11-16T07:01:24",
-      "description": "<img src=\"https://habrastorage.org/extt/a5/15/1b/a5151b292c6785405b7441f67ed40419.jpg\" /><p>Каждый свой рабочий день я начинаю не с чашки кофе, а со всплывающей сетки из картинок. Надпись снизу просит меня выбрать все светофоры на иллюстрации. Я кликаю. Картинки медленно растворяются, и на их месте появляются новые, а система сообщает, что я ошибся, и теперь требует найти автобусы.</p><p>Затем гидранты, пешеходные переходы, велосипеды... Пройти этот тест получалось далеко не с первого раза. Раздражало, что на сетке 3 × 3 несчастный светофор может занимать ровно один уголок соседнего квадрата. И тут я начинаю гадать, стоит ли его добавлять в свою выборку или нет.</p><p><strong>От кого пытаются защититься сайты, вводя капчу, которую решает любой бот? Почему умерли капча-фермы? Как меняется капча в эру искусственного интеллекта и компьютерного зрения?</strong></p> <a href=\"https://habr.com/ru/articles/1106182/?utm_campaign=1106182&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "title": "Российские предприниматели инвестировали $2 млн в приложение для самопознания с ИИ Alma",
+      "url": "https://www.cnews.ru/news/line/2026-11-16_rossijskie_predprinimateli",
+      "source": "CNews",
+      "published": "2026-11-16T16:22:00",
+      "description": "Российские предприниматели Александр Чахутин и Евгений Тарабаев, связанные с группой компаний Placebo/25, запустили...",
       "tags": [
-        "ai",
-        "ml"
+        "tech",
+        "business"
       ],
       "category": "tech_news",
       "matched_keywords": [
@@ -374,74 +506,14 @@
       ]
     },
     {
-      "title": "Как мы с ИИ искали антиэнтропию и куда он меня завёл",
-      "url": "https://habr.com/ru/articles/1108196/?utm_campaign=1108196&utm_source=habrahabr&utm_medium=rss",
-      "source": "Habr_AI",
-      "published": "2026-11-16T06:50:03",
-      "description": "<img src=\"https://habrastorage.org/extt/0c/60/92/0c6092a5af227b8230579f6c835eea68.jpg\" /><p>Это рассказ о домашнем проекте, который вырос из одного вопроса к нейросети. Полгода, два стенда, десятки плат ESP32, одна найденная ошибка и пока честный ноль в результатах. Под катом много фото, схемы и ссылка на видео.</p> <a href=\"https://habr.com/ru/articles/1108196/?utm_campaign=1108196&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "title": "«Алиса AI» запускает каталог плагинов",
+      "url": "https://www.cnews.ru/news/line/2026-11-16_alisa_ai_zapuskaet_katalog",
+      "source": "CNews",
+      "published": "2026-11-16T15:32:00",
+      "description": "«Яндекс» запускает каталог плагинов «Алисы AI», в котором компании могут публиковать приложения, дающие ассистенту...",
       "tags": [
-        "ai",
-        "ml"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "У SOC отобрали время: ИИ-агент оставил защите вдвое меньше времени на реакцию",
-      "url": "https://habr.com/ru/articles/1108186/?utm_campaign=1108186&utm_source=habrahabr&utm_medium=rss",
-      "source": "Habr_AI",
-      "published": "2026-11-16T06:28:57",
-      "description": "<img src=\"https://habrastorage.org/extt/62/ce/4a/62ce4a4b9c344130309b94f6bc12993d.png\" /><p>Алерт пришёл в 03:12. Дежурный L1 открыл его в 03:30, увидел подозрительный запрос к веб-порталу и пошёл смотреть соседние события.</p><p>К этому моменту всё уже закончилось.</p><p>Раньше такая ночь кончалась нормально: человеку-атакующему нужно время, чтобы осмотреться, подобрать инструмент, ошибиться и переделать. Этих часов SOC и хватало на свой цикл «увидел → проверил → эскалировал → заблокировал». ИИ-агент проходит тот же путь в машинном темпе, и запаса больше нет.</p><p>Ниже — что говорят цифры за 2025–2026 годы, что я увидел на своём стенде и что с этим делать.</p> <a href=\"https://habr.com/ru/articles/1108186/?utm_campaign=1108186&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
-      "tags": [
-        "ai",
-        "ml"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Браузерный онлайн-шутер «руками» ИИ-агента",
-      "url": "https://habr.com/ru/companies/raft/articles/1108052/?utm_campaign=1108052&utm_source=habrahabr&utm_medium=rss",
-      "source": "Habr_AI",
-      "published": "2026-11-16T06:03:19",
-      "description": "<img src=\"https://habrastorage.org/extt/45/44/25/454425a8554e626087f7481cce85cb80.png\" /><p>Приветствую всех, в первую очередь тех, кто хочет почитать статью <strong><em>без нейрослопа</em></strong>, написанную руками, как это было когда-то раньше, а так же всех, кто ищет вдохновение на свой проект или просто зашел почитать про мой кейс.</p><p>Думаю, что статей будет несколько, потому что убрать все мысли в одну будет слишком долго, тренды нынче на быстрое потребление контента и красивые схемки (вот схемки, конечно, будут сгенерированные). Пойдем от общего к частному - в данной статье расскажу про общую идею проекта и ключевые моменты разработки.</p> <a href=\"https://habr.com/ru/articles/1108052/?utm_campaign=1108052&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
-      "tags": [
-        "ai",
-        "ml"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Как проверить реальную эффективность ИИ-автоматизации",
-      "url": "https://habr.com/ru/articles/1108026/?utm_campaign=1108026&utm_source=habrahabr&utm_medium=rss",
-      "source": "Habr_AI",
-      "published": "2026-11-16T06:01:00",
-      "description": "<img src=\"https://habrastorage.org/extt/43/79/b2/4379b25e88dab7fde9b8e232ff333606.jpg\" /><p>Вы внедрили ИИ в отдел аналитики. Сотрудники начали готовить документы втрое быстрее, руководство довольно, в презентациях появляются красивые цифры об экономии рабочего времени.</p><p>А проекты как срывали сроки, так и продолжают.</p><p>Я бы в такой ситуации задал один неприятный вопрос: <strong>а что именно мы улучшили, кроме скорости работы аналитиков?</strong></p><p>Потому что сэкономленные часы и повышение эффективности бизнеса - вещи совершенно разные.  И не стоит их путать друг с другом. </p> <a href=\"https://habr.com/ru/articles/1108026/?utm_campaign=1108026&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
-      "tags": [
-        "ai",
-        "ml"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Alibaba выпустили Qwen4-Max",
-      "url": "https://habr.com/ru/articles/1108180/?utm_campaign=1108180&utm_source=habrahabr&utm_medium=rss",
-      "source": "Habr_AI",
-      "published": "2026-11-16T05:49:14",
-      "description": "<img src=\"https://habrastorage.org/extt/50/eb/cb/50ebcbe410a9f435579adfad29cc50ad.jpg\" /><p>Alibaba&nbsp;<a href=\"https://qwen.ai/blog?id=qwen4-max\" rel=\"noopener nofollow\">представили Qwen4-Max</a>, новую флагманскую модель с контекстом на 1 млн токенов и поддержкой изображений. В тестах команды она расходует до 50% меньше токенов, чем Qwen3.8-Max. Цена API — $1,5 за миллион входных и $4,5 за миллион выходных токенов.</p> <a href=\"https://habr.com/ru/articles/1108180/?utm_campaign=1108180&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
-      "tags": [
-        "ai",
-        "ml"
+        "tech",
+        "business"
       ],
       "category": "tech_news",
       "matched_keywords": [
@@ -449,33 +521,17 @@
       ]
     },
     {
-      "title": "Уволили специалистов ради ИИ. А кто через пять лет будет ставить ему задачи?",
-      "url": "https://habr.com/ru/articles/1108164/?utm_campaign=1108164&utm_source=habrahabr&utm_medium=rss",
-      "source": "Habr_AI",
-      "published": "2026-11-16T05:00:15",
-      "description": "<img src=\"https://habrastorage.org/extt/62/66/6a/62666a7046a3ab5701a76984b2e33ad1.jpg\" /><p>Компании увольняют маркетологов, SEO-специалистов и программистов и отдают их работу ИИ-агентам. Расчёт простой: когда мода на ИИ пройдёт, людей можно будет нанять обратно за пару недель. Я в это не верю.</p><p>На Kazan Digital Week безопасники из банков полтора часа обсуждали, кто сядет, если агент что-то натворит. Один пример запомнился: сотрудник предложил отдать агенту свою электронную подпись. Ответ безопасника - можно, но только для одного действия: подписать заявление на увольнение.</p><p>В статье моё мнение:<br />- почему надежда, что через пять лет модели всё решат сами, - утопия;<br />- что будет дорожать: узкие специалисты, безопасники и живой контент;<br />- зачем агенту рубильник и кто отвечает за его ошибки;<br />- кто будет вычитывать тексты с контент-заводов;<br />- три вопроса собственнику, прежде чем заменить людей на ИИ.</p> <a href=\"https://habr.com/ru/articles/1108164/?utm_campaign=1108164&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "title": "В России создали мультиагентную систему «Радар» для автоматизации закупочных процессов",
+      "url": "https://www.cnews.ru/news/line/2026-11-16_v_rossii_sozdali_multiagentnuyu",
+      "source": "CNews",
+      "published": "2026-11-16T14:03:00",
+      "description": "Компания «Эксепто», разработчик мультиагентных ИИ-систем для автоматизации корпоративных процессов, представила...",
       "tags": [
-        "ai",
-        "ml"
+        "tech",
+        "business"
       ],
       "category": "tech_news",
       "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "AI Resist List: список тех, кто бросает вызов ИИ",
-      "url": "https://habr.com/ru/articles/1108152/?utm_campaign=1108152&utm_source=habrahabr&utm_medium=rss",
-      "source": "Habr_AI",
-      "published": "2026-11-15T21:44:59",
-      "description": "<img src=\"https://habrastorage.org/extt/1a/d3/6b/1ad36bcd780436f70652af525ee276a8.png\" /><p>20&nbsp;мая 2026&nbsp;года Карен Хао, журналистка и автор книги «Империя ИИ», совместно с&nbsp;исследователями и правозащитниками представила <a href=\"https://airesistlist.org/\" rel=\"noopener nofollow\">AI Resist List</a>&nbsp;— проект, который рассказывает об&nbsp;актах сопротивления существующей модели развития ИИ‑индустрии. Я решил рассказать об&nbsp;этом списке, поскольку в&nbsp;русскоязычном пространстве он практически не&nbsp;получил внимания.</p><p>В&nbsp;основе проекта лежит борьба с&nbsp;представлением о&nbsp;том, что&nbsp;существующая модель развития и повсеместного внедрения искусственного интеллекта неизбежна. Журналистка подчёркивает, что&nbsp;такая риторика исключает возможность открытой дискуссии, концентрирует власть и ресурсы в&nbsp;руках небольшой группы людей и защищает корпорации от&nbsp;ответственности.</p> <a href=\"https://habr.com/ru/articles/1108152/?utm_campaign=1108152&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
-      "tags": [
-        "ai",
-        "ml"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "AI",
         "ИИ"
       ]
     },
@@ -661,6 +717,22 @@
       ]
     },
     {
+      "title": "Alibaba представила Qwen4-Max — флагманскую ИИ-модель с  2,4 трлн параметров и запретом на кибератаки",
+      "url": "https://3dnews.ru/1151354",
+      "source": "3DNews",
+      "published": "2026-11-16T15:02:00",
+      "description": "Компания Alibaba представила свою новую флагманскую ИИ-модель Qwen4-Max. Алгоритм с 2,4 трлн параметров в процессе работы задействует лишь 71 млрд параметров на токен, а также поддерживает обработку изображений. В дополнение к этому Alibaba представила специальные наборы данных для дополнительного обучения и доработки, которые позволяют снизить риски в области химического, биологического, радиологического и ядерного оружия. Источник изображений: qwen.ai",
+      "tags": [
+        "tech",
+        "hardware"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI",
+        "ИИ"
+      ]
+    },
+    {
       "title": "Открытый ИИ потерял главного союзника: уход Хуанга может сыграть на руку OpenAI и Anthropic",
       "url": "https://3dnews.ru/1151346",
       "source": "3DNews",
@@ -676,18 +748,78 @@
       ]
     },
     {
-      "title": "Apple готовит конкурента M**a Ray-Ban: очки с Siri AI будут тоньше и получат наилучшее качество звука",
-      "url": "https://3dnews.ru/1151332",
+      "title": "OpenAI ответит в суде за своих сорвавшихся с поводка ИИ-агентов — прокуроров заинтересовал взлом Hugging Face",
+      "url": "https://3dnews.ru/1151380",
       "source": "3DNews",
-      "published": "2026-11-15T20:26:00",
-      "description": "Apple готовит умные очки с поддержкой Siri, которые также станут частью всей экосистемы компании и составят конкуренцию очкам M**a Ray-Ban. Одним из главных преимуществ новинки станет качество звука, которое инженеры Apple, по данным Bloomberg, назвали &laquo;лучшим в отрасли&raquo;. Источник изображения: 9to5mac.com",
+      "published": "2026-11-16T21:02:00",
+      "description": "Генеральный прокурор Калифорнии Роб Бонта (Rob Bonta) подал иск против OpenAI, обвинив компанию в недостаточном контроле над экспериментальными моделями искусственного интеллекта и созданными на их основе автономными ИИ-агентами. Дело спровоцировано летней атакой беглого ИИ на сервисы Hugging Face и другими подобными случаями. Источник изображения: ИИ-генерация ChatGPT/3DNews",
       "tags": [
         "tech",
         "hardware"
       ],
       "category": "tech_news",
       "matched_keywords": [
-        "AI"
+        "ИИ"
+      ]
+    },
+    {
+      "title": "AMD поглотила разработчика ИИ-песочниц для роботов World Labs",
+      "url": "https://3dnews.ru/1151374",
+      "source": "3DNews",
+      "published": "2026-11-16T20:38:00",
+      "description": "Компания AMD объявила о завершении покупки стартапа World Labs, специализирующегося на разработке моделей искусственного интеллекта для работы с физическим пространством. Покупка стоила AMD собственных акций на сумму $8,2 млрд, зато теперь у неё есть &laquo;карманная&raquo; модель, чтобы заточить под неё процессоры и видеокарты. Источник изображения: ИИ-генерация ChatGPT/3DNews",
+      "tags": [
+        "tech",
+        "hardware"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Инвесторы охладели к ИИ-буму: производители оборудования для дата-центров подешевели на $4,2 трлн",
+      "url": "https://3dnews.ru/1151365",
+      "source": "3DNews",
+      "published": "2026-11-16T17:42:00",
+      "description": "Производители оборудования и материалов для строительства дата-центров потеряли в совокупности $4,2 трлн рыночной стоимости с июня 2026 года. Распродажа произошла на фоне ослабления интереса инвесторов к инфраструктурному буму вокруг искусственного интеллекта, который ранее, наоборот, обеспечил этим компаниям стремительный рост. Источник изображения: Grok",
+      "tags": [
+        "tech",
+        "hardware"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "США закручивают гайки: китайские компании больше не смогу арендовать ИИ-чипы Nvidia за рубежом без разрешения",
+      "url": "https://3dnews.ru/1151358",
+      "source": "3DNews",
+      "published": "2026-11-16T15:55:00",
+      "description": "США представили новые правила, которые должны ограничить доступ китайских компаний к передовым ИИ-ускорителям Nvidia через зарубежные дата-центры. Вашингтон намерен помешать разработчикам искусственного интеллекта обходить запреты на поставки оборудования, арендуя вычислительные мощности за пределами Китая. Источник изображения: Nvidia",
+      "tags": [
+        "tech",
+        "hardware"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Минцифры запланировало запретить онлайн-оформление eSIM с неквалифицированной электронной подписью — понадобится УКЭП",
+      "url": "https://vc.ru/services/3259297-mincifry-ogranichivaet-oformlenie-esim-s-nekvalifitsirovannoy-podpisyu?from=rss",
+      "source": "VC_ru_Технологии",
+      "published": "2026-11-16T17:04:19",
+      "description": "Для борьбы с мошенниками.",
+      "tags": [
+        "tech",
+        "business"
+      ],
+      "category": "ai_and_regulation",
+      "matched_keywords": [
+        "Минцифры"
       ]
     },
     {
@@ -726,6 +858,21 @@
       ]
     },
     {
+      "title": "Сидякин призвал ужесточить регулирование VPN и заявил о закрытии неба - Techora.ru",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWjRtODIyQUJRNlJPSUgydndBdElJTldIUDJFMk4wb3BHd3lJalo5ak5nMlA0YVRpR2RkSW1nUDFhMExwbHJMN0N5dlVGcnlXc0ZFY25LQkNsRVlrZ3NlMloxRDQybjk4d04wcTF3LUxTQUZSVy1fMFZjdFl1c0FGcmJBR0wzNW9nSFM0?oc=5",
+      "source": "Google News",
+      "published": "2026-11-16T14:04:32",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWjRtODIyQUJRNlJPSUgydndBdElJTldIUDJFMk4wb3BHd3lJalo5ak5nMlA0YVRpR2RkSW1nUDFhMExwbHJMN0N5dlVGcnlXc0ZFY25LQkNsRVlrZ3NlMloxRDQybjk4d04wcTF3LUxTQUZSVy1fMFZjdFl1c0FGcmJBR0wzNW9nSFM0?oc=5\" target=\"_blank\">Сидякин призвал ужесточить регулирование VPN и заявил о закрытии неба</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Techora.ru</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "регулирование",
+      "matched_keywords": [
+        "регулирование"
+      ]
+    },
+    {
       "title": "ЕЦБ призвал ужесточить регулирование небанковских финансов - Investing.com",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sRjNZdDlWQjZCcVczWWhmNHpaMUpQUVM2M0ZuTUJtcmVZU3lCdjZsTy13RzVxa2F4eUNDTzhSRjFGZFNURjNkR1FVOHVOVXhsM19iS2cxNGdNYnl2b1AxUVVhcXdOZ0pTNnV2LVRB?oc=5",
       "source": "Google News",
@@ -741,10 +888,25 @@
       ]
     },
     {
+      "title": "ESG не умер: что означает упрощение ESRS в ЕС для украинского бизнеса - Forbes.ua",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVkYyMndVcXJ5UGFvaHA3QkNETnZkTVFFYzBGeWx4SEgyZjRwR0FpUi1ZS0JNMVFkaUtkb0QxQWZZUUdjdXVsc05LSDdEM0JlMGp5TUdnYmVUdjlwNXNha3hpZnRWVTRoV01ic25HV241dU5YV3NMZVpkZ0lWcFd2azhpTGFOS240Mkx0dnRXbHFwTmVuWUVVTEhSN1ppTUJYLTJhWkIxLVlTUmpBTDBLajBZZUNpMnFLSnd4UGNhN0JRbUE?oc=5",
+      "source": "Google News",
+      "published": "2026-11-16T21:15:03",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVkYyMndVcXJ5UGFvaHA3QkNETnZkTVFFYzBGeWx4SEgyZjRwR0FpUi1ZS0JNMVFkaUtkb0QxQWZZUUdjdXVsc05LSDdEM0JlMGp5TUdnYmVUdjlwNXNha3hpZnRWVTRoV01ic25HV241dU5YV3NMZVpkZ0lWcFd2azhpTGFOS240Mkx0dnRXbHFwTmVuWUVVTEhSN1ppTUJYLTJhWkIxLVlTUmpBTDBLajBZZUNpMnFLSnd4UGNhN0JRbUE?oc=5\" target=\"_blank\">ESG не умер: что означает упрощение ESRS в ЕС для украинского бизнеса</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes.ua</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ESG",
+      "matched_keywords": [
+        "ESG"
+      ]
+    },
+    {
       "title": "Yusr Group утвердила ESG-стратегию до 2028 года - Inbusiness.kz",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc3dzVVFyR2NwOXNrYW1WU1BuTUxmcVNmVi1iMGRaRW4tVkVORDBQVDBabUxJTVFCZGxTb29NQklkb3l0YWlyTmRYRUJNZzhxQWVzbEVUT1RWVjBKbTB2SGptWXQ0QUZWU0lzOUZyVzFqVHZFWGdwN29xN216VnRZYmtIRl8?oc=5",
       "source": "Google News",
-      "published": "2026-11-16T10:05:00",
+      "published": "2026-11-16T16:00:02",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNc3dzVVFyR2NwOXNrYW1WU1BuTUxmcVNmVi1iMGRaRW4tVkVORDBQVDBabUxJTVFCZGxTb29NQklkb3l0YWlyTmRYRUJNZzhxQWVzbEVUT1RWVjBKbTB2SGptWXQ0QUZWU0lzOUZyVzFqVHZFWGdwN29xN216VnRZYmtIRl8?oc=5\" target=\"_blank\">Yusr Group утвердила ESG-стратегию до 2028 года</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inbusiness.kz</font>",
       "tags": [
         "google_news"
@@ -771,56 +933,11 @@
       ]
     },
     {
-      "title": "Maeil Dairies пять лет подряд сохраняет интегрированную оценку ESG уровня A - 스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFZ0NGNHcEUybXpNWHVmSjhhWlZwMWszZU9FT2NvYllQaFJkY3NwZ2R0Rmk2MjQwVHRNaEhJblB4cGZlQ1htd1AtazMxT0NlcHJ4MXhQdjV0QjkyenFSMGZSc1dESnU0Tk1LQ3owZmhiVFF4dGJZX2UwWFYyXzVRMGpCcw?oc=5",
+      "title": "Правообладатели не получат ретроспективные выплаты за обучение ИИ на их контенте - Ведомости",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVjFnWUFFY3FlSXl2LTY5eHV2RDhiWWJLdDRlWGU1Vlh5MGI5d1J3WlJQeDVYVF95QWM1R1ZSMmV1dk5lWDQtWHIxUWZUZnBUenlodjFPZVhjX2NmUWVfd19SSl9GVXBRWDNsWmdzWGJLY3Z2WXliQnhiUWdsUHRaQUc0WnpzLWJiY2VQVkZsMUgxZy1mZG5aMHJn?oc=5",
       "source": "Google News",
-      "published": "2026-11-16T02:46:28",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFZ0NGNHcEUybXpNWHVmSjhhWlZwMWszZU9FT2NvYllQaFJkY3NwZ2R0Rmk2MjQwVHRNaEhJblB4cGZlQ1htd1AtazMxT0NlcHJ4MXhQdjV0QjkyenFSMGZSc1dESnU0Tk1LQ3owZmhiVFF4dGJZX2UwWFYyXzVRMGpCcw?oc=5\" target=\"_blank\">Maeil Dairies пять лет подряд сохраняет интегрированную оценку ESG уровня A</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">스타뉴스</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ESG",
-      "matched_keywords": [
-        "ESG"
-      ]
-    },
-    {
-      "title": "Международные стандарты ESG теперь доступны на вьетнамском языке: к чему должны подготовиться предприятия? - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOczFSdFpkXzVYd0d0cm05X3h2TU9YUzdId2ZrWVRQSU1KYm5aYTUzZE16YVJsbFhsa0IxdXFSRWJUSF8xN2FlRWlqZVBUbEpmRnZ2eG9YQnV1aGN6QTFyWEV4MmFwTWxyOVd0Qy04UEVCU1hRSExCU1hOdVVWX2tJY3UyeXNKQkxFSXJGS0R6OW9KSlJiRW4tZA?oc=5",
-      "source": "Google News",
-      "published": "2026-11-16T02:19:50",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOczFSdFpkXzVYd0d0cm05X3h2TU9YUzdId2ZrWVRQSU1KYm5aYTUzZE16YVJsbFhsa0IxdXFSRWJUSF8xN2FlRWlqZVBUbEpmRnZ2eG9YQnV1aGN6QTFyWEV4MmFwTWxyOVd0Qy04UEVCU1hRSExCU1hOdVVWX2tJY3UyeXNKQkxFSXJGS0R6OW9KSlJiRW4tZA?oc=5\" target=\"_blank\">Международные стандарты ESG теперь доступны на вьетнамском языке: к чему должны подготовиться предприятия?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ESG",
-      "matched_keywords": [
-        "ESG"
-      ]
-    },
-    {
-      "title": "Jeju Air: 4 года подряд — интегральная оценка A в рамках ESG-оценки - 스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTU1RUFNZTHBpU2VFR1pHbG1WWFptUWlHbkJEV3NPUHlZaTFxZHltQnR0TmVra2FCTXo5M1dqR3JzMkEwbFhtaEJxMGlqZjAyaUdfWFh5VWZJRHdybXdnLU0xMGJwek16ZGFEYzNsTTJmY05DdWozRUNDMm53MWd0NzR1dw?oc=5",
-      "source": "Google News",
-      "published": "2026-11-16T02:47:19",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPTU1RUFNZTHBpU2VFR1pHbG1WWFptUWlHbkJEV3NPUHlZaTFxZHltQnR0TmVra2FCTXo5M1dqR3JzMkEwbFhtaEJxMGlqZjAyaUdfWFh5VWZJRHdybXdnLU0xMGJwek16ZGFEYzNsTTJmY05DdWozRUNDMm53MWd0NzR1dw?oc=5\" target=\"_blank\">Jeju Air: 4 года подряд — интегральная оценка A в рамках ESG-оценки</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">스타뉴스</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ESG",
-      "matched_keywords": [
-        "ESG"
-      ]
-    },
-    {
-      "title": "Выгода от внедрения ИИ в России может достичь 2,6 трлн рублей - New Retail",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZzlTcllkdFk5ZmpseG5RMHFNR24wQjRVMFB3ZzJ6Q3JrTHlyTW93ZmpSdHVKVm9tSTJvc3ZqVTRmN0FPdDkwX0VhQTdKbDJKbWROMDFWNXpuMkFpNHd3YXRKQ19RVk1UNlBnYk9mT1FSa3FmN3ZkYUpNMjVqZmloQy04MWdKZTNCdWpWUG9BTjhlMU9IX2FkZTZzc1VhM2F0V0RR?oc=5",
-      "source": "Google News",
-      "published": "2026-11-16T13:40:46",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPZzlTcllkdFk5ZmpseG5RMHFNR24wQjRVMFB3ZzJ6Q3JrTHlyTW93ZmpSdHVKVm9tSTJvc3ZqVTRmN0FPdDkwX0VhQTdKbDJKbWROMDFWNXpuMkFpNHd3YXRKQ19RVk1UNlBnYk9mT1FSa3FmN3ZkYUpNMjVqZmloQy04MWdKZTNCdWpWUG9BTjhlMU9IX2FkZTZzc1VhM2F0V0RR?oc=5\" target=\"_blank\">Выгода от внедрения ИИ в России может достичь 2,6 трлн рублей</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Retail</font>",
+      "published": "2026-11-16T21:32:58",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNVjFnWUFFY3FlSXl2LTY5eHV2RDhiWWJLdDRlWGU1Vlh5MGI5d1J3WlJQeDVYVF95QWM1R1ZSMmV1dk5lWDQtWHIxUWZUZnBUenlodjFPZVhjX2NmUWVfd19SSl9GVXBRWDNsWmdzWGJLY3Z2WXliQnhiUWdsUHRaQUc0WnpzLWJiY2VQVkZsMUgxZy1mZG5aMHJn?oc=5\" target=\"_blank\">Правообладатели не получат ретроспективные выплаты за обучение ИИ на их контенте</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ведомости</font>",
       "tags": [
         "google_news"
       ],
@@ -828,6 +945,21 @@
       "search_topic": "ИИ",
       "matched_keywords": [
         "ИИ"
+      ]
+    },
+    {
+      "title": "Власти могут увеличить бюджет федпроекта «Искусственный интеллект» на 60% - Ведомости",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObzl4dTB4RFBJMzdmMWFXQ2wybDlIdERzT2lRa2V6a0NVQTRMYTRpZDllRElSLWM0RThSMzViWW5yWm81VWRBQzB1Rnp1QU5pR1FRblR6QkxsdUhJU01xZjRMX1V4NlpUdmV6QmN2TE5vX3pPTEJZUlVwczNNdHNmcVVVMUM1Z1JwZUEyWHpVdzhOS1NxNEF2dUFzN1Atb252Vmt6QWxCSWxaQVE?oc=5",
+      "source": "Google News",
+      "published": "2026-11-16T21:34:39",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxObzl4dTB4RFBJMzdmMWFXQ2wybDlIdERzT2lRa2V6a0NVQTRMYTRpZDllRElSLWM0RThSMzViWW5yWm81VWRBQzB1Rnp1QU5pR1FRblR6QkxsdUhJU01xZjRMX1V4NlpUdmV6QmN2TE5vX3pPTEJZUlVwczNNdHNmcVVVMUM1Z1JwZUEyWHpVdzhOS1NxNEF2dUFzN1Atb252Vmt6QWxCSWxaQVE?oc=5\" target=\"_blank\">Власти могут увеличить бюджет федпроекта «Искусственный интеллект» на 60%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ведомости</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "искусственный интеллект"
       ]
     },
     {
@@ -836,21 +968,6 @@
       "source": "Google News",
       "published": "2026-11-16T07:00:00",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPV0VWWFZQcElIcjQyTUxnRVBOcXZZd1o2b1RsdzF0cV84UG9aNF9LR3BvNlVZdEZkNHlMWEpPbl9HVUdTeUdQVXNmbm1KY29RS09fVW1KREVUN0xudENEYmZTX1NSYWdzd09uQU9tT200cGRHckgxbElnUnczYkR5NTZJeTNFWGRDQlhzS3B2alJQQVBDQ19Vay1YNU9IODg?oc=5\" target=\"_blank\">Почему ИИ-агенты не всегда снижают нагрузку на сотрудников</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes.ru</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Доклад ЮНЕСКО и UCL: льстивый ИИ нельзя доверять разработке климатической политики - Euronews",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQUNLTzZCdHpPRFAxU1pHd0F6U3lvR2JXTXFhNl8yWHdjTGxuOTdFdEt4cnFmZHB5ZVdJRFZQQkVRRjVNb0JCdXJiT1IxUWY2ZXFDWWk5bkVXSjVkVFIwRUhRQzZKSldrelBMbTV0WTF3VU5qS0VQa1J0WGZTT2Juc3ZNbVVQOENia1k0Slp0YVJoeTRKcDVRVkZlRVo4UTFQbWZaNHcwbW9hVk95X0trYjJmZTVSZTQ3WnRSQzctVWw?oc=5",
-      "source": "Google News",
-      "published": "2026-11-16T13:59:56",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQUNLTzZCdHpPRFAxU1pHd0F6U3lvR2JXTXFhNl8yWHdjTGxuOTdFdEt4cnFmZHB5ZVdJRFZQQkVRRjVNb0JCdXJiT1IxUWY2ZXFDWWk5bkVXSjVkVFIwRUhRQzZKSldrelBMbTV0WTF3VU5qS0VQa1J0WGZTT2Juc3ZNbVVQOENia1k0Slp0YVJoeTRKcDVRVkZlRVo4UTFQbWZaNHcwbW9hVk95X0trYjJmZTVSZTQ3WnRSQzctVWw?oc=5\" target=\"_blank\">Доклад ЮНЕСКО и UCL: льстивый ИИ нельзя доверять разработке климатической политики</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews</font>",
       "tags": [
         "google_news"
       ],
@@ -876,21 +993,6 @@
       ]
     },
     {
-      "title": "Психолог рассказала, почему опасно поручать ИИ личные решения - ВФокусе Mail",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLVlIT3M2TTBOMTNqWl8xSXRoX3lTcVY3aEo3b0gza1g2RHF4MnNDVXFEVGl1TzltVEtUM2V6dVpyRjNUdlVHZnBrTVcySVIxNVRMeUtPNkZrWXd6bTBzNHpVa1c4ZkNLRS1PNDdBYm5lWVhWSkp0VHkzSnR2MW1ldjlKMHd0Nl8yV2RvNVl5ZXdfUjFERUpfTWJTRWs5QXNYVXZGalM2OGM2RE1ka2RGNExWdUE?oc=5",
-      "source": "Google News",
-      "published": "2026-11-16T11:42:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNLVlIT3M2TTBOMTNqWl8xSXRoX3lTcVY3aEo3b0gza1g2RHF4MnNDVXFEVGl1TzltVEtUM2V6dVpyRjNUdlVHZnBrTVcySVIxNVRMeUtPNkZrWXd6bTBzNHpVa1c4ZkNLRS1PNDdBYm5lWVhWSkp0VHkzSnR2MW1ldjlKMHd0Nl8yV2RvNVl5ZXdfUjFERUpfTWJTRWs5QXNYVXZGalM2OGM2RE1ka2RGNExWdUE?oc=5\" target=\"_blank\">Психолог рассказала, почему опасно поручать ИИ личные решения</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ВФокусе Mail</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
       "title": "Россия ищет замену Nvidia: сравнение китайских ИИ-ускорителей. Обзор: Альтернативы Nvidia - CNews.ru",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdUEyN3V5YlZKVXV0MC1WUGZFRVFYdDVTbTNRbE83d2t6SGh5c0Jxa3A1TTQ2S3Y1eDdGU295WnR0YjN1SERZZTExSGFJNzlSSm9UMUt1aFQ2TzVJdUd6QUx4dlZPTE40SFdQNDZSVWdNVkhIYTRoWGMxdmZVT0ZKaEhacy1veUJ5VVl3WG5uQ3ZEQ1FpWXh4U1lFVQ?oc=5",
       "source": "Google News",
@@ -906,11 +1008,11 @@
       ]
     },
     {
-      "title": "В парламенте Казахстана рассказали о разработанном с помощью ИИ законопроекте - Эксперт",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdlNnYzFRT2luVTl5REFTQlpGSURDRUlPRnctUmJRZ2wwV2tlSGxWeldMYnVLRnBzWHNabmRJLWhVamR5ellDNlVER3JPZE5XLWMzZ3ozd1Y0WkhRclBXMEgwNFJqdG5WMmtRTTNjNXJSMVAxLWFxQWh4SFNCLWdxc3FvN3I2MFJjUEw5ZFpmclhlaEd1aGkxN0tVQzg3WTNhZzhtdEhn?oc=5",
+      "title": "Harness² — новое поколение ИИ-агентов от Google Research / Хабр - Хабр",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHbkVNTTVkckNBd3dwbm5jY2JvMnRxSjdDTlF5Q0FqZ05uaUM4aEY4elhXSTJzbWZXTFE5ZDhYYzd4QndIYlcyS2dKQnNLTTlTUDlPa2UtY1NxNl9YRUtINXRoekc?oc=5",
       "source": "Google News",
-      "published": "2026-11-16T12:18:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNdlNnYzFRT2luVTl5REFTQlpGSURDRUlPRnctUmJRZ2wwV2tlSGxWeldMYnVLRnBzWHNabmRJLWhVamR5ellDNlVER3JPZE5XLWMzZ3ozd1Y0WkhRclBXMEgwNFJqdG5WMmtRTTNjNXJSMVAxLWFxQWh4SFNCLWdxc3FvN3I2MFJjUEw5ZFpmclhlaEd1aGkxN0tVQzg3WTNhZzhtdEhn?oc=5\" target=\"_blank\">В парламенте Казахстана рассказали о разработанном с помощью ИИ законопроекте</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Эксперт</font>",
+      "published": "2026-11-16T14:20:08",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHbkVNTTVkckNBd3dwbm5jY2JvMnRxSjdDTlF5Q0FqZ05uaUM4aEY4elhXSTJzbWZXTFE5ZDhYYzd4QndIYlcyS2dKQnNLTTlTUDlPa2UtY1NxNl9YRUtINXRoekc?oc=5\" target=\"_blank\">Harness² — новое поколение ИИ-агентов от Google Research / Хабр</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Хабр</font>",
       "tags": [
         "google_news"
       ],
@@ -921,11 +1023,56 @@
       ]
     },
     {
-      "title": "Свыше 300 предприятий юга России используют ИИ для автоматизации процессов - Ведомости Юг",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yR1RTaWl5SnlOcElrS1BHZzI5bEhoWmJJTFRQb3RSVTFhVnNFdjZXWEFRdW5BZWRScVVWdjR4eXVJNUxqdWJmN1BoZ1ZPQ0xweGx4b2FoYTZMc2gyM3o3UG9pdl91NlUwSFBtaVdaT1Zjd2hyamhkdg?oc=5",
+      "title": "Доклад ЮНЕСКО и UCL: льстивый ИИ нельзя доверять разработке климатической политики - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQUNLTzZCdHpPRFAxU1pHd0F6U3lvR2JXTXFhNl8yWHdjTGxuOTdFdEt4cnFmZHB5ZVdJRFZQQkVRRjVNb0JCdXJiT1IxUWY2ZXFDWWk5bkVXSjVkVFIwRUhRQzZKSldrelBMbTV0WTF3VU5qS0VQa1J0WGZTT2Juc3ZNbVVQOENia1k0Slp0YVJoeTRKcDVRVkZlRVo4UTFQbWZaNHcwbW9hVk95X0trYjJmZTVSZTQ3WnRSQzctVWw?oc=5",
       "source": "Google News",
-      "published": "2026-11-16T12:06:49",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE8yR1RTaWl5SnlOcElrS1BHZzI5bEhoWmJJTFRQb3RSVTFhVnNFdjZXWEFRdW5BZWRScVVWdjR4eXVJNUxqdWJmN1BoZ1ZPQ0xweGx4b2FoYTZMc2gyM3o3UG9pdl91NlUwSFBtaVdaT1Zjd2hyamhkdg?oc=5\" target=\"_blank\">Свыше 300 предприятий юга России используют ИИ для автоматизации процессов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ведомости Юг</font>",
+      "published": "2026-11-16T13:59:56",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQUNLTzZCdHpPRFAxU1pHd0F6U3lvR2JXTXFhNl8yWHdjTGxuOTdFdEt4cnFmZHB5ZVdJRFZQQkVRRjVNb0JCdXJiT1IxUWY2ZXFDWWk5bkVXSjVkVFIwRUhRQzZKSldrelBMbTV0WTF3VU5qS0VQa1J0WGZTT2Juc3ZNbVVQOENia1k0Slp0YVJoeTRKcDVRVkZlRVo4UTFQbWZaNHcwbW9hVk95X0trYjJmZTVSZTQ3WnRSQzctVWw?oc=5\" target=\"_blank\">Доклад ЮНЕСКО и UCL: льстивый ИИ нельзя доверять разработке климатической политики</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ИИ вместо Канье Уэста: на «Грэмми» номинировали скандальный альбом рэпера - RTVI",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMEpvUk1FWFBOanc3NU03M3AzVlJMbjdaaG9RTjF3dFk5MmxMT1JBZGwwSFpZQjJIcWJoSU9EUXN3WW1LdUxpdFhhMDhnMUdaZFktZTZMR0RoTEZITFFtdlpOTzRHSHVrMzNXTFJQQjExZHBhRTBfQ3FFcEQ0eThsRWxBMmVEUXc4ZzN6RWxqTnExTHlG?oc=5",
+      "source": "Google News",
+      "published": "2026-11-16T19:37:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNMEpvUk1FWFBOanc3NU03M3AzVlJMbjdaaG9RTjF3dFk5MmxMT1JBZGwwSFpZQjJIcWJoSU9EUXN3WW1LdUxpdFhhMDhnMUdaZFktZTZMR0RoTEZITFFtdlpOTzRHSHVrMzNXTFJQQjExZHBhRTBfQ3FFcEQ0eThsRWxBMmVEUXc4ZzN6RWxqTnExTHlG?oc=5\" target=\"_blank\">ИИ вместо Канье Уэста: на «Грэмми» номинировали скандальный альбом рэпера</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTVI</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Доклад ЮНЕСКО об изменении климата и ИИ: чат-боты соглашаются с пользователями вопреки науке - UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41Ny1sU0QxNlE1T3dsQm1Vb0ZlSEd5RThNeWxBcG5XM1F3T0x1aExiMnB1Q21OeEJvYl9iMW5hVU41Y0pnaFlBczdTYTZkUDFpSGJVcGZFRQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-16T19:56:51",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE41Ny1sU0QxNlE1T3dsQm1Vb0ZlSEd5RThNeWxBcG5XM1F3T0x1aExiMnB1Q21OeEJvYl9iMW5hVU41Y0pnaFlBczdTYTZkUDFpSGJVcGZFRQ?oc=5\" target=\"_blank\">Доклад ЮНЕСКО об изменении климата и ИИ: чат-боты соглашаются с пользователями вопреки науке</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UN News</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "В российских школах введут обязательные уроки по ИИ и цифровой безопасности - rb.ru",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcmxEUGRvWi1pMlY3b1pWaGJmd3hsdVVuS3l5X3BEZVFNdDFBUmxCZklxWUVsa0ctVlUxbDhPRnY1Y1phbFRzLVZJZWFlU1g5SlJkNFlDMzZaaUt1dUZza2VNT3pkSU1IbTJSMV85cmJVMDFFZ3VyUnlQWHdkYi1HcnZuVjFiWGMydzZ3QVppUGxGY1BDYnlfbTFTUEVyNjJ6ckMxZUN1MjgwZE0yZzRXdFNBb0RtUmNFZ2NPSW1yYnRPSXZ2MzdUZFc0RGpZNUpOS1B5MA?oc=5",
+      "source": "Google News",
+      "published": "2026-11-16T18:00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcmxEUGRvWi1pMlY3b1pWaGJmd3hsdVVuS3l5X3BEZVFNdDFBUmxCZklxWUVsa0ctVlUxbDhPRnY1Y1phbFRzLVZJZWFlU1g5SlJkNFlDMzZaaUt1dUZza2VNT3pkSU1IbTJSMV85cmJVMDFFZ3VyUnlQWHdkYi1HcnZuVjFiWGMydzZ3QVppUGxGY1BDYnlfbTFTUEVyNjJ6ckMxZUN1MjgwZE0yZzRXdFNBb0RtUmNFZ2NPSW1yYnRPSXZ2MzdUZFc0RGpZNUpOS1B5MA?oc=5\" target=\"_blank\">В российских школах введут обязательные уроки по ИИ и цифровой безопасности</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rb.ru</font>",
       "tags": [
         "google_news"
       ],
@@ -951,6 +1098,66 @@
       ]
     },
     {
+      "title": "В парламенте Казахстана рассказали о разработанном с помощью ИИ законопроекте - Эксперт",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdlNnYzFRT2luVTl5REFTQlpGSURDRUlPRnctUmJRZ2wwV2tlSGxWeldMYnVLRnBzWHNabmRJLWhVamR5ellDNlVER3JPZE5XLWMzZ3ozd1Y0WkhRclBXMEgwNFJqdG5WMmtRTTNjNXJSMVAxLWFxQWh4SFNCLWdxc3FvN3I2MFJjUEw5ZFpmclhlaEd1aGkxN0tVQzg3WTNhZzhtdEhn?oc=5",
+      "source": "Google News",
+      "published": "2026-11-16T12:18:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNdlNnYzFRT2luVTl5REFTQlpGSURDRUlPRnctUmJRZ2wwV2tlSGxWeldMYnVLRnBzWHNabmRJLWhVamR5ellDNlVER3JPZE5XLWMzZ3ozd1Y0WkhRclBXMEgwNFJqdG5WMmtRTTNjNXJSMVAxLWFxQWh4SFNCLWdxc3FvN3I2MFJjUEw5ZFpmclhlaEd1aGkxN0tVQzg3WTNhZzhtdEhn?oc=5\" target=\"_blank\">В парламенте Казахстана рассказали о разработанном с помощью ИИ законопроекте</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Эксперт</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Крупный бизнес стал осторожнее внедрять ИИ - Fonar.tv",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaTRKODRzVTlnUmxyNkg3TVgzMTFlWVlCSFdYS3AtWWczY0VaT3EzXzMwS3VPQlprdTVoUXI1Qmpmd3JwcW9abzY4VE1aQkJTS0pyVDAyUndLa1haOFRMbXFVZ29sYTRHX21WdWpweDRIOWZScnhXSVR4ZHJRWXNLbmFn?oc=5",
+      "source": "Google News",
+      "published": "2026-11-16T11:49:44",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNaTRKODRzVTlnUmxyNkg3TVgzMTFlWVlCSFdYS3AtWWczY0VaT3EzXzMwS3VPQlprdTVoUXI1Qmpmd3JwcW9abzY4VE1aQkJTS0pyVDAyUndLa1haOFRMbXFVZ29sYTRHX21WdWpweDRIOWZScnhXSVR4ZHJRWXNLbmFn?oc=5\" target=\"_blank\">Крупный бизнес стал осторожнее внедрять ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fonar.tv</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ИИ в образовании: представители КФУ о границах полезности, академической честности и рисках зависимости - Казанский (Приволжский) федеральный университет",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQkd6SEw0UHN1X0xJMllxWTdmRmh6UUdhSGdyd19XVDNKekxCNWNUMjcySUVfOWszTWM0ZXJEZXFoLU5FR0tWaFdFbkFMLWlnbTdTWHRwN3NCcXpaQjZiQlJXanZGeXdNZU1SaFpqSzZUT1llaHRCTFFJOFZXVnVlZkt0aGhpTzFiRnM5eURydE1vdFlMcjdzLVpZMXRrY3VsU1pkVXdaNlN6Z2VPQ1NHSXpSbWowTzVoVEFwaw?oc=5",
+      "source": "Google News",
+      "published": "2026-11-16T13:50:31",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOQkd6SEw0UHN1X0xJMllxWTdmRmh6UUdhSGdyd19XVDNKekxCNWNUMjcySUVfOWszTWM0ZXJEZXFoLU5FR0tWaFdFbkFMLWlnbTdTWHRwN3NCcXpaQjZiQlJXanZGeXdNZU1SaFpqSzZUT1llaHRCTFFJOFZXVnVlZkt0aGhpTzFiRnM5eURydE1vdFlMcjdzLVpZMXRrY3VsU1pkVXdaNlN6Z2VPQ1NHSXpSbWowTzVoVEFwaw?oc=5\" target=\"_blank\">ИИ в образовании: представители КФУ о границах полезности, академической честности и рисках зависимости</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Казанский (Приволжский) федеральный университет</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "В Челябинске обсудили, каким должен быть национальный искусственный интеллект - 1obl.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORU1MN19YMnBMSTJEdkU3ZDkyUHJPRnBrdDRhQ3RiVlFSRzlZR1hoZWdndG9BVmFJRFR3dUNrSS1UcnFFQlM5OGZkRW9NWE00c0tHU0hCWTZDWGU3eVBHVFA1cURHbzZCcXJiRTlJeVU3bTAxaFpIUEljUUtIMVFyRmVHMDcwclVZZDVsd0N2VmRfbFRoeHU0REJzSXhmVGp1b1FhaXd1SlRjb1RRYmFHcnZBNzhadw?oc=5",
+      "source": "Google News",
+      "published": "2026-11-16T15:43:41",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxORU1MN19YMnBMSTJEdkU3ZDkyUHJPRnBrdDRhQ3RiVlFSRzlZR1hoZWdndG9BVmFJRFR3dUNrSS1UcnFFQlM5OGZkRW9NWE00c0tHU0hCWTZDWGU3eVBHVFA1cURHbzZCcXJiRTlJeVU3bTAxaFpIUEljUUtIMVFyRmVHMDcwclVZZDVsd0N2VmRfbFRoeHU0REJzSXhmVGp1b1FhaXd1SlRjb1RRYmFHcnZBNzhadw?oc=5\" target=\"_blank\">В Челябинске обсудили, каким должен быть национальный искусственный интеллект</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1obl.</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "искусственный интеллект"
+      ]
+    },
+    {
       "title": "Уволили специалистов ради ИИ. А кто через пять лет будет ставить ему задачи? - Хабр",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LQVdhdE11T0Y5Z0xzZm02cHE5ckFvallZQV9kVEsxMGtHck9uU0IyY0JZXzRHVFhwWk85OXloR0Y1d2pueEI2OGd2MkJSUdIBWEFVX3lxTE9ISTZOY25tU3A4SC16S1A5aUFYMXh1XzhtbnJFQm9ZajhHeFRwUlFWd2kzSGdNa1BQc0hMcm5xd0FjTUxOM3duYlJJSkQ4MVZUaXNTTlFlVDI?oc=5",
       "source": "Google News",
@@ -964,123 +1171,36 @@
       "matched_keywords": [
         "ИИ"
       ]
-    },
-    {
-      "title": "Искусственный интеллект и экономика США — между луддизмом и здравым смыслом - Российский совет по международным делам",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNU5lRW0xVlJrZGxWdlFwOURJdHFSSkVLVGQ1V3oza0RNeTI4eGh6N1JwbjFDLTNPbExiRlNxM2Y1aHJsaTdIV1lFZXVBa0FuQmEwekh2T3J2T2djWVpXRDAtTkZOX09GRkgtRjlEUHc5Q0NuQnNESWduQjlkY2V3ODNKTUd0UnZiRm9MNFAyOUZ4a2pHLUViY3lkNnhpYUxlNEx6WWF1LVRZdWRvX2QzLU9YdkdDNUFscmd3Zk9MS05TVlRsU2Y0UFJVX2Zob2M?oc=5",
-      "source": "Google News",
-      "published": "2026-11-16T11:19:55",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQNU5lRW0xVlJrZGxWdlFwOURJdHFSSkVLVGQ1V3oza0RNeTI4eGh6N1JwbjFDLTNPbExiRlNxM2Y1aHJsaTdIV1lFZXVBa0FuQmEwekh2T3J2T2djWVpXRDAtTkZOX09GRkgtRjlEUHc5Q0NuQnNESWduQjlkY2V3ODNKTUd0UnZiRm9MNFAyOUZ4a2pHLUViY3lkNnhpYUxlNEx6WWF1LVRZdWRvX2QzLU9YdkdDNUFscmd3Zk9MS05TVlRsU2Y0UFJVX2Zob2M?oc=5\" target=\"_blank\">Искусственный интеллект и экономика США — между луддизмом и здравым смыслом</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Российский совет по международным делам</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "искусственный интеллект"
-      ]
-    },
-    {
-      "title": "Созданы эффективные мемристоры для нейроморфного ИИ - Научная Россия",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVWNYdlI2TURydEl3NFNGRXl6Q1Y5WmNnZm9Fb0VLalQtbjlhMjRjSUZKcGJFdDBRQk9Cd2VsZmE5dTFUZWFFZllaaW5YYzhPeDU1Qm9JdWZVdWowX0dPUmlnV3hJanpReFY0RTNvV1E3dlFGTVNIcy10VXZSWTJBdV93Sno0TVpaUTlVY0MyUUFkQQ?oc=5",
-      "source": "Google News",
-      "published": "2026-11-16T13:04:56",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPVWNYdlI2TURydEl3NFNGRXl6Q1Y5WmNnZm9Fb0VLalQtbjlhMjRjSUZKcGJFdDBRQk9Cd2VsZmE5dTFUZWFFZllaaW5YYzhPeDU1Qm9JdWZVdWowX0dPUmlnV3hJanpReFY0RTNvV1E3dlFGTVNIcy10VXZSWTJBdV93Sno0TVpaUTlVY0MyUUFkQQ?oc=5\" target=\"_blank\">Созданы эффективные мемристоры для нейроморфного ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Научная Россия</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Теневой ИИ в бизнесе России: как нейросети меняют работу сотрудников и защиту данных - Финансы Mail",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVnRrUXhxMy1kZTc3eUdERTlhRHl5S0h0alJLcnd4bm1yM0tIMVBCZ2pnbFlYV2RROEN5UnlWREhTVW40cXNheG9QNFJXMnEzejhUdVdiVm1FZHRsWGdTa0x2bkM4cnhiVUFDMWZSWVFjSS1fV0k2cG1ndG1wT3V5YWNhMzVrYXlZT3hqa2ZhTU5wVmdwS3JtYXk4QmlidjV4Yk43X0pVcw?oc=5",
-      "source": "Google News",
-      "published": "2026-11-16T10:00:56",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQVnRrUXhxMy1kZTc3eUdERTlhRHl5S0h0alJLcnd4bm1yM0tIMVBCZ2pnbFlYV2RROEN5UnlWREhTVW40cXNheG9QNFJXMnEzejhUdVdiVm1FZHRsWGdTa0x2bkM4cnhiVUFDMWZSWVFjSS1fV0k2cG1ndG1wT3V5YWNhMzVrYXlZT3hqa2ZhTU5wVmdwS3JtYXk4QmlidjV4Yk43X0pVcw?oc=5\" target=\"_blank\">Теневой ИИ в бизнесе России: как нейросети меняют работу сотрудников и защиту данных</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Финансы Mail</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Человек и искусственный интеллект: на XXXI Димитриевских образовательных чтениях обсудили вызовы современных технологий - Южный федеральный университет",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LTnZQQThMcW56Nkx0NEJzR2JrTUh2WElzcm1CWEVDNkRWc1dTcWF0dm01YzFPbUpjWFFZaVFUXzJXMUZ1Y1JPekNiTTVNTGNQZVE?oc=5",
-      "source": "Google News",
-      "published": "2026-11-16T09:00:58",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LTnZQQThMcW56Nkx0NEJzR2JrTUh2WElzcm1CWEVDNkRWc1dTcWF0dm01YzFPbUpjWFFZaVFUXzJXMUZ1Y1JPekNiTTVNTGNQZVE?oc=5\" target=\"_blank\">Человек и искусственный интеллект: на XXXI Димитриевских образовательных чтениях обсудили вызовы современных технологий</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Южный федеральный университет</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "искусственный интеллект"
-      ]
-    },
-    {
-      "title": "В новой версии Directum Omni появился ИИ-поиск - CNews.ru",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbk1VVGZCQmlFOWJJcUY0SWNtM042NnNJRFhKR0ZZVUVXSHA5cUFueFFUT3ZUOVRWX0hpX29kTmNaalYwMlpEYTdjZnI5dFBlNkxUQVhjX2ZLRmJzc3h3OEsySHRqX1BMcjcwX2dGTlNSTlFXekE0VVAwbXc3TndnaTVJS1BxcS1x?oc=5",
-      "source": "Google News",
-      "published": "2026-11-16T11:18:45",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbk1VVGZCQmlFOWJJcUY0SWNtM042NnNJRFhKR0ZZVUVXSHA5cUFueFFUT3ZUOVRWX0hpX29kTmNaalYwMlpEYTdjZnI5dFBlNkxUQVhjX2ZLRmJzc3h3OEsySHRqX1BMcjcwX2dGTlNSTlFXekE0VVAwbXc3TndnaTVJS1BxcS1x?oc=5\" target=\"_blank\">В новой версии Directum Omni появился ИИ-поиск</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNews.ru</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Нейросеть ошибается убедительно: что можно доверить ИИ при подготовке медицинского доклада, а что — нет - Sostav.ru",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93UElLbWV0Sndyd002d1ZONkRDX2s1Vm5XZ2RJSWdBbE9nWGJDSTE2cWhtc1lTQXczSXdpSzlyaTdpcGUyWWpBcmFVbXVLOUhBeUZv?oc=5",
-      "source": "Google News",
-      "published": "2026-11-16T11:10:08",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE93UElLbWV0Sndyd002d1ZONkRDX2s1Vm5XZ2RJSWdBbE9nWGJDSTE2cWhtc1lTQXczSXdpSzlyaTdpcGUyWWpBcmFVbXVLOUhBeUZv?oc=5\" target=\"_blank\">Нейросеть ошибается убедительно: что можно доверить ИИ при подготовке медицинского доклада, а что — нет</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sostav.ru</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
     }
   ],
   "groups": {
     "by_source": {
+      "ТАСС": 1,
       "Коммерсантъ": 1,
       "Ведомости": 3,
       "Digital_Russia": 2,
       "Habr_AI": 26,
-      "CNews": 12,
-      "3DNews": 2,
+      "CNews": 15,
+      "3DNews": 6,
+      "VC_ru_Технологии": 1,
       "ИИ комплаенс и этика": 1,
-      "Google News": 23
+      "Google News": 22
     },
     "by_category": {
-      "general_news": 4,
-      "tech_news": 42,
+      "general_news": 5,
+      "tech_news": 49,
+      "ai_and_regulation": 1,
       "telegram_channels": 1,
-      "google_news": 23
+      "google_news": 22
     },
     "by_keyword": {
-      "Минцифры": 5,
-      "ИИ": 49,
+      "ИИ": 56,
+      "Минцифры": 6,
       "цифровая трансформация": 1,
-      "AI": 17,
+      "AI": 18,
       "aigovernance": 1,
-      "регулирование": 2,
-      "ESG": 5,
+      "регулирование": 3,
+      "ESG": 3,
       "искусственный интеллект": 2
     }
   }
