@@ -1,33 +1,34 @@
 {
-  "timestamp": "2026-11-17_17-55",
-  "total_articles": 73,
+  "timestamp": "2026-11-17_23-56",
+  "total_articles": 64,
   "sources": {
+    "ТАСС": 1,
     "Digital_Russia": 2,
-    "Habr_AI": 26,
-    "CNews": 15,
+    "Habr_AI": 21,
+    "CNews": 13,
     "3DNews": 8,
-    "VC_ru_Технологии": 2,
-    "Google News": 20
+    "ИИ комплаенс и этика": 1,
+    "Google News": 18
   },
   "top_keywords": [
     [
       "ИИ",
-      64
+      53
     ],
     [
       "AI",
-      9
+      8
     ],
     [
       "искусственный интеллект",
-      2
-    ],
-    [
-      "Минцифры",
-      2
+      4
     ],
     [
       "ESG",
+      3
+    ],
+    [
+      "Минцифры",
       2
     ],
     [
@@ -41,64 +42,64 @@
   ],
   "recent_headlines": [
     {
-      "title": "После скандала Nvidia взяла экспорт чипов под особый контроль — в компании создали комитет по нацбезопасности",
+      "title": "OpenAI представила две «жутко умные» модели ИИ — GPT-6.2 Astra для профи и GPT-6.2 Sol для повседневных дел",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1151415",
-      "published": "2026-11-17T14:55:00"
+      "url": "https://3dnews.ru/1151437",
+      "published": "2026-11-17T20:38:00"
     },
     {
-      "title": "EP Azadi Шарлотты де Витте с певицей ИИ NAVA вызывает споры среди фанатов техно - Euronews.com",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcHhXZlpfeTZRcEtkYlBCOWtqNjlhSkFiU0lkc3gtUUdwVVJWTnFiUWk2dVpuR05Ebi13VjNZblIwaWdnUzljSEpyemRZZkFoZHgwYjM5a1hRT0hhVVdXRS1tcWJZNC1RanNtRm93MHFhQnNqdWcyXzl6S2JNXy1RUGNrTy1IaHZMS3Jvb1U4Z2tCMmYzN204NDhHMXJDRWV3ZDFaZ2ZpTjI5WlNRV2xRd05fM0tnekgwMjlhY21NYUhKRVU?oc=5",
-      "published": "2026-11-17T14:40:54"
+      "title": "Apple тестирует лимиты для Siri AI — за дополнительные сложные запросы придётся платить",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151436",
+      "published": "2026-11-17T20:34:00"
     },
     {
-      "title": "Isomorphic Labs привлекла $5 млрд на разработку лекарств с помощью ИИ - ForkLog",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWllyREZ4LTNrVU9xZmc3QUF6aUhtQ294WjlVa1FrSnQ1a3dDa3d6RVFnME14TnVZMWctalB0R3ZEQ0hEWFpscFU0eThUbm5aS2ZmY3lSVG5GYkgwZ3dIVGVmM09GbndPZ0NNbjBXcmxDc3J5aURjZjJISDRHRmpGMkUzYXRheWJndFJsNjRmeHA0VlBz?oc=5",
-      "published": "2026-11-17T14:40:00"
+      "title": "Российская делегация возложила венок в Национальном пантеоне Венесуэлы",
+      "source": "ТАСС",
+      "url": "https://tass.ru/obschestvo/28327919",
+      "published": "2026-11-17T19:58:26"
     },
     {
-      "title": "В России появился конкурент Claude Code: ИИ-агент Doaid пишет код и исправляет ошибки - skillbox.ru",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd044WHdUNURWN2xjZE1kVFg0TnNaaXZ2c2oxQzBLRUVYQ3hWRXJaNEk3ZWtIS3J0LTl6MEdQN0p6SUVLa2dGUGk3Zk1PV1BsRXIzVFdsbXo2b21nSXhHdEF6blFNdmpPOGtyWC13M1M2eTdTUW91bnlQa2w0NUF0VXN5dzVJQUxDSGI1Mk5rM0ROeUxwZ1Q3Yk5DUFZEOWhYN3lWSnZGdUZOVnVxak82T3NGTXg1NGdsSHpSeDFR?oc=5",
-      "published": "2026-11-17T14:39:29"
-    },
-    {
-      "title": "К чему привело решение Торвальдса использовать ИИ для разработки Linux — люди не справляются с проверкой кода",
-      "source": "Digital_Russia",
-      "url": "https://d-russia.ru/k-chemu-privelo-reshenie-torvaldsa-ispolzovat-ii-dlya-razrabotki-linux-lyudi-ne-spravlyayutsya-s-proverkoj-koda.html",
-      "published": "2026-11-17T14:35:34"
-    },
-    {
-      "title": "В Сбере рассказали, как ИИ помогает выявлять проблемы в клиентском опыте - Независимая газета",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VYTdsXzgtbFdDVG9GdDdCQTd5U20zeFdfeUNvSE43SjQtNEJqX3RhTjR0bVY4aXlMRE1MeVR5T2N1Qm5Hb3VnLXdR?oc=5",
-      "published": "2026-11-17T14:27:10"
-    },
-    {
-      "title": "Новый CS-Cart: управление магазином через ИИ и новые каналы продаж",
-      "source": "CNews",
-      "url": "https://www.cnews.ru/news/line/2026-11-17_novyj_cs-cart_upravlenie_magazinom",
-      "published": "2026-11-17T14:26:00"
-    },
-    {
-      "title": "Google пробует перенести ссылки на сайты в самый низ AI Overviews: почему сайту важнее, чтобы его назвали в ответе",
+      "title": "Я заменил себя AI‑аватаром на YouTube и случайно создал эффект зловещей долины",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1108948/?utm_campaign=1108948&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-17T14:24:06"
+      "url": "https://habr.com/ru/articles/1109028/?utm_campaign=1109028&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-17T19:41:07"
     },
     {
-      "title": "Миллиард, найденный в воронке, и бизнес-отчет за минуту: как облачные технологии помогают ИИ-продуктам расти - Inc. Russia",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWk5lMUM0SFhQMFVfOHg2X1dlM2J4NjZ5eHRkZVlaS0tuRzJKVFk1c1lvdFJCMmNleWN4cHhvc1l3WnZtLUZHeDZ2RDQ5Ymw4Q2lEc0RmYjIyQTYyVDc0T3p5dzVMVk5IektyOHZqekVxbW1LOFNmR2lDLUQ0cnAxRWVaS3VWUHU3M0d5RXdqeFdWcjl1d2VkZWIxY2ZYcFdTd1BkSmw1NjE1UklTWTBjWkRjSWI3TFFLODZQSFYxYmNiUmJrVmR0TjJiWHh6ZnBDSzFvSVdB?oc=5",
-      "published": "2026-11-17T14:06:01"
-    },
-    {
-      "title": "ИИ-ассистент для инженера АСУТП",
+      "title": "Будем покупать профессии? Как ИИ-платформы изменят рынок корпоративного ПО",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/severstal/articles/1108930/?utm_campaign=1108930&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-17T14:05:54"
+      "url": "https://habr.com/ru/articles/1109074/?utm_campaign=1109074&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-17T19:31:42"
+    },
+    {
+      "title": "Nvidia представила кластер из четырёх DGX Spark с 512 ГБ для запуска AI‑моделей размером до 700 млрд параметров",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1109072/?utm_campaign=1109072&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-17T19:24:32"
+    },
+    {
+      "title": "Хакеры взломали мощнейший суперкомпьютер Японии Fugaku — под угрозой оказались данные тысяч учёных",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151431",
+      "published": "2026-11-17T19:09:00"
+    },
+    {
+      "title": "Учёные придумали «солнечный LEGO» — разноцветные строительные блоки, способные вырабатывать электричество",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151429",
+      "published": "2026-11-17T18:45:00"
+    },
+    {
+      "title": "OpenAI выпустила новую ИИ-модель GPT-6.2 Astra - Финам",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbjBvenZJUjk3eUktbUJqVFUza1RuNnF3bHFjWWExa2k2ZlpMZkJ2dWtxdHk0Y2l4SFVHZXNKSmdWcDRrSmxDbUxHeGFIQ1V1SE52eWl3RWFZZzR0TDNkNjdCUXZtZnZTemNtalpDZTFSei1iOUh3d01uU0pCd2U3anFYUkJtWTlOME93WEZiNk1fbjZ4ZzhMTG04UXhLMktL?oc=5",
+      "published": "2026-11-17T18:35:55"
+    },
+    {
+      "title": "Фото разрушений Крымского моста после атаки ВСУ оказались сгенерированы ИИ - URA.RU",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBoUHM0ai1ReW9HOHZCU0JPV0ZTMEtFVV82UGdWOGdnalRkMEtobW5BdXdzYWhwN0FKVlJpSkJXQ1NLX20tQkZF?oc=5",
+      "published": "2026-11-17T18:33:00"
     }
   ]
 }
