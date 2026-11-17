@@ -1,0 +1,104 @@
+{
+  "timestamp": "2026-11-17_05-01",
+  "total_articles": 58,
+  "sources": {
+    "ТАСС": 1,
+    "Коммерсантъ": 1,
+    "Ведомости": 3,
+    "Digital_Russia": 2,
+    "Habr_AI": 26,
+    "CNews": 15,
+    "3DNews": 6,
+    "VC_ru_Технологии": 1,
+    "ИИ комплаенс и этика": 1,
+    "Google News": 2
+  },
+  "top_keywords": [
+    [
+      "ИИ",
+      42
+    ],
+    [
+      "AI",
+      18
+    ],
+    [
+      "Минцифры",
+      6
+    ],
+    [
+      "ESG",
+      2
+    ],
+    [
+      "цифровая трансформация",
+      1
+    ],
+    [
+      "aigovernance",
+      1
+    ]
+  ],
+  "recent_headlines": [
+    {
+      "title": "В Шэньчжэне начал работу деловой саммит АТЭС",
+      "source": "ТАСС",
+      "url": "https://tass.ru/ekonomika/28324183",
+      "published": "2026-11-17T01:10:17"
+    },
+    {
+      "title": "OpenAI ответит в суде за своих сорвавшихся с поводка ИИ-агентов — прокуроров заинтересовал взлом Hugging Face",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151380",
+      "published": "2026-11-16T21:02:00"
+    },
+    {
+      "title": "AMD поглотила разработчика ИИ-песочниц для роботов World Labs",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151374",
+      "published": "2026-11-16T20:38:00"
+    },
+    {
+      "title": "Я нанял ИИ искать мне работу. Неделя третья: один отклик и семь баллов, которые стали пятью",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1108614/?utm_campaign=1108614&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-16T20:24:27"
+    },
+    {
+      "title": "Поставил ИИ проверять ИИ, и тот научился списывать",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1108596/?utm_campaign=1108596&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-16T19:03:50"
+    },
+    {
+      "title": "Цифровые двойники (Digital Twin) в инженерных системах — Часть 1. Управление документацией",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1108160/?utm_campaign=1108160&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-16T18:09:11"
+    },
+    {
+      "title": "Почему 94% ИИ‑ответов игнорируют сайты самих компаний",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1108582/?utm_campaign=1108582&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-16T17:54:23"
+    },
+    {
+      "title": "Инвесторы охладели к ИИ-буму: производители оборудования для дата-центров подешевели на $4,2 трлн",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151365",
+      "published": "2026-11-16T17:42:00"
+    },
+    {
+      "title": "Минцифры запланировало запретить онлайн-оформление eSIM с неквалифицированной электронной подписью — понадобится УКЭП",
+      "source": "VC_ru_Технологии",
+      "url": "https://vc.ru/services/3259297-mincifry-ogranichivaet-oformlenie-esim-s-nekvalifitsirovannoy-podpisyu?from=rss",
+      "published": "2026-11-16T17:04:19"
+    },
+    {
+      "title": "Российские предприниматели инвестировали $2 млн в приложение для самопознания с ИИ Alma",
+      "source": "CNews",
+      "url": "https://www.cnews.ru/news/line/2026-11-16_rossijskie_predprinimateli",
+      "published": "2026-11-16T16:22:00"
+    }
+  ]
+}

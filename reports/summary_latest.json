@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-11-17_01-03",
-  "total_articles": 78,
+  "timestamp": "2026-11-17_05-01",
+  "total_articles": 58,
   "sources": {
     "ТАСС": 1,
     "Коммерсантъ": 1,
@@ -11,12 +11,12 @@
     "3DNews": 6,
     "VC_ru_Технологии": 1,
     "ИИ комплаенс и этика": 1,
-    "Google News": 22
+    "Google News": 2
   },
   "top_keywords": [
     [
       "ИИ",
-      56
+      42
     ],
     [
       "AI",
@@ -27,15 +27,7 @@
       6
     ],
     [
-      "регулирование",
-      3
-    ],
-    [
       "ESG",
-      3
-    ],
-    [
-      "искусственный интеллект",
       2
     ],
     [
@@ -49,28 +41,10 @@
   ],
   "recent_headlines": [
     {
-      "title": "США огранили удаленный доступ к обеспечивающим работу ИИ чипам и серверам",
+      "title": "В Шэньчжэне начал работу деловой саммит АТЭС",
       "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28323943",
-      "published": "2026-11-16T21:45:46"
-    },
-    {
-      "title": "Власти могут увеличить бюджет федпроекта «Искусственный интеллект» на 60% - Ведомости",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObzl4dTB4RFBJMzdmMWFXQ2wybDlIdERzT2lRa2V6a0NVQTRMYTRpZDllRElSLWM0RThSMzViWW5yWm81VWRBQzB1Rnp1QU5pR1FRblR6QkxsdUhJU01xZjRMX1V4NlpUdmV6QmN2TE5vX3pPTEJZUlVwczNNdHNmcVVVMUM1Z1JwZUEyWHpVdzhOS1NxNEF2dUFzN1Atb252Vmt6QWxCSWxaQVE?oc=5",
-      "published": "2026-11-16T21:34:39"
-    },
-    {
-      "title": "Правообладатели не получат ретроспективные выплаты за обучение ИИ на их контенте - Ведомости",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVjFnWUFFY3FlSXl2LTY5eHV2RDhiWWJLdDRlWGU1Vlh5MGI5d1J3WlJQeDVYVF95QWM1R1ZSMmV1dk5lWDQtWHIxUWZUZnBUenlodjFPZVhjX2NmUWVfd19SSl9GVXBRWDNsWmdzWGJLY3Z2WXliQnhiUWdsUHRaQUc0WnpzLWJiY2VQVkZsMUgxZy1mZG5aMHJn?oc=5",
-      "published": "2026-11-16T21:32:58"
-    },
-    {
-      "title": "ESG не умер: что означает упрощение ESRS в ЕС для украинского бизнеса - Forbes.ua",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVkYyMndVcXJ5UGFvaHA3QkNETnZkTVFFYzBGeWx4SEgyZjRwR0FpUi1ZS0JNMVFkaUtkb0QxQWZZUUdjdXVsc05LSDdEM0JlMGp5TUdnYmVUdjlwNXNha3hpZnRWVTRoV01ic25HV241dU5YV3NMZVpkZ0lWcFd2azhpTGFOS240Mkx0dnRXbHFwTmVuWUVVTEhSN1ppTUJYLTJhWkIxLVlTUmpBTDBLajBZZUNpMnFLSnd4UGNhN0JRbUE?oc=5",
-      "published": "2026-11-16T21:15:03"
+      "url": "https://tass.ru/ekonomika/28324183",
+      "published": "2026-11-17T01:10:17"
     },
     {
       "title": "OpenAI ответит в суде за своих сорвавшихся с поводка ИИ-агентов — прокуроров заинтересовал взлом Hugging Face",
@@ -91,22 +65,40 @@
       "published": "2026-11-16T20:24:27"
     },
     {
-      "title": "Доклад ЮНЕСКО об изменении климата и ИИ: чат-боты соглашаются с пользователями вопреки науке - UN News",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41Ny1sU0QxNlE1T3dsQm1Vb0ZlSEd5RThNeWxBcG5XM1F3T0x1aExiMnB1Q21OeEJvYl9iMW5hVU41Y0pnaFlBczdTYTZkUDFpSGJVcGZFRQ?oc=5",
-      "published": "2026-11-16T19:56:51"
-    },
-    {
-      "title": "ИИ вместо Канье Уэста: на «Грэмми» номинировали скандальный альбом рэпера - RTVI",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMEpvUk1FWFBOanc3NU03M3AzVlJMbjdaaG9RTjF3dFk5MmxMT1JBZGwwSFpZQjJIcWJoSU9EUXN3WW1LdUxpdFhhMDhnMUdaZFktZTZMR0RoTEZITFFtdlpOTzRHSHVrMzNXTFJQQjExZHBhRTBfQ3FFcEQ0eThsRWxBMmVEUXc4ZzN6RWxqTnExTHlG?oc=5",
-      "published": "2026-11-16T19:37:00"
-    },
-    {
       "title": "Поставил ИИ проверять ИИ, и тот научился списывать",
       "source": "Habr_AI",
       "url": "https://habr.com/ru/articles/1108596/?utm_campaign=1108596&utm_source=habrahabr&utm_medium=rss",
       "published": "2026-11-16T19:03:50"
+    },
+    {
+      "title": "Цифровые двойники (Digital Twin) в инженерных системах — Часть 1. Управление документацией",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1108160/?utm_campaign=1108160&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-16T18:09:11"
+    },
+    {
+      "title": "Почему 94% ИИ‑ответов игнорируют сайты самих компаний",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1108582/?utm_campaign=1108582&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-16T17:54:23"
+    },
+    {
+      "title": "Инвесторы охладели к ИИ-буму: производители оборудования для дата-центров подешевели на $4,2 трлн",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151365",
+      "published": "2026-11-16T17:42:00"
+    },
+    {
+      "title": "Минцифры запланировало запретить онлайн-оформление eSIM с неквалифицированной электронной подписью — понадобится УКЭП",
+      "source": "VC_ru_Технологии",
+      "url": "https://vc.ru/services/3259297-mincifry-ogranichivaet-oformlenie-esim-s-nekvalifitsirovannoy-podpisyu?from=rss",
+      "published": "2026-11-16T17:04:19"
+    },
+    {
+      "title": "Российские предприниматели инвестировали $2 млн в приложение для самопознания с ИИ Alma",
+      "source": "CNews",
+      "url": "https://www.cnews.ru/news/line/2026-11-16_rossijskie_predprinimateli",
+      "published": "2026-11-16T16:22:00"
     }
   ]
 }
