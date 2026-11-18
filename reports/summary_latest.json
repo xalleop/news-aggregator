@@ -1,111 +1,112 @@
 {
-  "timestamp": "2026-11-18_04-15",
-  "total_articles": 64,
+  "timestamp": "2026-11-18_17-35",
+  "total_articles": 81,
   "sources": {
-    "ТАСС": 1,
-    "Интерфакс": 2,
-    "Коммерсантъ": 1,
-    "Digital_Russia": 2,
-    "Habr_AI": 21,
-    "CNews": 13,
-    "3DNews": 8,
+    "ТАСС": 5,
+    "Ведомости": 1,
+    "Digital_Russia": 3,
+    "Habr_AI": 22,
+    "CNews": 14,
+    "3DNews": 9,
+    "VC_ru_Технологии": 1,
+    "AI Policy Perspectives": 1,
     "ИИ комплаенс и этика": 1,
-    "Google News": 15
+    "Google News": 24
   },
   "top_keywords": [
     [
       "ИИ",
-      53
+      62
     ],
     [
       "AI",
-      9
-    ],
-    [
-      "искусственный интеллект",
-      4
-    ],
-    [
-      "ESG",
-      2
-    ],
-    [
-      "цифровая трансформация",
-      1
-    ],
-    [
-      "policy",
-      1
+      12
     ],
     [
       "Минцифры",
-      1
+      3
+    ],
+    [
+      "искусственный интеллект",
+      3
     ],
     [
       "регулирование",
+      3
+    ],
+    [
+      "ESG",
+      3
+    ],
+    [
+      "машинное обучение",
+      1
+    ],
+    [
+      "aigovernance",
       1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Nvidia больше не поставляет в Китай ИИ-чипы H200",
+      "title": "Экономики АТЭС поддерживают использование ИИ малыми и средними предприятиями",
       "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28328395",
-      "published": "2026-11-18T00:29:59"
+      "url": "https://tass.ru/ekonomika/28331631",
+      "published": "2026-11-18T14:32:51"
     },
     {
-      "title": "Первопричина, приведшая к сбою в аэропортах США, пока не установлена",
-      "source": "Интерфакс",
-      "url": "https://www.interfax.ru/world/1129700",
-      "published": "2026-11-18T00:02:00"
-    },
-    {
-      "title": "Полмиллиарда на фабрику агентов. Что российский бизнес получит и потеряет вместе с ИИ - ComNews.ru",
+      "title": "Генеративный ИИ в медицине: что это, для кого и зачем? - Сеченовский Университет",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVm5VTVNvSnYxNWh4ckZTWEZBLUQ2OFV5bVhqZ0ZhR2dScF81MG5Ca21oYTJteF9GTFlnM09NV28wUnkzTWxXNjFXcVlMbUVRTnhtVlVVRjRuSzBzSWdlUnJaN1huUjgzcWRrNnNqZDJlbUlfREdqQ0VlUmx2U216cDBkT0NSSlRja0YzVGdFWVpVVUdVMUVpRjRvelh5aHdQU0FSOG5nWE8zYVlrMlJmNncxQ2ktUjgtNm5STWRMNjBHYlZ6TS1QRGc3d2RXbnZSTV85eFlxaHdmczdNaVE?oc=5",
-      "published": "2026-11-17T23:39:40"
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNHN4RVRiZ3REVXd6NWdTOWtXVVFHLXN0VjNWUXUzZFpraVczUURPSTR0X0wwYkY5VTdqbTM0RDc1MnNnY08yb1FCcnV0ZGQ0OWVJWTZxRkxUWTBMUU1NM3JIQXo3SEtKQXBkOVM5cVRwTEl3Q3o0LXFqbkJnbFJ3Z3BjSnVzSk5PU2dyTjQ5dGpMWE1X?oc=5",
+      "published": "2026-11-18T14:15:55"
     },
     {
-      "title": "Мы каждый день разговариваем со всеми знаниями человечества. Но становимся ли мы умнее?",
+      "title": "ПСБ проведёт в Ярославле ИТ-конференцию «Нейродень»",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1109138/?utm_campaign=1109138&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-17T22:57:33"
+      "url": "https://habr.com/ru/companies/psb/articles/1109484/?utm_campaign=1109484&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-18T14:07:51"
     },
     {
-      "title": "Пока суд да цифра // Цифровая трансформация судебной системы должна пройти в сжатые сроки",
-      "source": "Коммерсантъ",
-      "url": "https://www.kommersant.ru/doc/9112035",
-      "published": "2026-11-17T22:48:32"
+      "title": "What “Safe Robot” Means",
+      "source": "AI Policy Perspectives",
+      "url": "https://www.aipolicyperspectives.com/p/what-safe-robot-means",
+      "published": "2026-11-18T14:07:42"
     },
     {
-      "title": "Vals AI: ИИ‑модели можно использовать как автономное оружие. Они находят цели на снимках и выбирают гражданских",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1109124/?utm_campaign=1109124&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-17T22:10:06"
+      "title": "XXXI Всероссийский конгресс «Государственное регулирование недропользования» - АСН-инфо",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd2k4LXJ5TTBqVndvOEhKNGRrZnBLNUVWZEhEVFVuSUJGSjlGMURMaXdXbl85Zlc5NXFrWU5BX0RTMVVRaERJN1p5TTU5QURkQVljTnFkLUF1R0lNZXktVEotU3hiSWRuZXFmd0NrMkMzb3gyQVZ2blZGQzdQYUR0X01nN2s5NkVkQkRJdGdrdVRMSWpEbU5GQWxmX0tSclVrWkpfeGhuWGQtY0dZY0VURFJYQUFHQQ?oc=5",
+      "published": "2026-11-18T14:07:33"
     },
     {
-      "title": "Путин \"на полях\" саммита АТЭС проведет переговоры с Си Цзиньпином",
-      "source": "Интерфакс",
-      "url": "https://www.interfax.ru/world/1129683",
-      "published": "2026-11-17T21:12:00"
+      "title": "ИИ-модели OpenAI, Anthropic и Google при тестировании наводили дроны на скорую, сдающихся солдат и гражданских, их отмечали как военные цели - CNews.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc09PRkR0eUVEU1h6NXE4V2JQb29RcVR4dU9vZnVOd0dnMlQtdm84b2p3VHJYeEVSelJIc1hsTXJfenBCTWhYUTVWajllR2tmTDYwY1lwU01qNXRzREFhQ0JWQ2Y3WDBXblRwTEF2YWRadk1VLWJyVkNUQlNPckdrTw?oc=5",
+      "published": "2026-11-18T14:02:08"
     },
     {
-      "title": "Microsoft представила семь ИИ-моделей: одни пишут и исправляют код, другие ищут уязвимости, редактируют изображения и общаются голосом",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151438",
-      "published": "2026-11-17T21:09:00"
+      "title": "Деловой саммит АТЭС призвал создать систему регулирования ИИ",
+      "source": "ТАСС",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28331531",
+      "published": "2026-11-18T13:56:21"
     },
     {
-      "title": "OpenAI представила две «жутко умные» модели ИИ — GPT-6.2 Astra для профи и GPT-6.2 Sol для повседневных дел",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151437",
-      "published": "2026-11-17T20:38:00"
+      "title": "Суды начали требовать раскрывать использование ИИ. Может быть, пора разработать стандарт отчётности для процессуальных документов? - zakon.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVnM1bE9wV3JNWkVXMHVlemNrV3VHNVgwbll2TjJvTW9xZ0Z2LXpIMjVRLWRqODE5cUk4dVV2SlQ5Mmx2MDFETzZ5Um93WVc3NTN5OHdPek1jM0R2cnNUY0tmczBrZWt0dF9nU2U1aF84Unl0VXhxTlVaOGgxQk1LbU1hZ2s1MU1idU5DQUxCellFSXowZ0Qzdk9JN3hPRkYzcjhEXzJvZzN4THlOcDVHWFViSjhTUWZVY3dIYXJKOUdlT0ZzU2JVZmREX0tKUQ?oc=5",
+      "published": "2026-11-18T13:54:48"
     },
     {
-      "title": "Apple тестирует лимиты для Siri AI — за дополнительные сложные запросы придётся платить",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151436",
-      "published": "2026-11-17T20:34:00"
+      "title": "В МГУ создали совет по развитию искусственного интеллекта",
+      "source": "ТАСС",
+      "url": "https://tass.ru/nauka/28331491",
+      "published": "2026-11-18T13:44:49"
+    },
+    {
+      "title": "В МВД рассказали, как грамотно установить настройки для ИИ-агента",
+      "source": "ТАСС",
+      "url": "https://tass.ru/obschestvo/28331487",
+      "published": "2026-11-18T13:42:32"
     }
   ]
 }
