@@ -1,42 +1,47 @@
 {
-  "timestamp": "2026-11-18_17-35",
-  "total_articles": 81,
+  "timestamp": "2026-11-18_23-33",
+  "total_articles": 78,
   "sources": {
-    "ТАСС": 5,
-    "Ведомости": 1,
-    "Digital_Russia": 3,
-    "Habr_AI": 22,
-    "CNews": 14,
-    "3DNews": 9,
-    "VC_ru_Технологии": 1,
+    "Интерфакс": 1,
+    "Ведомости": 2,
+    "Digital_Russia": 2,
+    "Habr_AI": 21,
+    "CNews": 15,
+    "3DNews": 12,
+    "VC_ru_Технологии": 2,
     "AI Policy Perspectives": 1,
+    "AI Futures Project": 1,
     "ИИ комплаенс и этика": 1,
-    "Google News": 24
+    "Google News": 20
   },
   "top_keywords": [
     [
       "ИИ",
-      62
+      57
     ],
     [
       "AI",
-      12
-    ],
-    [
-      "Минцифры",
-      3
+      11
     ],
     [
       "искусственный интеллект",
-      3
-    ],
-    [
-      "регулирование",
-      3
+      7
     ],
     [
       "ESG",
       3
+    ],
+    [
+      "Минцифры",
+      2
+    ],
+    [
+      "регулирование",
+      2
+    ],
+    [
+      "цифровая трансформация",
+      1
     ],
     [
       "машинное обучение",
@@ -49,64 +54,64 @@
   ],
   "recent_headlines": [
     {
-      "title": "Экономики АТЭС поддерживают использование ИИ малыми и средними предприятиями",
-      "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28331631",
-      "published": "2026-11-18T14:32:51"
-    },
-    {
-      "title": "Генеративный ИИ в медицине: что это, для кого и зачем? - Сеченовский Университет",
+      "title": "Названы восемь путей, как ИИ может угрожать человечеству - Телеканал «Наука",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNHN4RVRiZ3REVXd6NWdTOWtXVVFHLXN0VjNWUXUzZFpraVczUURPSTR0X0wwYkY5VTdqbTM0RDc1MnNnY08yb1FCcnV0ZGQ0OWVJWTZxRkxUWTBMUU1NM3JIQXo3SEtKQXBkOVM5cVRwTEl3Q3o0LXFqbkJnbFJ3Z3BjSnVzSk5PU2dyTjQ5dGpMWE1X?oc=5",
-      "published": "2026-11-18T14:15:55"
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVkZ4R2dHNTk1OVVSTE1yYTFZYVcyUHNBX1QyRzNMTlktSDhpQzBIQTcwMjRNUkMwMlBUVDlRN2RfR0JCTlhESWFfR0ZDUW9oeUdJdmJFaC1OQ0MzRE9YWkk5OVJ0YUlvUmVha19GUDBMZ0dfTGdNYjVpMjBBLTFFRXBsd19oVmNnQ3Y4eF9nZFJ2cThEOUFrNmhoay1jcVloV05IYk5UTXRkZWRXenpQX3U0dWZZTmk4SkNMdnJ3MTB2QmFlMGJiNUtNa0IwTjg?oc=5",
+      "published": "2026-11-18T19:46:53"
     },
     {
-      "title": "ПСБ проведёт в Ярославле ИТ-конференцию «Нейродень»",
+      "title": "В Nginx нашли две критические дыры — хакеры могут захватить сервер без пароля",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151495",
+      "published": "2026-11-18T19:38:00"
+    },
+    {
+      "title": "ИИ советует. Врач отвечает",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/psb/articles/1109484/?utm_campaign=1109484&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-18T14:07:51"
-    },
-    {
-      "title": "What “Safe Robot” Means",
-      "source": "AI Policy Perspectives",
-      "url": "https://www.aipolicyperspectives.com/p/what-safe-robot-means",
-      "published": "2026-11-18T14:07:42"
+      "url": "https://habr.com/ru/articles/1109602/?utm_campaign=1109602&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-18T19:28:48"
     },
     {
       "title": "XXXI Всероссийский конгресс «Государственное регулирование недропользования» - АСН-инфо",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd2k4LXJ5TTBqVndvOEhKNGRrZnBLNUVWZEhEVFVuSUJGSjlGMURMaXdXbl85Zlc5NXFrWU5BX0RTMVVRaERJN1p5TTU5QURkQVljTnFkLUF1R0lNZXktVEotU3hiSWRuZXFmd0NrMkMzb3gyQVZ2blZGQzdQYUR0X01nN2s5NkVkQkRJdGdrdVRMSWpEbU5GQWxmX0tSclVrWkpfeGhuWGQtY0dZY0VURFJYQUFHQQ?oc=5",
-      "published": "2026-11-18T14:07:33"
+      "published": "2026-11-18T19:11:41"
     },
     {
-      "title": "ИИ-модели OpenAI, Anthropic и Google при тестировании наводили дроны на скорую, сдающихся солдат и гражданских, их отмечали как военные цели - CNews.ru",
+      "title": "Понятие «Технологии искусственного интеллекта» в нормативных актах РФ",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1109594/?utm_campaign=1109594&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-18T19:07:19"
+    },
+    {
+      "title": "Даже удвоение прибыли не спасло Nvidia: акции компании снова пошли вниз, потянув за собой весь ИИ-сектор",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151491",
+      "published": "2026-11-18T18:58:00"
+    },
+    {
+      "title": "Интервью футуролога Сергея Переслегина: Путин, Си и Трамп — это G3, какой будет война 2030 года, провалы менеджмента из-за ИИ - ВФокусе Mail",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc09PRkR0eUVEU1h6NXE4V2JQb29RcVR4dU9vZnVOd0dnMlQtdm84b2p3VHJYeEVSelJIc1hsTXJfenBCTWhYUTVWajllR2tmTDYwY1lwU01qNXRzREFhQ0JWQ2Y3WDBXblRwTEF2YWRadk1VLWJyVkNUQlNPckdrTw?oc=5",
-      "published": "2026-11-18T14:02:08"
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdUtQS29rNnhCNlk1UE1NWXF2TE5XZElqb25scThRSjFzQmZZT3JxRkpUV3hWQk5BNUswV0lQODNnajJ3QU1IVUEwS25CRWtQMS1ZZVRKRHBwUVZVd2NNdW8xR3p1Y3NkT0tJbHRYbnM1TE1IbEtVSTRJRlM3dENtVVBRbGtUQ1BJeFh1QVpCUi12TmtxakxFX2tpWl9LSVdBUmticVhXN0QtZEFaeFBfQmNGQ1hvT1dWMVJTUEdrTjl4bkRlVk9vdV95NlhpVDh0RUU0ZzVjSEdTWEZDc0RWWU1SZFNXVG9mRDZrUlZFYXE?oc=5",
+      "published": "2026-11-18T18:53:00"
     },
     {
-      "title": "Деловой саммит АТЭС призвал создать систему регулирования ИИ",
-      "source": "ТАСС",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28331531",
-      "published": "2026-11-18T13:56:21"
+      "title": "Pacing AI via Compute Reallocation",
+      "source": "AI Futures Project",
+      "url": "https://blog.aifutures.org/p/pacing-ai-via-compute-reallocation",
+      "published": "2026-11-18T18:22:17"
     },
     {
-      "title": "Суды начали требовать раскрывать использование ИИ. Может быть, пора разработать стандарт отчётности для процессуальных документов? - zakon.ru",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVnM1bE9wV3JNWkVXMHVlemNrV3VHNVgwbll2TjJvTW9xZ0Z2LXpIMjVRLWRqODE5cUk4dVV2SlQ5Mmx2MDFETzZ5Um93WVc3NTN5OHdPek1jM0R2cnNUY0tmczBrZWt0dF9nU2U1aF84Unl0VXhxTlVaOGgxQk1LbU1hZ2s1MU1idU5DQUxCellFSXowZ0Qzdk9JN3hPRkYzcjhEXzJvZzN4THlOcDVHWFViSjhTUWZVY3dIYXJKOUdlT0ZzU2JVZmREX0tKUQ?oc=5",
-      "published": "2026-11-18T13:54:48"
+      "title": "«Мы назовём это ChatGPT»: вышел дублированный трейлер фильма «Искусственный интеллект» об основателях OpenAI с Эндрю Гарфилдом и Юрой Борисовым",
+      "source": "VC_ru_Технологии",
+      "url": "https://vc.ru/media/3264413-film-iskusstvennyj-intellekt-s-endryu-garfieldom-o-openai?from=rss",
+      "published": "2026-11-18T18:05:29"
     },
     {
-      "title": "В МГУ создали совет по развитию искусственного интеллекта",
-      "source": "ТАСС",
-      "url": "https://tass.ru/nauka/28331491",
-      "published": "2026-11-18T13:44:49"
-    },
-    {
-      "title": "В МВД рассказали, как грамотно установить настройки для ИИ-агента",
-      "source": "ТАСС",
-      "url": "https://tass.ru/obschestvo/28331487",
-      "published": "2026-11-18T13:42:32"
+      "title": "Призывы замедлить гонку ИИ оказались балабольством — и продажи Nvidia и AMD это подтверждают",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151485",
+      "published": "2026-11-18T17:54:00"
     }
   ]
 }

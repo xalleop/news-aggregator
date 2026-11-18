@@ -1,0 +1,117 @@
+{
+  "timestamp": "2026-11-18_23-33",
+  "total_articles": 78,
+  "sources": {
+    "Интерфакс": 1,
+    "Ведомости": 2,
+    "Digital_Russia": 2,
+    "Habr_AI": 21,
+    "CNews": 15,
+    "3DNews": 12,
+    "VC_ru_Технологии": 2,
+    "AI Policy Perspectives": 1,
+    "AI Futures Project": 1,
+    "ИИ комплаенс и этика": 1,
+    "Google News": 20
+  },
+  "top_keywords": [
+    [
+      "ИИ",
+      57
+    ],
+    [
+      "AI",
+      11
+    ],
+    [
+      "искусственный интеллект",
+      7
+    ],
+    [
+      "ESG",
+      3
+    ],
+    [
+      "Минцифры",
+      2
+    ],
+    [
+      "регулирование",
+      2
+    ],
+    [
+      "цифровая трансформация",
+      1
+    ],
+    [
+      "машинное обучение",
+      1
+    ],
+    [
+      "aigovernance",
+      1
+    ]
+  ],
+  "recent_headlines": [
+    {
+      "title": "Названы восемь путей, как ИИ может угрожать человечеству - Телеканал «Наука",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVkZ4R2dHNTk1OVVSTE1yYTFZYVcyUHNBX1QyRzNMTlktSDhpQzBIQTcwMjRNUkMwMlBUVDlRN2RfR0JCTlhESWFfR0ZDUW9oeUdJdmJFaC1OQ0MzRE9YWkk5OVJ0YUlvUmVha19GUDBMZ0dfTGdNYjVpMjBBLTFFRXBsd19oVmNnQ3Y4eF9nZFJ2cThEOUFrNmhoay1jcVloV05IYk5UTXRkZWRXenpQX3U0dWZZTmk4SkNMdnJ3MTB2QmFlMGJiNUtNa0IwTjg?oc=5",
+      "published": "2026-11-18T19:46:53"
+    },
+    {
+      "title": "В Nginx нашли две критические дыры — хакеры могут захватить сервер без пароля",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151495",
+      "published": "2026-11-18T19:38:00"
+    },
+    {
+      "title": "ИИ советует. Врач отвечает",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1109602/?utm_campaign=1109602&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-18T19:28:48"
+    },
+    {
+      "title": "XXXI Всероссийский конгресс «Государственное регулирование недропользования» - АСН-инфо",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd2k4LXJ5TTBqVndvOEhKNGRrZnBLNUVWZEhEVFVuSUJGSjlGMURMaXdXbl85Zlc5NXFrWU5BX0RTMVVRaERJN1p5TTU5QURkQVljTnFkLUF1R0lNZXktVEotU3hiSWRuZXFmd0NrMkMzb3gyQVZ2blZGQzdQYUR0X01nN2s5NkVkQkRJdGdrdVRMSWpEbU5GQWxmX0tSclVrWkpfeGhuWGQtY0dZY0VURFJYQUFHQQ?oc=5",
+      "published": "2026-11-18T19:11:41"
+    },
+    {
+      "title": "Понятие «Технологии искусственного интеллекта» в нормативных актах РФ",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1109594/?utm_campaign=1109594&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-18T19:07:19"
+    },
+    {
+      "title": "Даже удвоение прибыли не спасло Nvidia: акции компании снова пошли вниз, потянув за собой весь ИИ-сектор",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151491",
+      "published": "2026-11-18T18:58:00"
+    },
+    {
+      "title": "Интервью футуролога Сергея Переслегина: Путин, Си и Трамп — это G3, какой будет война 2030 года, провалы менеджмента из-за ИИ - ВФокусе Mail",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdUtQS29rNnhCNlk1UE1NWXF2TE5XZElqb25scThRSjFzQmZZT3JxRkpUV3hWQk5BNUswV0lQODNnajJ3QU1IVUEwS25CRWtQMS1ZZVRKRHBwUVZVd2NNdW8xR3p1Y3NkT0tJbHRYbnM1TE1IbEtVSTRJRlM3dENtVVBRbGtUQ1BJeFh1QVpCUi12TmtxakxFX2tpWl9LSVdBUmticVhXN0QtZEFaeFBfQmNGQ1hvT1dWMVJTUEdrTjl4bkRlVk9vdV95NlhpVDh0RUU0ZzVjSEdTWEZDc0RWWU1SZFNXVG9mRDZrUlZFYXE?oc=5",
+      "published": "2026-11-18T18:53:00"
+    },
+    {
+      "title": "Pacing AI via Compute Reallocation",
+      "source": "AI Futures Project",
+      "url": "https://blog.aifutures.org/p/pacing-ai-via-compute-reallocation",
+      "published": "2026-11-18T18:22:17"
+    },
+    {
+      "title": "«Мы назовём это ChatGPT»: вышел дублированный трейлер фильма «Искусственный интеллект» об основателях OpenAI с Эндрю Гарфилдом и Юрой Борисовым",
+      "source": "VC_ru_Технологии",
+      "url": "https://vc.ru/media/3264413-film-iskusstvennyj-intellekt-s-endryu-garfieldom-o-openai?from=rss",
+      "published": "2026-11-18T18:05:29"
+    },
+    {
+      "title": "Призывы замедлить гонку ИИ оказались балабольством — и продажи Nvidia и AMD это подтверждают",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151485",
+      "published": "2026-11-18T17:54:00"
+    }
+  ]
+}
