@@ -1,0 +1,111 @@
+{
+  "timestamp": "2026-11-18_04-15",
+  "total_articles": 64,
+  "sources": {
+    "ТАСС": 1,
+    "Интерфакс": 2,
+    "Коммерсантъ": 1,
+    "Digital_Russia": 2,
+    "Habr_AI": 21,
+    "CNews": 13,
+    "3DNews": 8,
+    "ИИ комплаенс и этика": 1,
+    "Google News": 15
+  },
+  "top_keywords": [
+    [
+      "ИИ",
+      53
+    ],
+    [
+      "AI",
+      9
+    ],
+    [
+      "искусственный интеллект",
+      4
+    ],
+    [
+      "ESG",
+      2
+    ],
+    [
+      "цифровая трансформация",
+      1
+    ],
+    [
+      "policy",
+      1
+    ],
+    [
+      "Минцифры",
+      1
+    ],
+    [
+      "регулирование",
+      1
+    ]
+  ],
+  "recent_headlines": [
+    {
+      "title": "Nvidia больше не поставляет в Китай ИИ-чипы H200",
+      "source": "ТАСС",
+      "url": "https://tass.ru/ekonomika/28328395",
+      "published": "2026-11-18T00:29:59"
+    },
+    {
+      "title": "Первопричина, приведшая к сбою в аэропортах США, пока не установлена",
+      "source": "Интерфакс",
+      "url": "https://www.interfax.ru/world/1129700",
+      "published": "2026-11-18T00:02:00"
+    },
+    {
+      "title": "Полмиллиарда на фабрику агентов. Что российский бизнес получит и потеряет вместе с ИИ - ComNews.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVm5VTVNvSnYxNWh4ckZTWEZBLUQ2OFV5bVhqZ0ZhR2dScF81MG5Ca21oYTJteF9GTFlnM09NV28wUnkzTWxXNjFXcVlMbUVRTnhtVlVVRjRuSzBzSWdlUnJaN1huUjgzcWRrNnNqZDJlbUlfREdqQ0VlUmx2U216cDBkT0NSSlRja0YzVGdFWVpVVUdVMUVpRjRvelh5aHdQU0FSOG5nWE8zYVlrMlJmNncxQ2ktUjgtNm5STWRMNjBHYlZ6TS1QRGc3d2RXbnZSTV85eFlxaHdmczdNaVE?oc=5",
+      "published": "2026-11-17T23:39:40"
+    },
+    {
+      "title": "Мы каждый день разговариваем со всеми знаниями человечества. Но становимся ли мы умнее?",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1109138/?utm_campaign=1109138&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-17T22:57:33"
+    },
+    {
+      "title": "Пока суд да цифра // Цифровая трансформация судебной системы должна пройти в сжатые сроки",
+      "source": "Коммерсантъ",
+      "url": "https://www.kommersant.ru/doc/9112035",
+      "published": "2026-11-17T22:48:32"
+    },
+    {
+      "title": "Vals AI: ИИ‑модели можно использовать как автономное оружие. Они находят цели на снимках и выбирают гражданских",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1109124/?utm_campaign=1109124&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-17T22:10:06"
+    },
+    {
+      "title": "Путин \"на полях\" саммита АТЭС проведет переговоры с Си Цзиньпином",
+      "source": "Интерфакс",
+      "url": "https://www.interfax.ru/world/1129683",
+      "published": "2026-11-17T21:12:00"
+    },
+    {
+      "title": "Microsoft представила семь ИИ-моделей: одни пишут и исправляют код, другие ищут уязвимости, редактируют изображения и общаются голосом",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151438",
+      "published": "2026-11-17T21:09:00"
+    },
+    {
+      "title": "OpenAI представила две «жутко умные» модели ИИ — GPT-6.2 Astra для профи и GPT-6.2 Sol для повседневных дел",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151437",
+      "published": "2026-11-17T20:38:00"
+    },
+    {
+      "title": "Apple тестирует лимиты для Siri AI — за дополнительные сложные запросы придётся платить",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151436",
+      "published": "2026-11-17T20:34:00"
+    }
+  ]
+}
