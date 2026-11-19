@@ -1,26 +1,24 @@
 {
-  "timestamp": "2026-11-19_17-43",
-  "total_articles": 91,
+  "timestamp": "2026-11-19_23-39",
+  "total_articles": 89,
   "sources": {
-    "Ведомости": 3,
-    "Digital_Russia": 2,
-    "Habr_AI": 26,
-    "CNews": 20,
+    "Ведомости": 2,
+    "Digital_Russia": 3,
+    "Habr_Топ_День": 1,
+    "Habr_AI": 25,
+    "CNews": 18,
     "3DNews": 12,
-    "VC_ru_Технологии": 1,
-    "Don't Worry About the Vase": 1,
-    "AI Futures Project": 1,
     "ИИ комплаенс и этика": 2,
-    "Google News": 23
+    "Google News": 26
   },
   "top_keywords": [
     [
       "ИИ",
-      72
+      75
     ],
     [
       "AI",
-      17
+      13
     ],
     [
       "искусственный интеллект",
@@ -45,64 +43,64 @@
   ],
   "recent_headlines": [
     {
-      "title": "Директ, Метрика и Wordstat в ChatGPT через Sites. Как это устроено и где подвох",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/infostart/articles/1109958/?utm_campaign=1109958&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-19T14:14:43"
+      "title": "Переговорщики ЕС согласовали предварительную сделку по ESG - Cyprus Inform",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObXBfYWFKSVpGaXJ1SWV3b3ByREpjT0Zlamt4N3dTdThJdGRBVWhyd3JZd1pMdmtqcHZ3Q0xmeUVhblVBQnZPTjZWZlp4TnFpSTR0WkN4dURURVNCbkFZeVpDWVVyT0xLYndxak5ZM1F2Y1l2bW9VV3Q2dzZRa0FEOXVqazR4eFZwOVl6b1lYbWxaWnZQY05nNEpSRTNqNVg5UmxQTGI0Z1gwU2dXWklCLVVZblVZTVRMNEduY3JCcS13U0IzamxFQ0hGSllNcXBON3Y3blMtVEF3WG5VRFZkU3FJamVObk1sOFp5aWhWRTVZNFU?oc=5",
+      "published": "2026-11-19T20:15:57"
     },
     {
-      "title": "В России создали мультиагентную систему «Радар» для автоматизации закупочных процессов",
+      "title": "На AMD обрушили обвинения в рискованных ИИ-сделках и зависимости от Китая — акции рухнули почти на 9 %",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1151537",
-      "published": "2026-11-19T14:12:00"
+      "url": "https://3dnews.ru/1151562",
+      "published": "2026-11-19T20:02:00"
     },
     {
-      "title": "Путин назвал преимущества России в развитии ИИ: гидроэнергетика, мирный атом и лидеры рынка - Финансы Mail",
+      "title": "Главные новости дня | четверг: Мьянма, Газа, молодежь, ИИ - UN News",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQajNJam1uZDhBWkRzejV4MDZhd1hwaF82Yy1CbE5uVU1pa1R0Mmx5U1hRdzBrczhPUUZrZWsxYTU2WjFsTnVWaVFJWGNyX3ByYkpoNnRSQXNlWXFKeVVHWnVNT011OVZEQ3JnSXNZWkhLX1lfZTVqTS0ydWVyQXk3VlVvYnJrQmdQenBhOERrVENnWksyd0RBNTJwRGo4ZG9KbVB1RU5hZmd3UQ?oc=5",
-      "published": "2026-11-19T14:00:44"
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fTGhaOVZfV3p3WHVfVnVHTC04S0hFQURvZ2RPdWR0Y3BHZkZvMGpOc096NmthY213UTZKZ3BrakpvUExYQ04xeERqYmlHb2pMVllkM1NIcw?oc=5",
+      "published": "2026-11-19T19:36:26"
     },
     {
-      "title": "Краткая история интеллекта. От зарубки на кости до LLM",
+      "title": "Бывший топ-менеджер Nvidia и его супруга из Supermicro оказались в центре нового скандала о контрабанде ИИ-чипов в Китай",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151550",
+      "published": "2026-11-19T18:27:00"
+    },
+    {
+      "title": "Еще одна звонилка или как я создал Nimbo",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1109858/?utm_campaign=1109858&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-19T13:57:13"
+      "url": "https://habr.com/ru/articles/1110052/?utm_campaign=1110052&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-19T18:06:16"
     },
     {
-      "title": "«К2Тех» автоматизировала рутину 600 сотрудников с помощью ИИ-платформы SamurAI",
-      "source": "CNews",
-      "url": "https://www.cnews.ru/news/line/2026-11-19_k2teh_avtomatizirovala",
-      "published": "2026-11-19T13:53:00"
+      "title": "ИИ создал совершенно новую процессорную архитектуру без «костылей» — она разгромила обычные CPU в виртуальных тестах",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151552",
+      "published": "2026-11-19T17:44:00"
     },
     {
-      "title": "В «Сколково» открылась студия виртуального производства с технологиями ИИ",
-      "source": "CNews",
-      "url": "https://www.cnews.ru/news/line/2026-11-19_v_skolkovo_otkrylas_studiya_1",
-      "published": "2026-11-19T13:46:00"
+      "title": "Google отправит ИИ-серверы в космос на ракете Безоса в 2029 году",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151548",
+      "published": "2026-11-19T17:38:00"
     },
     {
-      "title": "В «Сколково» открылась студия виртуального производства с технологиями ИИ",
-      "source": "CNews",
-      "url": "https://www.cnews.ru/news/line/2026-11-19_v_skolkovo_otkrylas_studiya",
-      "published": "2026-11-19T13:31:00"
-    },
-    {
-      "title": "Журнал Forbes Vietnam включил компанию MSB в список 50 ведущих компаний 2026 года, придерживающихся принципов ESG (экологическое, социальное и корпоративное управление). - Vietnam.vn",
+      "title": "Видео. Anthropic ставит рекорд на Уолл-стрит на фоне протестов и разговоров о пузыре ИИ - Euronews.com",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU19pQW50YWpJQmZ2WjFoT2JleDJXejVYN0NuWG15TGRmQ18xWWZLVXYtRllfNFYxUkE4SWFjbXJPb1pld3lxaDNIYWI5cVI3aGhkUnR3RjQ1U1VocVpYYXV4X05MQ0k5NmVIbzl3TldVZkZkbTZOVjFQTjd3RVFaLXZ3UmxSQmxDR2FrNjg4WmVzUEt2aXVZMEwwSkRqYVI0Nlkw?oc=5",
-      "published": "2026-11-19T13:30:48"
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTUxxVE5DYWNyQ2dTQ0I1X0k5ZFdSRnBBQ0Y4dEVIb1owbjA4WWYydHJnQTNxbXM1bDVjakU1d201N0k4aXhwOWg4djJ6d3FsVmF2UERQVFFramFnZzRNajZtanFBTFZrZ1BCbkdwaVlJMi1zWDc3WVRKZ1l1dC1nV0NKTzJlTWdpanY4S2M0MUk3YUlkRGtNWHBJTnpGbVBGQ2NBamI3TlhXQU9tdlpid1ZR?oc=5",
+      "published": "2026-11-19T17:33:32"
     },
     {
-      "title": "Мир Кузи: ИИ, который не разговаривает, а принимает решения",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1109922/?utm_campaign=1109922&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-19T13:11:41"
-    },
-    {
-      "title": "Путин: РФ обладает конкурентными преимуществами в ИИ с точки зрения энергетики - Интерфакс Россия",
+      "title": "Настала новая эра киберугроз: в чем секрет успешного ИИ-взлома - Эксперт",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOGE4ejZoZlluSDNXNHFsc241UGNuYzFoejE3cHFpVGtWTjdXZDYxSW00Mm5XQUNBejduWW9HZlg0bkV6TUhpbXNYR0g2VXowMWFqS0l4TThvNFFEVF94NnRCN0pYaUtlQVVlUWhfUUpsZW9wZEpXR2lCZkU0N1JLZTdobEd0WEZ5OWVGbWNYSnplOU1pYmJWWkMyQlcxYzVGM04zTkROUnR6bDFkWnV4SDZxTkVNbVp5M1E?oc=5",
-      "published": "2026-11-19T13:00:00"
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nVFhGR0N6QkVWbTVpeW85ZExxenl6SDVqTDlfN2lXRUFub0Z2U3BkeFJVUU55bVhyLUUwTlZWUlI3bm10QUU4NjR5bE5wYmE3aE1Ed0hOdXdHdmhQM0pSTUV5aU1jN21JdFhRTw?oc=5",
+      "published": "2026-11-19T17:33:28"
+    },
+    {
+      "title": "Иностранные ИИ-агенты кодируют российскую экономику - Независимая газета",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zWVd1TFU0eWFXaTFWQlAtNW5Nb2ZRSW9Gbm5xRjZRSmxmbm1Fa0xZT2h1V2V1LTBvWWdfYlFiZnc0UFBTMkNnYkRvWlZmeG95VzRQV0pLMDJrUHluRkV0X0hfZw?oc=5",
+      "published": "2026-11-19T17:20:21"
     }
   ]
 }
