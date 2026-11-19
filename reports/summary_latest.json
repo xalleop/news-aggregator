@@ -1,28 +1,26 @@
 {
-  "timestamp": "2026-11-19_03-42",
-  "total_articles": 78,
+  "timestamp": "2026-11-19_17-43",
+  "total_articles": 91,
   "sources": {
-    "ТАСС": 1,
-    "Коммерсантъ": 1,
-    "Ведомости": 2,
+    "Ведомости": 3,
     "Digital_Russia": 2,
-    "Habr_AI": 21,
-    "CNews": 15,
-    "3DNews": 10,
-    "VC_ru_Технологии": 2,
-    "AI Policy Perspectives": 1,
+    "Habr_AI": 26,
+    "CNews": 20,
+    "3DNews": 12,
+    "VC_ru_Технологии": 1,
+    "Don't Worry About the Vase": 1,
     "AI Futures Project": 1,
-    "ИИ комплаенс и этика": 1,
-    "Google News": 21
+    "ИИ комплаенс и этика": 2,
+    "Google News": 23
   },
   "top_keywords": [
     [
       "ИИ",
-      60
+      72
     ],
     [
       "AI",
-      10
+      17
     ],
     [
       "искусственный интеллект",
@@ -30,18 +28,14 @@
     ],
     [
       "ESG",
-      3
-    ],
-    [
-      "Минцифры",
-      2
+      6
     ],
     [
       "регулирование",
       2
     ],
     [
-      "машинное обучение",
+      "Минцифры",
       1
     ],
     [
@@ -51,64 +45,64 @@
   ],
   "recent_headlines": [
     {
-      "title": "И.о. замгенсека ООН назвал серьезным риск применения террористами ИИ",
-      "source": "ТАСС",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28332597",
-      "published": "2026-11-18T23:00:39"
-    },
-    {
-      "title": "Взять на разметку // Разработчикам ИИ придется самостоятельно искать разметчиков данных",
-      "source": "Коммерсантъ",
-      "url": "https://www.kommersant.ru/doc/9112884",
-      "published": "2026-11-18T22:54:36"
-    },
-    {
-      "title": "Эксперты оценили влияние ИИ на выборы 2026 года - Ведомости",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVTNUNjJKYjdTd0dBNzFjbGpmWG9sV1pReFVORGp4cmgxVjFrQlNpZVZ2REtmYTVubTZ5VDBwOHpSODNwS2hDRDRhQ0V5LUJNQ2hsdU45bS16ZEFzbDY3T3NYc3NvQjlOUXhvZW01SThVN0RWc3FmYlpBamk5UVgtakZIWEtpaFROSFhF?oc=5",
-      "published": "2026-11-18T21:44:05"
-    },
-    {
-      "title": "В Nginx нашли две критические дыры — хакеры могут захватить сервер без пароля",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151495",
-      "published": "2026-11-18T19:38:00"
-    },
-    {
-      "title": "ИИ советует. Врач отвечает",
+      "title": "Директ, Метрика и Wordstat в ChatGPT через Sites. Как это устроено и где подвох",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1109602/?utm_campaign=1109602&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-18T19:28:48"
+      "url": "https://habr.com/ru/companies/infostart/articles/1109958/?utm_campaign=1109958&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-19T14:14:43"
     },
     {
-      "title": "ИИ советует. Врач отвечает - Хабр",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pWG5zX2hUSVVlRlZFa09jTDZtWWJsXzY1WFA1bFg0dUR1ZlFmZS1PekdtdktvR0lPeXFXRlhGc25UNTdGMmpUdDJkMUZOZ9IBWEFVX3lxTE14WkRfUG9uVndOYVNFZ1VEcDVtb2kzLUNPLTRlMmY0QkpuclRyeGxDeWotRnJST3JTekFZcHZuMmJ2ZnIzdEk3S2VrNWxxM1Z1SEo4bWY4QjY?oc=5",
-      "published": "2026-11-18T19:28:48"
-    },
-    {
-      "title": "XXXI Всероссийский конгресс «Государственное регулирование недропользования» - АСН-инфо",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd2k4LXJ5TTBqVndvOEhKNGRrZnBLNUVWZEhEVFVuSUJGSjlGMURMaXdXbl85Zlc5NXFrWU5BX0RTMVVRaERJN1p5TTU5QURkQVljTnFkLUF1R0lNZXktVEotU3hiSWRuZXFmd0NrMkMzb3gyQVZ2blZGQzdQYUR0X01nN2s5NkVkQkRJdGdrdVRMSWpEbU5GQWxmX0tSclVrWkpfeGhuWGQtY0dZY0VURFJYQUFHQQ?oc=5",
-      "published": "2026-11-18T19:11:41"
-    },
-    {
-      "title": "Понятие «Технологии искусственного интеллекта» в нормативных актах РФ",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1109594/?utm_campaign=1109594&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-18T19:07:19"
-    },
-    {
-      "title": "Даже удвоение прибыли не спасло Nvidia: акции компании снова пошли вниз, потянув за собой весь ИИ-сектор",
+      "title": "В России создали мультиагентную систему «Радар» для автоматизации закупочных процессов",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1151491",
-      "published": "2026-11-18T18:58:00"
+      "url": "https://3dnews.ru/1151537",
+      "published": "2026-11-19T14:12:00"
     },
     {
-      "title": "Эксперт рассказала, каких востребованных специалистов не заменит ИИ - Вечерний Санкт-Петербург",
+      "title": "Путин назвал преимущества России в развитии ИИ: гидроэнергетика, мирный атом и лидеры рынка - Финансы Mail",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaVREZDdXejlpaUZiOTRhSmE4VEtqUVdjcTlJWWROM0laMUpXaU1saFo4ck5wdjVOSnBVQ21vSGtSdEFnR0htRVo1cUtsSlUtcU1yN1h0UEduVm5WVFRQUEpCbHFJSGlXQ3Z0SjAteXhCQWdGSDFxQVU2VjdpYzhibnN6S2s2cmJ4YkU2YUhGVDJFUzNwUTJvdmlrdHNHM0dkTHo2UWNDTQ?oc=5",
-      "published": "2026-11-18T18:54:20"
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQajNJam1uZDhBWkRzejV4MDZhd1hwaF82Yy1CbE5uVU1pa1R0Mmx5U1hRdzBrczhPUUZrZWsxYTU2WjFsTnVWaVFJWGNyX3ByYkpoNnRSQXNlWXFKeVVHWnVNT011OVZEQ3JnSXNZWkhLX1lfZTVqTS0ydWVyQXk3VlVvYnJrQmdQenBhOERrVENnWksyd0RBNTJwRGo4ZG9KbVB1RU5hZmd3UQ?oc=5",
+      "published": "2026-11-19T14:00:44"
+    },
+    {
+      "title": "Краткая история интеллекта. От зарубки на кости до LLM",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1109858/?utm_campaign=1109858&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-19T13:57:13"
+    },
+    {
+      "title": "«К2Тех» автоматизировала рутину 600 сотрудников с помощью ИИ-платформы SamurAI",
+      "source": "CNews",
+      "url": "https://www.cnews.ru/news/line/2026-11-19_k2teh_avtomatizirovala",
+      "published": "2026-11-19T13:53:00"
+    },
+    {
+      "title": "В «Сколково» открылась студия виртуального производства с технологиями ИИ",
+      "source": "CNews",
+      "url": "https://www.cnews.ru/news/line/2026-11-19_v_skolkovo_otkrylas_studiya_1",
+      "published": "2026-11-19T13:46:00"
+    },
+    {
+      "title": "В «Сколково» открылась студия виртуального производства с технологиями ИИ",
+      "source": "CNews",
+      "url": "https://www.cnews.ru/news/line/2026-11-19_v_skolkovo_otkrylas_studiya",
+      "published": "2026-11-19T13:31:00"
+    },
+    {
+      "title": "Журнал Forbes Vietnam включил компанию MSB в список 50 ведущих компаний 2026 года, придерживающихся принципов ESG (экологическое, социальное и корпоративное управление). - Vietnam.vn",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU19pQW50YWpJQmZ2WjFoT2JleDJXejVYN0NuWG15TGRmQ18xWWZLVXYtRllfNFYxUkE4SWFjbXJPb1pld3lxaDNIYWI5cVI3aGhkUnR3RjQ1U1VocVpYYXV4X05MQ0k5NmVIbzl3TldVZkZkbTZOVjFQTjd3RVFaLXZ3UmxSQmxDR2FrNjg4WmVzUEt2aXVZMEwwSkRqYVI0Nlkw?oc=5",
+      "published": "2026-11-19T13:30:48"
+    },
+    {
+      "title": "Мир Кузи: ИИ, который не разговаривает, а принимает решения",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1109922/?utm_campaign=1109922&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-19T13:11:41"
+    },
+    {
+      "title": "Путин: РФ обладает конкурентными преимуществами в ИИ с точки зрения энергетики - Интерфакс Россия",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOGE4ejZoZlluSDNXNHFsc241UGNuYzFoejE3cHFpVGtWTjdXZDYxSW00Mm5XQUNBejduWW9HZlg0bkV6TUhpbXNYR0g2VXowMWFqS0l4TThvNFFEVF94NnRCN0pYaUtlQVVlUWhfUUpsZW9wZEpXR2lCZkU0N1JLZTdobEd0WEZ5OWVGbWNYSnplOU1pYmJWWkMyQlcxYzVGM04zTkROUnR6bDFkWnV4SDZxTkVNbVp5M1E?oc=5",
+      "published": "2026-11-19T13:00:00"
     }
   ]
 }
