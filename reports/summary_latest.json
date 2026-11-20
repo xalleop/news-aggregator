@@ -1,89 +1,94 @@
 {
-  "timestamp": "2026-11-20_17-24",
+  "timestamp": "2026-11-20_23-22",
   "total_articles": 75,
   "sources": {
+    "ТАСС": 1,
     "Ведомости": 5,
     "Digital_Russia": 2,
-    "Habr_AI": 20,
-    "CNews": 15,
-    "3DNews": 14,
+    "Habr_AI": 19,
+    "CNews": 17,
+    "3DNews": 13,
     "ИИ комплаенс и этика": 1,
-    "Google News": 18
+    "Google News": 17
   },
   "top_keywords": [
     [
       "ИИ",
-      72
+      69
     ],
     [
       "AI",
-      8
+      9
     ],
     [
-      "искусственный интеллект",
+      "Минцифры",
       2
+    ],
+    [
+      "регулирование",
+      1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Nestlé совместно с Microsoft внедрит ИИ и роботов на производствах - rb.ru",
+      "title": "Чернышенко раскрыл число участников Всероссийской олимпиады по ИИ",
+      "source": "ТАСС",
+      "url": "https://tass.ru/obschestvo/28341353",
+      "published": "2026-11-20T19:45:00"
+    },
+    {
+      "title": "Почему опасно доверять ИИ при выборе лечения — рассказал врач : Псковская Лента Новостей / ПЛН - ПЛН",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaGtOalAtc0lCZVNtc1paSXhsckVmdm84MUh5Y0IxY0hpeGxzVGVpYUhWNW5INWFLWm04OGM0NVFIS3ZWaVBjcHRyOEV3WlBHbDA2aGJ6VkdSUV95Y0duLUotc1RvdGNVT2FLemNqaDVVR1RpWVQtMW01bWxSU0xYeXNDRkJzYlZ0QVVYWkRWTFU4djd2VGpPZFByeVZzYkZqTnNYZ01vdHFWM0RTdDdNaXVkcWswX0stZEpIYk1zMVlBcWZEWV9IaE1nRGc?oc=5",
-      "published": "2026-11-20T14:15:00"
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fRFhWWnoyOWlkRmNSR3dJN2tWSXlLX3lBUmtFZElnODZTbU1GdVZUM3Ixb3ZidENuY0hnX3ZLakhPSm5CVFRyWmtxSTRNUXdCd3c?oc=5",
+      "published": "2026-11-20T18:42:00"
     },
     {
-      "title": "В АП призвали развивать ИИ-модели с традиционными ценностями",
-      "source": "Ведомости",
-      "url": "https://www.vedomosti.ru/technology/news/2026/11/20/1413860-ii-modeli-s-traditsionnimi-tsennostyami",
-      "published": "2026-11-20T14:11:17"
-    },
-    {
-      "title": "В АП призвали развивать ИИ-модели с традиционными ценностями - Ведомости",
+      "title": "Яндекс 360 открыл доступ к виртуальному офису для ИИ-секретарей — ChatGPT сможет читать письма и файлы - rb.ru",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQemY1czI5bUVVTUhoMnFZc0NiZ0xrTXEtV0xRZnBoUnh5cFloc3RhdjRfRVhfM1dDcWNhekxVTjVZMWRpcmdxWnp2ZHViMlc5OVFkUFVuLXZoMzFsTFh0TWNSVFBNX01MRm9lc1RKdDJpV3pPcjhMVFh3M0NqUElqejdTOHFPS0JGdnpick5QUjZPVVpleFN1dXRybEI4eDBt?oc=5",
-      "published": "2026-11-20T14:11:17"
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNazV6ZlowRjdoNnl0NEdpbkUxd1JoTTZ2MktLQ1NyUVIteUp4OHdlTkx2c2JQRlNLcUdfbjNJM2l3cWdXRGxIUUZHMGFqcXhjTHRnQ1ZHY0s2R1pVSHA3VEN0QzZnWDE1Y29jTEtKaUpmWDE1QmhKTTFiTGNxSUV4dHkySnZiUHpCRkhsYk5SendTNUNiZTg4OXItdEZjSWxnX3hGZFNYYTVsMmJKaTNDVjVTOHA4Q0ZxdFV5RDB3?oc=5",
+      "published": "2026-11-20T18:35:00"
     },
     {
-      "title": "Акции еще не проданы, а дома уже куплены: как капитал ИИ-компаний меняет Сан-Франциско - ProFinance",
+      "title": "«Мы посмеялись». Экс‑футболист «Сочи» Суслов подтвердил, что тренер Морено использовал ИИ при подготовке к матчу - Матч ТВ",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLU5iZ2VBMDNhWmZ2UzFjd0x1S21PU3g3R0VVRXgwVHJXZXBwbldjbDNsRGVJZE9QM25WWUFxMjA4TU5oZkVaNjI1S3M0YXlsN01Qaks3aGZnV3l2VGtNRXg1ek1kSTVmOGR1ZFY4OTdVVEpUWnhJT3pIQktKRkdwUFlmbWNoM29UMGt6bXBOZw?oc=5",
-      "published": "2026-11-20T14:05:16"
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOLU5GQVp6ZjNJekRZVmRMbDdLUUJhVkJlakxTMExLSEttd1F2dXdtaDRvbzBjUFA4Zjd6YU1VTjI3X01sckNsUFptVXVlX19hUWhvXzU1cFRvSXRxYy1YRHpCT3pKdXNJVFpWZXpSMnp6WjlDOGNKSG8zb2FYTjF2cFVaV1liYXg0bXJHS1R6VXllSF9HX3VTcE1MemJwQ0lMUkowS2h0SlFtbXA1VWhwTzJBemh4emlva2JuVjlHVkgyLXM5NW9KM01BdEFJb2QxR1hfVHdWUkZ0Rl9mUFhuWnU2RTFXbkpfVFo2RTRR?oc=5",
+      "published": "2026-11-20T17:40:34"
     },
     {
-      "title": "Уязвимость в Jira за $200 и ИИ-хакинг: до сих пор не страшно? - Хабр",
+      "title": "ИИ-агенты Gemini получили инструкцию «Никогда не сдавайся» и атаковали реальный сайт - Xakep.ru",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsM1hVU0tyVERyeGd3RlZfVUx5QTBfTDFiRDdvSFBEd2hxTERxRWlnSFdCaDFkN0FQb3Nwd3Q5cWVZeFJtSU41ZlhnTEFpTEczamNPZmF6ZndUYlM0UEtyMlgyM3lWZ9IBWEFVX3lxTE5IcWw4VzhiNjhRRnpRRm9WTDFqSDVpSDVORFVkVktmR1htS056dXFQQTBFaWwxQ1dSa0RjZmV4blhiNjdEUHJMblNKWU8xN1hONkVub2lqbVY?oc=5",
-      "published": "2026-11-20T14:04:01"
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fRk5HR3AzaWxmTXIxUGFuUGQtV2pSZmVwNU1KZDZBOTJOQmtaUWNuVlc1OFQ2bGp2TGZpUlhPYk5YdUtDUk1jRTJUS1RhX0VCZC1VSw?oc=5",
+      "published": "2026-11-20T17:27:11"
     },
     {
-      "title": "США одобрили продажу Китаю почти 900 тыс. ИИ-чипов Nvidia и AMD - Inc. Russia",
+      "title": "С начала года спрос на гаджеты с ИИ увеличился в 7 раз – Новости ритейла и розничной торговли - Retail.ru",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMWZnb2tXRXVKa3NqcEFUbkJnc3c5Q0dZc0tzYlVJdDd2QjYwSFRLUVhEZmlmV1RiSjk1R0FRS3p5SlN4UnFGU2xOYlVuMjFLUFY5aWJyM21haW42WmEwbGY4VFZ6OFFIOTRnVjBNUzBLX2JzVkNFQXFsanV2UmhGUnQtQTljV0ZXdXB1Y3NpV0JZLTVud1BHREFB?oc=5",
-      "published": "2026-11-20T13:49:42"
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPejhzWWI2bW9NbXY1aFg1NUhkYWliZHRjSDFweHhYelVOZUx5aE1SU3pIbXFTaE1WSHhWRURPeDRjcHU0WHJhSEVlcDh4UXliTHl5eXZiLUgwMmhrNEx4WXZwVE5kbjAtT0U4NnhLc0tIaFF3cGZsTDlsNlhTTWg0VHdfeHpCNGFZU3V0MjIwbnk2V2tKSlZuYjFybnF3TlpxV2JJbmt1LUUtSzF4RnR3?oc=5",
+      "published": "2026-11-20T17:26:00"
     },
     {
-      "title": "Чиновники отвечают за принятые с помощью ИИ решения — Минюст РФ - РАПСИ",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iRW9TQXpoTVFqek9GU3k4Mk5rdGZpMlN5ZF9PbmZBTUU4QU1TczV3VlUtdFZEZnpnTEpZSHhaU2J5bzh4TVhOQW9qbDNENEt6WTlCUzRIWHNOeWFkVjRhRV8tVnJJNnRfNllLRXhn?oc=5",
-      "published": "2026-11-20T13:42:48"
-    },
-    {
-      "title": "Google создала параллельный интернет для обучения ИИ-агентов — в нём есть даже поддельные банки и соцсети",
+      "title": "ИИ Anthropic продвинулся в теории квантовой гравитации, где физики десятилетиями топчутся на месте",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1151600",
-      "published": "2026-11-20T13:22:00"
+      "url": "https://3dnews.ru/1151613",
+      "published": "2026-11-20T17:20:00"
     },
     {
-      "title": "Работающие на искусственный интеллект дата-центры привели к 650 преждевременным смертям в США - snob.ru",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0FNQ3lONk8xV1lncWNYN1UtNDk5RzFaRkpuc2hvUTJnRUVlNG5NdnA3dXZOT3Jvb3dHZ2xTZ3NvVWhwSDVzMzQ5dVo1SVF1QTc5cEYxNkxfRnhZYnZrV2x3dlVkS1BOa2J3enl3MXlsUE5uT2RsV0NHY0xxZ3pmWUdoTmJ1QU1KakxMcWRleFhoVVp4b0x2UGdyc0FpdjQwcjhMVDlJQWk4WmpZZUNvZ3kyZWxRZjNjNVYtYjFMTEHSAUJBVV95cUxOMW9Ga0Z2R1hYTmVVVldtdDdtYUt2RGN5aVhMeXlWX2xkWTFGcWlOM2E1NU9wT21CbTZVRllqMThkTUE?oc=5",
-      "published": "2026-11-20T13:21:21"
-    },
-    {
-      "title": "Huawei представила широкоэкранный, но не складывающийся смартфон OSTA O1 Pro",
+      "title": "Инвесторы массово выходят из биткоин-ETF — курс главной криптовалюты рухнул ниже $60 000",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1151597",
-      "published": "2026-11-20T13:01:00"
+      "url": "https://3dnews.ru/1151614",
+      "published": "2026-11-20T17:19:00"
+    },
+    {
+      "title": "Anthropic заявила о доказательстве гипотезы Римана с помощью ИИ — одной из главных загадок математики, над которой бились 167 лет",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151612",
+      "published": "2026-11-20T17:17:00"
+    },
+    {
+      "title": "Математик из Anthropic заявил, что вместе с ИИ-моделью Claude доказал гипотезу Римана. Это одна из «задач тысячелетия», которую не могут решить больше 160 лет - Meduza",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPTnFYQVJCdU1vYndwV21OZjBTWElhZjRIaEt3Z1ZvM0NRXzcxMTJ1dlltM2d4RWRkWVl1cm5XazhwTWFNUFB3LVA2Wml2cDhlQW5MYmlldE8xYkxWU2lIbnFFcEE5NlVSUEFDTWJLYi1aeXJZdW1RTmtiY21TNVdRRjRPQTJxbW9fUUxKUXlKbjFoN2hZQjFjVjhCdW9hX2w5SWFxWFVUNVhqeU41dnFXNU9tT200OFJrdklDY2xya3czNl9xMFlPZ25Ec2ZlZDhDVjk1ZHlhTHdEUUE1RDVONjNxUGNFaWpsUDNlWmpacmh6eU1JRDJMUmsxTnJDRHk2dG50QjZuR1poNm5ibmREQVk0TDNIQ21rNGtkRXN6ONIBpAJBVV95cUxQSXA2eWotMDhjQUQyd240bmszTDN0TWRtNExyNXJBMEpqZVpXbmtTd0lMVGFQNHF6VFFCellMS3JWckVaZllJeHJFQ0RGaVA1amw1dXVhYWgtUHRaU1BLNlZMTWFya0ZlM1JhcjhzNUJfQVhRX3Z6bGRfdXFFMmlza0Y5SnJ4NWNVeEFyUVNHakZwMGk5Z2ZmWG1tU0JPM3YxdVp5MnJVeHhibHNLbnRBVG9IM2NuVGd2aXJQbnlET1BqN0V6VzFQbDlUYTA5c21uVzJvZmtvbnlnWWdQRzZWSm02TEtxejFLSnJmVWJwQzQzZGhLV1NvQnpnVTdmRVZXb2dMOXBMMTE2SFlXcDJWTGlTTTY2NHFPUmpYeS1kMFpDU25z?oc=5",
+      "published": "2026-11-20T17:17:00"
     }
   ]
 }
