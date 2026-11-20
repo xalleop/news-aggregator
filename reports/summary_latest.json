@@ -1,108 +1,89 @@
 {
-  "timestamp": "2026-11-20_03-53",
-  "total_articles": 92,
+  "timestamp": "2026-11-20_17-24",
+  "total_articles": 75,
   "sources": {
-    "Коммерсантъ": 1,
-    "Ведомости": 2,
-    "Digital_Russia": 3,
-    "Habr_Топ_День": 1,
-    "Habr_AI": 25,
-    "CNews": 18,
+    "Ведомости": 5,
+    "Digital_Russia": 2,
+    "Habr_AI": 20,
+    "CNews": 15,
     "3DNews": 14,
-    "Don't Worry About the Vase": 1,
-    "ИИ комплаенс и этика": 2,
-    "Google News": 25
+    "ИИ комплаенс и этика": 1,
+    "Google News": 18
   },
   "top_keywords": [
     [
       "ИИ",
-      76
+      72
     ],
     [
       "AI",
-      15
+      8
     ],
     [
       "искусственный интеллект",
-      6
-    ],
-    [
-      "ESG",
-      6
-    ],
-    [
-      "Минцифры",
       2
-    ],
-    [
-      "регулирование",
-      2
-    ],
-    [
-      "aigovernance",
-      1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Более 40% разработчиков сложно разобраться в коде от ИИ - ЯСИА",
+      "title": "Nestlé совместно с Microsoft внедрит ИИ и роботов на производствах - rb.ru",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fSUs3RGlBSkd5MW12ak5mdmRiUllRUU1sTkRmRGE4M3ZQZjhkVDJnQU5FYVpWRlhTQWxBanNMUml4OG5PZkN6Y09tbHZCZ1dlNHR3aDFNcUZxYzREa1lEWHlDelk3U1Q0RkFTc0tZMWNEcE9vUGZSWkJlTWdrUQ?oc=5",
-      "published": "2026-11-20T00:40:17"
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaGtOalAtc0lCZVNtc1paSXhsckVmdm84MUh5Y0IxY0hpeGxzVGVpYUhWNW5INWFLWm04OGM0NVFIS3ZWaVBjcHRyOEV3WlBHbDA2aGJ6VkdSUV95Y0duLUotc1RvdGNVT2FLemNqaDVVR1RpWVQtMW01bWxSU0xYeXNDRkJzYlZ0QVVYWkRWTFU4djd2VGpPZFByeVZzYkZqTnNYZ01vdHFWM0RTdDdNaXVkcWswX0stZEpIYk1zMVlBcWZEWV9IaE1nRGc?oc=5",
+      "published": "2026-11-20T14:15:00"
     },
     {
-      "title": "ИИ-термины, которые нужно знать в 2026 году - Вестник Кавказа",
+      "title": "В АП призвали развивать ИИ-модели с традиционными ценностями",
+      "source": "Ведомости",
+      "url": "https://www.vedomosti.ru/technology/news/2026/11/20/1413860-ii-modeli-s-traditsionnimi-tsennostyami",
+      "published": "2026-11-20T14:11:17"
+    },
+    {
+      "title": "В АП призвали развивать ИИ-модели с традиционными ценностями - Ведомости",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVlljd2VtNWxaZGo2aDRaQ1ZwS1VBa3dkRnQwdGJ0c2psRGJaemJGdWFHTWJXZFRKcUU0Z3hwVFVWTFI0QnE1cmU0WHJLMlRlT2xEclRBMVBZTXA4anRzby1pQUJDd2lhLXp3QWRiYkJjNktrUGVXUjgyMkdJZjRVbDhtM2EyY1Ntb3dj0gFKQVVfeXFMTTEwZm1VRVhHU1BVR3ZVdkNPRjNvYVNmems5b3NsNWZWcDlKRjFobUR5ZElKNDZYZGFwcjNTMjQzUjlGMUZmWk5COGc?oc=5",
-      "published": "2026-11-20T00:04:44"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQemY1czI5bUVVTUhoMnFZc0NiZ0xrTXEtV0xRZnBoUnh5cFloc3RhdjRfRVhfM1dDcWNhekxVTjVZMWRpcmdxWnp2ZHViMlc5OVFkUFVuLXZoMzFsTFh0TWNSVFBNX01MRm9lc1RKdDJpV3pPcjhMVFh3M0NqUElqejdTOHFPS0JGdnpick5QUjZPVVpleFN1dXRybEI4eDBt?oc=5",
+      "published": "2026-11-20T14:11:17"
     },
     {
-      "title": "Непонятный код от нейросети. 42% разработчиков назвали главную цену ИИ-ускорения - ComNews.ru",
+      "title": "Акции еще не проданы, а дома уже куплены: как капитал ИИ-компаний меняет Сан-Франциско - ProFinance",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOElNa2ZMbVNtUGIxb2hSbFpPU3NoaVVBWFlxb1QzRnZYQXRrODJIWDlMOUE2cXU3eW1nYVZEZUJETW5PSzdNd3YtZkpSd0xHRnUxaGFPYkVCVl94SEZwVjEzRnlQV1JzZ0czazRydXAxSnF3bTRkTjYtVVdnOXJVeUFvLTZLbzA2VFpScmg4RENtaWM1M2g1Rm4xZFFHeDdaR1R5akhoUVAxMjhYUzFTelNaMndEYWIyTjdpS1JmaGZVZEpMV3B0dlZ5ZzVDZm9Ja3QzYWU5aS1lQQ?oc=5",
-      "published": "2026-11-19T23:34:55"
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLU5iZ2VBMDNhWmZ2UzFjd0x1S21PU3g3R0VVRXgwVHJXZXBwbldjbDNsRGVJZE9QM25WWUFxMjA4TU5oZkVaNjI1S3M0YXlsN01Qaks3aGZnV3l2VGtNRXg1ek1kSTVmOGR1ZFY4OTdVVEpUWnhJT3pIQktKRkdwUFlmbWNoM29UMGt6bXBOZw?oc=5",
+      "published": "2026-11-20T14:05:16"
     },
     {
-      "title": "Софт-меры // Для 92% объектов КИИ переход на российское ПО отложен до 2036 года",
-      "source": "Коммерсантъ",
-      "url": "https://www.kommersant.ru/doc/9114155",
-      "published": "2026-11-19T23:24:24"
+      "title": "Уязвимость в Jira за $200 и ИИ-хакинг: до сих пор не страшно? - Хабр",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsM1hVU0tyVERyeGd3RlZfVUx5QTBfTDFiRDdvSFBEd2hxTERxRWlnSFdCaDFkN0FQb3Nwd3Q5cWVZeFJtSU41ZlhnTEFpTEczamNPZmF6ZndUYlM0UEtyMlgyM3lWZ9IBWEFVX3lxTE5IcWw4VzhiNjhRRnpRRm9WTDFqSDVpSDVORFVkVktmR1htS056dXFQQTBFaWwxQ1dSa0RjZmV4blhiNjdEUHJMblNKWU8xN1hONkVub2lqbVY?oc=5",
+      "published": "2026-11-20T14:04:01"
     },
     {
-      "title": "Нескучные тесты локальных LLM",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1110104/?utm_campaign=1110104&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-19T22:04:30"
+      "title": "США одобрили продажу Китаю почти 900 тыс. ИИ-чипов Nvidia и AMD - Inc. Russia",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMWZnb2tXRXVKa3NqcEFUbkJnc3c5Q0dZc0tzYlVJdDd2QjYwSFRLUVhEZmlmV1RiSjk1R0FRS3p5SlN4UnFGU2xOYlVuMjFLUFY5aWJyM21haW42WmEwbGY4VFZ6OFFIOTRnVjBNUzBLX2JzVkNFQXFsanV2UmhGUnQtQTljV0ZXdXB1Y3NpV0JZLTVud1BHREFB?oc=5",
+      "published": "2026-11-20T13:49:42"
     },
     {
-      "title": "Google внедрила чаты с ИИ прямо на главную страницу поисковика",
+      "title": "Чиновники отвечают за принятые с помощью ИИ решения — Минюст РФ - РАПСИ",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iRW9TQXpoTVFqek9GU3k4Mk5rdGZpMlN5ZF9PbmZBTUU4QU1TczV3VlUtdFZEZnpnTEpZSHhaU2J5bzh4TVhOQW9qbDNENEt6WTlCUzRIWHNOeWFkVjRhRV8tVnJJNnRfNllLRXhn?oc=5",
+      "published": "2026-11-20T13:42:48"
+    },
+    {
+      "title": "Google создала параллельный интернет для обучения ИИ-агентов — в нём есть даже поддельные банки и соцсети",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1151564",
-      "published": "2026-11-19T21:34:00"
+      "url": "https://3dnews.ru/1151600",
+      "published": "2026-11-20T13:22:00"
     },
     {
-      "title": "Нобелевские лауреаты призвали не верить в посулы Anthropic — но инвесторы их не услышали",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151565",
-      "published": "2026-11-19T21:30:00"
-    },
-    {
-      "title": "«Мы проигрываем битву»: ИИ предоставляет преступникам новые возможности для эксплуатации детей - UN News",
+      "title": "Работающие на искусственный интеллект дата-центры привели к 650 преждевременным смертям в США - snob.ru",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lSXJUY3g3X0VuT3p5NXU0TUVkNmRXakhsd2FTajdNMzF1NGNOMi1wSWtZWmdsODh4eDVGVlA1Ti1pUllUOE5ZM3cta0V2V084bUV6azdLMA?oc=5",
-      "published": "2026-11-19T21:03:41"
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0FNQ3lONk8xV1lncWNYN1UtNDk5RzFaRkpuc2hvUTJnRUVlNG5NdnA3dXZOT3Jvb3dHZ2xTZ3NvVWhwSDVzMzQ5dVo1SVF1QTc5cEYxNkxfRnhZYnZrV2x3dlVkS1BOa2J3enl3MXlsUE5uT2RsV0NHY0xxZ3pmWUdoTmJ1QU1KakxMcWRleFhoVVp4b0x2UGdyc0FpdjQwcjhMVDlJQWk4WmpZZUNvZ3kyZWxRZjNjNVYtYjFMTEHSAUJBVV95cUxOMW9Ga0Z2R1hYTmVVVldtdDdtYUt2RGN5aVhMeXlWX2xkWTFGcWlOM2E1NU9wT21CbTZVRllqMThkTUE?oc=5",
+      "published": "2026-11-20T13:21:21"
     },
     {
-      "title": "Переговорщики ЕС согласовали предварительную сделку по ESG - Cyprus Inform",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObXBfYWFKSVpGaXJ1SWV3b3ByREpjT0Zlamt4N3dTdThJdGRBVWhyd3JZd1pMdmtqcHZ3Q0xmeUVhblVBQnZPTjZWZlp4TnFpSTR0WkN4dURURVNCbkFZeVpDWVVyT0xLYndxak5ZM1F2Y1l2bW9VV3Q2dzZRa0FEOXVqazR4eFZwOVl6b1lYbWxaWnZQY05nNEpSRTNqNVg5UmxQTGI0Z1gwU2dXWklCLVVZblVZTVRMNEduY3JCcS13U0IzamxFQ0hGSllNcXBON3Y3blMtVEF3WG5VRFZkU3FJamVObk1sOFp5aWhWRTVZNFU?oc=5",
-      "published": "2026-11-19T20:15:57"
-    },
-    {
-      "title": "На AMD обрушили обвинения в рискованных ИИ-сделках и зависимости от Китая — акции рухнули почти на 9 %",
+      "title": "Huawei представила широкоэкранный, но не складывающийся смартфон OSTA O1 Pro",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1151562",
-      "published": "2026-11-19T20:02:00"
+      "url": "https://3dnews.ru/1151597",
+      "published": "2026-11-20T13:01:00"
     }
   ]
 }
