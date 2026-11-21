@@ -1,15 +1,43 @@
 {
-  "timestamp": "2026-11-21_22-17",
-  "total_articles": 34,
+  "timestamp": "2026-11-22_02-33",
+  "total_articles": 38,
   "articles": [
     {
-      "title": "Чернышенко: в олимпиаде по ИИ приняли участие почти 70 000 школьников",
-      "url": "https://www.vedomosti.ru/society/news/2026/11/20/1413935-70-000-shkolnikov",
-      "source": "Ведомости",
-      "published": "2026-11-20T20:37:29",
-      "description": "",
+      "title": "В Лондоне прошла демонстрация против неконтролируемого развития ИИ",
+      "url": "https://tass.ru/obschestvo/28342939",
+      "source": "ТАСС",
+      "published": "2026-11-21T20:22:30",
+      "description": "Участники акции выступили за законодательное регулирование сферы",
       "tags": [],
       "category": "general_news",
+      "matched_keywords": [
+        "регулирование",
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Мот предложил выплачивать артистам роялти за использование их голосов ИИ",
+      "url": "https://tass.ru/kultura/28342925",
+      "source": "ТАСС",
+      "published": "2026-11-21T19:56:05",
+      "description": "Музыкант отметил, что ему известны примеры композиций, созданных с применением искусственного интеллекта",
+      "tags": [],
+      "category": "general_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Что происходит с профессией разработчика: мой опыт и данные индустрии",
+      "url": "https://habr.com/ru/articles/1110762/?utm_campaign=1110762&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-21T19:19:53",
+      "description": "<img src=\"https://habrastorage.org/extt/4c/a8/98/4ca8989c2cdd316fc24ca56599bbe77a.png\" /><p>Как это началось у нас</p><p>Я работаю в команде разработки примерно из двух десятков человек: разработчики на 1С и смежных стеках, несколько тестировщиков и аналитиков. Этот текст - не теория, а то, через что мы с коллегами прошли сами за последние месяцы, пока готовили план внедрения ИИ на ближайшие несколько лет.</p><p>Началось всё без всякого плана. Весной 2026 часть команды уже баловалась с ИИ-агентами в личных проектах - просто из интереса. Летом это превратилось в рабочую практику: ручное написание кода у разработчиков сократилось в разы, зато сильно выросла нагрузка на код-ревью и архитектурные решения - ровно то смещение фокуса, о котором сейчас говорят все аналитики.</p><p>К концу лета мы начали эксперименты с локальной генерацией на собственном железе и завели общую базу знаний - сначала по всем стекам, с которыми работали, а потом из неё выделилась отдельная база по 1С и смежным технологиям. Запустили регулярные внутренние встречи по обмену опытом с ИИ-инструментами - раз в неделю, без них было бы сложно держать темп.</p><p>Осенью подключили облачного ИИ-агента (с соблюдением требований к обработке данных) как основной рабочий инструмент для всей команды, а перед этим вычистили код от учётных данных и другой чувствительной информации, чтобы можно было безопасно работать с облачными агентами. Отдельно начали пилот spec-driven development (SDD) - сначала на аналитиках и разработчиках, и наткнулись на отраслевой бенчмаркинг-проект PRISM, который стали использовать, чтобы не верить рекламным обещаниям моделей на слово, а проверять их на своих собственных задачах.</p><p>Есть и менее приятная находка: часть команды отметила ухудшение сна и общего самочувствия на фоне резкого погружения в новую технологию. Я считаю честным сказать об этом - ускорение редко даётся бесплатно, и это стоит закладывать в темп внедрения, а не замалчивать.</p> <a href=\"https://habr.com/ru/articles/1110762/?utm_campaign=1110762&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
       "matched_keywords": [
         "ИИ"
       ]
@@ -243,14 +271,14 @@
       ]
     },
     {
-      "title": "Доказательство гипотезы Римана с помощью ИИ",
-      "url": "https://habr.com/ru/articles/1110558/?utm_campaign=1110558&utm_source=habrahabr&utm_medium=rss",
-      "source": "Habr_AI",
-      "published": "2026-11-20T21:31:59",
-      "description": "<img src=\"https://habrastorage.org/extt/ac/84/79/ac8479d016964400e4008d093e6cd6c3.png\" /><p>Прямо сейчас происходит историческое событие!<strong> </strong>Речь не про GTA VI, которая установила рекорд индустрии развлечений и заработала $3,79 млрд за первые сутки продаж. Прямо сейчас ИИ замахнулся на одну из семи величайших математических задач человечества. И, возможно, мы наблюдаем историческое событие. И как сказал один из математиков: \"Происходит унижение человечества\".</p><p>В 1859 году немецкий математик Бернхард Риман сформулировал гипотезу, которую за следующие 167 лет так и не смогли доказать лучшие математики планеты. А теперь математик Anthropic Левент Альпёге утверждает, что нашёл доказательство с помощью Claude. Речь о знаменитой гипотезе Римана — одной из семи задач тысячелетия, за решение каждой из которых Математический институт Клэя обещает миллион долларов.</p><p>Если совсем просто, гипотеза связана с распределением простых чисел — тех самых, которые делятся только на единицу и самих себя. На первый взгляд они разбросаны среди натуральных чисел довольно хаотично. Но гипотеза Римана описывает удивительно строгую закономерность, скрывающуюся за этим хаосом. И это не просто красивая математическая загадка. Огромное количество результатов в теории чисел получено с оговоркой: \"если гипотеза Римана верна\". Её доказательство позволило бы убрать эту оговорку сразу для множества теорем.</p><p>За четверть века существования премии была решена только одна из семи задач. В 2002-2003 годах российский математик Григорий Перельман доказал гипотезу Пуанкаре, над которой математики бились почти сто лет. В 2010 году ему присудили премию в миллион долларов, но он отказался от денег. Ранее Перельман отказался и от медали Филдса — одной из самых престижных наград в математике. А теперь, возможно, пришла очередь второй задачи. И самое главное здесь — участие ИИ.</p> <a href=\"https://habr.com/ru/articles/1110558/?utm_campaign=1110558&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "title": "Акции TSMC летят в тартарары — такого обвала, как на этой неделе, не было с 1997 года",
+      "url": "https://3dnews.ru/1151644",
+      "source": "3DNews",
+      "published": "2026-11-21T21:23:00",
+      "description": "Акции TSMC на Тайваньской фондовой бирже в пятницу, 20 ноября, упали на 4,8 %, до 2000 тайваньских долларов за бумагу &mdash; минимума за семь месяцев. За неделю крупнейший в мире контрактный производитель чипов потерял 15,8 % биржевой стоимости. Это худший результат компании с октября 1997 года. Распродажа полупроводниковых акций резко усилилась на фоне новых экспортных ограничений США, а тайваньский индекс TAIEX потерял 17,5 % за неделю &mdash; больше, чем за любую неделю с 1990 года. Новые правила Бюро промышленности и безопасности Минторга США вступили в силу 19 ноября. Вашингтон ужесточил контроль над поставками передовых ускорителей в зарубежные центры обработки данных, которые предоставляют китайским компаниям значительные вычислительные мощности для ИИ. Под ограничения теперь попадает и схема, при которой сами чипы остаются за пределами Китая, а китайский заказчик пользуется ими удалённо.",
       "tags": [
-        "ai",
-        "ml"
+        "tech",
+        "hardware"
       ],
       "category": "tech_news",
       "matched_keywords": [
@@ -270,21 +298,6 @@
       "category": "tech_news",
       "matched_keywords": [
         "AI",
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Micron собралась поставить память прямо на процессоры — многослойная DRAM появится в 2028–2029 годах",
-      "url": "https://3dnews.ru/1151620",
-      "source": "3DNews",
-      "published": "2026-11-20T21:30:00",
-      "description": "Многослойная оперативная память, размещаемая непосредственно поверх чипов ИИ-ускорителей, может появиться на рынке в 2028&ndash;2029 годах. Такой прогноз представил технический директор Micron Скотт Дебоер (Scott DeBoer), отметив, что новая технология позволит значительно увеличить пропускную способность памяти и снизить энергозатраты на передачу данных. Источник изображения: Micron Technology",
-      "tags": [
-        "tech",
-        "hardware"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
         "ИИ"
       ]
     },
@@ -322,7 +335,7 @@
       "title": "В Таиланде требуют отложить регулирование стейблкоинов - Новости Таиланда",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtaGsteTRFeUtZWE9Cem5WTHg1N0tUSDhsX0hGN2dzUFFrdFF4Y2ZPRzNBcVFEVGYtTzNtUnI1eFVLY0FaeVBBYnhSaE9ycWpjWUJkcVBFRHJHa0J1TW5rdkJpTlNqOHJDV0RFNHNkaFY?oc=5",
       "source": "Google News",
-      "published": "2026-11-21T16:18:47",
+      "published": "2026-11-21T16:22:48",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFAtaGsteTRFeUtZWE9Cem5WTHg1N0tUSDhsX0hGN2dzUFFrdFF4Y2ZPRzNBcVFEVGYtTzNtUnI1eFVLY0FaeVBBYnhSaE9ycWpjWUJkcVBFRHJHa0J1TW5rdkJpTlNqOHJDV0RFNHNkaFY?oc=5\" target=\"_blank\">В Таиланде требуют отложить регулирование стейблкоинов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Новости Таиланда</font>",
       "tags": [
         "google_news"
@@ -334,11 +347,26 @@
       ]
     },
     {
-      "title": "ИИ-агенты могут заменить промпты в ближайшее время - Т—Ж",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SekNaeDNzdXR1cm5TSkQteUMySlN1RC1RZkN3UlVBbVhYZTlPVlMwVWJ5NU5qQlI2Nm1zd1d1LWZHTU9GVEVZalFmR3dOY0lBWTZVTjJRSHhxcnZVMDBraFBiaUxNYW84cWpDaERJYnhHcnR2eWdv?oc=5",
+      "title": "Объем ESG-облигаций в стране приближается к 47 трлн вон… доля корпоративного сектора, напротив, сокращается - 재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aMUpUWEZidUJYQm5RQTkzbEhYNDFtUW1hN0pwNkR6RFZRWFRvNnNkSjAwNElDNGRNMHVnLWdNMkFkSEc2RWxKSHBVQnhaNl82anZLTXo5eWQxLVBiZU9mQ0V3?oc=5",
       "source": "Google News",
-      "published": "2026-11-21T09:26:41",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5SekNaeDNzdXR1cm5TSkQteUMySlN1RC1RZkN3UlVBbVhYZTlPVlMwVWJ5NU5qQlI2Nm1zd1d1LWZHTU9GVEVZalFmR3dOY0lBWTZVTjJRSHhxcnZVMDBraFBiaUxNYW84cWpDaERJYnhHcnR2eWdv?oc=5\" target=\"_blank\">ИИ-агенты могут заменить промпты в ближайшее время</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Т—Ж</font>",
+      "published": "2026-11-21T22:20:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aMUpUWEZidUJYQm5RQTkzbEhYNDFtUW1hN0pwNkR6RFZRWFRvNnNkSjAwNElDNGRNMHVnLWdNMkFkSEc2RWxKSHBVQnhaNl82anZLTXo5eWQxLVBiZU9mQ0V3?oc=5\" target=\"_blank\">Объем ESG-облигаций в стране приближается к 47 трлн вон… доля корпоративного сектора, напротив, сокращается</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">재경일보</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ESG",
+      "matched_keywords": [
+        "ESG"
+      ]
+    },
+    {
+      "title": "ИИ‑агенты, работающие в России - Хабр",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tb1d5WUUzV1Z0MFlrSDlXQnpkWkkxN3ZGckNvaHdJZ09JSWNTMko5TmNMZHJ1SFhVVXlOYkYxck5Ta3ZkQVEwVUJ4VVVHUdIBWEFVX3lxTFBOdHl2c3U2SVVpWlV4V1pRQ3RFTGlfRnRWLXNSa2F5X2lQekc3NXZhMzMzcjhKckh5WjRzc0FDdnFHbDZzRE1TbXNlV1BfX2t5OHVTZ0luOUw?oc=5",
+      "source": "Google News",
+      "published": "2026-11-21T19:50:15",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tb1d5WUUzV1Z0MFlrSDlXQnpkWkkxN3ZGckNvaHdJZ09JSWNTMko5TmNMZHJ1SFhVVXlOYkYxck5Ta3ZkQVEwVUJ4VVVHUdIBWEFVX3lxTFBOdHl2c3U2SVVpWlV4V1pRQ3RFTGlfRnRWLXNSa2F5X2lQekc3NXZhMzMzcjhKckh5WjRzc0FDdnFHbDZzRE1TbXNlV1BfX2t5OHVTZ0luOUw?oc=5\" target=\"_blank\">ИИ‑агенты, работающие в России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Хабр</font>",
       "tags": [
         "google_news"
       ],
@@ -349,86 +377,11 @@
       ]
     },
     {
-      "title": "Математик заявил о доказательстве гипотезы Римана с помощью ИИ - Наука Mail",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORDFFYnlZVVRtWTdVc1hlOUJmY0JjTk9MT1ROVTl5STB0bHJwTTRwSS1RN1pjTkFLSTdhbWV2WndpZDZFWDJlbjdvMFZkMmtEd0JhY3N6b0VBcUVTREwxTTZZbm1rOE4xQVF1c3ExN0ppYWNIWklRTldqVmlLTnU2RlM5MmxoOGw5QkcxbHBKNXhNU25LOXZCajFHWk42b3dW?oc=5",
+      "title": "Эксперт: использование ИИ влияет на речь молодежи - Новый Калининград.Ru Новости Калининграда",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdGJiNlczSkp3bWQ0QW56OTRDUWhCV005YWk3YXNfWVoyQTlyV2c0Sk1WMG9EVHlLTTI0dWpwbTBoTFI0WnVDX2p4elVrek1FR0ZUaGdKZ3dGeXF6UDNPeGFIak1jb2hkd1R5ZmVLenZrU2pnT2tWQXZJdTRwS1UyT3cybDJVaUZBTVo4dE55RXN0Z1M5RnFzQ0J2V1lnY0ZUck5pWW5lT1M5Y1huRnV6VWZuMG5Ndw?oc=5",
       "source": "Google News",
-      "published": "2026-11-21T17:56:36",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxORDFFYnlZVVRtWTdVc1hlOUJmY0JjTk9MT1ROVTl5STB0bHJwTTRwSS1RN1pjTkFLSTdhbWV2WndpZDZFWDJlbjdvMFZkMmtEd0JhY3N6b0VBcUVTREwxTTZZbm1rOE4xQVF1c3ExN0ppYWNIWklRTldqVmlLTnU2RlM5MmxoOGw5QkcxbHBKNXhNU25LOXZCajFHWk42b3dW?oc=5\" target=\"_blank\">Математик заявил о доказательстве гипотезы Римана с помощью ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Наука Mail</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Доказательство гипотезы Римана с помощью ИИ - Хабр",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9iXzdjU3k5M2dZWlU2WTFyYmFlOHpvejBuMlVzQ3RfRkpoajFOR2QyY1ZrNmlZSkZMUDRqR0d6bmxWeHpFcGxiekNmMkF0QdIBWEFVX3lxTE9IVWtCYk5wWkhiWXlVRHhsQjlEQy0telZfM1ZPMHZ6R213WWhqQ2dRWWNXWGJyQUxGQnVicldEdllDeEExRUVmSE5QcDNUTUo5R2ZRTFU0Vmk?oc=5",
-      "source": "Google News",
-      "published": "2026-11-20T21:31:59",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9iXzdjU3k5M2dZWlU2WTFyYmFlOHpvejBuMlVzQ3RfRkpoajFOR2QyY1ZrNmlZSkZMUDRqR0d6bmxWeHpFcGxiekNmMkF0QdIBWEFVX3lxTE9IVWtCYk5wWkhiWXlVRHhsQjlEQy0telZfM1ZPMHZ6R213WWhqQ2dRWWNXWGJyQUxGQnVicldEdllDeEExRUVmSE5QcDNUTUo5R2ZRTFU0Vmk?oc=5\" target=\"_blank\">Доказательство гипотезы Римана с помощью ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Хабр</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Субботний венчур: рекордное IPO Anthropic и миллиардер во главе Acclaim AI - Forbes.ru",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdlg1dUx5cnV5ZzBQS0R4MUlrMXZvTXZSUk9pYm9rYzhKZjdWVmVaYWVFYmJzYURSa2VvdVJEWk90a0hBRUpnaldTSWhlcGlqM0w0bVpiOTgxcnZtTzdXaEpUYlpmWUxoUHRxMWFTdVpaOU9uWnlYWDgwazNpSUlvN2xTd3poOGVEaGVtRXRPV0hCTzFrWEF3bFdGaThIYzI1bW91X21uaUVxLTJNcXo3clI1bmg?oc=5",
-      "source": "Google News",
-      "published": "2026-11-21T05:00:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOdlg1dUx5cnV5ZzBQS0R4MUlrMXZvTXZSUk9pYm9rYzhKZjdWVmVaYWVFYmJzYURSa2VvdVJEWk90a0hBRUpnaldTSWhlcGlqM0w0bVpiOTgxcnZtTzdXaEpUYlpmWUxoUHRxMWFTdVpaOU9uWnlYWDgwazNpSUlvN2xTd3poOGVEaGVtRXRPV0hCTzFrWEF3bFdGaThIYzI1bW91X21uaUVxLTJNcXo3clI1bmg?oc=5\" target=\"_blank\">Субботний венчур: рекордное IPO Anthropic и миллиардер во главе Acclaim AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes.ru</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Конкурент Anthropic предложил бизнесу замнить дорогие нейросети специализированными ИИ-моделями - Inc. Russia",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNzJzQmg5MS1PQ055b1lDa05XSzYyNWdDT0E2cENFcXpHMG5wejFpc2pwOGlQZkZmRk0wcnpUOF9HcDBMdm44Z3dFbjl0VW5IVVV0WXBzSzl0MThTUFpIdVM0WkppTE1ZRW1TS0xsTl9adUotX21jZXlGN2tMLTVTZk9xWlBVZHRuWDJBV3VpZGtlQ2M0Q3lXT2xTTkh0anprUXNSVi1OM2h0LVJYOGI3T2sxUVRnRGJmWGEwWG81YzZGZw?oc=5",
-      "source": "Google News",
-      "published": "2026-11-21T13:02:50",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNzJzQmg5MS1PQ055b1lDa05XSzYyNWdDT0E2cENFcXpHMG5wejFpc2pwOGlQZkZmRk0wcnpUOF9HcDBMdm44Z3dFbjl0VW5IVVV0WXBzSzl0MThTUFpIdVM0WkppTE1ZRW1TS0xsTl9adUotX21jZXlGN2tMLTVTZk9xWlBVZHRuWDJBV3VpZGtlQ2M0Q3lXT2xTTkh0anprUXNSVi1OM2h0LVJYOGI3T2sxUVRnRGJmWGEwWG81YzZGZw?oc=5\" target=\"_blank\">Конкурент Anthropic предложил бизнесу замнить дорогие нейросети специализированными ИИ-моделями</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inc. Russia</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Исследователь Anthropic предсказал сверхчеловеческий ИИ в 2027 году и конец рынка труда для людей - Клуб DNS",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSW1oX1JhSy1HNXI2VGh0STVZRGpidnBhN2RZY21NS2I2QnZ2WFUzSTc5T3lvUHczZkdUcEFFcDRVRDR4cUpxa0NaTXZrMUxzcFI0THJkc3JhZGxKWURJVGJCZ3A3QW1FbE42R2h6aF9mcDIwTWNJX0NDa0NxdFphem9JVmNLaW9ublBmcFFhRl9VR05VNVFVZXpORS15c1VnYm5USS02bi3SAa4BQVVfeXFMT2Z2VDNZWkh5eGdVTlppRklmZ25Ia1hMQWpFR0xybUVwTVFBX1dPVXJUSTBJSUtLdjRQWHptS2liN3Vpekp0YUlPdURnRlNyNTNYZHJ6N1lfUTdnb3ljTTJ3TmtlZ3dPLWYyQWZlZDQzY20tcW5DZ2FUenJQV1NtSW5VMXhBV0dkQnQ1Q2Vja0dGbTZTRlAyTEtYUG9tWlVOZy1CdXF4ODA5aFJTOHFB?oc=5",
-      "source": "Google News",
-      "published": "2026-11-21T04:56:36",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSW1oX1JhSy1HNXI2VGh0STVZRGpidnBhN2RZY21NS2I2QnZ2WFUzSTc5T3lvUHczZkdUcEFFcDRVRDR4cUpxa0NaTXZrMUxzcFI0THJkc3JhZGxKWURJVGJCZ3A3QW1FbE42R2h6aF9mcDIwTWNJX0NDa0NxdFphem9JVmNLaW9ublBmcFFhRl9VR05VNVFVZXpORS15c1VnYm5USS02bi3SAa4BQVVfeXFMT2Z2VDNZWkh5eGdVTlppRklmZ25Ia1hMQWpFR0xybUVwTVFBX1dPVXJUSTBJSUtLdjRQWHptS2liN3Vpekp0YUlPdURnRlNyNTNYZHJ6N1lfUTdnb3ljTTJ3TmtlZ3dPLWYyQWZlZDQzY20tcW5DZ2FUenJQV1NtSW5VMXhBV0dkQnQ1Q2Vja0dGbTZTRlAyTEtYUG9tWlVOZy1CdXF4ODA5aFJTOHFB?oc=5\" target=\"_blank\">Исследователь Anthropic предсказал сверхчеловеческий ИИ в 2027 году и конец рынка труда для людей</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Клуб DNS</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "ИИ оптимизирует микросхемы: OpenAI улучшила Jalapeño и будущие процессоры AMD - Hardwareluxx Russia",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSFV4TkNSdUJxWlB6amRGSEJBZzJRVWxsbllfZ2xNeXFIODdxamJpZXp3a0d5ellZVWVIWVVPcHlYcEh6TDRjS3N3UVdnMGZmLTBXMDc2UndjREJTdTQtVUYyd3J6MV95SF9OMnJEME5CNEhzRWRPcVRGTEdEVVRKM2tNdENtVDNWZi1CYjBnb3VXQVdsMldSVmZKTzB1VGpTcGJEbFBTSmJNTXZURk0tcTEtd0wtb0FRSWlXdGNRZHlrNWlTZU5ReXFWdDVCRnQ3MHR1MGhKYVB4aGVZLVpsaVZn?oc=5",
-      "source": "Google News",
-      "published": "2026-11-21T14:36:10",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSFV4TkNSdUJxWlB6amRGSEJBZzJRVWxsbllfZ2xNeXFIODdxamJpZXp3a0d5ellZVWVIWVVPcHlYcEh6TDRjS3N3UVdnMGZmLTBXMDc2UndjREJTdTQtVUYyd3J6MV95SF9OMnJEME5CNEhzRWRPcVRGTEdEVVRKM2tNdENtVDNWZi1CYjBnb3VXQVdsMldSVmZKTzB1VGpTcGJEbFBTSmJNTXZURk0tcTEtd0wtb0FRSWlXdGNRZHlrNWlTZU5ReXFWdDVCRnQ3MHR1MGhKYVB4aGVZLVpsaVZn?oc=5\" target=\"_blank\">ИИ оптимизирует микросхемы: OpenAI улучшила Jalapeño и будущие процессоры AMD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hardwareluxx Russia</font>",
+      "published": "2026-11-21T13:16:37",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOdGJiNlczSkp3bWQ0QW56OTRDUWhCV005YWk3YXNfWVoyQTlyV2c0Sk1WMG9EVHlLTTI0dWpwbTBoTFI0WnVDX2p4elVrek1FR0ZUaGdKZ3dGeXF6UDNPeGFIak1jb2hkd1R5ZmVLenZrU2pnT2tWQXZJdTRwS1UyT3cybDJVaUZBTVo4dE55RXN0Z1M5RnFzQ0J2V1lnY0ZUck5pWW5lT1M5Y1huRnV6VWZuMG5Ndw?oc=5\" target=\"_blank\">Эксперт: использование ИИ влияет на речь молодежи</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Новый Калининград.Ru Новости Калининграда</font>",
       "tags": [
         "google_news"
       ],
@@ -469,11 +422,11 @@
       ]
     },
     {
-      "title": "Пузырь искусственного интеллекта продолжает сдуваться — акции ИИ-компаний стремительно дешевеют - Клуб DNS",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMHVvMzRpZkxHOGxQaUo5VWpLU0V0Mkk0Qld1QWlvaEhfai1HaW9fc0dtTURQTXFKLTJyUDUyUFNtU09FSWZvaEU0NG1tNVlManFuUERiUWhoVFhoQ1labkxFbWFyTXpNNGhFTkRYbzZOQml2S283MDdibzRoRU5wdUltbUlxSjJEU3FyTER4ejFEdWVXdVFaUGlDa3BCQXNNa01JNk5n0gGrAUFVX3lxTE1MQ25FVl9ha01wNW0zaXBzekhSMTUycTBrYlhNY1VPTlRGNmZQT2hIeGNDQUtUajdNQUxqcWd6N2MxWlpVLTFEbEtUQWVKZ2w0MGpLSkxjU0Fkcl96SnlFUnlUclIxOEJpNndjSGk5a2pWeTNVd2R0WHl5Y1Q0TDZCbjFReG1yMkt0SG41UXU5a0xHaDFVWmdSZkxaVG16dzBlbjBnSXAtZURySQ?oc=5",
+      "title": "Китай намерен установить единые стандарты для ИИ-токенов - Финансы Mail",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONWVMQ3FPNEtZOV9SU1dCY0JWVklzMnR5eGNkekJCUXloY01NSGI5S3VaaHhxM3RfY0JFMWhjRVVPbjBxY3dwbHhWTTVhaV83dTYxaV9ha1FrVUxQb2NKSWNaWjVwbmRMcW5tZHo5RGZUeFVsbDFqT0dqT1RxSTdvTU9YQUJLR2h0TGRqSmloRmZSM1dsVDlQYmEteTYtSlk?oc=5",
       "source": "Google News",
-      "published": "2026-11-21T16:35:25",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPMHVvMzRpZkxHOGxQaUo5VWpLU0V0Mkk0Qld1QWlvaEhfai1HaW9fc0dtTURQTXFKLTJyUDUyUFNtU09FSWZvaEU0NG1tNVlManFuUERiUWhoVFhoQ1labkxFbWFyTXpNNGhFTkRYbzZOQml2S283MDdibzRoRU5wdUltbUlxSjJEU3FyTER4ejFEdWVXdVFaUGlDa3BCQXNNa01JNk5n0gGrAUFVX3lxTE1MQ25FVl9ha01wNW0zaXBzekhSMTUycTBrYlhNY1VPTlRGNmZQT2hIeGNDQUtUajdNQUxqcWd6N2MxWlpVLTFEbEtUQWVKZ2w0MGpLSkxjU0Fkcl96SnlFUnlUclIxOEJpNndjSGk5a2pWeTNVd2R0WHl5Y1Q0TDZCbjFReG1yMkt0SG41UXU5a0xHaDFVWmdSZkxaVG16dzBlbjBnSXAtZURySQ?oc=5\" target=\"_blank\">Пузырь искусственного интеллекта продолжает сдуваться — акции ИИ-компаний стремительно дешевеют</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Клуб DNS</font>",
+      "published": "2026-11-21T11:23:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxONWVMQ3FPNEtZOV9SU1dCY0JWVklzMnR5eGNkekJCUXloY01NSGI5S3VaaHhxM3RfY0JFMWhjRVVPbjBxY3dwbHhWTTVhaV83dTYxaV9ha1FrVUxQb2NKSWNaWjVwbmRMcW5tZHo5RGZUeFVsbDFqT0dqT1RxSTdvTU9YQUJLR2h0TGRqSmloRmZSM1dsVDlQYmEteTYtSlk?oc=5\" target=\"_blank\">Китай намерен установить единые стандарты для ИИ-токенов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Финансы Mail</font>",
       "tags": [
         "google_news"
       ],
@@ -484,11 +437,26 @@
       ]
     },
     {
-      "title": "Китай намерен установить единые стандарты для ИИ-токенов - Финансы Mail",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONWVMQ3FPNEtZOV9SU1dCY0JWVklzMnR5eGNkekJCUXloY01NSGI5S3VaaHhxM3RfY0JFMWhjRVVPbjBxY3dwbHhWTTVhaV83dTYxaV9ha1FrVUxQb2NKSWNaWjVwbmRMcW5tZHo5RGZUeFVsbDFqT0dqT1RxSTdvTU9YQUJLR2h0TGRqSmloRmZSM1dsVDlQYmEteTYtSlk?oc=5",
+      "title": "ИИ-агенты Gemini получили инструкцию «Никогда не сдавайся» и атаковали реальный сайт - Xakep.ru",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fRk5HR3AzaWxmTXIxUGFuUGQtV2pSZmVwNU1KZDZBOTJOQmtaUWNuVlc1OFQ2bGp2TGZpUlhPYk5YdUtDUk1jRTJUS1RhX0VCZC1VSw?oc=5",
       "source": "Google News",
-      "published": "2026-11-21T11:23:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxONWVMQ3FPNEtZOV9SU1dCY0JWVklzMnR5eGNkekJCUXloY01NSGI5S3VaaHhxM3RfY0JFMWhjRVVPbjBxY3dwbHhWTTVhaV83dTYxaV9ha1FrVUxQb2NKSWNaWjVwbmRMcW5tZHo5RGZUeFVsbDFqT0dqT1RxSTdvTU9YQUJLR2h0TGRqSmloRmZSM1dsVDlQYmEteTYtSlk?oc=5\" target=\"_blank\">Китай намерен установить единые стандарты для ИИ-токенов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Финансы Mail</font>",
+      "published": "2026-11-21T07:58:23",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fRk5HR3AzaWxmTXIxUGFuUGQtV2pSZmVwNU1KZDZBOTJOQmtaUWNuVlc1OFQ2bGp2TGZpUlhPYk5YdUtDUk1jRTJUS1RhX0VCZC1VSw?oc=5\" target=\"_blank\">ИИ-агенты Gemini получили инструкцию «Никогда не сдавайся» и атаковали реальный сайт</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Xakep.ru</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Пузырь искусственного интеллекта продолжает сдуваться — акции ИИ-компаний стремительно дешевеют - Клуб DNS",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOGczNW9tMEp3N2Y4QlJtZ0VoZTBnQm1hMEhXYnI5SWR2ZjFOVHpQRGplVnpYcEZxakxDMEI1WVZRajI4U1p1Z3lsM09RX1c1akQ5NmtteGRjVHRyLXZfMzkzS1EyYlp1c3R2YzAxemx0aUlobmdJTFA3U3lkR0JvWDloMXZXQzhNY2NKQ212a3hjZXpnSmUzbzZ6dk5lTjZKNVBDR9IBqgFBVV95cUxNdy1heW5sT1JUQlEyVFgzbDE3NkxjZ2tKWHBWSUZXazl6eExJVkdwRTRzeVFIbnRZVHFuU1psWFJqYUxDSXdBVGhRbGlnT0NHMVNRV2hMRW1tTG81RWNRMjBpeHhZZ2xkbUdCSHRKQTZUajFncUYyckY1T3hwamV0MlZlNFc2M0FYbFNZSnRfUHdCMEhPQkNfdG10cloxbkNiVWdTcHVWTmVPUQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-21T16:26:15",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPOGczNW9tMEp3N2Y4QlJtZ0VoZTBnQm1hMEhXYnI5SWR2ZjFOVHpQRGplVnpYcEZxakxDMEI1WVZRajI4U1p1Z3lsM09RX1c1akQ5NmtteGRjVHRyLXZfMzkzS1EyYlp1c3R2YzAxemx0aUlobmdJTFA3U3lkR0JvWDloMXZXQzhNY2NKQ212a3hjZXpnSmUzbzZ6dk5lTjZKNVBDR9IBqgFBVV95cUxNdy1heW5sT1JUQlEyVFgzbDE3NkxjZ2tKWHBWSUZXazl6eExJVkdwRTRzeVFIbnRZVHFuU1psWFJqYUxDSXdBVGhRbGlnT0NHMVNRV2hMRW1tTG81RWNRMjBpeHhZZ2xkbUdCSHRKQTZUajFncUYyckY1T3hwamV0MlZlNFc2M0FYbFNZSnRfUHdCMEhPQkNfdG10cloxbkNiVWdTcHVWTmVPUQ?oc=5\" target=\"_blank\">Пузырь искусственного интеллекта продолжает сдуваться — акции ИИ-компаний стремительно дешевеют</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Клуб DNS</font>",
       "tags": [
         "google_news"
       ],
@@ -512,27 +480,118 @@
       "matched_keywords": [
         "ИИ"
       ]
+    },
+    {
+      "title": "ИИ и одна из величайших загадок математики: заявлено о доказательстве гипотезы Римана - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWVNXQnhna2NoWEdrbnJ3VTJiTmt6ZWtiX25RQ0VKYzlvcGhuWk1Nc2lISWR3eExtUEY1azhfWnNQbTItZ1FPM2dqVWxGdFZMSF9KSWRQcUdLNXI4VDBIUTN4aE5DdjdnSXNWWXlyX0VrQm1GSFJJVkp3b250RWFySnNHUTF5bFR3MDkzbWZlSC01WFJpT09lZ05FclZ4VHBEaEMxNmZvUlVrNW1JWlZ2ZlV4NDBwbGtTNzNrd3V6ZEp2c2s?oc=5",
+      "source": "Google News",
+      "published": "2026-11-21T10:18:58",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWVNXQnhna2NoWEdrbnJ3VTJiTmt6ZWtiX25RQ0VKYzlvcGhuWk1Nc2lISWR3eExtUEY1azhfWnNQbTItZ1FPM2dqVWxGdFZMSF9KSWRQcUdLNXI4VDBIUTN4aE5DdjdnSXNWWXlyX0VrQm1GSFJJVkp3b250RWFySnNHUTF5bFR3MDkzbWZlSC01WFJpT09lZ05FclZ4VHBEaEMxNmZvUlVrNW1JWlZ2ZlV4NDBwbGtTNzNrd3V6ZEp2c2s?oc=5\" target=\"_blank\">ИИ и одна из величайших загадок математики: заявлено о доказательстве гипотезы Римана</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Математик из США заявил, что решил одну из «задач тысячелетия» с помощью ИИ - Эксперт",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTUlmcEtmTVlsZW5vQ3ZQbWtRX0ZiTVlFU3Y4NGNscTFBSXVGWk9rYjF1bEZPa2xpSVNvRjJZTEktNlFwbE9uVkNzWFVLV0tsbmVkWEVzTnlmb1c3WG5aZ3NOSHpoWDctVW1XWXBRZ2Jhalp5ZDBqdGZpSW93b1pWbmU3eHNzMnQ5M0MyWi1OM3lYaWdNYnJKNWVXdkhNd1FaYzZGa19zV1g?oc=5",
+      "source": "Google News",
+      "published": "2026-11-21T09:12:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTUlmcEtmTVlsZW5vQ3ZQbWtRX0ZiTVlFU3Y4NGNscTFBSXVGWk9rYjF1bEZPa2xpSVNvRjJZTEktNlFwbE9uVkNzWFVLV0tsbmVkWEVzTnlmb1c3WG5aZ3NOSHpoWDctVW1XWXBRZ2Jhalp5ZDBqdGZpSW93b1pWbmU3eHNzMnQ5M0MyWi1OM3lYaWdNYnJKNWVXdkhNd1FaYzZGa19zV1g?oc=5\" target=\"_blank\">Математик из США заявил, что решил одну из «задач тысячелетия» с помощью ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Эксперт</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Китайский миллиардер лишился $11,6 млрд из-за обвала ИИ - Финансы Mail",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUElVbTduMGZac1djYXBVcHlnUVBlVlNyUnZFb1dlSkJiX3ZWcW5Oc2NRQ1JjSUFPb1ZNSEVZc2duRE9TSjFzaG5xNnpWbmFqWTUwbWNHYlhGcWt5cW9wcndpWTZ1cm5VekxKMUJ2cUNFYzNQX3VGazJNU2R3NW0tVTA1OUVaYzV5OExNbFA5Q2E1eldudDcxeng4dmRwUQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-21T14:29:47",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPUElVbTduMGZac1djYXBVcHlnUVBlVlNyUnZFb1dlSkJiX3ZWcW5Oc2NRQ1JjSUFPb1ZNSEVZc2duRE9TSjFzaG5xNnpWbmFqWTUwbWNHYlhGcWt5cW9wcndpWTZ1cm5VekxKMUJ2cUNFYzNQX3VGazJNU2R3NW0tVTA1OUVaYzV5OExNbFA5Q2E1eldudDcxeng4dmRwUQ?oc=5\" target=\"_blank\">Китайский миллиардер лишился $11,6 млрд из-за обвала ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Финансы Mail</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Северокорейский ChatGPT: «Источник мудрости» — первый публичный ИИ-чатбот КНДР - Хабр",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wOGlyWTVQZ1U5emNFNE1xeWpsTjVmdEIzSFk1R3YwTjdUR0xnSHEzOGF2dzZkUXVucTR0RWtQWGJaeGQybnRUQ3RMb0FIZ9IBWEFVX3lxTE5heEIweVNwNWJJeDgtdGY5SElOYWxqVXA1UFlTclAxQTNrNWxmQVZXYkpHNTdVYklsOFU5T3dINkQ2ZDJhdDRpWnVvSVQ3ZGhvSEdfZm9SbUQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-21T10:34:58",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wOGlyWTVQZ1U5emNFNE1xeWpsTjVmdEIzSFk1R3YwTjdUR0xnSHEzOGF2dzZkUXVucTR0RWtQWGJaeGQybnRUQ3RMb0FIZ9IBWEFVX3lxTE5heEIweVNwNWJJeDgtdGY5SElOYWxqVXA1UFlTclAxQTNrNWxmQVZXYkpHNTdVYklsOFU5T3dINkQ2ZDJhdDRpWnVvSVQ3ZGhvSEdfZm9SbUQ?oc=5\" target=\"_blank\">Северокорейский ChatGPT: «Источник мудрости» — первый публичный ИИ-чатбот КНДР</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Хабр</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Математик заявил о доказательстве гипотезы Римана с помощью ИИ - Наука Mail",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORDFFYnlZVVRtWTdVc1hlOUJmY0JjTk9MT1ROVTl5STB0bHJwTTRwSS1RN1pjTkFLSTdhbWV2WndpZDZFWDJlbjdvMFZkMmtEd0JhY3N6b0VBcUVTREwxTTZZbm1rOE4xQVF1c3ExN0ppYWNIWklRTldqVmlLTnU2RlM5MmxoOGw5QkcxbHBKNXhNU25LOXZCajFHWk42b3dW?oc=5",
+      "source": "Google News",
+      "published": "2026-11-21T17:56:36",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxORDFFYnlZVVRtWTdVc1hlOUJmY0JjTk9MT1ROVTl5STB0bHJwTTRwSS1RN1pjTkFLSTdhbWV2WndpZDZFWDJlbjdvMFZkMmtEd0JhY3N6b0VBcUVTREwxTTZZbm1rOE4xQVF1c3ExN0ppYWNIWklRTldqVmlLTnU2RlM5MmxoOGw5QkcxbHBKNXhNU25LOXZCajFHWk42b3dW?oc=5\" target=\"_blank\">Математик заявил о доказательстве гипотезы Римана с помощью ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Наука Mail</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Еще один пример пресс-релиза про созданные ИИ процессоры, со старыми приемчиками пиара - Хабр",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SU1doRWZnblNqVmxvR3JUUVVUbDd6WERwcWl5RFNsX3k0aTJVQUh6UlZLT2M5NXVuc19QTzJMRHVpQ0phZG1BR0VubTctZ9IBWEFVX3lxTE5YZi1XYk9Ib1NLcnRMNW5kejRndHI5Q0xtdDRRZmpZT1o2X0hoY2VLc3kwOGNWeXBPUktkOUpjT3VDM0hEWmJveDF1bXNaTmdiT1dSQ0FwWjI?oc=5",
+      "source": "Google News",
+      "published": "2026-11-21T16:44:16",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SU1doRWZnblNqVmxvR3JUUVVUbDd6WERwcWl5RFNsX3k0aTJVQUh6UlZLT2M5NXVuc19QTzJMRHVpQ0phZG1BR0VubTctZ9IBWEFVX3lxTE5YZi1XYk9Ib1NLcnRMNW5kejRndHI5Q0xtdDRRZmpZT1o2X0hoY2VLc3kwOGNWeXBPUktkOUpjT3VDM0hEWmJveDF1bXNaTmdiT1dSQ0FwWjI?oc=5\" target=\"_blank\">Еще один пример пресс-релиза про созданные ИИ процессоры, со старыми приемчиками пиара</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Хабр</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
     }
   ],
   "groups": {
     "by_source": {
-      "Ведомости": 1,
+      "ТАСС": 2,
       "Habr_AI": 16,
       "3DNews": 2,
       "VC_ru_Технологии": 1,
-      "Google News": 14
+      "Google News": 17
     },
     "by_category": {
-      "general_news": 1,
+      "general_news": 2,
       "tech_news": 18,
       "ai_and_regulation": 1,
-      "google_news": 14
+      "google_news": 17
     },
     "by_keyword": {
-      "ИИ": 28,
-      "AI": 7,
+      "регулирование": 3,
+      "ИИ": 32,
+      "AI": 6,
       "искусственный интеллект": 1,
-      "регулирование": 2
+      "ESG": 1
     }
   }
 }

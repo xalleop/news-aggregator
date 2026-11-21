@@ -1,32 +1,72 @@
 {
-  "timestamp": "2026-11-21_22-17",
-  "total_articles": 34,
+  "timestamp": "2026-11-22_02-33",
+  "total_articles": 38,
   "sources": {
-    "Ведомости": 1,
+    "ТАСС": 2,
     "Habr_AI": 16,
     "3DNews": 2,
     "VC_ru_Технологии": 1,
-    "Google News": 14
+    "Google News": 17
   },
   "top_keywords": [
     [
       "ИИ",
-      28
+      32
     ],
     [
       "AI",
-      7
+      6
     ],
     [
       "регулирование",
-      2
+      3
     ],
     [
       "искусственный интеллект",
       1
+    ],
+    [
+      "ESG",
+      1
     ]
   ],
   "recent_headlines": [
+    {
+      "title": "Объем ESG-облигаций в стране приближается к 47 трлн вон… доля корпоративного сектора, напротив, сокращается - 재경일보",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aMUpUWEZidUJYQm5RQTkzbEhYNDFtUW1hN0pwNkR6RFZRWFRvNnNkSjAwNElDNGRNMHVnLWdNMkFkSEc2RWxKSHBVQnhaNl82anZLTXo5eWQxLVBiZU9mQ0V3?oc=5",
+      "published": "2026-11-21T22:20:00"
+    },
+    {
+      "title": "Акции TSMC летят в тартарары — такого обвала, как на этой неделе, не было с 1997 года",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151644",
+      "published": "2026-11-21T21:23:00"
+    },
+    {
+      "title": "В Лондоне прошла демонстрация против неконтролируемого развития ИИ",
+      "source": "ТАСС",
+      "url": "https://tass.ru/obschestvo/28342939",
+      "published": "2026-11-21T20:22:30"
+    },
+    {
+      "title": "Мот предложил выплачивать артистам роялти за использование их голосов ИИ",
+      "source": "ТАСС",
+      "url": "https://tass.ru/kultura/28342925",
+      "published": "2026-11-21T19:56:05"
+    },
+    {
+      "title": "ИИ‑агенты, работающие в России - Хабр",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tb1d5WUUzV1Z0MFlrSDlXQnpkWkkxN3ZGckNvaHdJZ09JSWNTMko5TmNMZHJ1SFhVVXlOYkYxck5Ta3ZkQVEwVUJ4VVVHUdIBWEFVX3lxTFBOdHl2c3U2SVVpWlV4V1pRQ3RFTGlfRnRWLXNSa2F5X2lQekc3NXZhMzMzcjhKckh5WjRzc0FDdnFHbDZzRE1TbXNlV1BfX2t5OHVTZ0luOUw?oc=5",
+      "published": "2026-11-21T19:50:15"
+    },
+    {
+      "title": "Что происходит с профессией разработчика: мой опыт и данные индустрии",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1110762/?utm_campaign=1110762&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-21T19:19:53"
+    },
     {
       "title": "Математик заявил о доказательстве гипотезы Римана с помощью ИИ - Наука Mail",
       "source": "Google News",
@@ -34,58 +74,22 @@
       "published": "2026-11-21T17:56:36"
     },
     {
+      "title": "Еще один пример пресс-релиза про созданные ИИ процессоры, со старыми приемчиками пиара - Хабр",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SU1doRWZnblNqVmxvR3JUUVVUbDd6WERwcWl5RFNsX3k0aTJVQUh6UlZLT2M5NXVuc19QTzJMRHVpQ0phZG1BR0VubTctZ9IBWEFVX3lxTE5YZi1XYk9Ib1NLcnRMNW5kejRndHI5Q0xtdDRRZmpZT1o2X0hoY2VLc3kwOGNWeXBPUktkOUpjT3VDM0hEWmJveDF1bXNaTmdiT1dSQ0FwWjI?oc=5",
+      "published": "2026-11-21T16:44:16"
+    },
+    {
       "title": "Пузырь искусственного интеллекта продолжает сдуваться — акции ИИ-компаний стремительно дешевеют - Клуб DNS",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMHVvMzRpZkxHOGxQaUo5VWpLU0V0Mkk0Qld1QWlvaEhfai1HaW9fc0dtTURQTXFKLTJyUDUyUFNtU09FSWZvaEU0NG1tNVlManFuUERiUWhoVFhoQ1labkxFbWFyTXpNNGhFTkRYbzZOQml2S283MDdibzRoRU5wdUltbUlxSjJEU3FyTER4ejFEdWVXdVFaUGlDa3BCQXNNa01JNk5n0gGrAUFVX3lxTE1MQ25FVl9ha01wNW0zaXBzekhSMTUycTBrYlhNY1VPTlRGNmZQT2hIeGNDQUtUajdNQUxqcWd6N2MxWlpVLTFEbEtUQWVKZ2w0MGpLSkxjU0Fkcl96SnlFUnlUclIxOEJpNndjSGk5a2pWeTNVd2R0WHl5Y1Q0TDZCbjFReG1yMkt0SG41UXU5a0xHaDFVWmdSZkxaVG16dzBlbjBnSXAtZURySQ?oc=5",
-      "published": "2026-11-21T16:35:25"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOGczNW9tMEp3N2Y4QlJtZ0VoZTBnQm1hMEhXYnI5SWR2ZjFOVHpQRGplVnpYcEZxakxDMEI1WVZRajI4U1p1Z3lsM09RX1c1akQ5NmtteGRjVHRyLXZfMzkzS1EyYlp1c3R2YzAxemx0aUlobmdJTFA3U3lkR0JvWDloMXZXQzhNY2NKQ212a3hjZXpnSmUzbzZ6dk5lTjZKNVBDR9IBqgFBVV95cUxNdy1heW5sT1JUQlEyVFgzbDE3NkxjZ2tKWHBWSUZXazl6eExJVkdwRTRzeVFIbnRZVHFuU1psWFJqYUxDSXdBVGhRbGlnT0NHMVNRV2hMRW1tTG81RWNRMjBpeHhZZ2xkbUdCSHRKQTZUajFncUYyckY1T3hwamV0MlZlNFc2M0FYbFNZSnRfUHdCMEhPQkNfdG10cloxbkNiVWdTcHVWTmVPUQ?oc=5",
+      "published": "2026-11-21T16:26:15"
     },
     {
       "title": "В Таиланде требуют отложить регулирование стейблкоинов - Новости Таиланда",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtaGsteTRFeUtZWE9Cem5WTHg1N0tUSDhsX0hGN2dzUFFrdFF4Y2ZPRzNBcVFEVGYtTzNtUnI1eFVLY0FaeVBBYnhSaE9ycWpjWUJkcVBFRHJHa0J1TW5rdkJpTlNqOHJDV0RFNHNkaFY?oc=5",
-      "published": "2026-11-21T16:18:47"
-    },
-    {
-      "title": "Кит уплыл в мир агентов: что на самом деле поменялось в Docker после «Run on trust»",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1110714/?utm_campaign=1110714&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-21T16:11:26"
-    },
-    {
-      "title": "«Источник мудрости»: в Северной Корее разработали собственный чат-бот с ИИ - Правила жизни",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWFYyU1YzMGdJZkxOQU5XRHI1LXpaZ0hWeUhaQVhWUU95OFhIbklJeDN2WHZRdzNuUVdDVTFLb1RScDVTRWVZM3NTOTExWHYxYzRZTjI1SHlwNS1QckJ4bjZvVnhuS0dMcm5PYW5IZGxHWllKRWhlREllY3dxbVU2ZFBOSlRCY0d4bWVXbGZES2xpTFdGVE9tN2xlVnNHUXY0bXdtX0hXWHp4aTBIeUh1ZmVvaEJ6RlhJ?oc=5",
-      "published": "2026-11-21T15:57:00"
-    },
-    {
-      "title": "Представлен ClawDOS — ИИ‑агент для написания кода в среде DOS",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1110726/?utm_campaign=1110726&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-21T15:41:21"
-    },
-    {
-      "title": "Госдума проконтролирует регулирование семейного образования - Первое сентября",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lS05mN01aLXhiMGpUSVlTSk9jS3NwQnVvTncyOUJkeGNxdHc2TWxSWnpkSnVfVmNiNHNvNWhEaS1NVHc1N3hCakxiekJFbFk?oc=5",
-      "published": "2026-11-21T14:51:35"
-    },
-    {
-      "title": "ИИ оптимизирует микросхемы: OpenAI улучшила Jalapeño и будущие процессоры AMD - Hardwareluxx Russia",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSFV4TkNSdUJxWlB6amRGSEJBZzJRVWxsbllfZ2xNeXFIODdxamJpZXp3a0d5ellZVWVIWVVPcHlYcEh6TDRjS3N3UVdnMGZmLTBXMDc2UndjREJTdTQtVUYyd3J6MV95SF9OMnJEME5CNEhzRWRPcVRGTEdEVVRKM2tNdENtVDNWZi1CYjBnb3VXQVdsMldSVmZKTzB1VGpTcGJEbFBTSmJNTXZURk0tcTEtd0wtb0FRSWlXdGNRZHlrNWlTZU5ReXFWdDVCRnQ3MHR1MGhKYVB4aGVZLVpsaVZn?oc=5",
-      "published": "2026-11-21T14:36:10"
-    },
-    {
-      "title": "В Тюменской области появился цифровой репетитор по английскому языку с ИИ - Национальные проекты России",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeUdZX2MyLVhvdko4Ulg4QVFmN2RmUllWUDFxdjRPcG50UXI3cUVOMW1OVExwWE9xUzRMMHhoREZRN1RzaVQ5Z1ByLVNFWl9zU0czYjhDYnJmVVJjX2FzdV9JcXhiR3h1UHpISDByTzc3dGdRNDJjWG42SF9adlJVODRVN2VpZ3IzS2hFaGtqcFVjLTA3V3NESVMyeFN1LTQxOVEwVnJ2Z25NSnotT0tkSXJBNlhyUDhLdnBocGFEamlic1FoOXVhblZn?oc=5",
-      "published": "2026-11-21T14:04:42"
-    },
-    {
-      "title": "Как я перестал быть диспетчером у своих ИИ-агентов",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1110668/?utm_campaign=1110668&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-21T13:04:14"
+      "published": "2026-11-21T16:22:48"
     }
   ]
 }
