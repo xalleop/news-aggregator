@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-11-22_22-42",
-  "total_articles": 32,
+  "timestamp": "2026-11-23_02-47",
+  "total_articles": 33,
   "sources": {
     "Ведомости": 1,
     "Habr_AI": 6,
     "3DNews": 5,
     "ИИ комплаенс и этика": 2,
-    "Google News": 18
+    "Google News": 19
   },
   "top_keywords": [
     [
@@ -18,15 +18,15 @@
       6
     ],
     [
+      "регулирование",
+      2
+    ],
+    [
       "governance",
       1
     ],
     [
       "aigovernance",
-      1
-    ],
-    [
-      "регулирование",
       1
     ],
     [
@@ -36,7 +36,55 @@
   ],
   "recent_headlines": [
     {
-      "title": "Три моих кейса, где экономия времени с ИИ-автоматизациями обернулась постоянными переделками и фиксами",
+      "title": "Атаки, на которые раньше уходили недели, ИИ выполняет за два часа - ComNews.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc09xNjJ1N2V4ZlpaX25vV2UxcU9td1N2bl8wWkk4cFdON1pYbUVhWDJnM3FtLWV1MjFyUEVCYVdvc2x5WlVyV0tqRUNVR2tDV2FYVjZ5cTRyTTF3eDlFV1EzSVZlWUExV3dWRjFLYWV3bDduQlB6TGlISVYwaFlKeUplcFBRWVdGMHdxa0NtMXJSNk84N0VlbXVmeHVZaEN0MzE0YTNpeC1hT1dyN0dSbnlNaGxvZHhqd28yZDltNFljRnVZ?oc=5",
+      "published": "2026-11-22T23:35:38"
+    },
+    {
+      "title": "Штраф за то, не знаю за что. Как будет работать регулирование дискредитации традиционных ценностей в онлайн-видео - ComNews.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNjRqUGt5SVlfUWtEd0JGQkk4SHVKUzVDaUpNNm9rUEpLdnhBT0VNN1hNQlBfZnFIWjNPVGpNQS1fQnAtbXFmdXpZTC11dklDWGt6cDltbTU1WGxOdDg5Qkt5eFR2QUlxOXU0cE1HOFFLUmFiaFhwTXNkV0N3OHNsN3NVYnBydkpJdkJCWHZ6UjY2VGRrR1ZJQThGcVIxMndFUWRrcWZoMERWTUhVS0FDcWx0TldGR2hCNFp4ZFpSN3pKTmF3ckhfTVVBQXJJU2NESjh4NXRtTkp2ckZ5dG5TVVN1YmtaT0MxbG9ja2JEdlo2eHA4ZEIwdS1jV2ZQV0pWU2c?oc=5",
+      "published": "2026-11-22T23:35:36"
+    },
+    {
+      "title": "Китайские спецслужбы начали охоту за передовыми ИИ-чипами задолго до скандала вокруг Nvidia",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151661",
+      "published": "2026-11-22T21:45:00"
+    },
+    {
+      "title": "Экономисты ЕЦБ предупредили о рисках для финансовых рынков из-за ИИ - Ведомости",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYkhCVjZIOU5xb2tRSUFTamN2Y1RaaUY4VzNoVFJHel83SWhPOC16TzdmN2JKUzdGUktTOGdzcnJhcjI1REVyWlE5RmlZNjVhamVpbThLR3dyVjRHRGQxOFZBVmlmc3QzM3M5UVdKZ0d4ZDA3WDVPeDcxS0pkNno4LTdRN0N2LVMtaE9rRzQxZDJDN1Z3a3c?oc=5",
+      "published": "2026-11-22T21:15:02"
+    },
+    {
+      "title": "Пятидневка в школе. Грузия и Россия будут торговать. ИИ поможет пройти собеседование. Берега к зиме готовы. Ростов на фоне страны. - Газета \"Наше время\"",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tZ0lLZFdma05PcnVWNGtLUVFrN2VKcXpDN0ZUbGFWTmdEQVZVV0pCb3IyR2lQQ1BlVWdMbVRzM1diRFBMODdWTXhVdmM0WXVTVkpQZg?oc=5",
+      "published": "2026-11-22T21:01:21"
+    },
+    {
+      "title": "Российские разработки в квантовых коммуникациях и ИИ приблизились к мировому уровню - IT Channel News",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QTlQ1RjRNWWtnU0FsY1VTcjVjX2JGOXBVOE1xYm5TYWZNTl9QV3VScVlBSUxMOHlweUpYNU9jVzJMd0xvSC1VV01STE1oQlVvOWt1MmVYQVl5bTVJRGVVTGNQUFVhbDQ?oc=5",
+      "published": "2026-11-22T21:00:00"
+    },
+    {
+      "title": "Что будет с компаниями, занимающимися ИИ? Комментарий Малека Дудакова - BFM.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE02Znl0VjlJUmttSWoxRmZBLVJOVDBDSTU0UXJHcWlsRGpEcUtxSm9hdVFSaVI1RERVb1p2aUpjZUZNWU5n0gFKQVVfeXFMTllOWjRSZWxEQ3lEXzhrTFpiSExGbzNMdHNiTVhEdzlPMGF1bjlVaWRhaFpmbjFfSnMtWjFHN3hYUDRQcTAzQkxqYkE?oc=5",
+      "published": "2026-11-22T20:55:52"
+    },
+    {
+      "title": "Волновавшая математиков 170 лет гипотеза Римана повержена. По всей видимости, ее с помощью ИИ доказал сотрудник компании Anthropic - BBC",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4M1B6eVlIX3N3bF9Ja2c0TTd3cWZUZGJpS0VhQms1ZGc5NUhpa0pCQUhYVk50YW9Qa0tWMUh5Zk1wbWxweThDREs5bEc4R29nNkZhZzRlaDJYaDlyMGVn0gFkQVVfeXFMT1A2b3FWdUdFbXJNdTF5YjhneUtadHdXZFJqOFpWcFRIZ2V4eVZPalFnRFJFeVhjcXpCeGhFenc1YlZRVzRQM0ZFMlV1V1pOU3Yzb2czaklfX3JiQ0FWVW41WHZtSQ?oc=5",
+      "published": "2026-11-22T19:39:38"
+    },
+    {
+      "title": "Три моих кейса, где экономия времени с ИИ‑автоматизациями обернулась постоянными переделками и фиксами",
       "source": "Habr_AI",
       "url": "https://habr.com/ru/articles/1109850/?utm_campaign=1109850&utm_source=habrahabr&utm_medium=rss",
       "published": "2026-11-22T18:52:19"
@@ -46,54 +94,6 @@
       "source": "3DNews",
       "url": "https://3dnews.ru/1151659",
       "published": "2026-11-22T18:04:00"
-    },
-    {
-      "title": "Германия впервые испытывает дроны-камикадзе и ИИ-системы наведения - Радио Свобода",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNnNpTTFJcGpMRE9ZdHFuSHhoNFBuLTdqaGRRdkw5czgwSDNTSnB1N3U1R2M1c1poME02cnV5NXdWUjFXRTZEUVZDUTVQRmdOeDFEdDRITWw0VUdPUUVoSjBtWGFKWGlhTzk5cElxVDJYVGtLNktlMWxBWjA0QzZKZHM5dGx3WW1ReEdwWWZVWW1GNWstUzg3V0RaRnNLLWVka1VOcEFIblk0Zllo0gGvAUFVX3lxTFBoUW5GTHUwQzNPYlRhVEpCUTdnazBxN0NtMXg1RExqc2FWOGRFMkJ5QjNBYmktX0hXR0FSZm5pbnVOZ3YyTFZONWtxY1lKZXUyWHI0aDRhMnRWRFBrNnl6V3F5aGxIRHhsWXlfU2dvOTk3ZTA4bzdOX2NmdDZMR1JSZkk3QmpEQUUzLWZCLWRWWTRLRTF4aTR4VXNmQS1XODVhZWM4VEtlT0xxaEptQzQ?oc=5",
-      "published": "2026-11-22T17:40:24"
-    },
-    {
-      "title": "Эксперт рассказал, почему ИИ никогда не заменит человека - АБН24",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMUhGYzY0VktiNFdvZXE4d1U0YlM3ZWpxdXdQd3Uwd2Flbk9sVGs2V3FPUFlIeFE4VjNKX19lXzFERER4N0Z3bWhFbE5hLU9kNEo5dWw0QjdiOVlSakJqV0c1Q25LYzFYQkU4QlZXUjlXaE1Ld0ZYZkJxdEVWV3lJeEsyRHp5cFJBZkpsSUVfMl9NSl9XT0E?oc=5",
-      "published": "2026-11-22T17:12:53"
-    },
-    {
-      "title": "OpenAI GPT-6.2 Astra и GPT-6.2 Sol оказались одними из лучших ИИ-моделей для разработки игр",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151657",
-      "published": "2026-11-22T16:02:00"
-    },
-    {
-      "title": "Как выбирать площадки для упоминаний бренда в ответах ИИ — я прошерстил исследование от Ahrefs",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1110916/?utm_campaign=1110916&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-22T15:48:40"
-    },
-    {
-      "title": "Как выбирать площадки для упоминаний бренда в ответах ИИ — я прошерстил исследование от Ahrefs - Хабр",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HZ29GRUVVcnVkVGZONG41b0FWVGxfdW01aDExT0ZWanMwR2x1WXEtT3JsbU5uMTl0M01FR0hBbmVCUlBGR2kwZWVWNWNVZ9IBWEFVX3lxTE9pU3VnOE5qc0FaZDFHRTV4blB3U2VJVmdMc2dWU3BYWjdPSGptSmltRi1xdGpxLTgwMEx5dTNIQ0JzNzhjUE85MEFKMWQyeVhhT29kYm45WTc?oc=5",
-      "published": "2026-11-22T15:48:40"
-    },
-    {
-      "title": "Искусственный интеллект в школьном образовании обсудили на форсайт-конференции образовательной экосистемы «Просвет - Минпросвещения России",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRGlHNTZ1RzM4c3dDT2lGdER3aGdCTHdzYnhqelNLNTNicDFnOEJTbU5YWmR0Sko5UU1GSE1uUEZ6Z19BM0lIWTd1UDIzR1lra3dvRTQ4enRjOVpfYkduazVSRlhMcWlZXzN1RFgwczZaMnd3RnZXdXQybFd6UzVUQWEwclhzekxYcGtCR3lDaVNsaHdjUEI2ZkRWaGo1ekE2QlhOb1NBSTF0TXhPZ1FYNzFlRWxCYU5mQlY1NnYxdHVPcUpXbDhXWXlKM2tSaUx6SjVEd3loeWc1eVpO?oc=5",
-      "published": "2026-11-22T15:18:43"
-    },
-    {
-      "title": "Серверы для ИИ дорожают прямо на глазах: Dell и другие требуют с заказчиков доплатить 25–45 %",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151654",
-      "published": "2026-11-22T15:06:00"
-    },
-    {
-      "title": "Тест и обзор: MSI Pro Max Edge AI+: 128 ГБ памяти для локального ИИ - Hardwareluxx Russia",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeFNSNUpvdDhYX1dpam91akFzbG1ZR293TGVrTU1yLWJJMVZERWJJVkcxTTZaMHFacmVVbmh0cGhvTWl5S1lFWXZGLTJlMWctbVFRckY2dTN0U0w3NzRFdHR1VEQ4eVVBNHFocjcxLXpoajl3SzVuZGN3VEVQTU9tcEhTcy14ZnRDUDVPLWRBbnRzb29xT1B6cU1RUVdrY2Fyc0k1NXFURXdaRktaM0pFY09Zdzl0MXhEM2FnMi1QV0Z1Rnh3a09YSmNiZlJXNG1DNm1r?oc=5",
-      "published": "2026-11-22T14:38:26"
     }
   ]
 }
