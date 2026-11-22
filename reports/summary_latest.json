@@ -1,95 +1,103 @@
 {
-  "timestamp": "2026-11-22_02-33",
-  "total_articles": 38,
+  "timestamp": "2026-11-22_16-38",
+  "total_articles": 29,
   "sources": {
-    "ТАСС": 2,
-    "Habr_AI": 16,
+    "Ведомости": 1,
+    "Habr_AI": 6,
     "3DNews": 2,
-    "VC_ru_Технологии": 1,
-    "Google News": 17
+    "ИИ комплаенс и этика": 2,
+    "Google News": 18
   },
   "top_keywords": [
     [
       "ИИ",
-      32
+      22
     ],
     [
       "AI",
-      6
+      4
     ],
     [
       "регулирование",
       3
     ],
     [
-      "искусственный интеллект",
+      "governance",
+      1
+    ],
+    [
+      "aigovernance",
       1
     ],
     [
       "ESG",
       1
+    ],
+    [
+      "искусственный интеллект",
+      1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Объем ESG-облигаций в стране приближается к 47 трлн вон… доля корпоративного сектора, напротив, сокращается - 재경일보",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aMUpUWEZidUJYQm5RQTkzbEhYNDFtUW1hN0pwNkR6RFZRWFRvNnNkSjAwNElDNGRNMHVnLWdNMkFkSEc2RWxKSHBVQnhaNl82anZLTXo5eWQxLVBiZU9mQ0V3?oc=5",
-      "published": "2026-11-21T22:20:00"
-    },
-    {
-      "title": "Акции TSMC летят в тартарары — такого обвала, как на этой неделе, не было с 1997 года",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151644",
-      "published": "2026-11-21T21:23:00"
-    },
-    {
-      "title": "В Лондоне прошла демонстрация против неконтролируемого развития ИИ",
-      "source": "ТАСС",
-      "url": "https://tass.ru/obschestvo/28342939",
-      "published": "2026-11-21T20:22:30"
-    },
-    {
-      "title": "Мот предложил выплачивать артистам роялти за использование их голосов ИИ",
-      "source": "ТАСС",
-      "url": "https://tass.ru/kultura/28342925",
-      "published": "2026-11-21T19:56:05"
-    },
-    {
-      "title": "ИИ‑агенты, работающие в России - Хабр",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tb1d5WUUzV1Z0MFlrSDlXQnpkWkkxN3ZGckNvaHdJZ09JSWNTMko5TmNMZHJ1SFhVVXlOYkYxck5Ta3ZkQVEwVUJ4VVVHUdIBWEFVX3lxTFBOdHl2c3U2SVVpWlV4V1pRQ3RFTGlfRnRWLXNSa2F5X2lQekc3NXZhMzMzcjhKckh5WjRzc0FDdnFHbDZzRE1TbXNlV1BfX2t5OHVTZ0luOUw?oc=5",
-      "published": "2026-11-21T19:50:15"
-    },
-    {
-      "title": "Что происходит с профессией разработчика: мой опыт и данные индустрии",
+      "title": "Доверяй, но запрещай – или как ограничивать полномочия AI-агента на разных уровнях",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1110762/?utm_campaign=1110762&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-21T19:19:53"
+      "url": "https://habr.com/ru/companies/magnit/articles/1110850/?utm_campaign=1110850&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-22T13:31:57"
     },
     {
-      "title": "Математик заявил о доказательстве гипотезы Римана с помощью ИИ - Наука Mail",
+      "title": "NYT предупредила о риске новых сбоев в работе госведомств и компаний из-за ИИ - Ведомости",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORDFFYnlZVVRtWTdVc1hlOUJmY0JjTk9MT1ROVTl5STB0bHJwTTRwSS1RN1pjTkFLSTdhbWV2WndpZDZFWDJlbjdvMFZkMmtEd0JhY3N6b0VBcUVTREwxTTZZbm1rOE4xQVF1c3ExN0ppYWNIWklRTldqVmlLTnU2RlM5MmxoOGw5QkcxbHBKNXhNU25LOXZCajFHWk42b3dW?oc=5",
-      "published": "2026-11-21T17:56:36"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV2JaekN5bkxjQ01xVjl6cnY4bHpSWkx6NzRLZVdIbWQ1TUwwYnhCTFFPRFhXRk52QUdrZTJfQS1jbS1mSFNhRjdNY3dqbWlQb1FvZVNZeVJxVTA3QmRFblZRSkpvVHQyTnRNQ0xfQzRUMmV5Q0cyaXlNVUtnUjdPT2FkRmZzMHdSSWpydjdqSkwzdw?oc=5",
+      "published": "2026-11-22T13:08:18"
     },
     {
-      "title": "Еще один пример пресс-релиза про созданные ИИ процессоры, со старыми приемчиками пиара - Хабр",
+      "title": "Meta* установит цену на ИИ-тамагочи Muse Charm на уровне $300 - rb.ru",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SU1doRWZnblNqVmxvR3JUUVVUbDd6WERwcWl5RFNsX3k0aTJVQUh6UlZLT2M5NXVuc19QTzJMRHVpQ0phZG1BR0VubTctZ9IBWEFVX3lxTE5YZi1XYk9Ib1NLcnRMNW5kejRndHI5Q0xtdDRRZmpZT1o2X0hoY2VLc3kwOGNWeXBPUktkOUpjT3VDM0hEWmJveDF1bXNaTmdiT1dSQ0FwWjI?oc=5",
-      "published": "2026-11-21T16:44:16"
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVEdkVHZZZnhLZjg5OEYxRzF1eXBqVVMtaFdXMy1qZDJIUWV0ZUc4cTVKNGc2MjFCZzNkWmZuN20wUjRSdnloajVKVWpVV3dNdC0yTWNib2JmS3dFZGRsWGwwbkFaTjRBZVh2a1lmMG1WWERhUDlJeVNUYXB1YUdnaHZJR0ZDeGZmWE40b2Fkb3BKRTBqWWhvMFZLYzhPc0M4ZlNTeFplRkFBOUdKOU9GSzB4eWc1cGJuMHBCeUc5QjJET3RncmYyb0s1Qko?oc=5",
+      "published": "2026-11-22T13:00:00"
     },
     {
-      "title": "Пузырь искусственного интеллекта продолжает сдуваться — акции ИИ-компаний стремительно дешевеют - Клуб DNS",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOGczNW9tMEp3N2Y4QlJtZ0VoZTBnQm1hMEhXYnI5SWR2ZjFOVHpQRGplVnpYcEZxakxDMEI1WVZRajI4U1p1Z3lsM09RX1c1akQ5NmtteGRjVHRyLXZfMzkzS1EyYlp1c3R2YzAxemx0aUlobmdJTFA3U3lkR0JvWDloMXZXQzhNY2NKQ212a3hjZXpnSmUzbzZ6dk5lTjZKNVBDR9IBqgFBVV95cUxNdy1heW5sT1JUQlEyVFgzbDE3NkxjZ2tKWHBWSUZXazl6eExJVkdwRTRzeVFIbnRZVHFuU1psWFJqYUxDSXdBVGhRbGlnT0NHMVNRV2hMRW1tTG81RWNRMjBpeHhZZ2xkbUdCSHRKQTZUajFncUYyckY1T3hwamV0MlZlNFc2M0FYbFNZSnRfUHdCMEhPQkNfdG10cloxbkNiVWdTcHVWTmVPUQ?oc=5",
-      "published": "2026-11-21T16:26:15"
+      "title": "[Media] Воспользуюсь информационным поводом из репоста выше, чтобы рассказать, что какое-то вр [...]",
+      "source": "ИИ комплаенс и этика",
+      "url": "https://t.me/ai_and_law_rus/1205",
+      "published": "2026-11-22T12:59:33"
     },
     {
-      "title": "В Таиланде требуют отложить регулирование стейблкоинов - Новости Таиланда",
+      "title": "Аналитики: отношение пациентов к ИИ зависит от типа его применения и тяжести заболевания - Vademec.ru",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtaGsteTRFeUtZWE9Cem5WTHg1N0tUSDhsX0hGN2dzUFFrdFF4Y2ZPRzNBcVFEVGYtTzNtUnI1eFVLY0FaeVBBYnhSaE9ycWpjWUJkcVBFRHJHa0J1TW5rdkJpTlNqOHJDV0RFNHNkaFY?oc=5",
-      "published": "2026-11-21T16:22:48"
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZWZTQmhHbmVvTVFSbkpoNi1GMkthSG52TXFXWklpVVlHLV9ER3ZYWG5TNjh4Nl91bmZhRHZwU3NpUUtzalQtdHpKcXJWeTJnSHF4M2xzZzFzUzdyMUNmRmJycFZmY2RyanctSzhYM3dzQ3RjanVFSHBOb2otUHd0TGExZnpwUmhSYlp0NHp4R0pXOGdZdldaM0NXcVQ0X3Bka25ocGNGcWdJUVNJVUlJVFZwd1BBaGh6UEE2OERBUy1iUDVsMzgxWQ?oc=5",
+      "published": "2026-11-22T12:20:54"
+    },
+    {
+      "title": "Как проверить, поддакивает ли Алиса AI при выборе SaaS или действительно учитвает ваш запрос",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1110848/?utm_campaign=1110848&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-22T12:01:11"
+    },
+    {
+      "title": "Путин на предстоящей неделе посетит ИИ-форум",
+      "source": "Ведомости",
+      "url": "https://www.vedomosti.ru/politics/news/2026/11/22/1414070-putin-na-predstoyaschei",
+      "published": "2026-11-22T11:54:08"
+    },
+    {
+      "title": "Министр образования Южной Кореи ушел в отставку из-за скандала с ИИ на экзаменах - RTVI",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMHlDbTVxRTJiNWhHYTRPWS1BU29aSDN2cEtkYk5leU51blYwTTUtMFBXbS1yNGpuQ3FzWlBGcE9VdmdiRXgzdXhrZXJ6Xy1vSXZKUDJLU1lKanVVVXJqcTZEc29HcTJSVVl5U3Y0UG1SelhQUDdkNVdqQ3dlTGhvQlZZLTJKcEJvOTVjMTBacWlMRFEyMmNUZnVobm5yU0g1RE1qZW90dktEMGhKekFRcQ?oc=5",
+      "published": "2026-11-22T11:29:38"
+    },
+    {
+      "title": "Signal ограничит доступ ИИ-ассистентов к перепискам пользователей - ForkLog",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMVRpTTJXNXltR3c2aXNXdHV3WkY3b3h5Z0ZiUUMtSW5TSG1fLUkyLXA0NGFEN3p2bmU3WDZVckRibUdjSmgxOWhRQUZzNEFqVk9xZTRpY1JkOTRaMmJDOUh4bWVlaHR1U3ozSkhPZEcwMk54VGpxYU5Bb1VEZ0ZKZ1ZDZllDSmxpdUZvVVFtNDJMMTZrdGZwcQ?oc=5",
+      "published": "2026-11-22T11:29:00"
+    },
+    {
+      "title": "Снят вопрос, почему ИИ не заменит человека - Брянская Губерния",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aSlE1eGRpYWhwN21MM1lTSDlrSG1xb045akNhMjFCSWNQN0dSWDAtVWJaVzd6dVgxNzBNTzdMU1U1QV9iYVp5bHBBUGVFRmMyWGNZ?oc=5",
+      "published": "2026-11-22T11:15:00"
     }
   ]
 }
