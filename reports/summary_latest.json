@@ -1,29 +1,34 @@
 {
-  "timestamp": "2026-11-23_19-31",
-  "total_articles": 65,
+  "timestamp": "2026-11-24_02-55",
+  "total_articles": 91,
   "sources": {
-    "ТАСС": 3,
+    "ТАСС": 1,
     "Ведомости": 1,
     "Digital_Russia": 5,
+    "Habr_Топ_День": 1,
     "Habr_AI": 26,
     "CNews": 15,
-    "3DNews": 5,
+    "3DNews": 13,
     "The Centre for the Governance of AI Blog": 2,
     "ИИ комплаенс и этика": 1,
-    "Google News": 7
+    "Google News": 26
   },
   "top_keywords": [
     [
       "ИИ",
-      46
+      67
     ],
     [
       "AI",
-      13
+      18
+    ],
+    [
+      "искусственный интеллект",
+      6
     ],
     [
       "регулирование",
-      4
+      6
     ],
     [
       "ESG",
@@ -31,11 +36,7 @@
     ],
     [
       "Минцифры",
-      2
-    ],
-    [
-      "искусственный интеллект",
-      2
+      3
     ],
     [
       "governance",
@@ -48,64 +49,64 @@
   ],
   "recent_headlines": [
     {
-      "title": "Социальное предпринимательство и развитие ИИ обсудят на бизнес-форуме под Калининградом",
-      "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28347015",
-      "published": "2026-11-23T16:25:58"
-    },
-    {
-      "title": "Рыночный ориентир применения ИИ в финансовой сфере составил 44,7 балла из 100",
-      "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28347009",
-      "published": "2026-11-23T16:10:36"
-    },
-    {
-      "title": "Я нанял ИИ искать мне работу. Финал: четырнадцать откликов, ноль собеседований — и что я понял про рынок",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1111420/?utm_campaign=1111420&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-23T15:43:08"
-    },
-    {
-      "title": "КХЛ обсудила льготы по рекламным контрактам и регулирование предложений ОСА - StavkiPrognozy.ru",
+      "title": "Глава Минцифры Максут Шадаев на CNews FORUM — о суверенных моделях ИИ, 900 сайтах в «белом списке» и борьбе с мошенничеством - CNews.ru",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVmlYZ1hJZmQ2VTR4SjZvOHpZNnZZalRPYndTcGQ0Rno0TzFmNTAwU2NFY0FLLVRNVUd6cnFSb0RlWURLTHZ4VXZyUE9LTkpoMllKWkl5LW5iai10Wm8ybksxVWxaSm5wR1huVEhLNDNLSk1YRnZkeXRUc3lueWtiZkFDUEFoc0MwaWtaQ2w5RldQb0YyU3ROdTVjT1hpbDY0WWt3Zk51c21YR2VWa3lVYkFJcElKVWct?oc=5",
-      "published": "2026-11-23T15:31:40"
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcnRjZ1Q4SjhSOGtsajJOQ2dyUWVvN214dmQ0djVWV3BQZzU2dzBkekRvcDdBODUzZ1czU041cWJOTTBveGxDWllkQ1RQcy1qZUdpODJaVWVpZjBoT1RRN2lncGtrd3J2SGx3eXpLSTV1R2xTei1PMkU0YnhfODBHRzhJdFJjNzg?oc=5",
+      "published": "2026-11-23T22:51:26"
     },
     {
-      "title": "UK Summer Fellowship 2027, Applied Track | GovAI Blog",
-      "source": "The Centre for the Governance of AI Blog",
-      "url": "https://www.governance.ai/post/uk-summer-fellowship-2027-applied-track",
-      "published": "2026-11-23T15:31:39"
-    },
-    {
-      "title": "UK Summer Fellowship 2027, Research Track  | GovAI Blog",
-      "source": "The Centre for the Governance of AI Blog",
-      "url": "https://www.governance.ai/post/uk-summer-fellowship-2027-research-track",
-      "published": "2026-11-23T15:31:39"
-    },
-    {
-      "title": "ČTK: в Чехии продлили регулирование цен на автомобильное топливо",
+      "title": "F6 сообщила об обнаружении в РФ нового вредоносного ПО, усиленного ИИ",
       "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28346829",
-      "published": "2026-11-23T14:59:22"
+      "url": "https://tass.ru/obschestvo/28347515",
+      "published": "2026-11-23T22:33:12"
     },
     {
-      "title": "В Башкортостане обеспечен связью участок трассы Уфа – Белорецк",
-      "source": "Digital_Russia",
-      "url": "https://d-russia.ru/v-bashkortostane-obespechen-svyazyu-uchastok-trassy-ufa-beloretsk.html",
-      "published": "2026-11-23T14:47:10"
+      "title": "Anthropic научила Claude самостоятельно проверять, исправлять и одобрять код",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151707",
+      "published": "2026-11-23T22:14:00"
     },
     {
-      "title": "ИИ-помощник по математике в «Госуслуги Моя школа» стал доступен по всей стране",
-      "source": "CNews",
-      "url": "https://www.cnews.ru/news/line/2026-11-23_ii-pomoshchnik_po_matematike",
-      "published": "2026-11-23T14:38:00"
+      "title": "Республиканцы в США пытаются закрепить слабое регулирование ИИ - Ведомости",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbGpCSFdhRDhGOGNsT1VtVjhCVHUzRkFIT2NkSjl1eFlreUlGOExOUWg4bHNBY1M5X0FZNlY5clhDakdVNl9QYjVIQnJWMTFYYW5QZFFlLWdrY2hZclE1S0tLUWF6WVJHZDlkb0VKY3ljam9WdGlHNGo3V0oyVXRkYVlhOEZNTEwxRTZuRlV3?oc=5",
+      "published": "2026-11-23T21:28:56"
     },
     {
-      "title": "[Перевод] ИИ оказался внимательнее и заметил кровоизлияние, а врач — нет",
+      "title": "Республиканцы в США пытаются закрепить слабое регулирование ИИ - Ведомости",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbGpCSFdhRDhGOGNsT1VtVjhCVHUzRkFIT2NkSjl1eFlreUlGOExOUWg4bHNBY1M5X0FZNlY5clhDakdVNl9QYjVIQnJWMTFYYW5QZFFlLWdrY2hZclE1S0tLUWF6WVJHZDlkb0VKY3ljam9WdGlHNGo3V0oyVXRkYVlhOEZNTEwxRTZuRlV3?oc=5",
+      "published": "2026-11-23T21:28:56"
+    },
+    {
+      "title": "Стало известно, что из себя представляет загадочный ИИ-гаджет Nothing — его представят 8 декабря",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151705",
+      "published": "2026-11-23T21:08:00"
+    },
+    {
+      "title": "GigaChat и «Алиса AI» против ChatGPT: итоги опроса нейросетей ВЦИОМ - Эксперт",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45WlJWYURzZ2luYXVIQ3NFc1V5eUd0RU9reVNMSEhwQ2RPQ1JpeGNhYm0xV2UtWHJ2Q29ZWndDNmJZS3pFMDY5RF9mNzU0cmZMbVU3OUtyeTVlTlNxZWRrMEdnTlRuQ2dfdGlBb3oxZw?oc=5",
+      "published": "2026-11-23T21:01:00"
+    },
+    {
+      "title": "Новая статья: Мастерская локальных ИИ: FLUX 3 Image Klein и игра с картинками",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151313",
+      "published": "2026-11-23T21:00:30"
+    },
+    {
+      "title": "Зачем бизнесу ESG в 2027 году - neg.by",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSeWh4MkZ6eTlQNGtFRTNMV0JoZHJuVEdFUzFsRkM1dllvSENpamVJM0o1RmZDR2phdlJYSlNNWXo5SE8wWnRxZ1g1bFp4dVRtREpPTzlDSHNPbi1sRzl4WUJfWmpKeU12QVFua3JJRQ?oc=5",
+      "published": "2026-11-23T21:00:00"
+    },
+    {
+      "title": "Я без рук, ИИ без рук: как сладкий кофе победил искусственный интеллект",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/speshu_ai/articles/1111386/?utm_campaign=1111386&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-23T14:35:57"
+      "url": "https://habr.com/ru/articles/1111500/?utm_campaign=1111500&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-23T20:50:55"
     }
   ]
 }
