@@ -1,112 +1,115 @@
 {
-  "timestamp": "2026-11-24_07-03",
-  "total_articles": 93,
+  "timestamp": "2026-11-24_19-29",
+  "total_articles": 95,
   "sources": {
-    "ТАСС": 1,
-    "Ведомости": 1,
-    "Digital_Russia": 5,
-    "Habr_Топ_День": 1,
-    "Habr_AI": 28,
-    "CNews": 16,
-    "3DNews": 13,
-    "The Centre for the Governance of AI Blog": 2,
+    "Коммерсантъ": 2,
+    "Ведомости": 3,
+    "Digital_Russia": 3,
+    "Habr_AI": 29,
+    "iXBT": 1,
+    "CNews": 18,
+    "3DNews": 11,
     "ИИ комплаенс и этика": 1,
-    "Google News": 25
+    "Google News": 27
   },
   "top_keywords": [
     [
       "ИИ",
-      70
+      67
     ],
     [
       "AI",
-      19
-    ],
-    [
-      "искусственный интеллект",
-      5
+      25
     ],
     [
       "регулирование",
-      5
-    ],
-    [
-      "ESG",
-      4
+      9
     ],
     [
       "Минцифры",
       3
     ],
     [
-      "governance",
+      "искусственный интеллект",
+      3
+    ],
+    [
+      "ESG",
       2
     ],
     [
-      "policy",
-      2
+      "aigovernance",
+      1
+    ],
+    [
+      "IAPP",
+      1
+    ],
+    [
+      "ethics",
+      1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Исследование: 90% учителей готовятся к урокам с помощью искусственного интеллекта",
-      "source": "CNews",
-      "url": "https://www.cnews.ru/news/line/2026-11-24_issledovanie_90_uchitelej",
-      "published": "2026-11-24T03:59:00"
+      "title": "«У нас есть всё для выпуска решений мирового уровня»: Мишустин сообщил о создании проекта внедрения ИИ в экономику - rb.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcTA5LS16UGxROFdJc0x5eUg3bFk5bmZCeVlmeGFGN3VzYnZHQm9ZV3Nnd29jZTlQU1hYTW9EUmoycWhzNXl2X1RMSUVTblI1dlA3UWR4OWplNFY1dnc0czhLM1JvUnY3VXlDM3lKNjRpbWdfUWRBcVA4cXR4R29zY01oLWpWN2twNkZYajg0XzFiN2Q2ZG1wUmE0Y1R4Z1J0eXAwOHFrZGN1MjM3UHZ3dTJfcl94czJweFhFa2I3WFJtNFN6QVJEaFZZTV9sNmVCOG9z?oc=5",
+      "published": "2026-11-24T16:20:00"
     },
     {
-      "title": "Какие ИИ-боты читают ваш сайт и как ими управлять: GPTBot, ClaudeBot, PerplexityBot, YandexAdditional и другие",
+      "title": "Собянин принял участие в стратегической сессии по внедрению и регулированию ИИ - saomos.news",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRml4SGdja0FoSWNJcS1CRWR4TkxsZlJZNWlGVk54RHNpaEQ1ZGJmbzhIOC02RmpRVUNiVl9ITHVQRTFLUTdDaHpaUWZMckRYMHEtTl9kVlI0Wkk3SWpQczFBNEdfczNYd2w3RW5NWUh0dlB5OVZ2Mkk4WTJBYUFQWmdxQ0Vicjh2ZEtEY2dDZ3IxMjY3VzBNYXR4a21sbTNaVGxJLXUwdWV0MmFvR2FwcS1ZX2k5TGxyOFE?oc=5",
+      "published": "2026-11-24T15:54:18"
+    },
+    {
+      "title": "Слово года 2026 Macquarie Dictionary — «pervert glasses» об умных очках и ИИ - Euronews.com",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTllCMlNSTFgyNU0wRERhTUtOTkpVZENWYkpLSExhUDV4dk1xYTZ3Q0t6RTU5LVJ6NnJlWjNBSjVEYWNqdWRUWTR2MkhqcHZYckdrV25NdnVYMUlMajBHMHQtOTJqYjNXczlLdU5hWGN2NHpxM0RubU13clI2elo2aTlZbkFjVXhsR2kwTy1CUmRVMTRYVEhJc3dXNmZRUQ?oc=5",
+      "published": "2026-11-24T15:25:56"
+    },
+    {
+      "title": "В Южной Корее заплатят до $371 000 за сообщения о списывании с ИИ",
+      "source": "Ведомости",
+      "url": "https://www.vedomosti.ru/politics/news/2026/11/24/1414856-zaplatyat-za-spisivanii",
+      "published": "2026-11-24T15:15:20"
+    },
+    {
+      "title": "Z.ai выпустила GLM-5.4, которая прогоняет одни и те же слои дважды. Что известно и почему пока нет бенчмарков",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1111320/?utm_campaign=1111320&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-24T03:04:32"
+      "url": "https://habr.com/ru/articles/1111878/?utm_campaign=1111878&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-24T15:14:46"
     },
     {
-      "title": "К чему нас приведёт полный контроль в руках ИИ?",
+      "title": "Цифровой след преступления: как искусственный интеллект ускоряет расследования - Ведомости",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV2RpdnFPN2pleVh2azZ1Q3d0X09IdWVJdEtTSFV2NWtsZ2hNbWhKWjVWSGo1ZzRTcFZUVHVFQkpjaWxReGlsZ1ZnbFNscC1seGVsd1AtNGtfMm5mRmJ6bEM0aGRDY3kxVDlmZEFvOEo5eWhpeUVvTGNqdzlfeF84eWVld215VkhsSnpXN2tRTUNSdjhiQ082dHdWZG9GckdBeG53aEptTy1aN2ZfVnlYUWQ4b09hWW04MDlibjl1UGZ2WW9GMWNOWGZtLVU?oc=5",
+      "published": "2026-11-24T15:11:15"
+    },
+    {
+      "title": "«Госуслуги Моя школа» запустили ИИ-помощника для школьников по всей России - rb.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdDVib1pFZ3dlMWtmVXk2VEllQXlQck5RWU1jU0ZzeHphd2o2Y3FmLTRKM2IySUFRQnU1QVpVUWloWFowUU1IbVpneTkyOXRBdXBsbWZLQkVfUHR2RWV3c01kZVFybWx6djBua1ZPN0tqUkotbUxRb3RubW1VQ09rOV9KODJfODMwNWh3a2VUQnl6SmJDTjJ4bDZtNGhMR3k0S1QzeklkbThIU1dfRzFDV2pMUnlNLUEyd1JCbl8zZW9Idw?oc=5",
+      "published": "2026-11-24T15:10:00"
+    },
+    {
+      "title": "Сергей Собянин принял участие в стратегической сессии по развитию ИИ в России - mos.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RSms0U0hiUkNINW15Ty1lcjlGanlsanNvZE1BQzMzUnlJMlJKNTdTSmZrdjdLRWY3c3NIVVN3S0xwby13TXpkeVZtR1RSSjhjOHE4?oc=5",
+      "published": "2026-11-24T14:53:01"
+    },
+    {
+      "title": "Навигационные пломбы и e-commerce: в ЕАЭС совершенствуется таможенное регулирование - Евразийская экономическая комиссия",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ2ozZE9nSUlLRnlQOFVPb1dnUVFfSVZpSnlnbS04WTN6RXF5VmxqZWR3OHl1ZjNzN0swVVdJbXp2Zm5OTHl6dmJ5eFFsWFcxQ1BwdTUtY0xoSlRYVnRINk9DY2ppcVFHMkxSdDRpbnktZmVRcml2d2xIejhlX1A3OTF2U1RsMU1rU2NjQnIydmdpZklDRXEzQ1Vfc2dkcHpYM1o4eVFKQnN3M0lJMmx5T0FJNWpnNmhHWnc?oc=5",
+      "published": "2026-11-24T14:22:14"
+    },
+    {
+      "title": "Эксперты InfoWatch выступили на интенсиве НИУ ВШЭ «Кибербезопасность как стратегия»",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1111538/?utm_campaign=1111538&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-24T02:47:05"
-    },
-    {
-      "title": "Что в университете с ИИ? Ректор Сергей Бочаров рассказал об этом на специальном совете при губернаторе края - Новости - Алтайский государственный университет",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBIVTZTMEVUVkxRd0RuWnFZd0JfWFplcFdaNGtnYUJoVEg0VjFHWjg2T3I2QmppaXpNSjZZY0tEbGhYcVFy?oc=5",
-      "published": "2026-11-24T02:05:34"
-    },
-    {
-      "title": "В \"Контуре\" рассказали, что ИИ может допустить утечку данных без участия хакера",
-      "source": "ТАСС",
-      "url": "https://tass.ru/obschestvo/28347639",
-      "published": "2026-11-24T01:02:26"
-    },
-    {
-      "title": "Законодатели требуют надзора после возвращения Дженсена Хуанга в Nvidia - Unite.AI",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZW41azBIdlM3Sm1YR2IweU1GYXFVTDZpWXctYmFLQTNwZEU5MjZENnFzZWllTE1KcS0zVGRxbVI3NmY5OG4ybHlrYkI0ZzM1X2p0SU9nbVE2S0pDN2ExeEdWX3JrTFRxMDIxNUN5NW1uVGtmLVVMNURqY0dUZm5CcnVZTTNibVRXbThicVFkeHI5UQ?oc=5",
-      "published": "2026-11-24T00:12:07"
-    },
-    {
-      "title": "Глава Минцифры Максут Шадаев на CNews FORUM — о суверенных моделях ИИ, 900 сайтах в «белом списке» и борьбе с мошенничеством - CNews.ru",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcnRjZ1Q4SjhSOGtsajJOQ2dyUWVvN214dmQ0djVWV3BQZzU2dzBkekRvcDdBODUzZ1czU041cWJOTTBveGxDWllkQ1RQcy1qZUdpODJaVWVpZjBoT1RRN2lncGtrd3J2SGx3eXpLSTV1R2xTei1PMkU0YnhfODBHRzhJdFJjNzg?oc=5",
-      "published": "2026-11-23T22:51:26"
-    },
-    {
-      "title": "Anthropic научила Claude самостоятельно проверять, исправлять и одобрять код",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151707",
-      "published": "2026-11-23T22:14:00"
-    },
-    {
-      "title": "Республиканцы в США пытаются закрепить слабое регулирование ИИ - Ведомости",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbGpCSFdhRDhGOGNsT1VtVjhCVHUzRkFIT2NkSjl1eFlreUlGOExOUWg4bHNBY1M5X0FZNlY5clhDakdVNl9QYjVIQnJWMTFYYW5QZFFlLWdrY2hZclE1S0tLUWF6WVJHZDlkb0VKY3ljam9WdGlHNGo3V0oyVXRkYVlhOEZNTEwxRTZuRlV3?oc=5",
-      "published": "2026-11-23T21:28:56"
-    },
-    {
-      "title": "Республиканцы в США пытаются закрепить слабое регулирование ИИ - Ведомости",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbGpCSFdhRDhGOGNsT1VtVjhCVHUzRkFIT2NkSjl1eFlreUlGOExOUWg4bHNBY1M5X0FZNlY5clhDakdVNl9QYjVIQnJWMTFYYW5QZFFlLWdrY2hZclE1S0tLUWF6WVJHZDlkb0VKY3ljam9WdGlHNGo3V0oyVXRkYVlhOEZNTEwxRTZuRlV3?oc=5",
-      "published": "2026-11-23T21:28:56"
+      "url": "https://habr.com/ru/companies/infowatch/articles/1111862/?utm_campaign=1111862&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-24T14:11:57"
     }
   ]
 }
