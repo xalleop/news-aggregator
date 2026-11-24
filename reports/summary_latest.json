@@ -1,34 +1,34 @@
 {
-  "timestamp": "2026-11-24_02-55",
-  "total_articles": 91,
+  "timestamp": "2026-11-24_07-03",
+  "total_articles": 93,
   "sources": {
     "ТАСС": 1,
     "Ведомости": 1,
     "Digital_Russia": 5,
     "Habr_Топ_День": 1,
-    "Habr_AI": 26,
-    "CNews": 15,
+    "Habr_AI": 28,
+    "CNews": 16,
     "3DNews": 13,
     "The Centre for the Governance of AI Blog": 2,
     "ИИ комплаенс и этика": 1,
-    "Google News": 26
+    "Google News": 25
   },
   "top_keywords": [
     [
       "ИИ",
-      67
+      70
     ],
     [
       "AI",
-      18
+      19
     ],
     [
       "искусственный интеллект",
-      6
+      5
     ],
     [
       "регулирование",
-      6
+      5
     ],
     [
       "ESG",
@@ -49,16 +49,46 @@
   ],
   "recent_headlines": [
     {
+      "title": "Исследование: 90% учителей готовятся к урокам с помощью искусственного интеллекта",
+      "source": "CNews",
+      "url": "https://www.cnews.ru/news/line/2026-11-24_issledovanie_90_uchitelej",
+      "published": "2026-11-24T03:59:00"
+    },
+    {
+      "title": "Какие ИИ-боты читают ваш сайт и как ими управлять: GPTBot, ClaudeBot, PerplexityBot, YandexAdditional и другие",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1111320/?utm_campaign=1111320&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-24T03:04:32"
+    },
+    {
+      "title": "К чему нас приведёт полный контроль в руках ИИ?",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1111538/?utm_campaign=1111538&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-24T02:47:05"
+    },
+    {
+      "title": "Что в университете с ИИ? Ректор Сергей Бочаров рассказал об этом на специальном совете при губернаторе края - Новости - Алтайский государственный университет",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBIVTZTMEVUVkxRd0RuWnFZd0JfWFplcFdaNGtnYUJoVEg0VjFHWjg2T3I2QmppaXpNSjZZY0tEbGhYcVFy?oc=5",
+      "published": "2026-11-24T02:05:34"
+    },
+    {
+      "title": "В \"Контуре\" рассказали, что ИИ может допустить утечку данных без участия хакера",
+      "source": "ТАСС",
+      "url": "https://tass.ru/obschestvo/28347639",
+      "published": "2026-11-24T01:02:26"
+    },
+    {
+      "title": "Законодатели требуют надзора после возвращения Дженсена Хуанга в Nvidia - Unite.AI",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZW41azBIdlM3Sm1YR2IweU1GYXFVTDZpWXctYmFLQTNwZEU5MjZENnFzZWllTE1KcS0zVGRxbVI3NmY5OG4ybHlrYkI0ZzM1X2p0SU9nbVE2S0pDN2ExeEdWX3JrTFRxMDIxNUN5NW1uVGtmLVVMNURqY0dUZm5CcnVZTTNibVRXbThicVFkeHI5UQ?oc=5",
+      "published": "2026-11-24T00:12:07"
+    },
+    {
       "title": "Глава Минцифры Максут Шадаев на CNews FORUM — о суверенных моделях ИИ, 900 сайтах в «белом списке» и борьбе с мошенничеством - CNews.ru",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcnRjZ1Q4SjhSOGtsajJOQ2dyUWVvN214dmQ0djVWV3BQZzU2dzBkekRvcDdBODUzZ1czU041cWJOTTBveGxDWllkQ1RQcy1qZUdpODJaVWVpZjBoT1RRN2lncGtrd3J2SGx3eXpLSTV1R2xTei1PMkU0YnhfODBHRzhJdFJjNzg?oc=5",
       "published": "2026-11-23T22:51:26"
-    },
-    {
-      "title": "F6 сообщила об обнаружении в РФ нового вредоносного ПО, усиленного ИИ",
-      "source": "ТАСС",
-      "url": "https://tass.ru/obschestvo/28347515",
-      "published": "2026-11-23T22:33:12"
     },
     {
       "title": "Anthropic научила Claude самостоятельно проверять, исправлять и одобрять код",
@@ -77,36 +107,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbGpCSFdhRDhGOGNsT1VtVjhCVHUzRkFIT2NkSjl1eFlreUlGOExOUWg4bHNBY1M5X0FZNlY5clhDakdVNl9QYjVIQnJWMTFYYW5QZFFlLWdrY2hZclE1S0tLUWF6WVJHZDlkb0VKY3ljam9WdGlHNGo3V0oyVXRkYVlhOEZNTEwxRTZuRlV3?oc=5",
       "published": "2026-11-23T21:28:56"
-    },
-    {
-      "title": "Стало известно, что из себя представляет загадочный ИИ-гаджет Nothing — его представят 8 декабря",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151705",
-      "published": "2026-11-23T21:08:00"
-    },
-    {
-      "title": "GigaChat и «Алиса AI» против ChatGPT: итоги опроса нейросетей ВЦИОМ - Эксперт",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45WlJWYURzZ2luYXVIQ3NFc1V5eUd0RU9reVNMSEhwQ2RPQ1JpeGNhYm0xV2UtWHJ2Q29ZWndDNmJZS3pFMDY5RF9mNzU0cmZMbVU3OUtyeTVlTlNxZWRrMEdnTlRuQ2dfdGlBb3oxZw?oc=5",
-      "published": "2026-11-23T21:01:00"
-    },
-    {
-      "title": "Новая статья: Мастерская локальных ИИ: FLUX 3 Image Klein и игра с картинками",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151313",
-      "published": "2026-11-23T21:00:30"
-    },
-    {
-      "title": "Зачем бизнесу ESG в 2027 году - neg.by",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSeWh4MkZ6eTlQNGtFRTNMV0JoZHJuVEdFUzFsRkM1dllvSENpamVJM0o1RmZDR2phdlJYSlNNWXo5SE8wWnRxZ1g1bFp4dVRtREpPTzlDSHNPbi1sRzl4WUJfWmpKeU12QVFua3JJRQ?oc=5",
-      "published": "2026-11-23T21:00:00"
-    },
-    {
-      "title": "Я без рук, ИИ без рук: как сладкий кофе победил искусственный интеллект",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1111500/?utm_campaign=1111500&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-23T20:50:55"
     }
   ]
 }
