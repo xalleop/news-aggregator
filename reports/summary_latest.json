@@ -1,29 +1,31 @@
 {
-  "timestamp": "2026-11-24_19-29",
-  "total_articles": 95,
+  "timestamp": "2026-11-25_01-27",
+  "total_articles": 89,
   "sources": {
+    "ТАСС": 1,
     "Коммерсантъ": 2,
-    "Ведомости": 3,
+    "Ведомости": 4,
     "Digital_Russia": 3,
-    "Habr_AI": 29,
+    "Habr_AI": 28,
     "iXBT": 1,
     "CNews": 18,
-    "3DNews": 11,
+    "3DNews": 5,
+    "Montreal AI Ethics Institute": 1,
     "ИИ комплаенс и этика": 1,
-    "Google News": 27
+    "Google News": 25
   },
   "top_keywords": [
     [
       "ИИ",
-      67
+      64
     ],
     [
       "AI",
-      25
+      21
     ],
     [
       "регулирование",
-      9
+      8
     ],
     [
       "Минцифры",
@@ -31,10 +33,10 @@
     ],
     [
       "искусственный интеллект",
-      3
+      2
     ],
     [
-      "ESG",
+      "ethics",
       2
     ],
     [
@@ -44,72 +46,68 @@
     [
       "IAPP",
       1
-    ],
-    [
-      "ethics",
-      1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "«У нас есть всё для выпуска решений мирового уровня»: Мишустин сообщил о создании проекта внедрения ИИ в экономику - rb.ru",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcTA5LS16UGxROFdJc0x5eUg3bFk5bmZCeVlmeGFGN3VzYnZHQm9ZV3Nnd29jZTlQU1hYTW9EUmoycWhzNXl2X1RMSUVTblI1dlA3UWR4OWplNFY1dnc0czhLM1JvUnY3VXlDM3lKNjRpbWdfUWRBcVA4cXR4R29zY01oLWpWN2twNkZYajg0XzFiN2Q2ZG1wUmE0Y1R4Z1J0eXAwOHFrZGN1MjM3UHZ3dTJfcl94czJweFhFa2I3WFJtNFN6QVJEaFZZTV9sNmVCOG9z?oc=5",
-      "published": "2026-11-24T16:20:00"
+      "title": "Небензя указал на актуальность опор международной безопасности",
+      "source": "ТАСС",
+      "url": "https://tass.ru/politika/28351327",
+      "published": "2026-11-24T21:58:19"
     },
     {
-      "title": "Собянин принял участие в стратегической сессии по внедрению и регулированию ИИ - saomos.news",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRml4SGdja0FoSWNJcS1CRWR4TkxsZlJZNWlGVk54RHNpaEQ1ZGJmbzhIOC02RmpRVUNiVl9ITHVQRTFLUTdDaHpaUWZMckRYMHEtTl9kVlI0Wkk3SWpQczFBNEdfczNYd2w3RW5NWUh0dlB5OVZ2Mkk4WTJBYUFQWmdxQ0Vicjh2ZEtEY2dDZ3IxMjY3VzBNYXR4a21sbTNaVGxJLXUwdWV0MmFvR2FwcS1ZX2k5TGxyOFE?oc=5",
-      "published": "2026-11-24T15:54:18"
+      "title": "Патентный ландшафт семантических слоев: Почему dbt, Looker и Cube не патентуют их, а Microsoft и IBM — да (2010-26)",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1111972/?utm_campaign=1111972&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-24T21:33:03"
     },
     {
-      "title": "Слово года 2026 Macquarie Dictionary — «pervert glasses» об умных очках и ИИ - Euronews.com",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTllCMlNSTFgyNU0wRERhTUtOTkpVZENWYkpLSExhUDV4dk1xYTZ3Q0t6RTU5LVJ6NnJlWjNBSjVEYWNqdWRUWTR2MkhqcHZYckdrV25NdnVYMUlMajBHMHQtOTJqYjNXczlLdU5hWGN2NHpxM0RubU13clI2elo2aTlZbkFjVXhsR2kwTy1CUmRVMTRYVEhJc3dXNmZRUQ?oc=5",
-      "published": "2026-11-24T15:25:56"
+      "title": "The AI Ethics Brief #204: Surveillance Pricing Reaches Parliament",
+      "source": "Montreal AI Ethics Institute",
+      "url": "https://brief.montrealethics.ai/p/the-ai-ethics-brief-204-surveillance",
+      "published": "2026-11-24T21:30:37"
     },
     {
-      "title": "В Южной Корее заплатят до $371 000 за сообщения о списывании с ИИ",
+      "title": "«Карточный домик рухнет». Как индустрия ИИ меняет Сан-Франциско и что будет с городом, если случится крах - BBC",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hQ3Rtak5WT1h6V2tLdnJCdFU1RjlqdFJyX0psZjFIS3hMZ0t3VktZV3l4ZHlST2tESHRpczJmdUFYMUc1TmNuSjI0WDBpSEZOcDhrb05WSFZ3MUp6eWY40gFkQVVfeXFMT1JXQlFsUHY1M0tSV3BQRXZRRHRCUmVqaVlzYzZ1d05YMkxjUVdUd1NsYV9aVWt4OFJBZzN3Q2tPNXFodldYQVp4NlAyTmhLYnBjQnMwRW13ZExYaGM4dDhmRHdqQw?oc=5",
+      "published": "2026-11-24T21:00:00"
+    },
+    {
+      "title": "Три синусоиды и одна тревога: новичок собирает решение на платформе low‑code сам и с ИИ помощником",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1111960/?utm_campaign=1111960&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-24T20:21:40"
+    },
+    {
+      "title": "ИИ Anthropic и OpenAI одновременно решили одну из фундаментальных проблем теории вычислений — математики 47 лет ходили вокруг да около",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151759",
+      "published": "2026-11-24T18:39:00"
+    },
+    {
+      "title": "Путин поручил внедрить ИИ-платформу для планирования развития малых городов",
       "source": "Ведомости",
-      "url": "https://www.vedomosti.ru/politics/news/2026/11/24/1414856-zaplatyat-za-spisivanii",
-      "published": "2026-11-24T15:15:20"
+      "url": "https://www.vedomosti.ru/politics/news/2026/11/24/1414908-putin-poruchil-vnedrit",
+      "published": "2026-11-24T18:25:07"
     },
     {
-      "title": "Z.ai выпустила GLM-5.4, которая прогоняет одни и те же слои дважды. Что известно и почему пока нет бенчмарков",
+      "title": "Путин поручил внедрить ИИ-платформу для планирования развития малых городов - Ведомости",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNEVQMndzeWZrbHhEYnp4V2FDX2Flem4wSkRhcHBOcklKbDVXSUt5OUdOeVo4a0FNWmRyMGJZN1QyaEtQdW5JTVlSZlF5TmFmczhXb0YyenY2eDRnbjlrMXpneGg1NkFQenFpQS1mR25lXzVzT1VUNl8xNTBlZ05MNlZvdnEycmM?oc=5",
+      "published": "2026-11-24T18:25:07"
+    },
+    {
+      "title": "Восемь лет учился на врача, теперь пишу код и открываю магазины",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1111878/?utm_campaign=1111878&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-24T15:14:46"
+      "url": "https://habr.com/ru/companies/moysklad/articles/1111920/?utm_campaign=1111920&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-24T17:21:22"
     },
     {
-      "title": "Цифровой след преступления: как искусственный интеллект ускоряет расследования - Ведомости",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV2RpdnFPN2pleVh2azZ1Q3d0X09IdWVJdEtTSFV2NWtsZ2hNbWhKWjVWSGo1ZzRTcFZUVHVFQkpjaWxReGlsZ1ZnbFNscC1seGVsd1AtNGtfMm5mRmJ6bEM0aGRDY3kxVDlmZEFvOEo5eWhpeUVvTGNqdzlfeF84eWVld215VkhsSnpXN2tRTUNSdjhiQ082dHdWZG9GckdBeG53aEptTy1aN2ZfVnlYUWQ4b09hWW04MDlibjl1UGZ2WW9GMWNOWGZtLVU?oc=5",
-      "published": "2026-11-24T15:11:15"
-    },
-    {
-      "title": "«Госуслуги Моя школа» запустили ИИ-помощника для школьников по всей России - rb.ru",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdDVib1pFZ3dlMWtmVXk2VEllQXlQck5RWU1jU0ZzeHphd2o2Y3FmLTRKM2IySUFRQnU1QVpVUWloWFowUU1IbVpneTkyOXRBdXBsbWZLQkVfUHR2RWV3c01kZVFybWx6djBua1ZPN0tqUkotbUxRb3RubW1VQ09rOV9KODJfODMwNWh3a2VUQnl6SmJDTjJ4bDZtNGhMR3k0S1QzeklkbThIU1dfRzFDV2pMUnlNLUEyd1JCbl8zZW9Idw?oc=5",
-      "published": "2026-11-24T15:10:00"
-    },
-    {
-      "title": "Сергей Собянин принял участие в стратегической сессии по развитию ИИ в России - mos.ru",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RSms0U0hiUkNINW15Ty1lcjlGanlsanNvZE1BQzMzUnlJMlJKNTdTSmZrdjdLRWY3c3NIVVN3S0xwby13TXpkeVZtR1RSSjhjOHE4?oc=5",
-      "published": "2026-11-24T14:53:01"
-    },
-    {
-      "title": "Навигационные пломбы и e-commerce: в ЕАЭС совершенствуется таможенное регулирование - Евразийская экономическая комиссия",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ2ozZE9nSUlLRnlQOFVPb1dnUVFfSVZpSnlnbS04WTN6RXF5VmxqZWR3OHl1ZjNzN0swVVdJbXp2Zm5OTHl6dmJ5eFFsWFcxQ1BwdTUtY0xoSlRYVnRINk9DY2ppcVFHMkxSdDRpbnktZmVRcml2d2xIejhlX1A3OTF2U1RsMU1rU2NjQnIydmdpZklDRXEzQ1Vfc2dkcHpYM1o4eVFKQnN3M0lJMmx5T0FJNWpnNmhHWnc?oc=5",
-      "published": "2026-11-24T14:22:14"
-    },
-    {
-      "title": "Эксперты InfoWatch выступили на интенсиве НИУ ВШЭ «Кибербезопасность как стратегия»",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/infowatch/articles/1111862/?utm_campaign=1111862&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-24T14:11:57"
+      "title": "Сотрудники OpenAI и Anthropic испугались собственного ИИ — новейшие модели становятся слишком умны и опасны",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151754",
+      "published": "2026-11-24T17:18:00"
     }
   ]
 }
