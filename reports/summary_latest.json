@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-25_01-27",
+  "timestamp": "2026-11-25_05-45",
   "total_articles": 89,
   "sources": {
     "ТАСС": 1,
@@ -9,19 +9,19 @@
     "Habr_AI": 28,
     "iXBT": 1,
     "CNews": 18,
-    "3DNews": 5,
+    "3DNews": 8,
     "Montreal AI Ethics Institute": 1,
     "ИИ комплаенс и этика": 1,
-    "Google News": 25
+    "Google News": 22
   },
   "top_keywords": [
     [
       "ИИ",
-      64
+      62
     ],
     [
       "AI",
-      21
+      22
     ],
     [
       "регулирование",
@@ -29,11 +29,11 @@
     ],
     [
       "Минцифры",
-      3
+      4
     ],
     [
       "искусственный интеллект",
-      2
+      3
     ],
     [
       "ethics",
@@ -46,14 +46,30 @@
     [
       "IAPP",
       1
+    ],
+    [
+      "ESG",
+      1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Небензя указал на актуальность опор международной безопасности",
+      "title": "1400 школьников Якутии освоили основы 3D-моделирования и работы с ИИ на «Уроках цифры - ЯСИА",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOFV6eVBMWEZmMmpvU0szbzROS2hsQlg0TTVkajNSWjNMa1hxVkVoNGxHSzRvRXJCS2ZGejNUVmZxSFhDX0hlNFlzMHFYSkdKUXVhOG41a2dEMnJvbG9zNWptLVAwcmdpTnpPLXRGbjRDVElzUGk3dWY3X05rbTZBc1Bnd2V1SzI2TXZHZEVMejYyQ05pS2ZIS29zX1N2V3c2a1lhQlZ1WQ?oc=5",
+      "published": "2026-11-25T01:33:12"
+    },
+    {
+      "title": "[Перевод] Дата-центры для ИИ. Кто на самом деле за них платит?",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1111976/?utm_campaign=1111976&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-24T23:52:10"
+    },
+    {
+      "title": "Минцифры обязало регионы собрать данные о провайдерах в многоквартирных домах",
       "source": "ТАСС",
-      "url": "https://tass.ru/politika/28351327",
-      "published": "2026-11-24T21:58:19"
+      "url": "https://tass.ru/obschestvo/28351411",
+      "published": "2026-11-24T23:50:25"
     },
     {
       "title": "Патентный ландшафт семантических слоев: Почему dbt, Looker и Cube не патентуют их, а Microsoft и IBM — да (2010-26)",
@@ -68,10 +84,16 @@
       "published": "2026-11-24T21:30:37"
     },
     {
+      "title": "«ИИ может лишить работы до 2,5 млрд людей» - Ведомости",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd1BaU2ItanpGOWFtWm9Ia290YU12OG5BbTFxLXhhZi1OcGRlVFc0bHFnc00yUXdkTGJ6RjIwVW1KRnJZcVcxdXlkdHVsVXJpTUNYTlFIRHRpZkdHR3IzNG0wTFRXYUpKcWs3SDIwQVpLNDRxcUpna19jWk9OQzJjYXkyajZvLTY1LUZ6ZEUwOVByS3RfLUE?oc=5",
+      "published": "2026-11-24T21:29:43"
+    },
+    {
       "title": "«Карточный домик рухнет». Как индустрия ИИ меняет Сан-Франциско и что будет с городом, если случится крах - BBC",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hQ3Rtak5WT1h6V2tLdnJCdFU1RjlqdFJyX0psZjFIS3hMZ0t3VktZV3l4ZHlST2tESHRpczJmdUFYMUc1TmNuSjI0WDBpSEZOcDhrb05WSFZ3MUp6eWY40gFkQVVfeXFMT1JXQlFsUHY1M0tSV3BQRXZRRHRCUmVqaVlzYzZ1d05YMkxjUVdUd1NsYV9aVWt4OFJBZzN3Q2tPNXFodldYQVp4NlAyTmhLYnBjQnMwRW13ZExYaGM4dDhmRHdqQw?oc=5",
-      "published": "2026-11-24T21:00:00"
+      "published": "2026-11-24T21:01:28"
     },
     {
       "title": "Три синусоиды и одна тревога: новичок собирает решение на платформе low‑code сам и с ИИ помощником",
@@ -90,24 +112,6 @@
       "source": "Ведомости",
       "url": "https://www.vedomosti.ru/politics/news/2026/11/24/1414908-putin-poruchil-vnedrit",
       "published": "2026-11-24T18:25:07"
-    },
-    {
-      "title": "Путин поручил внедрить ИИ-платформу для планирования развития малых городов - Ведомости",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNEVQMndzeWZrbHhEYnp4V2FDX2Flem4wSkRhcHBOcklKbDVXSUt5OUdOeVo4a0FNWmRyMGJZN1QyaEtQdW5JTVlSZlF5TmFmczhXb0YyenY2eDRnbjlrMXpneGg1NkFQenFpQS1mR25lXzVzT1VUNl8xNTBlZ05MNlZvdnEycmM?oc=5",
-      "published": "2026-11-24T18:25:07"
-    },
-    {
-      "title": "Восемь лет учился на врача, теперь пишу код и открываю магазины",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/moysklad/articles/1111920/?utm_campaign=1111920&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-24T17:21:22"
-    },
-    {
-      "title": "Сотрудники OpenAI и Anthropic испугались собственного ИИ — новейшие модели становятся слишком умны и опасны",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151754",
-      "published": "2026-11-24T17:18:00"
     }
   ]
 }

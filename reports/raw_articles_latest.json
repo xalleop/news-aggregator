@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-11-25_01-27",
+  "timestamp": "2026-11-25_05-45",
   "total_articles": 89,
   "articles": [
     {
-      "title": "Небензя указал на актуальность опор международной безопасности",
-      "url": "https://tass.ru/politika/28351327",
+      "title": "Минцифры обязало регионы собрать данные о провайдерах в многоквартирных домах",
+      "url": "https://tass.ru/obschestvo/28351411",
       "source": "ТАСС",
-      "published": "2026-11-24T21:58:19",
-      "description": "Постпред России при ООН подчеркнул, что ни ИИ, ни беспилотные системы, ни современные средства сбора и анализа информации не заменят человека в \"выстраивании доверия и непосредственном взаимодействии со сторонами конфликта\"",
+      "published": "2026-11-24T23:50:25",
+      "description": "Сведения о них необходимо внести в государственную информационную систему ЖКХ, следует из письма министерства",
       "tags": [],
       "category": "general_news",
       "matched_keywords": [
-        "ИИ"
+        "Минцифры"
       ]
     },
     {
@@ -132,6 +132,21 @@
       ]
     },
     {
+      "title": "[Перевод] Дата-центры для ИИ. Кто на самом деле за них платит?",
+      "url": "https://habr.com/ru/articles/1111976/?utm_campaign=1111976&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-24T23:52:10",
+      "description": "<img src=\"https://habrastorage.org/webt/0d/5b/ca/0d5bcac50a947148b0c785610d1982ff.jpg\" /><p>По данным специализирующегося на энергетике аналитического центра Cleanview, суммарная мощность дата-центров в США составляет около 65&nbsp;гигаватт. В планах ещё 413, причём для самых крупных проектов в графе со сроком завершения вместо даты значатся три буквы TBD&nbsp;— «подлежит уточнению».</p><p>Одного гигаватта достаточно, чтобы запитать примерно 800&nbsp;тыс. американских домохозяйств. Реализация всех этих планов равносильна подключению к энергосети примерно 330&nbsp;млн новых домов в стране, где суммарно домохозяйств около 135&nbsp;млн. Для выработки этих гигаваттов откуда-то должны появиться электростанции, и за строительство последних кому-то придётся заплатить.</p> <a href=\"https://habr.com/ru/articles/1111976/?utm_campaign=1111976&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
       "title": "Патентный ландшафт семантических слоев: Почему dbt, Looker и Cube не патентуют их, а Microsoft и IBM — да (2010-26)",
       "url": "https://habr.com/ru/articles/1111972/?utm_campaign=1111972&utm_source=habrahabr&utm_medium=rss",
       "source": "Habr_AI",
@@ -163,7 +178,7 @@
       ]
     },
     {
-      "title": "Восемь лет учился на врача, теперь пишу код и открываю магазины",
+      "title": "Восемь лет учился на врача, теперь пишу код и открываю магазины",
       "url": "https://habr.com/ru/companies/moysklad/articles/1111920/?utm_campaign=1111920&utm_source=habrahabr&utm_medium=rss",
       "source": "Habr_AI",
       "published": "2026-11-24T17:21:22",
@@ -313,7 +328,7 @@
       ]
     },
     {
-      "title": "Код подешевел, проверка подорожала: девять руководителей техкомпаний о том, что теперь делает инженер",
+      "title": "Код подешевел, проверка подорожала: девять руководителей техкомпаний о том, что теперь делает инженер",
       "url": "https://habr.com/ru/articles/1111530/?utm_campaign=1111530&utm_source=habrahabr&utm_medium=rss",
       "source": "Habr_AI",
       "published": "2026-11-24T12:59:57",
@@ -531,21 +546,6 @@
       "source": "Habr_AI",
       "published": "2026-11-24T09:05:18",
       "description": "<img src=\"https://habrastorage.org/extt/72/0c/0b/720c0b1d2618eaa0f43ff0560acd1f4c.jpg\" /><p>В&nbsp;последнее время часто встречаю статьи на&nbsp;тему организации памяти агентов. Задача актуальна, так как&nbsp;агент, который постоянно забывает ключевые установки, данные пользователем и детали своей задачи, похож на&nbsp;рыбку «Дори» из&nbsp;мультфильма «В поисках Немо», которая из‑за нарушения памяти быстро забывала события, куда и зачем она приплыла.</p><p>Я не&nbsp;буду в&nbsp;этой статье описывать, как&nbsp;организуют память известные харнессы вроде Claude Code, Codex, Hermes и прочие, хотя регулярно мониторю подходы. Да, есть общие принципы сжатия, сохранения инструкций, ведения заметок, ведения agent.md и так далее..</p><p><strong>Опишу, какой эволюционный путь я прошёл при&nbsp;создании своего</strong>. Путь во&nbsp;многом перекликается с&nbsp;общей эволюцией подходов организации памяти, но&nbsp;развивался самостоятельно&nbsp;— я намеренно «не копировал» решения известных харнессов, так и они тоже находятся в&nbsp;постоянном поиске «правильной» архитектуры памяти, и идеальной нет ни у&nbsp;кого.</p> <a href=\"https://habr.com/ru/articles/1111662/?utm_campaign=1111662&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
-      "tags": [
-        "ai",
-        "ml"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Sarvam-105B-1711 — индийская модель, на которую стоит обратить внимание",
-      "url": "https://habr.com/ru/companies/selectel/articles/1111400/?utm_campaign=1111400&utm_source=habrahabr&utm_medium=rss",
-      "source": "Habr_AI",
-      "published": "2026-11-24T09:00:15",
-      "description": "<img src=\"https://habrastorage.org/extt/41/7c/a3/417ca35f83d76b389375e73a76e749e0.png\" /><p>22 ноября индийская компания Sarvam AI опубликовала новую версию своей модели SARVAM-105B-1711.</p><p>Разработчикам&nbsp;<a href=\"https://www.sarvam.ai/blogs/sarvam-105b-1711\">удалось</a>&nbsp;снизить стоимость обработки миллона токенов с 0,45 $ до 0,15 $ и увеличить среднюю оценку бенчмарков с 42,6 до 73,9 баллов. Модель ориентирована на агентные задачи, вызов инструментов, работу с корпоративными системами.</p> <a href=\"https://habr.com/ru/articles/1111400/?utm_campaign=1111400&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
       "tags": [
         "ai",
         "ml"
@@ -860,6 +860,67 @@
       ]
     },
     {
+      "title": "Обвал акций Nvidia помог Трампу вернуть Хуанга на пост гендиректора",
+      "url": "https://3dnews.ru/1151738",
+      "source": "3DNews",
+      "published": "2026-11-24T13:29:00",
+      "description": "Президент США Дональд Трамп (Donald Trump) вмешался лично, чтобы вернуть Дженсена Хуанга (Jensen Huang) на пост гендиректора Nvidia. После его отставки из-за скандала с внебрачными связями, в том числе с подозреваемой в работе на китайскую разведку, акции крупнейшего производителя чипов для ИИ резко подешевели и потянули за собой американский рынок, усилив опасения, что &laquo;ИИ-пузырь&raquo; лопнет. Остановить обвал может возвращение Хуангу, решил Трамп. Источник изображений: nvidia.com",
+      "tags": [
+        "tech",
+        "hardware"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "«Евклид» заглянул в младенчество Вселенной и нашёл там чёрную дыру, которую не могут объяснить учёные",
+      "url": "https://3dnews.ru/1151734",
+      "source": "3DNews",
+      "published": "2026-11-24T11:05:00",
+      "description": "Европейский космический телескоп &laquo;Евклид&raquo; (Euclid) обнаружил самый далёкий из известных на сегодняшний день квазаров. Объект J1504+6252, получивший название D&uacute;n Aonghasa, существовал всего через 630 млн лет после Большого взрыва, что сложно объяснить современными моделями эволюции Вселенной. Источник изображения: ИИ-генерация ChatGPT/3DNews",
+      "tags": [
+        "tech",
+        "hardware"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ASRock выпустила мини-ПК на Intel в комплекте с роботизированной рукой",
+      "url": "https://3dnews.ru/1151724",
+      "source": "3DNews",
+      "published": "2026-11-24T08:57:00",
+      "description": "Компания ASRock Industrial анонсировала набор для разработки робототехники RBK-100 Robotics-in-a-Box, созданный в сотрудничестве с Intel на базе платформы Panther Lake. Новинка, состоящая из мини-ПК и роботизированной руки, предназначена для разработчиков, исследователей и образовательных учреждений, работающих над созданием систем физического ИИ. Система включает мини-ПК, роботизированный манипулятор, систему для дублирования движений, камеру глубины и предустановленное программное обеспечение для разработки решений в области искусственного интеллекта.",
+      "tags": [
+        "tech",
+        "hardware"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Представлена ИИ-брошка «Яндекс Пин» — замена секретаря за 19 990 рублей",
+      "url": "https://3dnews.ru/1151721",
+      "source": "3DNews",
+      "published": "2026-11-24T07:27:00",
+      "description": "&laquo;Яндекс&raquo; анонсировал новое устройство с функциями искусственного интеллекта &mdash; оно получило название &laquo;Яндекс Пин&raquo; и интеграцию с ИИ-помощником &laquo;Алиса AI&raquo;. Гаджет создаёт сводки разговоров, отвечает на вопросы по их содержанию и выводит напоминания. Поддерживается запуск ИИ-агентов с помощью функции &laquo;Действуй!&raquo;, которая срабатывает без необходимости доставать смартфон. &laquo;Яндекс Пин&raquo; поступит в продажу до конца 2026 года по цене 19 990 руб. Источник изображений: alice.yandex.ru",
+      "tags": [
+        "tech",
+        "hardware"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "AI",
+        "ИИ"
+      ]
+    },
+    {
       "title": "ИИ Anthropic и OpenAI одновременно решили одну из фундаментальных проблем теории вычислений — математики 47 лет ходили вокруг да около",
       "url": "https://3dnews.ru/1151759",
       "source": "3DNews",
@@ -895,21 +956,6 @@
       "source": "3DNews",
       "published": "2026-11-24T12:06:00",
       "description": "Злоумышленники могли похищать все личные переписки и сохранённую информацию, обходить средства защиты и получать доступ к учётным данным, хранящимся на облачном сервере, где запущен агент искусственного интеллекта M**a Muse. В настоящее время уязвимость устранена. Источник изображения: M**a",
-      "tags": [
-        "tech",
-        "hardware"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Обвал акций Nvidia помог Трампу вернуть Хуанга на пост гендиректора",
-      "url": "https://3dnews.ru/1151738",
-      "source": "3DNews",
-      "published": "2026-11-24T13:29:00",
-      "description": "Президент США Дональд Трамп (Donald Trump) вмешался лично, чтобы вернуть Дженсена Хуанга (Jensen Huang) на пост гендиректора Nvidia. После его отставки из-за скандала с внебрачными связями, в том числе с подозреваемой в работе на китайскую разведку, акции крупнейшего производителя чипов для ИИ резко подешевели и потянули за собой американский рынок, усилив опасения, что &laquo;ИИ-пузырь&raquo; лопнет. Остановить обвал может возвращение Хуангу, решил Трамп. Источник изображений: nvidia.com",
       "tags": [
         "tech",
         "hardware"
@@ -1033,36 +1079,6 @@
       ]
     },
     {
-      "title": "Головин: регулирование видеоигр должно идти рука об руку с развитием отрасли - РАПСИ",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2UERIRVI2RzBibmtLLW1PSGhPSXBsRWZBd09sQVFFSFdlMFB2cjdsZlQ3cDlWQTg0MnBLbUVndUpYMkI4X0Y0cFFNN3J5akRMNHp2RHhiWGI3Vmh3Sm5mWGZuZE44ZFV4Mnc?oc=5",
-      "source": "Google News",
-      "published": "2026-11-24T07:13:02",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB2UERIRVI2RzBibmtLLW1PSGhPSXBsRWZBd09sQVFFSFdlMFB2cjdsZlQ3cDlWQTg0MnBLbUVndUpYMkI4X0Y0cFFNN3J5akRMNHp2RHhiWGI3Vmh3Sm5mWGZuZE44ZFV4Mnc?oc=5\" target=\"_blank\">Головин: регулирование видеоигр должно идти рука об руку с развитием отрасли</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">РАПСИ</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "регулирование",
-      "matched_keywords": [
-        "регулирование"
-      ]
-    },
-    {
-      "title": "Собянин принял участие в стратегической сессии по внедрению и регулированию ИИ - Национальная Служба Новостей",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMzVlcDJ3WW03emVfdW05eFZ4Vm9DSkZfSk9LUVFXeEZSMTlTZkRNcDhJVXpBU0pMcXhoQUZ2UjB6RmREOVM2ZVJoekItUlJ6Y1R5OHV3WjZHZEhnZmJkcC1Va0hTU3Y4MHphVHZhLTBhTnNORTBIejI3YUFSdmJuMTdmQTBZMzVfQlFjeW5mWUo2NjNINHZUU2NlUVBENjEta0tzYVVZTEZKREsxenNvT3JB0gG3AUFVX3lxTE12U2JLR1p2UTE3RTR1ODY1UDJlS3FabzlpMFV1ZkhVVEIzYlRhbHAyWm1OTTBIMmdBSTBEbDBTY19KeEtPQlVvY2E4MmxHdC1ETl9wZTh4OFRKY1BJUkZLaXR3U1hqY1FiX19SQzNhRFN0YUE1Vk1oUjVZTWV4b1JYSE5oNWU5M2JfbklTMTFBdFNJSGtUUnJQUjRUWHVaaXk5LUppVWlzT3k0Sm5WOHpyZ3NlU2UwVQ?oc=5",
-      "source": "Google News",
-      "published": "2026-11-24T16:32:20",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPMzVlcDJ3WW03emVfdW05eFZ4Vm9DSkZfSk9LUVFXeEZSMTlTZkRNcDhJVXpBU0pMcXhoQUZ2UjB6RmREOVM2ZVJoekItUlJ6Y1R5OHV3WjZHZEhnZmJkcC1Va0hTU3Y4MHphVHZhLTBhTnNORTBIejI3YUFSdmJuMTdmQTBZMzVfQlFjeW5mWUo2NjNINHZUU2NlUVBENjEta0tzYVVZTEZKREsxenNvT3JB0gG3AUFVX3lxTE12U2JLR1p2UTE3RTR1ODY1UDJlS3FabzlpMFV1ZkhVVEIzYlRhbHAyWm1OTTBIMmdBSTBEbDBTY19KeEtPQlVvY2E4MmxHdC1ETl9wZTh4OFRKY1BJUkZLaXR3U1hqY1FiX19SQzNhRFN0YUE1Vk1oUjVZTWV4b1JYSE5oNWU5M2JfbklTMTFBdFNJSGtUUnJQUjRUWHVaaXk5LUppVWlzT3k0Sm5WOHpyZ3NlU2UwVQ?oc=5\" target=\"_blank\">Собянин принял участие в стратегической сессии по внедрению и регулированию ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Национальная Служба Новостей</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "регулирование",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
       "title": "Собянин принял участие в стратегической сессии по внедрению и регулированию ИИ - https://saomos.news/",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRml4SGdja0FoSWNJcS1CRWR4TkxsZlJZNWlGVk54RHNpaEQ1ZGJmbzhIOC02RmpRVUNiVl9ITHVQRTFLUTdDaHpaUWZMckRYMHEtTl9kVlI0Wkk3SWpQczFBNEdfczNYd2w3RW5NWUh0dlB5OVZ2Mkk4WTJBYUFQWmdxQ0Vicjh2ZEtEY2dDZ3IxMjY3VzBNYXR4a21sbTNaVGxJLXUwdWV0MmFvR2FwcS1ZX2k5TGxyOFE?oc=5",
       "source": "Google News",
@@ -1093,18 +1109,33 @@
       ]
     },
     {
-      "title": "«Карточный домик рухнет». Как индустрия ИИ меняет Сан-Франциско и что будет с городом, если случится крах - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hQ3Rtak5WT1h6V2tLdnJCdFU1RjlqdFJyX0psZjFIS3hMZ0t3VktZV3l4ZHlST2tESHRpczJmdUFYMUc1TmNuSjI0WDBpSEZOcDhrb05WSFZ3MUp6eWY40gFkQVVfeXFMT1JXQlFsUHY1M0tSV3BQRXZRRHRCUmVqaVlzYzZ1d05YMkxjUVdUd1NsYV9aVWt4OFJBZzN3Q2tPNXFodldYQVp4NlAyTmhLYnBjQnMwRW13ZExYaGM4dDhmRHdqQw?oc=5",
+      "title": "АЗРК предложило сузить регулирование цен на молоко и кефир - airpress.kz",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vUi05bUh0a21Bb1V3UGRXZ05ZdlhKNEZoODBON3B2aG0zZWlJX3hjeFhhYUwtVG9xLWVCcVNRTWNVWFBMdW5mNTJJSjUzZ3dsWm9qSTJQQ25WTXhYV2pRVFpyXzZMT0EwTTZtOTNFRTdGT1U2cHk4d1IwRG8?oc=5",
       "source": "Google News",
-      "published": "2026-11-24T21:00:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hQ3Rtak5WT1h6V2tLdnJCdFU1RjlqdFJyX0psZjFIS3hMZ0t3VktZV3l4ZHlST2tESHRpczJmdUFYMUc1TmNuSjI0WDBpSEZOcDhrb05WSFZ3MUp6eWY40gFkQVVfeXFMT1JXQlFsUHY1M0tSV3BQRXZRRHRCUmVqaVlzYzZ1d05YMkxjUVdUd1NsYV9aVWt4OFJBZzN3Q2tPNXFodldYQVp4NlAyTmhLYnBjQnMwRW13ZExYaGM4dDhmRHdqQw?oc=5\" target=\"_blank\">«Карточный домик рухнет». Как индустрия ИИ меняет Сан-Франциско и что будет с городом, если случится крах</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "published": "2026-11-24T12:23:49",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5vUi05bUh0a21Bb1V3UGRXZ05ZdlhKNEZoODBON3B2aG0zZWlJX3hjeFhhYUwtVG9xLWVCcVNRTWNVWFBMdW5mNTJJSjUzZ3dsWm9qSTJQQ25WTXhYV2pRVFpyXzZMT0EwTTZtOTNFRTdGT1U2cHk4d1IwRG8?oc=5\" target=\"_blank\">АЗРК предложило сузить регулирование цен на молоко и кефир</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">airpress.kz</font>",
       "tags": [
         "google_news"
       ],
       "category": "google_news",
-      "search_topic": "ИИ",
+      "search_topic": "регулирование",
       "matched_keywords": [
-        "ИИ"
+        "регулирование"
+      ]
+    },
+    {
+      "title": "DL Co., Ltd.: высокие оценки в сфере ESG как на внутреннем, так и на международном уровне - 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVWpSamthXzVoeUFhQWdiclJPdmxVRWN4TWRJcldEZVQ4XzczTGg1NmNhUGRLbkJjTDJVMFgxdWdzWUNRMUpCSjBFdUJoRkpIOENFNWhETkpfNWx5TGhUU1kyUUhocEFyR2hfYS1kdUZxZVp2YmtHcU9ldmtPVU5zOVpPWQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-24T04:50:08",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNVWpSamthXzVoeUFhQWdiclJPdmxVRWN4TWRJcldEZVQ4XzczTGg1NmNhUGRLbkJjTDJVMFgxdWdzWUNRMUpCSjBFdUJoRkpIOENFNWhETkpfNWx5TGhUU1kyUUhocEFyR2hfYS1kdUZxZVp2YmtHcU9ldmtPVU5zOVpPWQ?oc=5\" target=\"_blank\">DL Co., Ltd.: высокие оценки в сфере ESG как на внутреннем, так и на международном уровне</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">스타뉴스</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ESG",
+      "matched_keywords": [
+        "ESG"
       ]
     },
     {
@@ -1123,11 +1154,26 @@
       ]
     },
     {
-      "title": "Уход и возвращение Дженсена Хуанга: последствия для NVIDIA и всей индустрии ИИ - Финансы Mail",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVHU0eGxvNjFhMHE0UE45alBiVlhyRng5UG12MS1pbGt5bndpOXNOdHIzTTRwcWNGSUNlRkxROWR5VHBvNWdoQlBVMEgyMkFWd080RXJMRXQ4VnBnREluUnVobHozbEZyRUlMZkZNdlFtVEtNSG1SY05xUlV3YTM4LU9JUDBvZFpldlRSckdvdkJRZXpXUjhMSTlWb1IwMXlOOWFZcHVwYUV5cDV4UzFjNHpfQlBvQ3pla3NDWEMtY3ZDVndZaHhuYnFDVQ?oc=5",
+      "title": "«Карточный домик рухнет». Как индустрия ИИ меняет Сан-Франциско и что будет с городом, если случится крах - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hQ3Rtak5WT1h6V2tLdnJCdFU1RjlqdFJyX0psZjFIS3hMZ0t3VktZV3l4ZHlST2tESHRpczJmdUFYMUc1TmNuSjI0WDBpSEZOcDhrb05WSFZ3MUp6eWY40gFkQVVfeXFMT1JXQlFsUHY1M0tSV3BQRXZRRHRCUmVqaVlzYzZ1d05YMkxjUVdUd1NsYV9aVWt4OFJBZzN3Q2tPNXFodldYQVp4NlAyTmhLYnBjQnMwRW13ZExYaGM4dDhmRHdqQw?oc=5",
       "source": "Google News",
-      "published": "2026-11-24T13:37:16",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOVHU0eGxvNjFhMHE0UE45alBiVlhyRng5UG12MS1pbGt5bndpOXNOdHIzTTRwcWNGSUNlRkxROWR5VHBvNWdoQlBVMEgyMkFWd080RXJMRXQ4VnBnREluUnVobHozbEZyRUlMZkZNdlFtVEtNSG1SY05xUlV3YTM4LU9JUDBvZFpldlRSckdvdkJRZXpXUjhMSTlWb1IwMXlOOWFZcHVwYUV5cDV4UzFjNHpfQlBvQ3pla3NDWEMtY3ZDVndZaHhuYnFDVQ?oc=5\" target=\"_blank\">Уход и возвращение Дженсена Хуанга: последствия для NVIDIA и всей индустрии ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Финансы Mail</font>",
+      "published": "2026-11-24T21:01:28",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hQ3Rtak5WT1h6V2tLdnJCdFU1RjlqdFJyX0psZjFIS3hMZ0t3VktZV3l4ZHlST2tESHRpczJmdUFYMUc1TmNuSjI0WDBpSEZOcDhrb05WSFZ3MUp6eWY40gFkQVVfeXFMT1JXQlFsUHY1M0tSV3BQRXZRRHRCUmVqaVlzYzZ1d05YMkxjUVdUd1NsYV9aVWt4OFJBZzN3Q2tPNXFodldYQVp4NlAyTmhLYnBjQnMwRW13ZExYaGM4dDhmRHdqQw?oc=5\" target=\"_blank\">«Карточный домик рухнет». Как индустрия ИИ меняет Сан-Франциско и что будет с городом, если случится крах</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "«ИИ может лишить работы до 2,5 млрд людей» - Ведомости",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd1BaU2ItanpGOWFtWm9Ia290YU12OG5BbTFxLXhhZi1OcGRlVFc0bHFnc00yUXdkTGJ6RjIwVW1KRnJZcVcxdXlkdHVsVXJpTUNYTlFIRHRpZkdHR3IzNG0wTFRXYUpKcWs3SDIwQVpLNDRxcUpna19jWk9OQzJjYXkyajZvLTY1LUZ6ZEUwOVByS3RfLUE?oc=5",
+      "source": "Google News",
+      "published": "2026-11-24T21:29:43",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOd1BaU2ItanpGOWFtWm9Ia290YU12OG5BbTFxLXhhZi1OcGRlVFc0bHFnc00yUXdkTGJ6RjIwVW1KRnJZcVcxdXlkdHVsVXJpTUNYTlFIRHRpZkdHR3IzNG0wTFRXYUpKcWs3SDIwQVpLNDRxcUpna19jWk9OQzJjYXkyajZvLTY1LUZ6ZEUwOVByS3RfLUE?oc=5\" target=\"_blank\">«ИИ может лишить работы до 2,5 млрд людей»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ведомости</font>",
       "tags": [
         "google_news"
       ],
@@ -1153,11 +1199,87 @@
       ]
     },
     {
+      "title": "Обзор «Яндекс Пин»: носимое ИИ-устройство с «Алисой AI» - Rozetked.me",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZWRLaUNpMlBfaDE3dDY0WUk2R3VWWURTYXNsWFpza21BUENpbzRaVGVnWnRPZ2YtaWtNM0pUNXVIRzdMaEJkU0JUMG5YemVrSXFacWI0WGVOcWxsbGw1bkJSYk43N01RSkFEZmJvYl9rdVJ2a19kNFJaRVpWcnpNdDZXakpfR3RJVDhPYVZB?oc=5",
+      "source": "Google News",
+      "published": "2026-11-24T07:00:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOZWRLaUNpMlBfaDE3dDY0WUk2R3VWWURTYXNsWFpza21BUENpbzRaVGVnWnRPZ2YtaWtNM0pUNXVIRzdMaEJkU0JUMG5YemVrSXFacWI0WGVOcWxsbGw1bkJSYk43N01RSkFEZmJvYl9rdVJ2a19kNFJaRVpWcnpNdDZXakpfR3RJVDhPYVZB?oc=5\" target=\"_blank\">Обзор «Яндекс Пин»: носимое ИИ-устройство с «Алисой AI»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rozetked.me</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "AI",
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Вышла Claude Ship — теперь ИИ и пишет, и проверяет свой код - Хабр",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90OERpemZlV1pFTUkzNWdkTHRJR0U5MHU4bFpzdWp5Z2ZZZE5QWEFCNW9GeE42ZUVCQmNKb2dOeW1JX2d2b0l1Z1NXWWtXd0hhQk5hYmpjcnpEMWZNLXl2Um1JbEJ2WFnSAVhBVV95cUxON0tqYWNQbDBfV1E1d280Z2tJOThpbWJtWFFJMmEwVHZ1UlFGM3BqQ1dHSFpZOUx4aG1vVlhkMXVXNVMwOU9MMWJJOWptd0NsUjVmYW9FajZo?oc=5",
+      "source": "Google News",
+      "published": "2026-11-24T14:00:02",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90OERpemZlV1pFTUkzNWdkTHRJR0U5MHU4bFpzdWp5Z2ZZZE5QWEFCNW9GeE42ZUVCQmNKb2dOeW1JX2d2b0l1Z1NXWWtXd0hhQk5hYmpjcnpEMWZNLXl2Um1JbEJ2WFnSAVhBVV95cUxON0tqYWNQbDBfV1E1d280Z2tJOThpbWJtWFFJMmEwVHZ1UlFGM3BqQ1dHSFpZOUx4aG1vVlhkMXVXNVMwOU9MMWJJOWptd0NsUjVmYW9FajZo?oc=5\" target=\"_blank\">Вышла Claude Ship — теперь ИИ и пишет, и проверяет свой код</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Хабр</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Уход и возвращение Дженсена Хуанга: последствия для NVIDIA и всей индустрии ИИ - Финансы Mail",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVHU0eGxvNjFhMHE0UE45alBiVlhyRng5UG12MS1pbGt5bndpOXNOdHIzTTRwcWNGSUNlRkxROWR5VHBvNWdoQlBVMEgyMkFWd080RXJMRXQ4VnBnREluUnVobHozbEZyRUlMZkZNdlFtVEtNSG1SY05xUlV3YTM4LU9JUDBvZFpldlRSckdvdkJRZXpXUjhMSTlWb1IwMXlOOWFZcHVwYUV5cDV4UzFjNHpfQlBvQ3pla3NDWEMtY3ZDVndZaHhuYnFDVQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-24T13:37:16",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOVHU0eGxvNjFhMHE0UE45alBiVlhyRng5UG12MS1pbGt5bndpOXNOdHIzTTRwcWNGSUNlRkxROWR5VHBvNWdoQlBVMEgyMkFWd080RXJMRXQ4VnBnREluUnVobHozbEZyRUlMZkZNdlFtVEtNSG1SY05xUlV3YTM4LU9JUDBvZFpldlRSckdvdkJRZXpXUjhMSTlWb1IwMXlOOWFZcHVwYUV5cDV4UzFjNHpfQlBvQ3pla3NDWEMtY3ZDVndZaHhuYnFDVQ?oc=5\" target=\"_blank\">Уход и возвращение Дженсена Хуанга: последствия для NVIDIA и всей индустрии ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Финансы Mail</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
       "title": "Сергей Собянин принял участие в стратегической сессии по развитию ИИ в России - mos.ru",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RSms0U0hiUkNINW15Ty1lcjlGanlsanNvZE1BQzMzUnlJMlJKNTdTSmZrdjdLRWY3c3NIVVN3S0xwby13TXpkeVZtR1RSSjhjOHE4?oc=5",
       "source": "Google News",
       "published": "2026-11-24T14:53:01",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RSms0U0hiUkNINW15Ty1lcjlGanlsanNvZE1BQzMzUnlJMlJKNTdTSmZrdjdLRWY3c3NIVVN3S0xwby13TXpkeVZtR1RSSjhjOHE4?oc=5\" target=\"_blank\">Сергей Собянин принял участие в стратегической сессии по развитию ИИ в России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mos.ru</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "Освоить искусственный интеллект без естественного: заявление Мишустина о фундаментальных науках и обучении специалистов - Финансы Mail",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSVBRazNXeGFBeGNJOXFRdXZjVDFhQ2VoRi04MHpGYlRfY2xIWU01LWotQy1hS1hPT0FNQkpJRV9ZeDlldlhrQTBuMTVmYnE0WTMwblZuSXJBSm96Tk16VWRzTldFbHpSak90RTBoOEVxZnc4Ukt2eEU3RUJpdGJnSFhR?oc=5",
+      "source": "Google News",
+      "published": "2026-11-24T12:17:50",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQSVBRazNXeGFBeGNJOXFRdXZjVDFhQ2VoRi04MHpGYlRfY2xIWU01LWotQy1hS1hPT0FNQkpJRV9ZeDlldlhrQTBuMTVmYnE0WTMwblZuSXJBSm96Tk16VWRzTldFbHpSak90RTBoOEVxZnc4Ukt2eEU3RUJpdGJnSFhR?oc=5\" target=\"_blank\">Освоить искусственный интеллект без естественного: заявление Мишустина о фундаментальных науках и обучении специалистов</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Финансы Mail</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "искусственный интеллект"
+      ]
+    },
+    {
+      "title": "Правительство подготовило проект национального плана внедрения ИИ в экономику РФ - Финам",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGxQSEw5R1E3ZXJLc0oxM251SExNZ2NfTmtkc1RmNV9LdzNBSHJGejFPazVwMVdzbjZGM1NRejdrQS1FWnhLV3dJUWZkMThOS2w3MnczMmpELS1fdTMxSlB1SXMwNGFLTmNacUw0S09JRDZOZlQ4aW1vcUN3cVlpX3dPOEM4QUlrRGJ3ejN6Z21XekZJd3h0UThPelh6bi0yc1lCSXk0blhqdkRTTm14VElaRU4yejRuLXRwSl94dlM1U2xCYnZXVDEzVThvaE0?oc=5",
+      "source": "Google News",
+      "published": "2026-11-24T12:54:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGxQSEw5R1E3ZXJLc0oxM251SExNZ2NfTmtkc1RmNV9LdzNBSHJGejFPazVwMVdzbjZGM1NRejdrQS1FWnhLV3dJUWZkMThOS2w3MnczMmpELS1fdTMxSlB1SXMwNGFLTmNacUw0S09JRDZOZlQ4aW1vcUN3cVlpX3dPOEM4QUlrRGJ3ejN6Z21XekZJd3h0UThPelh6bi0yc1lCSXk0blhqdkRTTm14VElaRU4yejRuLXRwSl94dlM1U2xCYnZXVDEzVThvaE0?oc=5\" target=\"_blank\">Правительство подготовило проект национального плана внедрения ИИ в экономику РФ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Финам</font>",
       "tags": [
         "google_news"
       ],
@@ -1183,126 +1305,6 @@
       ]
     },
     {
-      "title": "Tidal запретит всю полностью созданную ИИ музыку ради справедливости - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMUtFS0g3Z3FqSkxZWVRVbVVxU1RHRXVnSzQ1Q3ZyYmhPZ3lsWTA5VU5IalRiWEd1eGlnRVduaEpRVC0zNWlLY3N2RFltU2x6UEZaa2JFbzdKTy1rUGJwTE85a0F6N1JWTlhxWmhFRFRMZXUxRFdWenhCbHR4WmJwWTFpcHE2QWpPV3NlcTgwQjJnZ0NncXlWcUwyNE55d0hwR0xFYkN5bFhIUE82amxhcERuc0Zkd0I0RXp0eGFmNnBCQQ?oc=5",
-      "source": "Google News",
-      "published": "2026-11-24T16:31:59",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMUtFS0g3Z3FqSkxZWVRVbVVxU1RHRXVnSzQ1Q3ZyYmhPZ3lsWTA5VU5IalRiWEd1eGlnRVduaEpRVC0zNWlLY3N2RFltU2x6UEZaa2JFbzdKTy1rUGJwTE85a0F6N1JWTlhxWmhFRFRMZXUxRFdWenhCbHR4WmJwWTFpcHE2QWpPV3NlcTgwQjJnZ0NncXlWcUwyNE55d0hwR0xFYkN5bFhIUE82amxhcERuc0Zkd0I0RXp0eGFmNnBCQQ?oc=5\" target=\"_blank\">Tidal запретит всю полностью созданную ИИ музыку ради справедливости</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Сотрудники OpenAI и Anthropic испугались собственного ИИ — новейшие модели становятся слишком умны и опасны - 3DNews",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVG9pUTVlcGRkTlYwVXlMckFCenFLWlJ1UjBfdTE0d1plOGNkZXBRM1RXWkV3WUI0U2lZMnZnNGRQd1daT2Z4aldIZVczUklHSkd3YnB3ZW8xanlIcmtQS1pfVnFWUzR1azZiSWxDdnVISlo2VEdBODY4Zk04TGhwdTg3aXY3WmZsN3kwYXZEcl90RnlsTGhJWWRaNkJlSmFrY2xxdDktdXdhd1A2Xy04SkFrWE1laFVaSG1qN25QZS0xQ0tSYU5SdWxCaHBjbWvSAdQBQVVfeXFMT3AxcFJmVlRPdHowU3g4VVNmZmVaN0pWWFRJMlVDYkVRYnFLaWkzTUtqTkgyUW52MHJlcEZxZkxoX0RpNzNGa0hnZ2ozZE9lQXJmYmFnQzVPbVVadHJmZkZsSGxsNE92WEVOQ2hsNFg0QXNRMkgtN055S3ppaktxVjBNWVEtZjlaOFdoNW1LYVhSTWdTMnp0bWMtU3h5SG5DU2I3dXlNRGdVV0ZsT1VNb2dPcVJkZF8zbGVIN0hmQl92M2lCM2hiazd2VmNIU2F0bUstaXk?oc=5",
-      "source": "Google News",
-      "published": "2026-11-24T17:18:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPVG9pUTVlcGRkTlYwVXlMckFCenFLWlJ1UjBfdTE0d1plOGNkZXBRM1RXWkV3WUI0U2lZMnZnNGRQd1daT2Z4aldIZVczUklHSkd3YnB3ZW8xanlIcmtQS1pfVnFWUzR1azZiSWxDdnVISlo2VEdBODY4Zk04TGhwdTg3aXY3WmZsN3kwYXZEcl90RnlsTGhJWWRaNkJlSmFrY2xxdDktdXdhd1A2Xy04SkFrWE1laFVaSG1qN25QZS0xQ0tSYU5SdWxCaHBjbWvSAdQBQVVfeXFMT3AxcFJmVlRPdHowU3g4VVNmZmVaN0pWWFRJMlVDYkVRYnFLaWkzTUtqTkgyUW52MHJlcEZxZkxoX0RpNzNGa0hnZ2ozZE9lQXJmYmFnQzVPbVVadHJmZkZsSGxsNE92WEVOQ2hsNFg0QXNRMkgtN055S3ppaktxVjBNWVEtZjlaOFdoNW1LYVhSTWdTMnp0bWMtU3h5SG5DU2I3dXlNRGdVV0ZsT1VNb2dPcVJkZF8zbGVIN0hmQl92M2lCM2hiazd2VmNIU2F0bUstaXk?oc=5\" target=\"_blank\">Сотрудники OpenAI и Anthropic испугались собственного ИИ — новейшие модели становятся слишком умны и опасны</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">3DNews</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Вышла Claude Ship — теперь ИИ и пишет, и проверяет свой код - Хабр",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90OERpemZlV1pFTUkzNWdkTHRJR0U5MHU4bFpzdWp5Z2ZZZE5QWEFCNW9GeE42ZUVCQmNKb2dOeW1JX2d2b0l1Z1NXWWtXd0hhQk5hYmpjcnpEMWZNLXl2Um1JbEJ2WFnSAVhBVV95cUxON0tqYWNQbDBfV1E1d280Z2tJOThpbWJtWFFJMmEwVHZ1UlFGM3BqQ1dHSFpZOUx4aG1vVlhkMXVXNVMwOU9MMWJJOWptd0NsUjVmYW9FajZo?oc=5",
-      "source": "Google News",
-      "published": "2026-11-24T14:00:02",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90OERpemZlV1pFTUkzNWdkTHRJR0U5MHU4bFpzdWp5Z2ZZZE5QWEFCNW9GeE42ZUVCQmNKb2dOeW1JX2d2b0l1Z1NXWWtXd0hhQk5hYmpjcnpEMWZNLXl2Um1JbEJ2WFnSAVhBVV95cUxON0tqYWNQbDBfV1E1d280Z2tJOThpbWJtWFFJMmEwVHZ1UlFGM3BqQ1dHSFpZOUx4aG1vVlhkMXVXNVMwOU9MMWJJOWptd0NsUjVmYW9FajZo?oc=5\" target=\"_blank\">Вышла Claude Ship — теперь ИИ и пишет, и проверяет свой код</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Хабр</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "ИИ-щит против ИИ-меча: Cisco и OpenAI представили проект Shirudo для защиты Linux - ServerNews",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9uX1lUc2dMeWFHYlNSbHBwYUk2eklHTEJMXzBOYUZsZW5BaFBHMU1YNjkwNGlqZWdOdi1YNjlXVUxadU0?oc=5",
-      "source": "Google News",
-      "published": "2026-11-24T16:56:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9uX1lUc2dMeWFHYlNSbHBwYUk2eklHTEJMXzBOYUZsZW5BaFBHMU1YNjkwNGlqZWdOdi1YNjlXVUxadU0?oc=5\" target=\"_blank\">ИИ-щит против ИИ-меча: Cisco и OpenAI представили проект Shirudo для защиты Linux</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ServerNews</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Пока все говорят об ИИ, Arenadata готовит для него фундамент - Финам",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTktEUC1Lc19xQ2cyU2VGalp3UXRGazVsYzV3dzFCWkVtaDNISWppaEFuNnNUTzBVcjlRSWxnaVNpY2dhakp4NkljUF9ydWFuOFpMMlZCTW9RTk5DbG1INi1xSUdzUHllVDBOMHBtMm1ZY2diRUZYZmVjSW8wanpTZzJlV2hKMkhPZVFZT01Qd08tUnNsaW42V3NOTElSeWZ6eS10X3F6TWxndGViTVNScEtRRDFIUQ?oc=5",
-      "source": "Google News",
-      "published": "2026-11-24T10:50:44",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOTktEUC1Lc19xQ2cyU2VGalp3UXRGazVsYzV3dzFCWkVtaDNISWppaEFuNnNUTzBVcjlRSWxnaVNpY2dhakp4NkljUF9ydWFuOFpMMlZCTW9RTk5DbG1INi1xSUdzUHllVDBOMHBtMm1ZY2diRUZYZmVjSW8wanpTZzJlV2hKMkhPZVFZT01Qd08tUnNsaW42V3NOTElSeWZ6eS10X3F6TWxndGViTVNScEtRRDFIUQ?oc=5\" target=\"_blank\">Пока все говорят об ИИ, Arenadata готовит для него фундамент</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Финам</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "«Госуслуги Моя школа» запустили ИИ-помощника для школьников по всей России - rb.ru",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdDVib1pFZ3dlMWtmVXk2VEllQXlQck5RWU1jU0ZzeHphd2o2Y3FmLTRKM2IySUFRQnU1QVpVUWloWFowUU1IbVpneTkyOXRBdXBsbWZLQkVfUHR2RWV3c01kZVFybWx6djBua1ZPN0tqUkotbUxRb3RubW1VQ09rOV9KODJfODMwNWh3a2VUQnl6SmJDTjJ4bDZtNGhMR3k0S1QzeklkbThIU1dfRzFDV2pMUnlNLUEyd1JCbl8zZW9Idw?oc=5",
-      "source": "Google News",
-      "published": "2026-11-24T15:10:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdDVib1pFZ3dlMWtmVXk2VEllQXlQck5RWU1jU0ZzeHphd2o2Y3FmLTRKM2IySUFRQnU1QVpVUWloWFowUU1IbVpneTkyOXRBdXBsbWZLQkVfUHR2RWV3c01kZVFybWx6djBua1ZPN0tqUkotbUxRb3RubW1VQ09rOV9KODJfODMwNWh3a2VUQnl6SmJDTjJ4bDZtNGhMR3k0S1QzeklkbThIU1dfRzFDV2pMUnlNLUEyd1JCbl8zZW9Idw?oc=5\" target=\"_blank\">«Госуслуги Моя школа» запустили ИИ-помощника для школьников по всей России</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rb.ru</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "«У нас есть всё для выпуска решений мирового уровня»: Мишустин сообщил о создании проекта внедрения ИИ в экономику - rb.ru",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcTA5LS16UGxROFdJc0x5eUg3bFk5bmZCeVlmeGFGN3VzYnZHQm9ZV3Nnd29jZTlQU1hYTW9EUmoycWhzNXl2X1RMSUVTblI1dlA3UWR4OWplNFY1dnc0czhLM1JvUnY3VXlDM3lKNjRpbWdfUWRBcVA4cXR4R29zY01oLWpWN2twNkZYajg0XzFiN2Q2ZG1wUmE0Y1R4Z1J0eXAwOHFrZGN1MjM3UHZ3dTJfcl94czJweFhFa2I3WFJtNFN6QVJEaFZZTV9sNmVCOG9z?oc=5",
-      "source": "Google News",
-      "published": "2026-11-24T16:20:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcTA5LS16UGxROFdJc0x5eUg3bFk5bmZCeVlmeGFGN3VzYnZHQm9ZV3Nnd29jZTlQU1hYTW9EUmoycWhzNXl2X1RMSUVTblI1dlA3UWR4OWplNFY1dnc0czhLM1JvUnY3VXlDM3lKNjRpbWdfUWRBcVA4cXR4R29zY01oLWpWN2twNkZYajg0XzFiN2Q2ZG1wUmE0Y1R4Z1J0eXAwOHFrZGN1MjM3UHZ3dTJfcl94czJweFhFa2I3WFJtNFN6QVJEaFZZTV9sNmVCOG9z?oc=5\" target=\"_blank\">«У нас есть всё для выпуска решений мирового уровня»: Мишустин сообщил о создании проекта внедрения ИИ в экономику</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rb.ru</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Возвращение Дженсена Хуана в Nvidia подняло акции европейских ИИ‑компаний - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVHFieWZ2OWlLSHNvOGlGS3hXM2g2YkNRdjJfOS1OR25kc2thckNvM3JHYXdoYjEtQ3lYOHk1d24zcUEyWE4xMkN0OEhMNFdBWHIxRS1KTEpqR2V6OEFHWkpGcjNrdXpxVXJfaTI4ZHVQdTNWX29keHpwNEtRcGMtWjRSS0Fna3dOWkpfZWl4MGctLU80NHhHU19yYXdHOE9xbFRKV3k3VlM?oc=5",
-      "source": "Google News",
-      "published": "2026-11-24T05:48:35",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVHFieWZ2OWlLSHNvOGlGS3hXM2g2YkNRdjJfOS1OR25kc2thckNvM3JHYXdoYjEtQ3lYOHk1d24zcUEyWE4xMkN0OEhMNFdBWHIxRS1KTEpqR2V6OEFHWkpGcjNrdXpxVXJfaTI4ZHVQdTNWX29keHpwNEtRcGMtWjRSS0Fna3dOWkpfZWl4MGctLU80NHhHU19yYXdHOE9xbFRKV3k3VlM?oc=5\" target=\"_blank\">Возвращение Дженсена Хуана в Nvidia подняло акции европейских ИИ‑компаний</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
       "title": "В УрФУ создали приложение с ИИ для промышленников - Областная газета | Свердловская область",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51eVFVUXYyNFo5UXUxZTVYVnpsZXRiUkRXOTdQY2dpV0t2cEdURkpsM0dSck5XS3hQQVlhZ3Y2LUpNNGFBeE54c3Fza2JZR1JCMEFv?oc=5",
       "source": "Google News",
@@ -1318,11 +1320,11 @@
       ]
     },
     {
-      "title": "Каждый пятый россиянин ищет у ИИ эмоциональной поддержки - Наука Mail",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YMlZCV2FIckQyU1ZSWEdIMy1udl9WNkl3ZDJiYmJDN0ZBWlZobkVZRnZZdUk1OWo5aGxwREczVTQ1dndJMHVzbnpZZkxKSHA4OGFVa0dWWkFhb1dheUE0VE80ZkZNRXpXX2J6QTNDVFltXzkyMHc?oc=5",
+      "title": "1400 школьников Якутии освоили основы 3D-моделирования и работы с ИИ на «Уроках цифры - ЯСИА",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOFV6eVBMWEZmMmpvU0szbzROS2hsQlg0TTVkajNSWjNMa1hxVkVoNGxHSzRvRXJCS2ZGejNUVmZxSFhDX0hlNFlzMHFYSkdKUXVhOG41a2dEMnJvbG9zNWptLVAwcmdpTnpPLXRGbjRDVElzUGk3dWY3X05rbTZBc1Bnd2V1SzI2TXZHZEVMejYyQ05pS2ZIS29zX1N2V3c2a1lhQlZ1WQ?oc=5",
       "source": "Google News",
-      "published": "2026-11-24T16:18:30",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5YMlZCV2FIckQyU1ZSWEdIMy1udl9WNkl3ZDJiYmJDN0ZBWlZobkVZRnZZdUk1OWo5aGxwREczVTQ1dndJMHVzbnpZZkxKSHA4OGFVa0dWWkFhb1dheUE0VE80ZkZNRXpXX2J6QTNDVFltXzkyMHc?oc=5\" target=\"_blank\">Каждый пятый россиянин ищет у ИИ эмоциональной поддержки</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Наука Mail</font>",
+      "published": "2026-11-25T01:33:12",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPOFV6eVBMWEZmMmpvU0szbzROS2hsQlg0TTVkajNSWjNMa1hxVkVoNGxHSzRvRXJCS2ZGejNUVmZxSFhDX0hlNFlzMHFYSkdKUXVhOG41a2dEMnJvbG9zNWptLVAwcmdpTnpPLXRGbjRDVElzUGk3dWY3X05rbTZBc1Bnd2V1SzI2TXZHZEVMejYyQ05pS2ZIS29zX1N2V3c2a1lhQlZ1WQ?oc=5\" target=\"_blank\">1400 школьников Якутии освоили основы 3D-моделирования и работы с ИИ на «Уроках цифры</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ЯСИА</font>",
       "tags": [
         "google_news"
       ],
@@ -1342,27 +1344,28 @@
       "Habr_AI": 28,
       "iXBT": 1,
       "CNews": 18,
-      "3DNews": 5,
+      "3DNews": 8,
       "Montreal AI Ethics Institute": 1,
       "ИИ комплаенс и этика": 1,
-      "Google News": 25
+      "Google News": 22
     },
     "by_category": {
       "general_news": 7,
-      "tech_news": 55,
+      "tech_news": 58,
       "ai_and_regulation": 1,
       "telegram_channels": 1,
-      "google_news": 25
+      "google_news": 22
     },
     "by_keyword": {
-      "ИИ": 64,
-      "Минцифры": 3,
-      "AI": 21,
+      "Минцифры": 4,
+      "ИИ": 62,
+      "AI": 22,
       "регулирование": 8,
-      "искусственный интеллект": 2,
+      "искусственный интеллект": 3,
       "ethics": 2,
       "aigovernance": 1,
-      "IAPP": 1
+      "IAPP": 1,
+      "ESG": 1
     }
   }
 }
