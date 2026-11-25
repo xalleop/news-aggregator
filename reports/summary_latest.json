@@ -1,21 +1,18 @@
 {
-  "timestamp": "2026-11-25_19-09",
-  "total_articles": 77,
+  "timestamp": "2026-11-26_00-45",
+  "total_articles": 71,
   "sources": {
-    "ТАСС": 2,
-    "Ведомости": 4,
+    "Ведомости": 3,
     "Digital_Russia": 2,
-    "Habr_AI": 22,
+    "Habr_AI": 23,
     "CNews": 20,
-    "3DNews": 5,
-    "Montreal AI Ethics Institute": 1,
-    "ИИ комплаенс и этика": 2,
-    "Google News": 19
+    "3DNews": 6,
+    "Google News": 17
   },
   "top_keywords": [
     [
       "ИИ",
-      63
+      59
     ],
     [
       "AI",
@@ -26,19 +23,15 @@
       4
     ],
     [
-      "регулирование",
-      3
-    ],
-    [
       "искусственный интеллект",
       2
     ],
     [
-      "policy",
-      1
+      "регулирование",
+      2
     ],
     [
-      "ethics",
+      "policy",
       1
     ],
     [
@@ -48,64 +41,64 @@
   ],
   "recent_headlines": [
     {
-      "title": "Афганские исламисты завербовали ИИ на цифровой джихад / КАРТ-БЛАНШ - Независимая газета",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SQ0hITVg4YVA4aVNNUWVISm1kejJSUzFWV2lGYXdXNkJTdGk1b29wcldHOEF6alpORFctZHU3QzBMeTc5WjlZU2twLXNsWkVFRXlDQWw4QXl5WjFPNDR0WEpCcEc?oc=5",
-      "published": "2026-11-25T15:56:25"
-    },
-    {
-      "title": "Акции бигтехов продолжили падение — эйфория сменилась осознанием того, что «внимание к экосистеме ИИ усилится»",
+      "title": "До цифрового апокалипсиса остались считанные дни — если верить слухам о взломе RSA",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1151801",
-      "published": "2026-11-25T15:15:00"
+      "url": "https://3dnews.ru/1151819",
+      "published": "2026-11-25T21:31:00"
     },
     {
-      "title": "Мишустин: ИИ доказал гипотезу Римана, но без человека ни одной задачи не решить",
-      "source": "ТАСС",
-      "url": "https://tass.ru/nauka/28354961",
-      "published": "2026-11-25T15:14:20"
-    },
-    {
-      "title": "Музыка стала слишком дешевой, чтобы ее слушали. Стриминг Tidal удалит 27 млн ИИ-треков - Inc. Russia",
+      "title": "Сбер: ИИ может добавить до 1,4 п.п. к ежегодному росту ВВП - БКС Экспресс",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdkNqeldKZS01UENOOHFLcEI0LWEydWE1U1BFd3FKUGkzTEdRaTIzT252SWZKMHRyYy05THdkZ3JwQzNpOVlSeUpXZUZ2S2hzMVUwbzF5UndGb1MwZENzZ3NfQXJvYU10ellybnlEamxWRGtRQW41QWFVa0I1WndtRGMyRDVUQmFCUC1BWXBGR0RrMnRZSFlpMU8tTUFnenBwdS14UzUteVVBbXVKelVqRnp1dXlJQQ?oc=5",
-      "published": "2026-11-25T15:14:07"
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORC1VM3BfTkZwbzZYZ0RmNV8xUGdnMmxIQ25mbGUzRGM1Q2JFSjNQV2E0WmZid2R6eS1uaFYtNWJmNHJ5ckZnYjh3a2FUUklQX3dob2NhQXVqUjNCMEJmNHJCZWhiSGRGbWRydTRRU3Ntb0FyUDd6Q2VVSkRDMTktZ2VGQS0zeVVSVmRNMUFoZEdzTk5PbW9GQzNncDVBanRTSnA5M3J1Q29kNmpNOGFSYWhaWXdfWGtC?oc=5",
+      "published": "2026-11-25T21:20:31"
     },
     {
-      "title": "Каждый третий пост про цифровой апокалипсис в интернете написали ИИ‑боты",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/articles/1112338/?utm_campaign=1112338&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-25T15:04:02"
-    },
-    {
-      "title": "В Красноярске установили 141 пост мониторинга ДТП",
-      "source": "Digital_Russia",
-      "url": "https://d-russia.ru/v-krasnoyarske-ustanovili-141-post-monitoringa-dtp.html",
-      "published": "2026-11-25T14:59:43"
-    },
-    {
-      "title": "В России разработали метод поиска неучтенной недвижимости с помощью ИИ",
-      "source": "ТАСС",
-      "url": "https://tass.ru/nauka/28354833",
-      "published": "2026-11-25T14:48:50"
-    },
-    {
-      "title": "«Гибридный интеллект» – основа подхода к дальнейшему развитию ИИ в экспертизе - Главгосэкспертиза России",
+      "title": "Бизнес предложил тестировать доверие к нейросетям на независимых ИИ-полигонах - Ведомости",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVGIySG16dWd3UjNSUTJ3eHJ1TTYxeVo1LTl1SkE3X2lVZ0ZRSW95ZTZpQUJOZktrWGc1dnZqRi1vX0VhbG5XNFdrRmo4RkNnR2VqelNBcGZyUVM3bzBxTndydEY4X3ltdzkzdFRscldTZWI0NXkwd1pkSTYyWHFvY3hJc3M5cmwyd25FbUhEeFEtQXVzLUpUYVB3cUVqZWhzN3lxakh1TnRoVnA3ZXdr?oc=5",
-      "published": "2026-11-25T14:42:54"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZlVHand6TEFqUHVQTE9EWGlQWlNCWE9kNm9jLUwzTVBpNENNSGM2REVGR2VUTUFwaGNBZzlWVFBydkU0anVBcmNjdklyREZCem8tTll0N2RxNTdqbE9mdUxJSEZ2ZnNzdi11X3M5U2lmSHRjTHdCREJfaTJURzc3NnQyRTQ2M1Y0LUZiWFBLdnF0cW90dDFic2k0NENLRDF3N1E?oc=5",
+      "published": "2026-11-25T21:11:33"
     },
     {
-      "title": "[Перевод] Где исполняется ваш ИИ‑агент?",
-      "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/spring_aio/articles/1112322/?utm_campaign=1112322&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-25T14:35:19"
+      "title": "США захлопнули лазейку для удалённого обучения китайского ИИ — теперь ускорители Blackwell B300 некуда девать",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151818",
+      "published": "2026-11-25T20:34:00"
     },
     {
-      "title": "Разработка в эпоху ИИ: часть 1",
+      "title": "ЕС хочет привлечь 50 млрд евро в фонд для крупных ставок на ИИ и квантовые технологии Европы - DW.com",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQWFJVDJEYnNPblkxbmlwSVFpb2V6NmFhOWIzS0FpdVg1Vk1VcGhZeVJIUWVuLUlRY2YxaUxhX3BuVmVMa3hGQ1dsYldMQ012dHNxQldadUpabDd5bzUyZVRiTDdRdEdjMVZpSWxPRUdITHBqMm1kU2RSSllBYy1Jb2tXb05UMW8zNmMwRjhRWjR4cHdnZGc4OUZ30gGaAUFVX3lxTFBwWEZOMzFiLWRoQ2dEMDc2OU1IMm9Md082YXdwWFJUYTZ1TkZ0dXVWb2FCb1NGUDFUdmY2WF9iSERyMWFOMTlOZnpick5TRkFlWG82ZDNvN1VRNXQxMWJYMVpMQVIzY29lbHNnd0hNa18xUjFxV3BGamNqVGlxN2VoT253ejF1eElOWF9HbHd3cVJLSkY5Wmd1WXc?oc=5",
+      "published": "2026-11-25T19:41:34"
+    },
+    {
+      "title": "Российская «Гугл» добилась заморозки активов Google во Франции на €1,9 млрд",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151810",
+      "published": "2026-11-25T19:10:00"
+    },
+    {
+      "title": "Миллиарды зависли: новые антикитайские ограничения США заморозили инвестиции в азиатские дата-центры",
+      "source": "3DNews",
+      "url": "https://3dnews.ru/1151808",
+      "published": "2026-11-25T18:56:00"
+    },
+    {
+      "title": "Как сравнить страницы из Search Console и мониторинга ответов нейросетей и почему расхождение ещё не означает ошибку",
       "source": "Habr_AI",
-      "url": "https://habr.com/ru/companies/naumen/articles/1112318/?utm_campaign=1112318&utm_source=habrahabr&utm_medium=rss",
-      "published": "2026-11-25T14:30:40"
+      "url": "https://habr.com/ru/articles/1112404/?utm_campaign=1112404&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-25T18:37:40"
+    },
+    {
+      "title": "Запущен проект по коллективной расшифровке манускрипта Войнича при помощи ИИ‑агентов",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1112398/?utm_campaign=1112398&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-25T18:10:40"
+    },
+    {
+      "title": "Один сотрудник вместо четырех. Как ИИ помог готовить КП за 5 минут",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1112394/?utm_campaign=1112394&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-25T18:03:27"
     }
   ]
 }
