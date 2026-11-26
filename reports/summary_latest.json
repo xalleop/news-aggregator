@@ -1,34 +1,34 @@
 {
-  "timestamp": "2026-11-26_18-50",
-  "total_articles": 141,
+  "timestamp": "2026-11-27_00-33",
+  "total_articles": 122,
   "sources": {
-    "ТАСС": 26,
+    "ТАСС": 4,
     "Интерфакс": 4,
-    "Ведомости": 16,
+    "Ведомости": 22,
     "Digital_Russia": 4,
-    "Habr_AI": 23,
-    "CNews": 23,
-    "3DNews": 12,
+    "Habr_AI": 24,
+    "CNews": 24,
+    "3DNews": 10,
     "VC_ru_Технологии": 2,
     "AI Policy Perspectives": 1,
     "ИИ комплаенс и этика": 1,
-    "Google News": 29
+    "Google News": 26
   },
   "top_keywords": [
     [
       "ИИ",
-      107
+      93
     ],
     [
       "AI",
-      21
-    ],
-    [
-      "Минцифры",
-      9
+      19
     ],
     [
       "ESG",
+      10
+    ],
+    [
+      "Минцифры",
       9
     ],
     [
@@ -37,69 +37,69 @@
     ],
     [
       "регулирование",
-      3
+      4
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Путин: значение учителей в эпоху ИИ будет возрастать",
+      "title": "Bloomberg: SAP готовится сократить 10 тысяч рабочих мест под ИИ - BFM.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA4ZXdsWTFqUXhZUGNrTTZmMzRCUk9ldGZMcW1VNlFnTlctb2daNm1GQ0tXM05rZ1dhWGdPUDFJczlpalVv0gFKQVVfeXFMTWRTSDJlSlRhWGJUYjdha0ZkUG94TVN5T3dJdGlVZzVTWFN5S3FSRVBjXzhnZmhtZm9Tck04cURGVVk0UW5IMjVKMWc?oc=5",
+      "published": "2026-11-26T20:23:46"
+    },
+    {
+      "title": "Греф: ИИ-пузырь плавно сдувается и не несет рисков финансового кризиса",
       "source": "Ведомости",
-      "url": "https://www.vedomosti.ru/politics/news/2026/11/26/1415750-znachenie-uchitelei",
-      "published": "2026-11-26T15:48:27"
+      "url": "https://www.vedomosti.ru/finance/news/2026/11/26/1415819-ii-puzir-sduvaetsya",
+      "published": "2026-11-26T20:04:22"
     },
     {
-      "title": "Путин призвал быстрее внедрять конструкторские бюро, где работает только ИИ",
+      "title": "Греф: ИИ-пузырь плавно сдувается и не несет рисков финансового кризиса - Ведомости",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSFZLb0M3Q002MEpEbEgxYWd3ak44S1FqN0NJWE1zWG9SbXAxeFdodnNHcW9yeGFHNG85LVR4OXFlWE9rMHI2TTR0R2ZTYjBxQmJYZ3hpWXZaVXZlb3Q0WHg4cmNiMm1hd1VyYVRBcWE3QS1zYnF3TldLUEtVWFlTUkpn?oc=5",
+      "published": "2026-11-26T20:04:22"
+    },
+    {
+      "title": "Липецкая область первая в РФ внедрила ИИ-макроэкономиста от Сбера",
       "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28359269",
-      "published": "2026-11-26T15:47:58"
+      "url": "https://tass.ru/obschestvo/28359931",
+      "published": "2026-11-26T19:44:30"
     },
     {
-      "title": "Путин: России нужен устойчивый контур цифровой экономики с ЦОДами",
+      "title": "Песков: \"Гигачат\" не готов направлять запросы граждан в ведомства с прямой линии",
       "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28359259",
-      "published": "2026-11-26T15:46:09"
+      "url": "https://tass.ru/obschestvo/28359783",
+      "published": "2026-11-26T19:41:38"
     },
     {
-      "title": "Путин предложил предусмотреть на смартфонах окно выбора приложений ИИ",
+      "title": "Греф заявил, что пузырь на рынке ИИ есть, но он \"мягко сдувается\" - Финам",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObV9SX0g0MkV5VkVHMzExTEhuN0RPQjlNY3lWZHdqNVhadWVTS3FzcGI3ZGN0WUNBdDg5V0g4YTlEdUtLSF9PYlQ1Z0Jvc0dNdUtXQ0tQb1lHdS1WRlo2UnRjbFdldUVFSFEwbHptV1FIa05nOW43Z0s3bkJfN3U0NlYzQVJsRmg0OWVlMWM1YnU2SGI0SVN1emltVFh1d21RRWI1SlZjaEtLcmtlMmRRaURvTGhEVktS?oc=5",
+      "published": "2026-11-26T19:27:00"
+    },
+    {
+      "title": "Песков: ИИ кратно увеличил анализ обращений на прямую линию Путина",
       "source": "Ведомости",
-      "url": "https://www.vedomosti.ru/politics/news/2026/11/26/1415749-predlozhil-predusmotret",
-      "published": "2026-11-26T15:45:07"
+      "url": "https://www.vedomosti.ru/technology/news/2026/11/26/1415806-analiz-obraschenii",
+      "published": "2026-11-26T19:26:46"
     },
     {
-      "title": "Токаев назвал Москву блестящим примером применения ИИ в муниципальном управлении",
-      "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28359253",
-      "published": "2026-11-26T15:44:25"
+      "title": "Греф считает, что на рынке ИИ есть пузырь, но мировой экономике он не угрожает",
+      "source": "Интерфакс",
+      "url": "https://www.interfax.ru/business/1131709",
+      "published": "2026-11-26T19:18:00"
     },
     {
-      "title": "«Сбер» представил ИИ-модель GigaChat 4, которая способна самостоятельно решать многошаговые задачи",
+      "title": "Греф считает, что на рынке ИИ есть пузырь, но мировой экономике он не угрожает - Интерфакс",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jZVo5MGNvZm8tT2lsSVZzT2hYaENpWjJDSF9Td0NsR0pkbmtDbVdhNGZqQTFGY2t4TTNaZ3Z0ZXRGWUEzZWtqU0c5OU5FbHp5c1HSAUtBVV95cUxNNFNScklpRG9xbmJ1emlNRml6ZHhXbXlQaGhoRWQ4V2FEU0RKLVJZOG5mMGlVZ01IS0h1LWozOC1LN2ZISk5OV2g4MnM?oc=5",
+      "published": "2026-11-26T19:18:00"
+    },
+    {
+      "title": "Владимир Путин: Россия должна развивать подконтрольный и обученный на отечественных данных ИИ, который не смогут отключить из-за рубежа",
       "source": "3DNews",
-      "url": "https://3dnews.ru/1151855",
-      "published": "2026-11-26T15:44:00"
-    },
-    {
-      "title": "Президент предложил обновить стратегию развития ИИ в России",
-      "source": "Интерфакс",
-      "url": "https://www.interfax.ru/russia/1131667",
-      "published": "2026-11-26T15:43:00"
-    },
-    {
-      "title": "Путин: обладание новейшим поколением ИИ не гарантирует устойчивого развития",
-      "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28359239",
-      "published": "2026-11-26T15:41:55"
-    },
-    {
-      "title": "Путин: нужно развивать ИИ в интересах России",
-      "source": "ТАСС",
-      "url": "https://tass.ru/ekonomika/28359223",
-      "published": "2026-11-26T15:39:19"
-    },
-    {
-      "title": "Путин призвал не допустить использования технологий ИИ против интересов РФ",
-      "source": "Интерфакс",
-      "url": "https://www.interfax.ru/russia/1131664",
-      "published": "2026-11-26T15:39:00"
+      "url": "https://3dnews.ru/1151865",
+      "published": "2026-11-26T19:14:00"
     }
   ]
 }
