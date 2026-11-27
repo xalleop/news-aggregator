@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-11-27_00-33",
-  "total_articles": 122,
+  "timestamp": "2026-11-27_04-54",
+  "total_articles": 120,
   "sources": {
-    "ТАСС": 4,
-    "Интерфакс": 4,
+    "Интерфакс": 3,
+    "Коммерсантъ": 2,
     "Ведомости": 22,
     "Digital_Russia": 4,
     "Habr_AI": 24,
@@ -12,40 +12,58 @@
     "VC_ru_Технологии": 2,
     "AI Policy Perspectives": 1,
     "ИИ комплаенс и этика": 1,
-    "Google News": 26
+    "Google News": 27
   },
   "top_keywords": [
     [
       "ИИ",
-      93
+      92
     ],
     [
       "AI",
-      19
-    ],
-    [
-      "ESG",
-      10
+      18
     ],
     [
       "Минцифры",
       9
     ],
     [
-      "искусственный интеллект",
-      5
+      "ESG",
+      9
     ],
     [
       "регулирование",
+      6
+    ],
+    [
+      "искусственный интеллект",
       4
     ]
   ],
   "recent_headlines": [
     {
-      "title": "Bloomberg: SAP готовится сократить 10 тысяч рабочих мест под ИИ - BFM.ru",
+      "title": "ИИ сэкономит зарплату // Эксперты оценили возможное влияние технологии на занятость",
+      "source": "Коммерсантъ",
+      "url": "https://www.kommersant.ru/doc/9131634",
+      "published": "2026-11-26T22:00:00"
+    },
+    {
+      "title": "Интеллект мешает росту // Импорт оборудования для ИИ снизил темпы увеличения ВВП США",
+      "source": "Коммерсантъ",
+      "url": "https://www.kommersant.ru/doc/9131716",
+      "published": "2026-11-26T22:00:00"
+    },
+    {
+      "title": "Каким Владимир Путин видит правовое регулирование сферы ИИ - Ведомости",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA4ZXdsWTFqUXhZUGNrTTZmMzRCUk9ldGZMcW1VNlFnTlctb2daNm1GQ0tXM05rZ1dhWGdPUDFJczlpalVv0gFKQVVfeXFMTWRTSDJlSlRhWGJUYjdha0ZkUG94TVN5T3dJdGlVZzVTWFN5S3FSRVBjXzhnZmhtZm9Tck04cURGVVk0UW5IMjVKMWc?oc=5",
-      "published": "2026-11-26T20:23:46"
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUnhDNlFJZnVGSG1ITjhWcC1jNWNfRUlNYjRkNDlXQ084NnEzclR2S3BxZUh1TjNhRVkzbURPcTh6QVpfeTlMbEk2X0JOQnNoWjZDMDBtTWlNMF9oWnRQQ2locDlTaFV1Z1Y3ZTZNUzRPajFIaUEzWWVQd0NMOHZ3ekFZaEU5M0Vta19DNE1MX2VHb0xMRFJGTU1KVlM?oc=5",
+      "published": "2026-11-26T21:41:39"
+    },
+    {
+      "title": "Каким Владимир Путин видит правовое регулирование сферы ИИ - Ведомости",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUnhDNlFJZnVGSG1ITjhWcC1jNWNfRUlNYjRkNDlXQ084NnEzclR2S3BxZUh1TjNhRVkzbURPcTh6QVpfeTlMbEk2X0JOQnNoWjZDMDBtTWlNMF9oWnRQQ2locDlTaFV1Z1Y3ZTZNUzRPajFIaUEzWWVQd0NMOHZ3ekFZaEU5M0Vta19DNE1MX2VHb0xMRFJGTU1KVlM?oc=5",
+      "published": "2026-11-26T21:41:39"
     },
     {
       "title": "Греф: ИИ-пузырь плавно сдувается и не несет рисков финансового кризиса",
@@ -58,18 +76,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSFZLb0M3Q002MEpEbEgxYWd3ak44S1FqN0NJWE1zWG9SbXAxeFdodnNHcW9yeGFHNG85LVR4OXFlWE9rMHI2TTR0R2ZTYjBxQmJYZ3hpWXZaVXZlb3Q0WHg4cmNiMm1hd1VyYVRBcWE3QS1zYnF3TldLUEtVWFlTUkpn?oc=5",
       "published": "2026-11-26T20:04:22"
-    },
-    {
-      "title": "Липецкая область первая в РФ внедрила ИИ-макроэкономиста от Сбера",
-      "source": "ТАСС",
-      "url": "https://tass.ru/obschestvo/28359931",
-      "published": "2026-11-26T19:44:30"
-    },
-    {
-      "title": "Песков: \"Гигачат\" не готов направлять запросы граждан в ведомства с прямой линии",
-      "source": "ТАСС",
-      "url": "https://tass.ru/obschestvo/28359783",
-      "published": "2026-11-26T19:41:38"
     },
     {
       "title": "Греф заявил, что пузырь на рынке ИИ есть, но он \"мягко сдувается\" - Финам",
@@ -94,12 +100,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jZVo5MGNvZm8tT2lsSVZzT2hYaENpWjJDSF9Td0NsR0pkbmtDbVdhNGZqQTFGY2t4TTNaZ3Z0ZXRGWUEzZWtqU0c5OU5FbHp5c1HSAUtBVV95cUxNNFNScklpRG9xbmJ1emlNRml6ZHhXbXlQaGhoRWQ4V2FEU0RKLVJZOG5mMGlVZ01IS0h1LWozOC1LN2ZISk5OV2g4MnM?oc=5",
       "published": "2026-11-26T19:18:00"
-    },
-    {
-      "title": "Владимир Путин: Россия должна развивать подконтрольный и обученный на отечественных данных ИИ, который не смогут отключить из-за рубежа",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151865",
-      "published": "2026-11-26T19:14:00"
     }
   ]
 }
