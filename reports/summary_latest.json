@@ -1,105 +1,111 @@
 {
-  "timestamp": "2026-11-27_04-54",
-  "total_articles": 120,
+  "timestamp": "2026-11-27_18-38",
+  "total_articles": 111,
   "sources": {
-    "Интерфакс": 3,
-    "Коммерсантъ": 2,
-    "Ведомости": 22,
-    "Digital_Russia": 4,
-    "Habr_AI": 24,
-    "CNews": 24,
-    "3DNews": 10,
-    "VC_ru_Технологии": 2,
-    "AI Policy Perspectives": 1,
-    "ИИ комплаенс и этика": 1,
-    "Google News": 27
+    "ТАСС": 2,
+    "Интерфакс": 1,
+    "Ведомости": 15,
+    "Digital_Russia": 3,
+    "Habr_Топ_День": 1,
+    "Habr_AI": 31,
+    "CNews": 28,
+    "VC_ru_Технологии": 1,
+    "Google News": 29
   },
   "top_keywords": [
     [
       "ИИ",
-      92
+      91
     ],
     [
       "AI",
-      18
-    ],
-    [
-      "Минцифры",
-      9
+      14
     ],
     [
       "ESG",
-      9
+      7
     ],
     [
-      "регулирование",
+      "Минцифры",
       6
     ],
     [
-      "искусственный интеллект",
+      "регулирование",
       4
+    ],
+    [
+      "искусственный интеллект",
+      3
+    ],
+    [
+      "цифровая трансформация",
+      1
+    ],
+    [
+      "ответственный бизнес",
+      1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "ИИ сэкономит зарплату // Эксперты оценили возможное влияние технологии на занятость",
-      "source": "Коммерсантъ",
-      "url": "https://www.kommersant.ru/doc/9131634",
-      "published": "2026-11-26T22:00:00"
-    },
-    {
-      "title": "Интеллект мешает росту // Импорт оборудования для ИИ снизил темпы увеличения ВВП США",
-      "source": "Коммерсантъ",
-      "url": "https://www.kommersant.ru/doc/9131716",
-      "published": "2026-11-26T22:00:00"
-    },
-    {
-      "title": "Каким Владимир Путин видит правовое регулирование сферы ИИ - Ведомости",
+      "title": "В Великобритании готовят жесткое регулирование DeFi после взлома Binance на $6,3 млрд - Incrypted",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUnhDNlFJZnVGSG1ITjhWcC1jNWNfRUlNYjRkNDlXQ084NnEzclR2S3BxZUh1TjNhRVkzbURPcTh6QVpfeTlMbEk2X0JOQnNoWjZDMDBtTWlNMF9oWnRQQ2locDlTaFV1Z1Y3ZTZNUzRPajFIaUEzWWVQd0NMOHZ3ekFZaEU5M0Vta19DNE1MX2VHb0xMRFJGTU1KVlM?oc=5",
-      "published": "2026-11-26T21:41:39"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb21WMmJEcGJ6LWFiZ0FGQVVKcWY5Y05hR2FkVGtzbTVrU1UxZGNtNHc4bmR2dUhYTFBDWXhLemNRRGdOSjl5aXAwRmlBaXUtaFQ2UTlmNkdzOXcxTkVUcVdJY3NDNGVSLUdtZEJqUWhpc1YwS3NtcDZkV3hjNHp4Mml0bndFamtPcEljZGZzTXlVVzZMdllwUjd2R3ZDVW9hM2hBVGJTTFYxU3N2?oc=5",
+      "published": "2026-11-27T15:35:09"
     },
     {
-      "title": "Каким Владимир Путин видит правовое регулирование сферы ИИ - Ведомости",
+      "title": "«Газпром нефть» объявила о переходе промышленности к агентной экономике — ИИ координирует производство и поставки - rb.ru",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUnhDNlFJZnVGSG1ITjhWcC1jNWNfRUlNYjRkNDlXQ084NnEzclR2S3BxZUh1TjNhRVkzbURPcTh6QVpfeTlMbEk2X0JOQnNoWjZDMDBtTWlNMF9oWnRQQ2locDlTaFV1Z1Y3ZTZNUzRPajFIaUEzWWVQd0NMOHZ3ekFZaEU5M0Vta19DNE1MX2VHb0xMRFJGTU1KVlM?oc=5",
-      "published": "2026-11-26T21:41:39"
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc28wNktVRjQ1bW1hUkV2dlBBOVh6ckxjbmEtcWc0U1kwZE5rVkxkajMtbFpxODlycGpSb0YxaWFaQk8ycVFsYzlPeE9sNG5Pb25Dd2hWdWc4R0N3bVpPbGN3bUVMS2ZzZ01Yc2ROVy05T0xLMXBJNU1XelBXcS1VanhsMzJ5REV0SkRaQ2tmWFlpRDR3Ymxpb2JDMFk2ZW4xbTAyZjJvRXFLLU4tN1VsLXIxcGNSNzRNRlphUTF0RDJkVE1FRWNxNg?oc=5",
+      "published": "2026-11-27T15:30:00"
     },
     {
-      "title": "Греф: ИИ-пузырь плавно сдувается и не несет рисков финансового кризиса",
-      "source": "Ведомости",
-      "url": "https://www.vedomosti.ru/finance/news/2026/11/26/1415819-ii-puzir-sduvaetsya",
-      "published": "2026-11-26T20:04:22"
+      "title": "Разработка в эпоху ИИ: часть 2",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/companies/naumen/articles/1113352/?utm_campaign=1113352&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-27T15:17:08"
     },
     {
-      "title": "Греф: ИИ-пузырь плавно сдувается и не несет рисков финансового кризиса - Ведомости",
+      "title": "Средства от ЕБРР и других организаций для украинского бизнеса: являются ли стандарты ESG препятствием - Forbes.ua",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSFZLb0M3Q002MEpEbEgxYWd3ak44S1FqN0NJWE1zWG9SbXAxeFdodnNHcW9yeGFHNG85LVR4OXFlWE9rMHI2TTR0R2ZTYjBxQmJYZ3hpWXZaVXZlb3Q0WHg4cmNiMm1hd1VyYVRBcWE3QS1zYnF3TldLUEtVWFlTUkpn?oc=5",
-      "published": "2026-11-26T20:04:22"
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOY3hDSkxOdDZpeEFVNzRSTnRTZFdFc1VqUkt5RWFqclhOVUF1bkRBckJKMXA0Q21Zc05yb3gxLTVkbkpmNnZDV3kweEFBcENVUXFDTHZoOG9XbS0xY2RfS05iSl9zUFg5SGNvRzQtZ0tTclI4Z3NsMi1HSVpDc0htaVE4TEF3R2RZV3pRSEUwYnA2M1FhRGwwekpGQmQ2VnZ5ZEhTWURscE9panVNYVRGUTJyVV9xbzJ3OVMwMUV1VWEzcllxMG9ERkl0YkUzTC1IMm5kTDBYR1lhejF1aUNNaDFwTnR2Z2Z4WkNMVWltVTJvUmphaG5HNnlEX3k1TkFDQ29ocW5pTjJhbGExeEs2N1lYV2FrWUtJTVE?oc=5",
+      "published": "2026-11-27T15:12:32"
     },
     {
-      "title": "Греф заявил, что пузырь на рынке ИИ есть, но он \"мягко сдувается\" - Финам",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObV9SX0g0MkV5VkVHMzExTEhuN0RPQjlNY3lWZHdqNVhadWVTS3FzcGI3ZGN0WUNBdDg5V0g4YTlEdUtLSF9PYlQ1Z0Jvc0dNdUtXQ0tQb1lHdS1WRlo2UnRjbFdldUVFSFEwbHptV1FIa05nOW43Z0s3bkJfN3U0NlYzQVJsRmg0OWVlMWM1YnU2SGI0SVN1emltVFh1d21RRWI1SlZjaEtLcmtlMmRRaURvTGhEVktS?oc=5",
-      "published": "2026-11-26T19:27:00"
-    },
-    {
-      "title": "Песков: ИИ кратно увеличил анализ обращений на прямую линию Путина",
-      "source": "Ведомости",
-      "url": "https://www.vedomosti.ru/technology/news/2026/11/26/1415806-analiz-obraschenii",
-      "published": "2026-11-26T19:26:46"
-    },
-    {
-      "title": "Греф считает, что на рынке ИИ есть пузырь, но мировой экономике он не угрожает",
+      "title": "Сингапур обсуждает с США сохранение доступа к ИИ-чипам",
       "source": "Интерфакс",
-      "url": "https://www.interfax.ru/business/1131709",
-      "published": "2026-11-26T19:18:00"
+      "url": "https://www.interfax.ru/world/1131912",
+      "published": "2026-11-27T15:07:00"
     },
     {
-      "title": "Греф считает, что на рынке ИИ есть пузырь, но мировой экономике он не угрожает - Интерфакс",
+      "title": "Названа доля использующих ИИ ежедневно подростков в России",
+      "source": "ТАСС",
+      "url": "https://tass.ru/obschestvo/28363221",
+      "published": "2026-11-27T14:54:54"
+    },
+    {
+      "title": "Видит ли «Алиса» сны о Чайнике Рассела?",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1113336/?utm_campaign=1113336&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-27T14:53:06"
+    },
+    {
+      "title": "10 минут в CAD против 3 часов с GPT-6: эксперимент с 3D-моделированием проставки для вентилятора",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1112948/?utm_campaign=1112948&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-27T14:50:30"
+    },
+    {
+      "title": "14 стран Азии обсудят регулирование цифровых активов и трансграничные платежи - BeInCrypto",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jZVo5MGNvZm8tT2lsSVZzT2hYaENpWjJDSF9Td0NsR0pkbmtDbVdhNGZqQTFGY2t4TTNaZ3Z0ZXRGWUEzZWtqU0c5OU5FbHp5c1HSAUtBVV95cUxNNFNScklpRG9xbmJ1emlNRml6ZHhXbXlQaGhoRWQ4V2FEU0RKLVJZOG5mMGlVZ01IS0h1LWozOC1LN2ZISk5OV2g4MnM?oc=5",
-      "published": "2026-11-26T19:18:00"
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTExPeEJHM2JEZF9vSS03M3pYOEZ0T2NtWkVDQ1JfVEp5dWpZUllBMl9jOUVLYWNJLTFIbS1ONzBOaFFZdU9KMGNZZEo1ajhyd2h6c3pCRllsckhscWFsWXR2QndhTnhackotc2FjZ3p4T0tvSWtiQ3hKanc5M0R5dDhUUV8zQ3c?oc=5",
+      "published": "2026-11-27T14:50:00"
+    },
+    {
+      "title": "Опасная уязвимость в Cisco активно эксплуатируется. Эксплойты к ней написаны с помощью ИИ - CNews.ru",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FVHJEcjBzaDhaMVZTN2tHQXNSNFJpWjk3eWV2aEdnaWVpREJLTGd3b0szampvMWJKbTN1YW9idDV2LUVrci1vc182RVc0N29MWklKWkFrbkNUWXRFNTJ4a01LQU1zVEVxUktuaVdaczlfTjRrS3FLcA?oc=5",
+      "published": "2026-11-27T14:45:33"
     }
   ]
 }
