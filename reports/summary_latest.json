@@ -1,20 +1,19 @@
 {
-  "timestamp": "2026-11-28_00-19",
-  "total_articles": 98,
+  "timestamp": "2026-11-28_04-37",
+  "total_articles": 94,
   "sources": {
-    "ТАСС": 1,
     "Ведомости": 8,
     "Digital_Russia": 3,
     "Habr_AI": 28,
     "CNews": 28,
     "3DNews": 5,
     "VC_ru_Технологии": 1,
-    "Google News": 24
+    "Google News": 21
   },
   "top_keywords": [
     [
       "ИИ",
-      82
+      78
     ],
     [
       "AI",
@@ -22,7 +21,7 @@
     ],
     [
       "Минцифры",
-      7
+      8
     ],
     [
       "ESG",
@@ -30,7 +29,7 @@
     ],
     [
       "регулирование",
-      4
+      2
     ],
     [
       "цифровая трансформация",
@@ -39,15 +38,23 @@
     [
       "искусственный интеллект",
       1
-    ],
-    [
-      "ответственный бизнес",
-      1
     ]
   ],
   "recent_headlines": [
     {
-      "title": "ИИ-стоматолог для Planmeca: от поиска патологий на всей панораме к анализу каждого зуба",
+      "title": "Средства от ЕБРР и других организаций для украинского бизнеса: являются ли стандарты ESG препятствием - Forbes.ua",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOY3hDSkxOdDZpeEFVNzRSTnRTZFdFc1VqUkt5RWFqclhOVUF1bkRBckJKMXA0Q21Zc05yb3gxLTVkbkpmNnZDV3kweEFBcENVUXFDTHZoOG9XbS0xY2RfS05iSl9zUFg5SGNvRzQtZ0tTclI4Z3NsMi1HSVpDc0htaVE4TEF3R2RZV3pRSEUwYnA2M1FhRGwwekpGQmQ2VnZ5ZEhTWURscE9panVNYVRGUTJyVV9xbzJ3OVMwMUV1VWEzcllxMG9ERkl0YkUzTC1IMm5kTDBYR1lhejF1aUNNaDFwTnR2Z2Z4WkNMVWltVTJvUmphaG5HNnlEX3k1TkFDQ29ocW5pTjJhbGExeEs2N1lYV2FrWUtJTVE?oc=5",
+      "published": "2026-11-28T00:10:02"
+    },
+    {
+      "title": "Вайбкодинг для дизайнеров: разрешить нельзя запретить",
+      "source": "Habr_AI",
+      "url": "https://habr.com/ru/articles/1113430/?utm_campaign=1113430&utm_source=habrahabr&utm_medium=rss",
+      "published": "2026-11-27T21:28:42"
+    },
+    {
+      "title": "ИИ‑стоматолог для Planmeca: от поиска патологий на всей панораме к анализу каждого зуба",
       "source": "Habr_AI",
       "url": "https://habr.com/ru/articles/1113422/?utm_campaign=1113422&utm_source=habrahabr&utm_medium=rss",
       "published": "2026-11-27T20:48:50"
@@ -65,10 +72,10 @@
       "published": "2026-11-27T20:19:45"
     },
     {
-      "title": "Т-банк призвал бигтехи к открытой архитектуре для ИИ-агентов",
-      "source": "ТАСС",
-      "url": "https://tass.ru/obschestvo/28363845",
-      "published": "2026-11-27T19:11:45"
+      "title": "Минцифры предложило открыть госданные для обучения искусственного интеллекта - Компьютерра",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOEUzSjFPUm5KaURaQjk0YUFRWC1CSGM1U0J5QV9DbW43NWlUWGZLVWtadTRSeW8yZ0o2cWZIWVpsTUJXTlQteTFTOURGWm5mLXMxcnJTa3NDUlpIWkZLVHliM3pnc29pLXZ0YUdQLV9HZk1tYWxvOFlrZGNCeU4ycGFSUF9JVWxvSHU0NWFtTnJmd2pfYWFoMnFkaUdHWlFPRmFDM21jQzdCWmk5N2RrTG0zNmc?oc=5",
+      "published": "2026-11-27T18:44:23"
     },
     {
       "title": "По ком звонит Гигачат?",
@@ -83,28 +90,16 @@
       "published": "2026-11-27T18:37:16"
     },
     {
+      "title": "На конференции AI Journey наградили лауреатов национальной премии «Лидеры ИИ» - Независимая газета",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE02bVRmekdUaGJ1LWZfZzIyT29Fd0N3SFdtanJfNzBFdWhSUWl3SEI5dWY0QnNNLXU0NUlQX1hhcXprOUVXMVN2UW5B?oc=5",
+      "published": "2026-11-27T18:27:50"
+    },
+    {
       "title": "Новейшие чипы Nvidia Blackwell обнаружились в китайском дата-центре, у которого нашли связь с любовницей Хуанга",
       "source": "3DNews",
       "url": "https://3dnews.ru/1151909",
       "published": "2026-11-27T18:21:00"
-    },
-    {
-      "title": "С помощью российских ИИ можно готовить «геополитические прорывы», заявил спецпредставитель Путина Кирилл Дмитриев. Он участвует в переговорах с США по Украине - Meduza",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNU2tGYzdpclVvVXJvdGZBdW5hYUE4S000emRjdzhSYl9MT0xIeXNvbFh2RDYzQjVscVNVMGVranJiSFAyOVdFcHVReTNUYnJLcXVOZDZGRFhSYWFET3h3ZDV1VW9xMnktZjNtUHpDd2Z6WVI1ZTd4OFBEc3loYzQzWFRYQUltVGRHQkpxc0xPb0dBYl9IVzJfRjE5Mld5bVVDbDkzVDFJcm80MDgwSTYzbDVhaWRrVmloU21NaGYtemRWUkpaZGFOUGd5ZWY0NTlvczdyeEVyN1lkTUZBdnVuVjc5UUM1YUplTERybVpzY2RmREtNcWNKTGlKU0M4Wlhfa0JoRWVhaE9NYWdpTDJYSHVNSktCZ05wVWREQUtjd9IBpAJBVV95cUxPLWZTWTdtYktVV2U2dzAwSFFQQWE4OGVZamFBMXFQeVhxWWM4cEdwZU16SFJFRkhlSUVWeHhPdjY0NkFFMmhfOGMtNXR2cjJkRW1mSlVrZTdtQlQ5ZWV1Qkd1azd5NlBIMGVib2xMTDFWdkdoM3FBTnRVYXVza2FIUHY3QVRxWjNvclg3d2xMWFhTYVdIZzlGZFdCc3ZDWF9NSmJ2NUg2TlV0OEpLeFJ3d09lOWNuQzZCcG1rV25yTl9jS1VHSnFXSDllSVYzbG1Ld3A4S0p3RkN4VXpwMWdYR0VfdlhzQ2hydGt1ZUVIc3ZLZmNqNlpuTHZDT0wybkpqY0dQOXNRakk5dkRGeS1zV05oQXphRC1kVnc1WFJIajN6aTg1?oc=5",
-      "published": "2026-11-27T17:18:00"
-    },
-    {
-      "title": "Минцифры разработало правила для развития ИИ - Эксперт",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xdUR4U0ZXS2x0LVN4U3Fhbks5d29ibkZfRlBXU21XSlg2UG01eU9xbXBvemJIM09uZmNnM212QjRGdkQ5QlNXT3JGUU1yUURfQndKSTBXaGlQdmt0bHQ1ZjhkU0tiZm5QNFNnWmZrdmpmUFg0Z2tMUjZn?oc=5",
-      "published": "2026-11-27T16:58:00"
-    },
-    {
-      "title": "«Сбер» представил мультимодальную ИИ-модель GigaChat Omni — она понимает речь, текст и изображения одновременно",
-      "source": "3DNews",
-      "url": "https://3dnews.ru/1151901",
-      "published": "2026-11-27T15:53:00"
     }
   ]
 }

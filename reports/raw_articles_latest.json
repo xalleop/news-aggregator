@@ -1,19 +1,7 @@
 {
-  "timestamp": "2026-11-28_00-19",
-  "total_articles": 98,
+  "timestamp": "2026-11-28_04-37",
+  "total_articles": 94,
   "articles": [
-    {
-      "title": "Т-банк призвал бигтехи к открытой архитектуре для ИИ-агентов",
-      "url": "https://tass.ru/obschestvo/28363845",
-      "source": "ТАСС",
-      "published": "2026-11-27T19:11:45",
-      "description": "Подход компании, состоит в том, чтобы тренировать агентов всегда \"играть на стороне клиента\", отметил председатель правления банка Станислав Близнюк",
-      "tags": [],
-      "category": "general_news",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
     {
       "title": "Дмитриев: ИИ помогает готовиться к международным переговорам",
       "url": "https://www.vedomosti.ru/politics/news/2026/11/27/1416207-ii-pomogaet-gotovitsya",
@@ -157,7 +145,22 @@
       ]
     },
     {
-      "title": "ИИ-стоматолог для Planmeca: от поиска патологий на всей панораме к анализу каждого зуба",
+      "title": "Вайбкодинг для дизайнеров: разрешить нельзя запретить",
+      "url": "https://habr.com/ru/articles/1113430/?utm_campaign=1113430&utm_source=habrahabr&utm_medium=rss",
+      "source": "Habr_AI",
+      "published": "2026-11-27T21:28:42",
+      "description": "<img src=\"https://habrastorage.org/extt/73/98/e2/7398e2e425d30f2f635007fe2082a80b.png\" /><p>Раньше дизайнер приносил макет в Figma и гифку с Dribbble: «Тут карточка выезжает с пружинкой, а при свайпе — лёгкий хаптик». Программист вздыхал и угадывал, сколько миллисекунд длится «приятная пружинка» и на каком Android она взорвёт батарейку.</p><p>Но на дворе ИИ-трансформация, надо меняться. Что в наших силах поменять? Дать дизайнеру ИИ-агента и клавиатуру.</p><p>Дизайнер открывает <s>Claude Code</s> закончился, Codex, OpenCode, AGY, да хоть ZCode — и внезапно он теперь не просто двигает кнопки в Figma, а «тыжпрограммист».</p><p>ПО ставит задачу, и через двадцать минут у нас живой экран. Все в восторге! ПМ, ПО, ПЛ и CPO плачут от радости, ругают лишённых вкуса программистов и уже прикидывают, кого бы сократить. Влить! Срочно влить и катить в прод, чтобы пользователи пищали от счастья при виде «совершенного UI/UX»!</p> <a href=\"https://habr.com/ru/articles/1113430/?utm_campaign=1113430&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "category": "tech_news",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
+      "title": "ИИ‑стоматолог для Planmeca: от поиска патологий на всей панораме к анализу каждого зуба",
       "url": "https://habr.com/ru/articles/1113422/?utm_campaign=1113422&utm_source=habrahabr&utm_medium=rss",
       "source": "Habr_AI",
       "published": "2026-11-27T20:48:50",
@@ -249,11 +252,11 @@
       ]
     },
     {
-      "title": "Telegram готовит ИИ-агента Dictator с доступом к перепискам и поддержкой локальных моделей",
+      "title": "Telegram готовит ИИ-агента Dictator с доступом к перепискам и поддержкой локальных LLM. Какие данные пожертвуем моделям?",
       "url": "https://habr.com/ru/articles/1113318/?utm_campaign=1113318&utm_source=habrahabr&utm_medium=rss",
       "source": "Habr_AI",
       "published": "2026-11-27T14:13:14",
-      "description": "<img src=\"https://habrastorage.org/extt/9d/c9/62/9dc96260c99c2ffee4a76d1b61a5b615.png\" /><p>Агент работает на отдельном VPS с Linux, поддерживает плагины и позволяет настраивать разрешения для отдельных действий.</p><p>Хочется узнать, насколько локальным окажется такой сценарий на практике. Запуск LLM непосредственно на Mac ещё не означает, что вся цепочка обработки данных остаётся локальной. Интересно, где хранятся память агента и история задач, какие данные получают плагины и что именно передаётся внешним провайдерам.</p> <a href=\"https://habr.com/ru/articles/1113318/?utm_campaign=1113318&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Как устроен Dictator</a>",
+      "description": "<img src=\"https://habrastorage.org/extt/9d/c9/62/9dc96260c99c2ffee4a76d1b61a5b615.png\" /><p>Агент работает на отдельной Linux VM на Mac, поддерживает плагины и позволяет настраивать разрешения для отдельных действий.</p><p>Хочется узнать, насколько локальным окажется такой сценарий на практике. Запуск LLM на Mac ещё не означает, что вся цепочка обработки данных остаётся локальной. Интересно, где хранятся память агента и история задач, какие данные получают плагины и что именно передаётся внешним провайдерам.</p> <a href=\"https://habr.com/ru/articles/1113318/?utm_campaign=1113318&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Как устроен Dictator</a>",
       "tags": [
         "ai",
         "ml"
@@ -560,21 +563,6 @@
       "source": "Habr_AI",
       "published": "2026-11-27T07:47:44",
       "description": "<img src=\"https://habrastorage.org/extt/10/6e/93/106e93add34dd378acaa1213d5d4c212.jpg\" /><p>На одной площадке существуют одновременно сеть, серверы, IP-телефония, инженерные системы ЦОД и бизнес процессы. Обычно за этим смотрят в разных программах. Когда что-то падает, дежурный собирает картину аварии из трёх окон, а заявку создает где-то еще. </p><p>Возможно ли свести «Мониторинг ИТ-инфраструктуры» в одно рабочее место с помощью ИИ и платформы AIoT?</p><p>О том как все устроено внутри, расскажу коротко, а подробнее о том, как появилось. </p> <a href=\"https://habr.com/ru/articles/1112990/?utm_campaign=1112990&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
-      "tags": [
-        "ai",
-        "ml"
-      ],
-      "category": "tech_news",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "DeepSeek-V4.1-Flash для кодинга и ИИ-агентов в каталоге GPT Model Hub",
-      "url": "https://habr.com/ru/companies/mws/articles/1112710/?utm_campaign=1112710&utm_source=habrahabr&utm_medium=rss",
-      "source": "Habr_AI",
-      "published": "2026-11-27T07:01:18",
-      "description": "<img src=\"https://habrastorage.org/extt/48/59/dd/4859dd6c1904f5b0e35b80e059b8a315.jpg\" /><p>Привет, Хабр! Добавили DeepSeek-V4.1-Flash в <a href=\"https://mws.ru/cloud-platform/model-hub/?utm_source=habr&amp;utm_medium=news&amp;utm_campaign=gpt_model_hub&amp;utm_content=deepseek41flash\">GPT Model Hub</a> — сервис для работы с LLM через OpenAI-совместимый API внутри MWS Cloud Platform.</p><p>В каталоге доступна актуальная версия модели — <strong>DeepSeek-V4.1-Flash 1017</strong>. Она подходит для технических задач, создания ИИ-агентов и автоматизации процессов, в которых важны работа с контекстом, следование инструкциям и структурированный вывод.</p><p>Контекстное окно модели — до 1 млн токенов. Это позволяет передавать на обработку большие документы, объёмные кодовые базы и длинную историю взаимодействия с ИИ-агентом.</p><p>Модель также поддерживает обработку изображений: на вход можно подавать скриншоты, графики и сканы документов.</p> <a href=\"https://habr.com/ru/articles/1112710/?utm_campaign=1112710&amp;utm_source=habrahabr&amp;utm_medium=rss#habracut\">Читать далее</a>",
       "tags": [
         "ai",
         "ml"
@@ -1097,22 +1085,6 @@
       ]
     },
     {
-      "title": "Каким Владимир Путин видит правовое регулирование сферы ИИ - Ведомости",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUnhDNlFJZnVGSG1ITjhWcC1jNWNfRUlNYjRkNDlXQ084NnEzclR2S3BxZUh1TjNhRVkzbURPcTh6QVpfeTlMbEk2X0JOQnNoWjZDMDBtTWlNMF9oWnRQQ2locDlTaFV1Z1Y3ZTZNUzRPajFIaUEzWWVQd0NMOHZ3ekFZaEU5M0Vta19DNE1MX2VHb0xMRFJGTU1KVlM?oc=5",
-      "source": "Google News",
-      "published": "2026-11-26T21:41:39",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQUnhDNlFJZnVGSG1ITjhWcC1jNWNfRUlNYjRkNDlXQ084NnEzclR2S3BxZUh1TjNhRVkzbURPcTh6QVpfeTlMbEk2X0JOQnNoWjZDMDBtTWlNMF9oWnRQQ2locDlTaFV1Z1Y3ZTZNUzRPajFIaUEzWWVQd0NMOHZ3ekFZaEU5M0Vta19DNE1MX2VHb0xMRFJGTU1KVlM?oc=5\" target=\"_blank\">Каким Владимир Путин видит правовое регулирование сферы ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ведомости</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "регулирование",
-      "matched_keywords": [
-        "регулирование",
-        "ИИ"
-      ]
-    },
-    {
       "title": "Минцифры разработало правила регулирования и развития ИИ в России - Sostav.ru",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWE1UNm1JbWw3YWpwWUZjZzhSeFIxMm9sVHRjWFZabEp3Znh5UGFlT1FZRTNLRWpGa2dweTZUODJVaXRHeHRMcjlSQjFhYWpVRXlCbHU2ZEU3T0hnNVIxblN6VTZpRkxSbDRpdENVaWMzOWxHNEJYNmxmMm8wa2tKcF9qNGRHM1pIeERpQzBmYjZuUkJMZHhJRlJVU2xZZXU0dzNNYnRaTHZsU2p3RzFZdURwNm4xM3pIT3kxa01MX0ZldU9hUWFxUEhyM0FOU0VN?oc=5",
       "source": "Google News",
@@ -1174,26 +1146,11 @@
       ]
     },
     {
-      "title": "Ответственный бизнес: «Балтийский лизинг» вошел в рэнкинг НРА по устойчивому развитию - Smart-Lab",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFRFMyV1dXcHNBX01MVU1FeUZXR1IyNTNCNk10bkpiNjBVS1NWcDQyancxa2NOTmxrZTM0dEFBSHYwR25oT3U0LWVVT0toUQ?oc=5",
+      "title": "Средства от ЕБРР и других организаций для украинского бизнеса: являются ли стандарты ESG препятствием - Forbes.ua",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOY3hDSkxOdDZpeEFVNzRSTnRTZFdFc1VqUkt5RWFqclhOVUF1bkRBckJKMXA0Q21Zc05yb3gxLTVkbkpmNnZDV3kweEFBcENVUXFDTHZoOG9XbS0xY2RfS05iSl9zUFg5SGNvRzQtZ0tTclI4Z3NsMi1HSVpDc0htaVE4TEF3R2RZV3pRSEUwYnA2M1FhRGwwekpGQmQ2VnZ5ZEhTWURscE9panVNYVRGUTJyVV9xbzJ3OVMwMUV1VWEzcllxMG9ERkl0YkUzTC1IMm5kTDBYR1lhejF1aUNNaDFwTnR2Z2Z4WkNMVWltVTJvUmphaG5HNnlEX3k1TkFDQ29ocW5pTjJhbGExeEs2N1lYV2FrWUtJTVE?oc=5",
       "source": "Google News",
-      "published": "2026-11-27T12:46:01",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFRFMyV1dXcHNBX01MVU1FeUZXR1IyNTNCNk10bkpiNjBVS1NWcDQyancxa2NOTmxrZTM0dEFBSHYwR25oT3U0LWVVT0toUQ?oc=5\" target=\"_blank\">Ответственный бизнес: «Балтийский лизинг» вошел в рэнкинг НРА по устойчивому развитию</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart-Lab</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ESG",
-      "matched_keywords": [
-        "ответственный бизнес"
-      ]
-    },
-    {
-      "title": "Содействие внедрению принципов ESG в устойчивое развитие: требует координации между правительством, бизнесом и обществом. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNzJfaVFrNHB6QmNXTHlZRWljaFNvNmI5bEdnYnRNUWFmNUxWWUR1Ti1ZalBOQmFoSVZlVi01RWxkb0JONm8xUmxKTE9VQVZqVmtxLTNJcWZWZ3VxLUIzMU5fbDBPSktQOXF2eEd2a3pHQ1NjZWU3cWZJZ1o3aVdIRkk2eVp3OXVsU2VTZkY1NnBLSWlVQVNiVl9ob2dWck1ZOVlJSnR4YndDYVNOZUdpXzFFSXlDZUdG?oc=5",
-      "source": "Google News",
-      "published": "2026-11-27T03:39:31",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNzJfaVFrNHB6QmNXTHlZRWljaFNvNmI5bEdnYnRNUWFmNUxWWUR1Ti1ZalBOQmFoSVZlVi01RWxkb0JONm8xUmxKTE9VQVZqVmtxLTNJcWZWZ3VxLUIzMU5fbDBPSktQOXF2eEd2a3pHQ1NjZWU3cWZJZ1o3aVdIRkk2eVp3OXVsU2VTZkY1NnBLSWlVQVNiVl9ob2dWck1ZOVlJSnR4YndDYVNOZUdpXzFFSXlDZUdG?oc=5\" target=\"_blank\">Содействие внедрению принципов ESG в устойчивое развитие: требует координации между правительством, бизнесом и обществом.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+      "published": "2026-11-28T00:10:02",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxOY3hDSkxOdDZpeEFVNzRSTnRTZFdFc1VqUkt5RWFqclhOVUF1bkRBckJKMXA0Q21Zc05yb3gxLTVkbkpmNnZDV3kweEFBcENVUXFDTHZoOG9XbS0xY2RfS05iSl9zUFg5SGNvRzQtZ0tTclI4Z3NsMi1HSVpDc0htaVE4TEF3R2RZV3pRSEUwYnA2M1FhRGwwekpGQmQ2VnZ5ZEhTWURscE9panVNYVRGUTJyVV9xbzJ3OVMwMUV1VWEzcllxMG9ERkl0YkUzTC1IMm5kTDBYR1lhejF1aUNNaDFwTnR2Z2Z4WkNMVWltVTJvUmphaG5HNnlEX3k1TkFDQ29ocW5pTjJhbGExeEs2N1lYV2FrWUtJTVE?oc=5\" target=\"_blank\">Средства от ЕБРР и других организаций для украинского бизнеса: являются ли стандарты ESG препятствием</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes.ua</font>",
       "tags": [
         "google_news"
       ],
@@ -1219,11 +1176,11 @@
       ]
     },
     {
-      "title": "Средства от ЕБРР и других организаций для украинского бизнеса: являются ли стандарты ESG препятствием - Forbes.ua",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOY3hDSkxOdDZpeEFVNzRSTnRTZFdFc1VqUkt5RWFqclhOVUF1bkRBckJKMXA0Q21Zc05yb3gxLTVkbkpmNnZDV3kweEFBcENVUXFDTHZoOG9XbS0xY2RfS05iSl9zUFg5SGNvRzQtZ0tTclI4Z3NsMi1HSVpDc0htaVE4TEF3R2RZV3pRSEUwYnA2M1FhRGwwekpGQmQ2VnZ5ZEhTWURscE9panVNYVRGUTJyVV9xbzJ3OVMwMUV1VWEzcllxMG9ERkl0YkUzTC1IMm5kTDBYR1lhejF1aUNNaDFwTnR2Z2Z4WkNMVWltVTJvUmphaG5HNnlEX3k1TkFDQ29ocW5pTjJhbGExeEs2N1lYV2FrWUtJTVE?oc=5",
+      "title": "Содействие внедрению принципов ESG в устойчивое развитие: требует координации между правительством, бизнесом и обществом. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNzJfaVFrNHB6QmNXTHlZRWljaFNvNmI5bEdnYnRNUWFmNUxWWUR1Ti1ZalBOQmFoSVZlVi01RWxkb0JONm8xUmxKTE9VQVZqVmtxLTNJcWZWZ3VxLUIzMU5fbDBPSktQOXF2eEd2a3pHQ1NjZWU3cWZJZ1o3aVdIRkk2eVp3OXVsU2VTZkY1NnBLSWlVQVNiVl9ob2dWck1ZOVlJSnR4YndDYVNOZUdpXzFFSXlDZUdG?oc=5",
       "source": "Google News",
-      "published": "2026-11-27T13:05:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxOY3hDSkxOdDZpeEFVNzRSTnRTZFdFc1VqUkt5RWFqclhOVUF1bkRBckJKMXA0Q21Zc05yb3gxLTVkbkpmNnZDV3kweEFBcENVUXFDTHZoOG9XbS0xY2RfS05iSl9zUFg5SGNvRzQtZ0tTclI4Z3NsMi1HSVpDc0htaVE4TEF3R2RZV3pRSEUwYnA2M1FhRGwwekpGQmQ2VnZ5ZEhTWURscE9panVNYVRGUTJyVV9xbzJ3OVMwMUV1VWEzcllxMG9ERkl0YkUzTC1IMm5kTDBYR1lhejF1aUNNaDFwTnR2Z2Z4WkNMVWltVTJvUmphaG5HNnlEX3k1TkFDQ29ocW5pTjJhbGExeEs2N1lYV2FrWUtJTVE?oc=5\" target=\"_blank\">Средства от ЕБРР и других организаций для украинского бизнеса: являются ли стандарты ESG препятствием</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes.ua</font>",
+      "published": "2026-11-27T03:39:31",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNzJfaVFrNHB6QmNXTHlZRWljaFNvNmI5bEdnYnRNUWFmNUxWWUR1Ti1ZalBOQmFoSVZlVi01RWxkb0JONm8xUmxKTE9VQVZqVmtxLTNJcWZWZ3VxLUIzMU5fbDBPSktQOXF2eEd2a3pHQ1NjZWU3cWZJZ1o3aVdIRkk2eVp3OXVsU2VTZkY1NnBLSWlVQVNiVl9ob2dWck1ZOVlJSnR4YndDYVNOZUdpXzFFSXlDZUdG?oc=5\" target=\"_blank\">Содействие внедрению принципов ESG в устойчивое развитие: требует координации между правительством, бизнесом и обществом.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
       "tags": [
         "google_news"
       ],
@@ -1264,27 +1221,11 @@
       ]
     },
     {
-      "title": "Каким Владимир Путин видит правовое регулирование сферы ИИ - Ведомости",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUnhDNlFJZnVGSG1ITjhWcC1jNWNfRUlNYjRkNDlXQ084NnEzclR2S3BxZUh1TjNhRVkzbURPcTh6QVpfeTlMbEk2X0JOQnNoWjZDMDBtTWlNMF9oWnRQQ2locDlTaFV1Z1Y3ZTZNUzRPajFIaUEzWWVQd0NMOHZ3ekFZaEU5M0Vta19DNE1MX2VHb0xMRFJGTU1KVlM?oc=5",
+      "title": "Мурашко сообщил об использовании ИИ при разработке препаратов от рака - Новости GxP",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYTBZbEpXR2tCbjd0cTVEZ1piTml0T1k4ZkpWMklFSVp4dmwzUFg0XzZVU2x2ZG1DSGxNSm9TeGdvdFd0NUxhSGFHcHBZa2FGdGlQTXRzTlgzd1BlWXlkckppRTBZYjY4N05hTVlZZU1iSnpxanJ2Rlo1NWt2ZWpobXpzOFVSY2FmUjFwQUhmR1dfSGhid2JNNWFKejJMMzNVNEHSAaIBQVVfeXFMT2EwWWxKV0drQm43dHE1RGdaYk5pdE9ZOGZKVjJJRUlaeHZsM1BYNF82VVNsdmRtQ0hsTUpvU3hnb3RXdDVMYUhhR3BwWWthRnRpUE10c05YM3dQZVl5ZHJKaUUwWWI2ODdOYU1ZWWVNYkp6cWpydkZaNTVrdmVqaG16czhVUmNhZlIxcEFIZkdXX0hoYndiTTVhSnoyTDMzVTRB?oc=5",
       "source": "Google News",
-      "published": "2026-11-26T21:41:39",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQUnhDNlFJZnVGSG1ITjhWcC1jNWNfRUlNYjRkNDlXQ084NnEzclR2S3BxZUh1TjNhRVkzbURPcTh6QVpfeTlMbEk2X0JOQnNoWjZDMDBtTWlNMF9oWnRQQ2locDlTaFV1Z1Y3ZTZNUzRPajFIaUEzWWVQd0NMOHZ3ekFZaEU5M0Vta19DNE1MX2VHb0xMRFJGTU1KVlM?oc=5\" target=\"_blank\">Каким Владимир Путин видит правовое регулирование сферы ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ведомости</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "регулирование",
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Кирилл Дмитриев использует ИИ для работы над соглашением с Украиной - Радио Свобода",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb2hMRUtwMUtkZE01U0Nrd21VT0J3WTVScUp5RHJ3R2daaVRTMHRyb2MtYlpDMU8wYXVhUVpCYmJoUHNfdHBFdm4zSkZwaFVGVVpSSHZrTFVpanNORjdmV3pyejVUVllHbGdCTUo3eUZWdWp6dUJCTS1GRU1TdVhNNldjSkc0cVpMZ09CenI4MmRVY0t1OTBQeTdZWUx5dEF1allDUGU4dEg5T3Z4UkHSAbABQVVfeXFMUEU1Zi03RlExOHJXT1BUb29NSE9iMm1ORnFkQS01SjRvTXZWOTIzU09Ba2lSOWQyTnlOYUdNZkIyVHpZbUVHQnJ3TDg2SEJ5WXE2b1BWSldRRmVYcDAweUtNbFJSUTJJbWZVZ3BaWElJMzhaUU9oUW9Nb3JBODIzcGlSSkxUM1QzNnA0RkdjblZHSTVWb1h2R2hRUDNNQU9RLXhWaHY1MXlfQjg2bW15aUE?oc=5",
-      "source": "Google News",
-      "published": "2026-11-27T18:37:16",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQb2hMRUtwMUtkZE01U0Nrd21VT0J3WTVScUp5RHJ3R2daaVRTMHRyb2MtYlpDMU8wYXVhUVpCYmJoUHNfdHBFdm4zSkZwaFVGVVpSSHZrTFVpanNORjdmV3pyejVUVllHbGdCTUo3eUZWdWp6dUJCTS1GRU1TdVhNNldjSkc0cVpMZ09CenI4MmRVY0t1OTBQeTdZWUx5dEF1allDUGU4dEg5T3Z4UkHSAbABQVVfeXFMUEU1Zi03RlExOHJXT1BUb29NSE9iMm1ORnFkQS01SjRvTXZWOTIzU09Ba2lSOWQyTnlOYUdNZkIyVHpZbUVHQnJ3TDg2SEJ5WXE2b1BWSldRRmVYcDAweUtNbFJSUTJJbWZVZ3BaWElJMzhaUU9oUW9Nb3JBODIzcGlSSkxUM1QzNnA0RkdjblZHSTVWb1h2R2hRUDNNQU9RLXhWaHY1MXlfQjg2bW15aUE?oc=5\" target=\"_blank\">Кирилл Дмитриев использует ИИ для работы над соглашением с Украиной</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Радио Свобода</font>",
+      "published": "2026-11-27T07:59:19",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPYTBZbEpXR2tCbjd0cTVEZ1piTml0T1k4ZkpWMklFSVp4dmwzUFg0XzZVU2x2ZG1DSGxNSm9TeGdvdFd0NUxhSGFHcHBZa2FGdGlQTXRzTlgzd1BlWXlkckppRTBZYjY4N05hTVlZZU1iSnpxanJ2Rlo1NWt2ZWpobXpzOFVSY2FmUjFwQUhmR1dfSGhid2JNNWFKejJMMzNVNEHSAaIBQVVfeXFMT2EwWWxKV0drQm43dHE1RGdaYk5pdE9ZOGZKVjJJRUlaeHZsM1BYNF82VVNsdmRtQ0hsTUpvU3hnb3RXdDVMYUhhR3BwWWthRnRpUE10c05YM3dQZVl5ZHJKaUUwWWI2ODdOYU1ZWWVNYkp6cWpydkZaNTVrdmVqaG16czhVUmNhZlIxcEFIZkdXX0hoYndiTTVhSnoyTDMzVTRB?oc=5\" target=\"_blank\">Мурашко сообщил об использовании ИИ при разработке препаратов от рака</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Новости GxP</font>",
       "tags": [
         "google_news"
       ],
@@ -1310,6 +1251,21 @@
       ]
     },
     {
+      "title": "Кирилл Дмитриев использует ИИ для работы над соглашением с Украиной - Радио Свобода",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb2hMRUtwMUtkZE01U0Nrd21VT0J3WTVScUp5RHJ3R2daaVRTMHRyb2MtYlpDMU8wYXVhUVpCYmJoUHNfdHBFdm4zSkZwaFVGVVpSSHZrTFVpanNORjdmV3pyejVUVllHbGdCTUo3eUZWdWp6dUJCTS1GRU1TdVhNNldjSkc0cVpMZ09CenI4MmRVY0t1OTBQeTdZWUx5dEF1allDUGU4dEg5T3Z4UkHSAbABQVVfeXFMUEU1Zi03RlExOHJXT1BUb29NSE9iMm1ORnFkQS01SjRvTXZWOTIzU09Ba2lSOWQyTnlOYUdNZkIyVHpZbUVHQnJ3TDg2SEJ5WXE2b1BWSldRRmVYcDAweUtNbFJSUTJJbWZVZ3BaWElJMzhaUU9oUW9Nb3JBODIzcGlSSkxUM1QzNnA0RkdjblZHSTVWb1h2R2hRUDNNQU9RLXhWaHY1MXlfQjg2bW15aUE?oc=5",
+      "source": "Google News",
+      "published": "2026-11-27T18:37:16",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQb2hMRUtwMUtkZE01U0Nrd21VT0J3WTVScUp5RHJ3R2daaVRTMHRyb2MtYlpDMU8wYXVhUVpCYmJoUHNfdHBFdm4zSkZwaFVGVVpSSHZrTFVpanNORjdmV3pyejVUVllHbGdCTUo3eUZWdWp6dUJCTS1GRU1TdVhNNldjSkc0cVpMZ09CenI4MmRVY0t1OTBQeTdZWUx5dEF1allDUGU4dEg5T3Z4UkHSAbABQVVfeXFMUEU1Zi03RlExOHJXT1BUb29NSE9iMm1ORnFkQS01SjRvTXZWOTIzU09Ba2lSOWQyTnlOYUdNZkIyVHpZbUVHQnJ3TDg2SEJ5WXE2b1BWSldRRmVYcDAweUtNbFJSUTJJbWZVZ3BaWElJMzhaUU9oUW9Nb3JBODIzcGlSSkxUM1QzNnA0RkdjblZHSTVWb1h2R2hRUDNNQU9RLXhWaHY1MXlfQjg2bW15aUE?oc=5\" target=\"_blank\">Кирилл Дмитриев использует ИИ для работы над соглашением с Украиной</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Радио Свобода</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "ИИ"
+      ]
+    },
+    {
       "title": "Дмитриев: ИИ помогает готовиться к международным переговорам - Ведомости",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNzVaeHoyUElkZ2hDTHRtYldCNE05THVVQ1pEQUxRdl9xb0xTWVY4YkQ1SXh4WXMzNmhKdXlGMTlOYkk5OVJSV2tBUjBDQkNGSFZ1Y0k1bGNNSl93NjVNX1V5NXp2bmU3TE1iR1lMNk5mUVVubDNiMUNKNVRBUTJYb1ZWU1JFX0U?oc=5",
       "source": "Google News",
@@ -1321,37 +1277,6 @@
       "category": "google_news",
       "search_topic": "ИИ",
       "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "«Сбер»: ИИ в России может заменить 13% работников - Meduza",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPci1oYkFBbzlnT2VKWloxaGNWZE9GSFN4TXFYSjd0bFBzT3Z1MXkwczR4dnB1ZlV5UEYxdDdRMjVBVFV1NC02OS1Bc05uMlAwUDlfd0Z6V055eEowdy16LXp0QUx6TFp0Sm8yNHROUGxlbVRzTFBVOGh3Y0NZOGpDVTFIWXR3QdIBiwFBVV95cUxQS0JHajhqU2ZuSDZmaGlXczVScDlIaV9kVTR5TzFhWTJ2VGJ2N3p2RjR6QW5lS1puSmc1bkVoMTN5a1o3TDVFdC1mVUMtTmpKanByUGs0WmEtZURLaEFya21KUmM1SEtKOWJRTXppUGRHaDBCMnJ1SnFsLTdzN1VHd0JqMGlPQ0s2cmRN?oc=5",
-      "source": "Google News",
-      "published": "2026-11-27T11:05:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPci1oYkFBbzlnT2VKWloxaGNWZE9GSFN4TXFYSjd0bFBzT3Z1MXkwczR4dnB1ZlV5UEYxdDdRMjVBVFV1NC02OS1Bc05uMlAwUDlfd0Z6V055eEowdy16LXp0QUx6TFp0Sm8yNHROUGxlbVRzTFBVOGh3Y0NZOGpDVTFIWXR3QdIBiwFBVV95cUxQS0JHajhqU2ZuSDZmaGlXczVScDlIaV9kVTR5TzFhWTJ2VGJ2N3p2RjR6QW5lS1puSmc1bkVoMTN5a1o3TDVFdC1mVUMtTmpKanByUGs0WmEtZURLaEFya21KUmM1SEtKOWJRTXppUGRHaDBCMnJ1SnFsLTdzN1VHd0JqMGlPQ0s2cmRN?oc=5\" target=\"_blank\">«Сбер»: ИИ в России может заменить 13% работников</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meduza</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "ИИ"
-      ]
-    },
-    {
-      "title": "Сбер на AI Journey представил новое семейство ИИ-роботов — это Грин 2.0, Юни и робот-курьер - Сбербанк",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbUhuUzVyalNqbEYzZXRWOHdVZk9LalQ5SkM0UnZmRXRRX2VYbU44N19ybjZhQ25BUC1nUEJrckY5ZFlNNk9uNGFpQ3U3T1phZGNROE00SGNTdTJ4UURlUE9JMU0zZWNyZm5mVnNpejc1dHpkWUlvbUpUTkVVZ2ZZLVlNREo4NG1zU2NQdHFFOERHOUpXS1lVdV94TUg5Zmd2UUhsU1p6QTlfZXRFcVdMY1VqbzRiVVN0YjBoR2lHcUtuR25abGVFV1R0dFhzSzA?oc=5",
-      "source": "Google News",
-      "published": "2026-11-26T23:15:00",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQbUhuUzVyalNqbEYzZXRWOHdVZk9LalQ5SkM0UnZmRXRRX2VYbU44N19ybjZhQ25BUC1nUEJrckY5ZFlNNk9uNGFpQ3U3T1phZGNROE00SGNTdTJ4UURlUE9JMU0zZWNyZm5mVnNpejc1dHpkWUlvbUpUTkVVZ2ZZLVlNREo4NG1zU2NQdHFFOERHOUpXS1lVdV94TUg5Zmd2UUhsU1p6QTlfZXRFcVdMY1VqbzRiVVN0YjBoR2lHcUtuR25abGVFV1R0dFhzSzA?oc=5\" target=\"_blank\">Сбер на AI Journey представил новое семейство ИИ-роботов — это Грин 2.0, Юни и робот-курьер</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Сбербанк</font>",
-      "tags": [
-        "google_news"
-      ],
-      "category": "google_news",
-      "search_topic": "ИИ",
-      "matched_keywords": [
-        "AI",
         "ИИ"
       ]
     },
@@ -1371,11 +1296,11 @@
       ]
     },
     {
-      "title": "Мурашко сообщил об использовании ИИ при разработке препаратов от рака - Новости GxP",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYTBZbEpXR2tCbjd0cTVEZ1piTml0T1k4ZkpWMklFSVp4dmwzUFg0XzZVU2x2ZG1DSGxNSm9TeGdvdFd0NUxhSGFHcHBZa2FGdGlQTXRzTlgzd1BlWXlkckppRTBZYjY4N05hTVlZZU1iSnpxanJ2Rlo1NWt2ZWpobXpzOFVSY2FmUjFwQUhmR1dfSGhid2JNNWFKejJMMzNVNEHSAaIBQVVfeXFMT2EwWWxKV0drQm43dHE1RGdaYk5pdE9ZOGZKVjJJRUlaeHZsM1BYNF82VVNsdmRtQ0hsTUpvU3hnb3RXdDVMYUhhR3BwWWthRnRpUE10c05YM3dQZVl5ZHJKaUUwWWI2ODdOYU1ZWWVNYkp6cWpydkZaNTVrdmVqaG16czhVUmNhZlIxcEFIZkdXX0hoYndiTTVhSnoyTDMzVTRB?oc=5",
+      "title": "«Сбер»: ИИ в России может заменить 13% работников - Meduza",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPci1oYkFBbzlnT2VKWloxaGNWZE9GSFN4TXFYSjd0bFBzT3Z1MXkwczR4dnB1ZlV5UEYxdDdRMjVBVFV1NC02OS1Bc05uMlAwUDlfd0Z6V055eEowdy16LXp0QUx6TFp0Sm8yNHROUGxlbVRzTFBVOGh3Y0NZOGpDVTFIWXR3QdIBiwFBVV95cUxQS0JHajhqU2ZuSDZmaGlXczVScDlIaV9kVTR5TzFhWTJ2VGJ2N3p2RjR6QW5lS1puSmc1bkVoMTN5a1o3TDVFdC1mVUMtTmpKanByUGs0WmEtZURLaEFya21KUmM1SEtKOWJRTXppUGRHaDBCMnJ1SnFsLTdzN1VHd0JqMGlPQ0s2cmRN?oc=5",
       "source": "Google News",
-      "published": "2026-11-27T07:59:19",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPYTBZbEpXR2tCbjd0cTVEZ1piTml0T1k4ZkpWMklFSVp4dmwzUFg0XzZVU2x2ZG1DSGxNSm9TeGdvdFd0NUxhSGFHcHBZa2FGdGlQTXRzTlgzd1BlWXlkckppRTBZYjY4N05hTVlZZU1iSnpxanJ2Rlo1NWt2ZWpobXpzOFVSY2FmUjFwQUhmR1dfSGhid2JNNWFKejJMMzNVNEHSAaIBQVVfeXFMT2EwWWxKV0drQm43dHE1RGdaYk5pdE9ZOGZKVjJJRUlaeHZsM1BYNF82VVNsdmRtQ0hsTUpvU3hnb3RXdDVMYUhhR3BwWWthRnRpUE10c05YM3dQZVl5ZHJKaUUwWWI2ODdOYU1ZWWVNYkp6cWpydkZaNTVrdmVqaG16czhVUmNhZlIxcEFIZkdXX0hoYndiTTVhSnoyTDMzVTRB?oc=5\" target=\"_blank\">Мурашко сообщил об использовании ИИ при разработке препаратов от рака</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Новости GxP</font>",
+      "published": "2026-11-27T11:05:00",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPci1oYkFBbzlnT2VKWloxaGNWZE9GSFN4TXFYSjd0bFBzT3Z1MXkwczR4dnB1ZlV5UEYxdDdRMjVBVFV1NC02OS1Bc05uMlAwUDlfd0Z6V055eEowdy16LXp0QUx6TFp0Sm8yNHROUGxlbVRzTFBVOGh3Y0NZOGpDVTFIWXR3QdIBiwFBVV95cUxQS0JHajhqU2ZuSDZmaGlXczVScDlIaV9kVTR5TzFhWTJ2VGJ2N3p2RjR6QW5lS1puSmc1bkVoMTN5a1o3TDVFdC1mVUMtTmpKanByUGs0WmEtZURLaEFya21KUmM1SEtKOWJRTXppUGRHaDBCMnJ1SnFsLTdzN1VHd0JqMGlPQ0s2cmRN?oc=5\" target=\"_blank\">«Сбер»: ИИ в России может заменить 13% работников</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meduza</font>",
       "tags": [
         "google_news"
       ],
@@ -1432,11 +1357,11 @@
       ]
     },
     {
-      "title": "ИИ повысил ценность критического мышления в креативных профессиях | Тенденции | Новости - AdIndex.ru",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84U3d5UExDdTZ1cElOOGhXSGhZNzRDZXlfM3BvdkZnU1ZtcUFnZ204NS1hajVEU21LcVpqdDhRVHNOZ2NBVzlIVzdDamNJQ2lFS21FV2U0dzA4NUc4TVdKWkpaMXROUDF5dGc?oc=5",
+      "title": "Половина работы моих ИИ-агентов уходит на хозяйство. На деньги 4% / Хабр - Хабр",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBSGNocUxPSjlGcm1ZQ2YyMTI0OGxpNUNlaURSNlNUcWFPU1dWUDZoYUVua21LVTd0SUNSbUpsSjJkZkg0Nl9ILTZ6VGpnZw?oc=5",
       "source": "Google News",
-      "published": "2026-11-27T14:12:46",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE84U3d5UExDdTZ1cElOOGhXSGhZNzRDZXlfM3BvdkZnU1ZtcUFnZ204NS1hajVEU21LcVpqdDhRVHNOZ2NBVzlIVzdDamNJQ2lFS21FV2U0dzA4NUc4TVdKWkpaMXROUDF5dGc?oc=5\" target=\"_blank\">ИИ повысил ценность критического мышления в креативных профессиях | Тенденции | Новости</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AdIndex.ru</font>",
+      "published": "2026-11-27T18:11:41",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBSGNocUxPSjlGcm1ZQ2YyMTI0OGxpNUNlaURSNlNUcWFPU1dWUDZoYUVua21LVTd0SUNSbUpsSjJkZkg0Nl9ILTZ6VGpnZw?oc=5\" target=\"_blank\">Половина работы моих ИИ-агентов уходит на хозяйство. На деньги 4% / Хабр</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Хабр</font>",
       "tags": [
         "google_news"
       ],
@@ -1447,47 +1372,61 @@
       ]
     },
     {
-      "title": "Путин: На смартфонах должно быть окно выбора отечественных и зарубежных ИИ - CNews.ru",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iNWQ5Z1habnFZRWxDQ0FiMkNwYUVlZWJqTEo5TXM4cjZaUGVPd1hBZFJmZERrWVlFcmNXa05CYzl3eWQ3dE9wblhoZGd4RkZXY2Y3NE5WVUp5b090Zi1VWExVNnVUczNWVjRwR3owb3JfWHJYRmxZ?oc=5",
+      "title": "Минцифры предложило открыть госданные для обучения искусственного интеллекта - Компьютерра",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOEUzSjFPUm5KaURaQjk0YUFRWC1CSGM1U0J5QV9DbW43NWlUWGZLVWtadTRSeW8yZ0o2cWZIWVpsTUJXTlQteTFTOURGWm5mLXMxcnJTa3NDUlpIWkZLVHliM3pnc29pLXZ0YUdQLV9HZk1tYWxvOFlrZGNCeU4ycGFSUF9JVWxvSHU0NWFtTnJmd2pfYWFoMnFkaUdHWlFPRmFDM21jQzdCWmk5N2RrTG0zNmc?oc=5",
       "source": "Google News",
-      "published": "2026-11-27T09:48:40",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1iNWQ5Z1habnFZRWxDQ0FiMkNwYUVlZWJqTEo5TXM4cjZaUGVPd1hBZFJmZERrWVlFcmNXa05CYzl3eWQ3dE9wblhoZGd4RkZXY2Y3NE5WVUp5b090Zi1VWExVNnVUczNWVjRwR3owb3JfWHJYRmxZ?oc=5\" target=\"_blank\">Путин: На смартфонах должно быть окно выбора отечественных и зарубежных ИИ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNews.ru</font>",
+      "published": "2026-11-27T18:44:23",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPOEUzSjFPUm5KaURaQjk0YUFRWC1CSGM1U0J5QV9DbW43NWlUWGZLVWtadTRSeW8yZ0o2cWZIWVpsTUJXTlQteTFTOURGWm5mLXMxcnJTa3NDUlpIWkZLVHliM3pnc29pLXZ0YUdQLV9HZk1tYWxvOFlrZGNCeU4ycGFSUF9JVWxvSHU0NWFtTnJmd2pfYWFoMnFkaUdHWlFPRmFDM21jQzdCWmk5N2RrTG0zNmc?oc=5\" target=\"_blank\">Минцифры предложило открыть госданные для обучения искусственного интеллекта</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Компьютерра</font>",
       "tags": [
         "google_news"
       ],
       "category": "google_news",
       "search_topic": "ИИ",
       "matched_keywords": [
+        "Минцифры"
+      ]
+    },
+    {
+      "title": "На конференции AI Journey наградили лауреатов национальной премии «Лидеры ИИ» - Независимая газета",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE02bVRmekdUaGJ1LWZfZzIyT29Fd0N3SFdtanJfNzBFdWhSUWl3SEI5dWY0QnNNLXU0NUlQX1hhcXprOUVXMVN2UW5B?oc=5",
+      "source": "Google News",
+      "published": "2026-11-27T18:27:50",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE02bVRmekdUaGJ1LWZfZzIyT29Fd0N3SFdtanJfNzBFdWhSUWl3SEI5dWY0QnNNLXU0NUlQX1hhcXprOUVXMVN2UW5B?oc=5\" target=\"_blank\">На конференции AI Journey наградили лауреатов национальной премии «Лидеры ИИ»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Независимая газета</font>",
+      "tags": [
+        "google_news"
+      ],
+      "category": "google_news",
+      "search_topic": "ИИ",
+      "matched_keywords": [
+        "AI",
         "ИИ"
       ]
     }
   ],
   "groups": {
     "by_source": {
-      "ТАСС": 1,
       "Ведомости": 8,
       "Digital_Russia": 3,
       "Habr_AI": 28,
       "CNews": 28,
       "3DNews": 5,
       "VC_ru_Технологии": 1,
-      "Google News": 24
+      "Google News": 21
     },
     "by_category": {
-      "general_news": 9,
+      "general_news": 8,
       "tech_news": 64,
       "ai_and_regulation": 1,
-      "google_news": 24
+      "google_news": 21
     },
     "by_keyword": {
-      "ИИ": 82,
-      "Минцифры": 7,
+      "ИИ": 78,
+      "Минцифры": 8,
       "цифровая трансформация": 1,
       "AI": 12,
       "искусственный интеллект": 1,
-      "регулирование": 4,
-      "ESG": 6,
-      "ответственный бизнес": 1
+      "регулирование": 2,
+      "ESG": 6
     }
   }
 }
